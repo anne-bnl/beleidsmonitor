@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-10-13T17:51:15+00:00",
+ "bijgewerkt": "2026-10-13T18:11:06+00:00",
  "items": [
   {
    "id": "9cb75086ff9a87d9",
@@ -155041,6 +155041,4133 @@
     ]
    },
    "verzameld_op": "2026-10-13T17:51:15+00:00"
+  },
+  {
+   "id": "926e7a4dd78ea0a0",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Brief regering",
+   "titel": "Kabinetsreactie advies Gezondheidsraad Transgenderzorg voor Jongeren",
+   "samenvatting_bron": "None. Zaak: None Kabinetsreactie advies Gezondheidsraad Transgenderzorg voor Jongeren",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z22145&did=2026D51046",
+   "datum": "2026-10-13",
+   "versie": "7f53e63b8d7e3f1c",
+   "extra": {
+    "zaaknummer": "2026Z22145",
+    "zaaksoort": "Brief regering",
+    "documentnummer": "2026D51046"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-13T18:11:06+00:00",
+   "document": {
+    "pagina's": 1,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000sM]㬁\u0001\u0000\u0000`\b\u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ŖMn0\u0010\u0012e[%\u0006*UUE`v\" x\u0002V \u0013~E+t@T! \u0010\u0014ϼ>ǖ&?_Z\u0012F'a?\u0001\bIX`\u0016=p\u0003j> \u00171.@q \u001b *q#9 l|7JuD[P&/!R8\u0014Ϊ/PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u0000 \u001a\u0000\u0000\u0000N\u0002\u0000\u0000 \u0000\b\u0002_rels/.rels \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+   }
+  },
+  {
+   "id": "fb47f1451893ce86",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Bijlage",
+   "titel": "Beslisnota bij Kamerbrief inzake kabinetsreactie advies Gezondheidsraad Transgenderzorg voor Jongeren",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=2491f7dc-09c9-4521-985e-d2e21feb38fa",
+   "datum": "2026-10-13",
+   "versie": "b236e113ce2c55ff",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D51047"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-13T18:11:06+00:00",
+   "document": {
+    "pagina's": 5,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": " "
+   }
+  },
+  {
+   "id": "1af04cf26c66d48a",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "delegatie- of mandaatbesluit",
+   "titel": "Algemeen Mandaatbesluit omgevingsdienst Groene Metropool – gemeente Rozendaal 2026",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-465804.html",
+   "datum": "2026-10-06",
+   "versie": "7122fc3ea7dca3f6",
+   "extra": {
+    "organisatie": "Rozendaal",
+    "identifier": "gmb-2026-465804",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "324a6c092bb1852b",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "ruimtelijk plan of omgevingsdocument",
+   "titel": "Omgevingsprogramma Klimaatadaptatie 2027-2031 gemeente Noardeast-Fryslân",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-468462.html",
+   "datum": "2026-10-06",
+   "versie": "40ded0bfb13a1d5d",
+   "extra": {
+    "organisatie": "Noardeast-Fryslân",
+    "identifier": "gmb-2026-468462",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Klimaatadaptatie": [
+     "klimaatadaptatie"
+    ]
+   },
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "5b0e6623b235e242",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Besluit op aanvraag omgevingsvergunning, Oude Warande Tilburg",
+   "samenvatting_bron": "Z2026-00011441 - kappen en herplanten van 75 bomen 15600357",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-465564.html",
+   "datum": "2026-10-06",
+   "versie": "2f2e48a2dbe234fc",
+   "extra": {
+    "organisatie": "Tilburg",
+    "identifier": "gmb-2026-465564",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "herplant"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "41ef17de5f44c7de",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Besluit op aanvraag omgevingsvergunning, Haarsensebaan te Udenhout",
+   "samenvatting_bron": "Z2026-00010320 - Kap en herplant van 6 dode monumentale beuken beheer boomveiligheid",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-465577.html",
+   "datum": "2026-10-06",
+   "versie": "780ee8b901dba9f1",
+   "extra": {
+    "organisatie": "Tilburg",
+    "identifier": "gmb-2026-465577",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "herplant"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "49c6beecbfc3c268",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "andere melding",
+   "titel": "Melding voor het graven in bodem met een kwaliteit boven de interventiewaarde bodemkwaliteit op de locatie Draai, Spuiboulevard, Vest, Merwekade e.o. te Dordrecht zaaknummer 9003719716",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-466271.html",
+   "datum": "2026-10-06",
+   "versie": "88970a251136ecef",
+   "extra": {
+    "organisatie": "Dordrecht",
+    "identifier": "gmb-2026-466271",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Waterkwaliteit": [
+     "bodemkwaliteit"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "3b807a1263520529",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "beleidsregel",
+   "titel": "Beleidsregels voor de toepassing van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur gemeente Zaltbommel 2026",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-463658.html",
+   "datum": "2026-10-06",
+   "versie": "69d625439c178230",
+   "extra": {
+    "organisatie": "Zaltbommel",
+    "identifier": "gmb-2026-463658",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "6a7ca71d716bce4d",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Aanvraag vergunning voor het project vellen houtopstanden, Bromostraat naast nr 30, 1448CC Purmerend",
+   "samenvatting_bron": "Betreft: aanvraag op locatie Bromostraat naast nr 30, 1448CC Purmerend",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-465546.html",
+   "datum": "2026-10-06",
+   "versie": "c9d3e4f70f7384ab",
+   "extra": {
+    "organisatie": "Purmerend",
+    "identifier": "gmb-2026-465546",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "c7ac86b64e609be8",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Besluit omgevingsvergunning reguliere procedure vellen van een houtopstand (kap) verleend Goudsbloemstraat 45-H 1015JJ Amsterdam",
+   "samenvatting_bron": "kappen van een boom, een lijsterbes, in de geveltuin",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-466227.html",
+   "datum": "2026-10-06",
+   "versie": "0cc96fab5b9d8022",
+   "extra": {
+    "organisatie": "Amsterdam",
+    "identifier": "gmb-2026-466227",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "de07a26c098a36e6",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Besluit omgevingsvergunning reguliere procedure vellen van een houtopstand (kap) verleend Lindenstraat 45 1015KV Amsterdam",
+   "samenvatting_bron": "kappen van een boom, een sierkers, in de achtertuin",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-466208.html",
+   "datum": "2026-10-06",
+   "versie": "18e05809e6ea299e",
+   "extra": {
+    "organisatie": "Amsterdam",
+    "identifier": "gmb-2026-466208",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "eb1a88f97ddb73dc",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "ruimtelijk plan of omgevingsdocument",
+   "titel": "Omgevingsplan gemeente Horst aan de Maas",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-467903.html",
+   "datum": "2026-10-06",
+   "versie": "37011b72c6dd3ebd",
+   "extra": {
+    "organisatie": "Horst aan de Maas",
+    "identifier": "gmb-2026-467903",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "3fd8e991340fc605",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "ruimtelijk plan of omgevingsdocument",
+   "titel": "Ontwerp wijziging omgevingsplan gemeente Het Hogeland - Standplaatsen locaties",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-460994.html",
+   "datum": "2026-10-06",
+   "versie": "90f7baf0760ca544",
+   "extra": {
+    "organisatie": "Het Hogeland",
+    "identifier": "gmb-2026-460994",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "3a87b39d343cd050",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Besluit omgevingsvergunning reguliere procedure vellen van een houtopstand (kap) verleend Zenostraat 22 1064ZZ Amsterdam",
+   "samenvatting_bron": "vellen van één houtopstand in de gemeenschappelijke tuin van de woningbouwvereniging op de locatie t.h.v. Zenostraat 22",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-465483.html",
+   "datum": "2026-10-06",
+   "versie": "78d4adba8158be0e",
+   "extra": {
+    "organisatie": "Amsterdam",
+    "identifier": "gmb-2026-465483",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "0325d80b69c51163",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "ander besluit van algemene strekking",
+   "titel": "Bodemenergieplan Hilversum",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-471194.html",
+   "datum": "2026-10-06",
+   "versie": "7886e89389383faa",
+   "extra": {
+    "organisatie": "Hilversum",
+    "identifier": "gmb-2026-471194",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "7fcb99d0688cacc5",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Verleend, reguliere procedure, De Landweer 4 Barneveld, het kappen van twee bomen met herplant.",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-465350.html",
+   "datum": "2026-10-06",
+   "versie": "1967207fcec89b65",
+   "extra": {
+    "organisatie": "Barneveld",
+    "identifier": "gmb-2026-465350",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "herplant"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "543982b1d150e04e",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Verleende omgevingsvergunning Vleermuis 3 in Muiden",
+   "samenvatting_bron": "Betreft: Besluit op locatie Vleermuis 3 in Muiden",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-465896.html",
+   "datum": "2026-10-06",
+   "versie": "570233b6762955c0",
+   "extra": {
+    "organisatie": "Gooise Meren",
+    "identifier": "gmb-2026-465896",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Soortenbescherming": [
+     "vleermuis"
+    ]
+   },
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "47c65542b73c6502",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Aanvraag omgevingsvergunning Omgevingswet, Manderveen, nabij Langeakkersweg kadastraal bekend sectie B, nrs. 3229, 2852, 2853 en 2854: uitdunnen van een houtopstand van groen-blauwe diensten",
+   "samenvatting_bron": "het uitdunnen van een houtopstand van groen-blauwe diensten",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-463165.html",
+   "datum": "2026-10-06",
+   "versie": "60a98a951a438e98",
+   "extra": {
+    "organisatie": "Tubbergen",
+    "identifier": "gmb-2026-463165",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "6221df8be297cddd",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Besluit omgevingsvergunning reguliere procedure vellen van een houtopstand (kap) verleend Duivendrechtselaan 121 1097TE Amsterdam",
+   "samenvatting_bron": "kappen van één boom in een particuliere achtertuin",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-466222.html",
+   "datum": "2026-10-06",
+   "versie": "b71443eb235cc00f",
+   "extra": {
+    "organisatie": "Amsterdam",
+    "identifier": "gmb-2026-466222",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "6e1c0c406d3b8d61",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Besluit omgevingsvergunning reguliere procedure vellen van een houtopstand (kap) verleend Muurbloemstraat 1 1031TT Amsterdam",
+   "samenvatting_bron": "kappen van 1 Zweedse meelbes",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-466508.html",
+   "datum": "2026-10-06",
+   "versie": "40afe52784f8edd7",
+   "extra": {
+    "organisatie": "Amsterdam",
+    "identifier": "gmb-2026-466508",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "4874c291f22d662f",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Besluit omgevingsvergunning reguliere procedure vellen van een houtopstand (kap) verleend Schotse Hooglanden 32 1060NM Amsterdam",
+   "samenvatting_bron": "vellen van één houtopstand in de achtertuin van de woning op de locatie Schotse Hooglanden 32",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-465637.html",
+   "datum": "2026-10-06",
+   "versie": "9d08f8d440a24ee0",
+   "extra": {
+    "organisatie": "Amsterdam",
+    "identifier": "gmb-2026-465637",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "77052796d8a43cfb",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "ruimtelijk plan of omgevingsdocument",
+   "titel": "Omgevingsplanwijziging Bredaseweg 88",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-469109.html",
+   "datum": "2026-10-06",
+   "versie": "c2f58122c37ae2dc",
+   "extra": {
+    "organisatie": "Roosendaal",
+    "identifier": "gmb-2026-469109",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "5a0a78d37c7f532b",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "ruimtelijk plan of omgevingsdocument",
+   "titel": "Ontwerp Omgevingsprogramma Klimaatadaptatie 2027-2032",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-468295.html",
+   "datum": "2026-10-06",
+   "versie": "8da98bdbb7865359",
+   "extra": {
+    "organisatie": "Eindhoven",
+    "identifier": "gmb-2026-468295",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Klimaatadaptatie": [
+     "klimaatadaptatie"
+    ]
+   },
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "a01c98946032710b",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Aanvraag omgevingsvergunning voor het plaatsen stikstofstripper en een hygiënisatie-unit aan de De Trije Hikken 1, 9005 XX Wergea (OV-2026-040298)",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-466261.html",
+   "datum": "2026-10-06",
+   "versie": "87aee53dc9335be5",
+   "extra": {
+    "organisatie": "Leeuwarden",
+    "identifier": "gmb-2026-466261",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Stikstof": [
+     "stikstof"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "f48ba6b17d90042f",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "evenementmelding",
+   "titel": "Melding voor het organiseren en houden van het evenement ‘Inspiratiedag Natuurinclusieve Landbouw’ op 8 oktober 2026 aan Huysdijk 10 te Montfort",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-463205.html",
+   "datum": "2026-10-06",
+   "versie": "5727746c78f60f10",
+   "extra": {
+    "organisatie": "Roerdalen",
+    "identifier": "gmb-2026-463205",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurinclusief bouwen": [
+     "natuurinclusieve"
+    ]
+   },
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "7eb5246b4d3e6368",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Besluit voor realiseren van 3 vleermuispassages aan de Neerbosscheweg t.h.v. N. Mandelaplein, aan naast Neerbosscheweg, Nijmegen",
+   "samenvatting_bron": "Betreft: Besluit op locatie naast Neerbosscheweg, Nijmegen",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-465677.html",
+   "datum": "2026-10-06",
+   "versie": "5f4a6553e351c348",
+   "extra": {
+    "organisatie": "Nijmegen",
+    "identifier": "gmb-2026-465677",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Soortenbescherming": [
+     "vleermuis"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "a8efd224244fb8d1",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Verleende Omgevingsvergunning, het kappen en herplanten van twee bomen, Kanaalweg achter hsnr 50, Merwedekanaalzone, GU-Z2026-0062296",
+   "samenvatting_bron": "Toelichting: het kappen en herplanten van twee bomen",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-467876.html",
+   "datum": "2026-10-07",
+   "versie": "2f896eedf0d335c8",
+   "extra": {
+    "organisatie": "Utrecht",
+    "identifier": "gmb-2026-467876",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "herplant"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "f04471769cdd1eef",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Toestemming voor het vellen van een boom (herplantplicht) op de locatie de Maten 7, 1261SB te Blaricum (zaaknummer OMG 2026-0377)",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-468842.html",
+   "datum": "2026-10-07",
+   "versie": "56545c03c0c00333",
+   "extra": {
+    "organisatie": "Blaricum",
+    "identifier": "gmb-2026-468842",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "herplant"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "3743e46dee07e84b",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Ontwerpbesluit omgevingsvergunning MBA gehele intrekking, het verzoek tot geheel intrekken van de omgevingsvergunning vanwege deelname aan de Landelijke beëindigingsregeling veehouderijlocaties (Lbv), Speelmansweg 5 8111MH Heeten",
+   "samenvatting_bron": "het verzoek om intrekking van de milieu- & Natura 2000 activiteiten in verband met deelname aan de Lbv-regeling.",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-452024.html",
+   "datum": "2026-10-07",
+   "versie": "99e19f9e6d55d4fd",
+   "extra": {
+    "organisatie": "Raalte",
+    "identifier": "gmb-2026-452024",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "natura 2000"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "07c78aacc06eab13",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "ruimtelijk plan of omgevingsdocument",
+   "titel": "Kennisgeving ontwerp omgevingsprogramma Klimaatadaptatie 2027-2032",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-471521.html",
+   "datum": "2026-10-07",
+   "versie": "75e8242d287bf729",
+   "extra": {
+    "organisatie": "Eindhoven",
+    "identifier": "gmb-2026-471521",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Klimaatadaptatie": [
+     "klimaatadaptatie"
+    ]
+   },
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "e6cb5dffce7218ff",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "ruimtelijk plan of omgevingsdocument",
+   "titel": "Kennisgeving voornemen tot het wijzigen van het omgevingsplan van de gemeente Gouda voor het gebied Goverwelle",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-460035.html",
+   "datum": "2026-10-07",
+   "versie": "54d9c5ce75731e0c",
+   "extra": {
+    "organisatie": "Gouda",
+    "identifier": "gmb-2026-460035",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "2a7fa3acf5d90daf",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "andere melding",
+   "titel": "Kennisgeving ontvangst Melding Besluit bodemkwaliteit t.b.v. vernieuwen waterleiding, Jan van Stevensweertstraat e.o., Sittard",
+   "samenvatting_bron": "Betreft: melding op locatie Jan van Stevensweertstraat e.o., Sittard",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-467800.html",
+   "datum": "2026-10-07",
+   "versie": "4932b36168e64bc0",
+   "extra": {
+    "organisatie": "Sittard-Geleen",
+    "identifier": "gmb-2026-467800",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Waterkwaliteit": [
+     "bodemkwaliteit",
+     "besluit bodemkwaliteit"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "c591fa856e70013b",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Binnengekomen aanvraag omgevingsvergunning: Parallelweg 7 in De Krim, het plaatsen van een stikstofstripper (Milieu)",
+   "samenvatting_bron": "Binnengekomen aanvraag omgevingsvergunning: Parallelweg 7 in De Krim, het plaatsen van een stikstofstripper (Milieu)",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-461775.html",
+   "datum": "2026-10-07",
+   "versie": "6889385c579b5537",
+   "extra": {
+    "organisatie": "Hardenberg",
+    "identifier": "gmb-2026-461775",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Stikstof": [
+     "stikstof"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "a5e0116496e9d882",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Geen vergunning nodig voor aanvraag Omgevingsvergunning voor het kappen van een boom (noodkap 1st - herplant 1st), Ploegdijk 2-H302, 7241SC Lochem",
+   "samenvatting_bron": "Z2026-01225 Ploegdijk 2-H302, 7241SC Lochem",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-454236.html",
+   "datum": "2026-10-07",
+   "versie": "c7c6ce83a15ca1ca",
+   "extra": {
+    "organisatie": "Lochem",
+    "identifier": "gmb-2026-454236",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "herplant"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "e6d907537fef6aa0",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "ruimtelijk plan of omgevingsdocument",
+   "titel": "Vaststellingsbesluit Omgevingsplan gemeente Deventer - bedrijfsverzamelgebouwen en opslag- en/of garageboxen",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-461122.html",
+   "datum": "2026-10-07",
+   "versie": "6a694a67ff5c7341",
+   "extra": {
+    "organisatie": "Deventer",
+    "identifier": "gmb-2026-461122",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "76ecf2b3d1e6159a",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "ruimtelijk plan of omgevingsdocument",
+   "titel": "Omgevingsplan gemeente Rijssen - Holten - wijziging Enterstraat 133 in Rijssen",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-468685.html",
+   "datum": "2026-10-07",
+   "versie": "23aea935e289b191",
+   "extra": {
+    "organisatie": "Rijssen-Holten",
+    "identifier": "gmb-2026-468685",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "52233246c72cc310",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "ruimtelijk plan of omgevingsdocument",
+   "titel": "Ontwerp Omgevingsvisie gemeente Aalten 2040",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-467345.html",
+   "datum": "2026-10-07",
+   "versie": "4fa81d77df28c639",
+   "extra": {
+    "organisatie": "Aalten",
+    "identifier": "gmb-2026-467345",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "218ecf37f0003c79",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Bekendgemaakte Omgevingsvergunning voor het kappen van 4 beuken en een Amerikaanse eik (verleend 2 st. - geweigerd 3 st. - herplant 2 st.), Bosweg 9, 7214ES Epse",
+   "samenvatting_bron": "Z2026-01128 Bosweg 9, 7214ES Epse",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-452761.html",
+   "datum": "2026-10-07",
+   "versie": "9ef9dbe655f8a5ce",
+   "extra": {
+    "organisatie": "Lochem",
+    "identifier": "gmb-2026-452761",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "herplant"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "5bc1fb13ed435dae",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "ruimtelijk plan of omgevingsdocument",
+   "titel": "Kennisgeving vastgestelde wijziging omgevingsplan Neder-Betuwe TAM-omgevingsplan 380 kV hoogspanningsstation Dodewaard (De Zandvoort 1, Dodewaard)",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-468933.html",
+   "datum": "2026-10-07",
+   "versie": "8e891656ebbb56b5",
+   "extra": {
+    "organisatie": "Neder-Betuwe",
+    "identifier": "gmb-2026-468933",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "03c69dc317164df1",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "ruimtelijk plan of omgevingsdocument",
+   "titel": "Gewijzigd vastgesteld ‘TAM-omgevingsplan Buitengebied, locatie Ulftseweg 107 Silvolde’",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-464086.html",
+   "datum": "2026-10-07",
+   "versie": "6c35eec07308489b",
+   "extra": {
+    "organisatie": "Oude IJsselstreek",
+    "identifier": "gmb-2026-464086",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "d87792117ba2461e",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Toestemming voor het project vellen houtopstanden, Botterstraat, Jolstraat ,Aakstraat en Anne Franklaan tussen Botterstraat en Henri Dunantstraat te Purmerend",
+   "samenvatting_bron": "Betreft: besluit op locatie Botterstraat, Jolstraat ,Aakstraat en Anne Franklaan tussen Botterstraat en Henri Dunantstraat te Purmerend",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-469031.html",
+   "datum": "2026-10-07",
+   "versie": "d5f0c413d4d05975",
+   "extra": {
+    "organisatie": "Purmerend",
+    "identifier": "gmb-2026-469031",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "f7bdfffcf4a27fde",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "andere voorlichtingsinformatie",
+   "titel": "Gemeente Rhenen - Kennisgeving voornemen wijziging omgevingsplan",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-462065.html",
+   "datum": "2026-10-07",
+   "versie": "61e18bb4e0e56e34",
+   "extra": {
+    "organisatie": "Rhenen",
+    "identifier": "gmb-2026-462065",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "ed918f059635b197",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "algemeen verbindend voorschrift (verordening)",
+   "titel": "Subsidieregeling klimaatadaptatie maatregelen van de DUN-gemeenten 2026 – 2028",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-467898.html",
+   "datum": "2026-10-07",
+   "versie": "535c820473c7cb0e",
+   "extra": {
+    "organisatie": "Urk",
+    "identifier": "gmb-2026-467898",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Klimaatadaptatie": [
+     "klimaatadaptatie"
+    ]
+   },
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "4e0b1cec24f5fbb9",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Aanvraag vergunning voor het project vellen houtopstand, Diverse locaties te Purmerend",
+   "samenvatting_bron": "Betreft: aanvraag op locatie Diverse locaties te Purmerend",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-468604.html",
+   "datum": "2026-10-07",
+   "versie": "aa103f9e0ec6203f",
+   "extra": {
+    "organisatie": "Purmerend",
+    "identifier": "gmb-2026-468604",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "f8b20ddddc6189f3",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "ander besluit van algemene strekking",
+   "titel": "Subsidieregels 2027",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-469013.html",
+   "datum": "2026-10-07",
+   "versie": "3be468a908f18464",
+   "extra": {
+    "organisatie": "Oosterhout",
+    "identifier": "gmb-2026-469013",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "26f3efc81011ae31",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Toestemming voor het vellen van een houtopstand (wilg) op de locatie Vest 128 te Dordrecht zaaknummer 9003709416",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-467011.html",
+   "datum": "2026-10-07",
+   "versie": "fa6fc6268fe1ca77",
+   "extra": {
+    "organisatie": "Dordrecht",
+    "identifier": "gmb-2026-467011",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "d14d5836efd97d79",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "ruimtelijk plan of omgevingsdocument",
+   "titel": "Omgevingsplan gemeente Rijssen - Holten (wijziging ten behoeve van natuurinclusief bouwen)",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-462238.html",
+   "datum": "2026-10-07",
+   "versie": "a454a2402c0d772e",
+   "extra": {
+    "organisatie": "Rijssen-Holten",
+    "identifier": "gmb-2026-462238",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurinclusief bouwen": [
+     "natuurinclusief"
+    ]
+   },
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "cb429d10eed6c27e",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "ruimtelijk plan of omgevingsdocument",
+   "titel": "Vaststelling wijzigingsbesluit Omgevingsplan gemeente Heusden 2026-01",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-458986.html",
+   "datum": "2026-10-07",
+   "versie": "8ca25e70d6f81db4",
+   "extra": {
+    "organisatie": "Heusden",
+    "identifier": "gmb-2026-458986",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "a0d1d1c1a6b1b4f3",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Besluit omgevingsvergunning reguliere procedure vellen van een houtopstand (kap) verleend Kantershof 562 1104HE Amsterdam",
+   "samenvatting_bron": "kappen van een Sierappel (Malus) boom in de achtertuin van de woning, omdat deze te groot is geworden voor zijn staanplaats",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-468568.html",
+   "datum": "2026-10-07",
+   "versie": "805f5178ad43a752",
+   "extra": {
+    "organisatie": "Amsterdam",
+    "identifier": "gmb-2026-468568",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "7c7193feac3d0848",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "beleidsregel",
+   "titel": "SUBSIDIEREGELING WONINGISOLATIE LOCHEM 2026",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-460914.html",
+   "datum": "2026-10-07",
+   "versie": "d45049d4b14fcf1c",
+   "extra": {
+    "organisatie": "Lochem",
+    "identifier": "gmb-2026-460914",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "1a0fef06d2136c80",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Besluit omgevingsvergunning reguliere procedure vellen van een houtopstand (kap) verleend Plutarchusstraat 8 1064ZV Amsterdam",
+   "samenvatting_bron": "vellen van 2 houtopstanden in de gemeenschappelijke tuin van de woningbouwvereniging op de locatie t.h.v. Plutarchusstraat 8",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-468644.html",
+   "datum": "2026-10-07",
+   "versie": "c157a89816f47e3d",
+   "extra": {
+    "organisatie": "Amsterdam",
+    "identifier": "gmb-2026-468644",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "5fc4c0dee42f8361",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Besluit omgevingsvergunning reguliere procedure vellen van een houtopstand (kap) Veldhuizenstraat 60 1106DH Amsterdam",
+   "samenvatting_bron": "kappen v/e boom in de achtertuin v/d woning, die te groot is geworden voor de tuin en gebreken vertonen (o.a. veel dode takken)",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-468606.html",
+   "datum": "2026-10-07",
+   "versie": "3d5fc0fa3683979c",
+   "extra": {
+    "organisatie": "Amsterdam",
+    "identifier": "gmb-2026-468606",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "a6ca069530d4fb84",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Besluit op aanvraag omgevingsvergunning buiten behandeling - Burg. Vijlbriefstraat e.o. te Westzaan - het kappen en herplanten van 16 bomen en verplanten van 1 boom",
+   "samenvatting_bron": "Besluit op aanvraag buiten behandeling",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-467120.html",
+   "datum": "2026-10-07",
+   "versie": "c980dc4af9415bd4",
+   "extra": {
+    "organisatie": "Zaanstad",
+    "identifier": "gmb-2026-467120",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "herplant"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "70587238edb44b28",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "algemeen verbindend voorschrift (verordening)",
+   "titel": "Bomenverordening van de gemeente Nunspeet 2024",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-467152.html",
+   "datum": "2026-10-07",
+   "versie": "1dc77ff6f5e6ccc7",
+   "extra": {
+    "organisatie": "Nunspeet",
+    "identifier": "gmb-2026-467152",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "6a85056c5a1994ae",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "ruimtelijk plan of omgevingsdocument",
+   "titel": "Omgevings- en uitvoeringsprogramma Wij Liendert",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-471482.html",
+   "datum": "2026-10-07",
+   "versie": "09bf3b2cec6b43de",
+   "extra": {
+    "organisatie": "Amersfoort",
+    "identifier": "gmb-2026-471482",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "60db9b85d9069b38",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Gemeente Utrechtse Heuvelrug, deels verleende omgevingsvergunning - Esdoornlaan 3, 3951DB Maarn, Het kappen van 1 berk en 1 esdoorn met herplantplicht (RX2026-00001703, 5 oktober 2026)",
+   "samenvatting_bron": "Esdoornlaan 3, 3951DB Maarn, Het kappen van 1 berk en 1 esdoorn met herplantplicht (RX2026-00001703, 5 oktober 2026)",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-468315.html",
+   "datum": "2026-10-07",
+   "versie": "a1754964a9230b30",
+   "extra": {
+    "organisatie": "Utrechtse Heuvelrug",
+    "identifier": "gmb-2026-468315",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "herplant"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "8e3ba7354409727e",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Toestemming voor het vellen of doen vellen van een houtopstand (Acer saccharinum) op de locatie Lijnbaan thv. 252 te Dordrecht zaaknummer 9003710051",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-467761.html",
+   "datum": "2026-10-07",
+   "versie": "589590935820ec2e",
+   "extra": {
+    "organisatie": "Dordrecht",
+    "identifier": "gmb-2026-467761",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "1e963220cca2a653",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Besluit ingetrokken omgevingsvergunning reguliere procedure vellen van een houtopstand (kap) vergunning ingetrokken Jan Bottemastraat 2 1063VN Amsterdam",
+   "samenvatting_bron": "vellen van één houtopstand in de achtertuin van de woning op de locatie Jan Bottemastraat 2",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-468607.html",
+   "datum": "2026-10-07",
+   "versie": "2f314a01a93f76b2",
+   "extra": {
+    "organisatie": "Amsterdam",
+    "identifier": "gmb-2026-468607",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "fe5be56e4b684e29",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "ruimtelijk plan of omgevingsdocument",
+   "titel": "Omgevingsvisie gemeente Zwartewaterland",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-466871.html",
+   "datum": "2026-10-07",
+   "versie": "a085e3250da73bd9",
+   "extra": {
+    "organisatie": "Zwartewaterland",
+    "identifier": "gmb-2026-466871",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "6407db33a123000f",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Kennisgeving melding milieuactiviteiten, Koelinstallatie met kooldioxide, koolwaterstoffen of ammoniak (Groningen (VWO) , Van Lenneplaan 99, 9721 PE Groningen, Verzoeklocatie 2026043001492",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-467996.html",
+   "datum": "2026-10-07",
+   "versie": "8d8fe9e3f4b7fcf2",
+   "extra": {
+    "organisatie": "Groningen",
+    "identifier": "gmb-2026-467996",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Stikstof": [
+     "ammoniak"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "bc6eef8701547406",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsmelding",
+   "titel": "Bekendmaking melding graven in de bodem met een kwaliteit boven de interventiewaarde bodemkwaliteit op de Zuidpolder, nabij Hoogeboomstraat in Eemnes",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-471033.html",
+   "datum": "2026-10-08",
+   "versie": "6bad446a0754d6e7",
+   "extra": {
+    "organisatie": "Eemnes",
+    "identifier": "gmb-2026-471033",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Waterkwaliteit": [
+     "bodemkwaliteit"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "e673abf50aa6483a",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Besluit omgevingsvergunning reguliere procedure vellen van een houtopstand (kap) verleend Kadoelenweg 358A 1035 NT Amsterdam",
+   "samenvatting_bron": "kappen van één boom",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-469999.html",
+   "datum": "2026-10-08",
+   "versie": "49522e032f1c7800",
+   "extra": {
+    "organisatie": "Amsterdam",
+    "identifier": "gmb-2026-469999",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "149a35bdcfcf161c",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Verleende omgevingsvergunning omgevingsplanactiviteit: Hoofdkade nabij nr. 113, Ter Apel, kap 1 zomereik, geen herplant, verzendatum: 6 oktober 2026",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-454400.html",
+   "datum": "2026-10-08",
+   "versie": "1434a4f6c1cc1f5a",
+   "extra": {
+    "organisatie": "Westerwolde",
+    "identifier": "gmb-2026-454400",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "herplant"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "b186e715ef90174f",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "ruimtelijk plan of omgevingsdocument",
+   "titel": "Ontwerp wijziging omgevingsplan gemeente Voorschoten - thema uitwegen",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-473606.html",
+   "datum": "2026-10-08",
+   "versie": "b1f51ae2c1e8e6db",
+   "extra": {
+    "organisatie": "Voorschoten",
+    "identifier": "gmb-2026-473606",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "03d29c82e690c625",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "ruimtelijk plan of omgevingsdocument",
+   "titel": "Ontwerp Omgevingsplanwijziging Everlandwegje 2 Roosendaal",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-473689.html",
+   "datum": "2026-10-08",
+   "versie": "3eb8fa460bfa697c",
+   "extra": {
+    "organisatie": "Roosendaal",
+    "identifier": "gmb-2026-473689",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "8303e2744418318a",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Verleende Omgevingsvergunning, het kappen en herplanten van 4 bomen op een speelplek, Nabij Hubert Duyfhuysstraat, GU-Z2026-0063704",
+   "samenvatting_bron": "Toelichting: het kappen en herplanten van 4 bomen op een speelplek",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-470936.html",
+   "datum": "2026-10-08",
+   "versie": "e663d019f6749dce",
+   "extra": {
+    "organisatie": "Utrecht",
+    "identifier": "gmb-2026-470936",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "herplant"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "b7efca3adae53a16",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "ander besluit van algemene strekking",
+   "titel": "Water- en Riool Programma Hilversum 2027 – 2028",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-471617.html",
+   "datum": "2026-10-08",
+   "versie": "97ede7871d1d4aa4",
+   "extra": {
+    "organisatie": "Hilversum",
+    "identifier": "gmb-2026-471617",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "c9a1ffef7c6efb87",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "andere vergunning",
+   "titel": "Kennisgeving termijnverlenging Z2026-00001527, Hortmeerweg ong. in Wierden",
+   "samenvatting_bron": "Betreft: Beschikking verlenging beslistermijnop locatie Hortmeerweg ong. in Wierden",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-469968.html",
+   "datum": "2026-10-08",
+   "versie": "3886614bc22978c6",
+   "extra": {
+    "organisatie": "Wierden",
+    "identifier": "gmb-2026-469968",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "557d11c142c2f8e8",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "ruimtelijk plan of omgevingsdocument",
+   "titel": "Programma klimaat 2025-2030",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-472888.html",
+   "datum": "2026-10-08",
+   "versie": "a0636d4af27dbf56",
+   "extra": {
+    "organisatie": "Castricum",
+    "identifier": "gmb-2026-472888",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "403c0c57a1161e1b",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Verleende omgevingsvergunning omgevingsplanactiviteit: Stationsstraat nabij nr. 20, Ter Apel, kap 1 esdoorn, met herplant, verzendatum: 6 oktober 2026",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-454414.html",
+   "datum": "2026-10-08",
+   "versie": "917e4c79e2b3f9a3",
+   "extra": {
+    "organisatie": "Westerwolde",
+    "identifier": "gmb-2026-454414",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "herplant"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "6c88f1436af22ec3",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Verleende Omgevingsvergunning, het kappen en herplanten van twee bomen, Zonnebaan 56, 3542EG Utrecht, GU-Z2026-0067198",
+   "samenvatting_bron": "Toelichting: het kappen en herplanten van twee bomen",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-471009.html",
+   "datum": "2026-10-08",
+   "versie": "73392fb06799a0a6",
+   "extra": {
+    "organisatie": "Utrecht",
+    "identifier": "gmb-2026-471009",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "herplant"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "6c30f7340d47005a",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Aanvraag omgevingsvergunning vellen van een houtopstand (kap) Hobbemakade 119-H 1071XW Amsterdam",
+   "samenvatting_bron": "(KAP) het kappen van één boom staande in de geveltuin",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-470220.html",
+   "datum": "2026-10-08",
+   "versie": "0f038933e5ed355a",
+   "extra": {
+    "organisatie": "Amsterdam",
+    "identifier": "gmb-2026-470220",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "e0461afbe13c3fa2",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Aanvraag omgevingsvergunning vellen van een houtopstand (kap) Lumeijstraat 5-H 1056VS Amsterdam",
+   "samenvatting_bron": "(KAP) het kappen van één boom staande in de achtertuin",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-470252.html",
+   "datum": "2026-10-08",
+   "versie": "d3dc32faecdb4528",
+   "extra": {
+    "organisatie": "Amsterdam",
+    "identifier": "gmb-2026-470252",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "2467737fd239b79c",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "andere melding",
+   "titel": "Melding voor het graven in bodem met een kwaliteit boven de interventiewaarde bodemkwaliteit op de locatie Het Weegje, Kristalweg, Weverseinde e.o. te Puttershoek zaaknummer 9003726199",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-469962.html",
+   "datum": "2026-10-08",
+   "versie": "1ef3e124652b2fd4",
+   "extra": {
+    "organisatie": "Hoeksche Waard",
+    "identifier": "gmb-2026-469962",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Waterkwaliteit": [
+     "bodemkwaliteit"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "5a3664e2eb646389",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Aanvraag vergunning voor het project vellen houtopstanden, Hertzstraat thv nr 2A te Purmerend",
+   "samenvatting_bron": "Betreft: aanvraag op locatie Hertzstraat thv nr 2A te Purmerend",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-470702.html",
+   "datum": "2026-10-08",
+   "versie": "05fccf8241e08225",
+   "extra": {
+    "organisatie": "Purmerend",
+    "identifier": "gmb-2026-470702",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "d5d002854aeb0c75",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Toestemming voor het vellen van houtopstanden tbv herinrichting Uiterwaarden op de locatie Uiterwaarden te Dreumel en Wamel zaaknummer ODR2610528",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-469449.html",
+   "datum": "2026-10-08",
+   "versie": "4ef212610586d832",
+   "extra": {
+    "organisatie": "West Maas en Waal",
+    "identifier": "gmb-2026-469449",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "e0bfd57ade6e83b0",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Toestemming voor het ecologisch vrij maken van de locatie en het kappen van een houtopstand aan Jozefstraat te Susteren",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-468172.html",
+   "datum": "2026-10-08",
+   "versie": "4155b50335e167e0",
+   "extra": {
+    "organisatie": "Echt-Susteren",
+    "identifier": "gmb-2026-468172",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "ecologisch",
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "e04ec8dfd45efc5f",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Verleende omgevingsvergunning omgevingsplanactiviteit: Spetsebrugweg nabij 4a, Veelerveen, kap 1 berk, met herplant, verzendatum: 6 oktober 2026",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-454421.html",
+   "datum": "2026-10-08",
+   "versie": "ddfe5e6dff0e6fe3",
+   "extra": {
+    "organisatie": "Westerwolde",
+    "identifier": "gmb-2026-454421",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "herplant"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "45555b769b572d03",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "ruimtelijk plan of omgevingsdocument",
+   "titel": "Programma Klimaat 2025-2030",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-472889.html",
+   "datum": "2026-10-08",
+   "versie": "1c265dc395f9bb56",
+   "extra": {
+    "organisatie": "Bergen (NH)",
+    "identifier": "gmb-2026-472889",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "263c7bea40ba0581",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "algemeen verbindend voorschrift (verordening)",
+   "titel": "Subsidieregeling isolatie koopwoningen gemeente Lopik",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-470665.html",
+   "datum": "2026-10-08",
+   "versie": "0e11d3d5e3f35a91",
+   "extra": {
+    "organisatie": "Lopik",
+    "identifier": "gmb-2026-470665",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "8f021a57626c7a60",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsmelding",
+   "titel": "Gemeente Waalwijk - Kennisgeving Melding Besluit activiteiten leefomgeving - RLastechniek B.V. - Sluisweg 21, 5145PE Waalwijk",
+   "samenvatting_bron": "Betreft: melding Besluit activiteiten leefomgeving (Bal) op locatie Sluisweg 21, 5145PE Waalwijk",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-470627.html",
+   "datum": "2026-10-08",
+   "versie": "311a4c18ff5de046",
+   "extra": {
+    "organisatie": "Waalwijk",
+    "identifier": "gmb-2026-470627",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "1dba2b567571c367",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "ruimtelijk plan of omgevingsdocument",
+   "titel": "Programma Klimaat 2025-2030",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-472813.html",
+   "datum": "2026-10-08",
+   "versie": "1c265dc395f9bb56",
+   "extra": {
+    "organisatie": "Uitgeest",
+    "identifier": "gmb-2026-472813",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "ecdbeeeb98a9e575",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Toestemming voor het vellen van 1 boom (herplantplicht) op de locatie Wallandlaan 1, 1261CX te Blaricum (zaaknummer OMG 2026-0428)",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-469995.html",
+   "datum": "2026-10-08",
+   "versie": "a21ad77ef742c6f1",
+   "extra": {
+    "organisatie": "Blaricum",
+    "identifier": "gmb-2026-469995",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "herplant"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "a7296f72251ef6bc",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "andere melding",
+   "titel": "Kennisgeving ontvangst Melding Besluit bodemkwaliteit t.b.v. vernieuwen gasleiding, Burg. Smeetsstraat e.o., Munstergeleen",
+   "samenvatting_bron": "Betreft: melding op locatie Burg. Smeetsstraat e.o., Munstergeleen",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-469919.html",
+   "datum": "2026-10-08",
+   "versie": "095de79b70c7d3bc",
+   "extra": {
+    "organisatie": "Sittard-Geleen",
+    "identifier": "gmb-2026-469919",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Waterkwaliteit": [
+     "bodemkwaliteit",
+     "besluit bodemkwaliteit"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "2a7152f908f7a9a4",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsmelding",
+   "titel": "Gemeente Brummen – Melding mba regulier bodem - graven in de bodem met een kwaliteit boven interventiewaarde bodemkwaliteit, Zutphensestraat 89 Brummen",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-470526.html",
+   "datum": "2026-10-08",
+   "versie": "83079b390776ee49",
+   "extra": {
+    "organisatie": "Brummen",
+    "identifier": "gmb-2026-470526",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Waterkwaliteit": [
+     "bodemkwaliteit"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "d928f7c12f41e845",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Aanvraag omgevingsvergunning, verwijderen afgekeurde populier achtertuin en herplanten populier, Noordeindeplein 8A 2311AH Leiden",
+   "samenvatting_bron": "verwijderen afgekeurde populier achtertuin en herplanten populier",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-454885.html",
+   "datum": "2026-10-08",
+   "versie": "4cab79aef40361c8",
+   "extra": {
+    "organisatie": "Leiden",
+    "identifier": "gmb-2026-454885",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "herplant"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "832a7c4da3ac6f81",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Verleende omgevingsvergunning omgevingsplanactiviteit: Eikenlaan nabij nr. 19, Blijham, kap 1 zwarte els, met herplant, verzendatum: 6 oktober 2026",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-454435.html",
+   "datum": "2026-10-08",
+   "versie": "c2d543f7a59c7cd4",
+   "extra": {
+    "organisatie": "Westerwolde",
+    "identifier": "gmb-2026-454435",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "herplant"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "bfa5fe0abd3ef2a4",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "overige overheidsinformatie",
+   "titel": "Bedrijvenpark Arrisveld, Winterswijk Gebiedsvisie",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-469837.html",
+   "datum": "2026-10-08",
+   "versie": "25de3a2419ce36d8",
+   "extra": {
+    "organisatie": "Winterswijk",
+    "identifier": "gmb-2026-469837",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "5a110b08e3354efe",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Aanvraag omgevingsvergunning vellen van een houtopstand (kap) Eerste Helmersstraat 162-H 1054EK Amsterdam",
+   "samenvatting_bron": "(KAP) het kappen van één boom staande in de achtertuin",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-470128.html",
+   "datum": "2026-10-08",
+   "versie": "96dbf2105f9851ad",
+   "extra": {
+    "organisatie": "Amsterdam",
+    "identifier": "gmb-2026-470128",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "b61a21860662d2ca",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "beleidsregel",
+   "titel": "Beleidsnota sport en bewegen 2026-2030",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-470971.html",
+   "datum": "2026-10-08",
+   "versie": "80f4a3fdbd5a10bb",
+   "extra": {
+    "organisatie": "Emmen",
+    "identifier": "gmb-2026-470971",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "23f8a36cb0661a2a",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Besluit omgevingsvergunning reguliere procedure vellen van een houtopstand (kap) verleend Prins Hendriklaan 48 1075BE Amsterdam",
+   "samenvatting_bron": "(KAP) het kappen van één boom staande in de achtertuin",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-470908.html",
+   "datum": "2026-10-08",
+   "versie": "3e100bacab613d57",
+   "extra": {
+    "organisatie": "Amsterdam",
+    "identifier": "gmb-2026-470908",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "dccaff44afa67ae2",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "uitschrijving basisregistratie personen",
+   "titel": "Gemeente Leudal – Ambtshalve opnemen vertrek uit Nederland in verband met verblijfplaats onbekend",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-469997.html",
+   "datum": "2026-10-08",
+   "versie": "20001ad0ea335f6f",
+   "extra": {
+    "organisatie": "Leudal",
+    "identifier": "gmb-2026-469997",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Soortenbescherming": [
+     "verblijfplaats"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "da9e450fb06d134b",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "ruimtelijk plan of omgevingsdocument",
+   "titel": "Ontwerp wijziging omgevingsplan gemeente Amstelveen Legmeerdijk 276",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-472137.html",
+   "datum": "2026-10-08",
+   "versie": "fffbc9b9bacc1224",
+   "extra": {
+    "organisatie": "Amstelveen",
+    "identifier": "gmb-2026-472137",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "bfe60c4a47e50fe0",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Toestemming voor het vellen van 1 boom (herplantplicht) op de locatie Sint Janstraat 73, 1251LC te Laren (zaaknummer OMG 2025-0581)",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-470059.html",
+   "datum": "2026-10-08",
+   "versie": "6a3dab2c4a521fa1",
+   "extra": {
+    "organisatie": "Laren",
+    "identifier": "gmb-2026-470059",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "herplant"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "5b8ba6d805ef642f",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Maatwerkvoorschriften aangevraagd – Leeuweriksweg 2-4 Uden",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-469680.html",
+   "datum": "2026-10-08",
+   "versie": "01c0f5c7e9df5120",
+   "extra": {
+    "organisatie": "Maashorst",
+    "identifier": "gmb-2026-469680",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "e68d0939e6a660dd",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Aanvraag omgevingsvergunning vellen van een houtopstand (kap) Haarlemmerweg 20-H Amsterdam",
+   "samenvatting_bron": "(KAP) het snoeien van één boom in de openbare ruimte vanwege veiligheidsredenen",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-470199.html",
+   "datum": "2026-10-08",
+   "versie": "87c80449b993c861",
+   "extra": {
+    "organisatie": "Amsterdam",
+    "identifier": "gmb-2026-470199",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "cb5335ff7c383135",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Verleende omgevingsvergunning omgevingsplanactiviteit: Ruiten A Kanaal west nabij nr. 30, Veelerveen, kap 1 zomereik, met herplant, verzendatum: 6 oktober 2026",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-454387.html",
+   "datum": "2026-10-08",
+   "versie": "ca9bdfef0504e4c1",
+   "extra": {
+    "organisatie": "Westerwolde",
+    "identifier": "gmb-2026-454387",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "herplant"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "66fea8de4306091b",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "ruimtelijk plan of omgevingsdocument",
+   "titel": "Besluit tot vierde wijziging van het omgevingsplan gemeente Dordrecht",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-472899.html",
+   "datum": "2026-10-08",
+   "versie": "4b9326f793171f5a",
+   "extra": {
+    "organisatie": "Dordrecht",
+    "identifier": "gmb-2026-472899",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "3104b7fbc94181dd",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Toestemming voor Het vellen van een houtopstand (Ulmus) op de locatie T.h.v. Oranjelaan 1 te Dordrecht zaaknummer 9003710086",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-469440.html",
+   "datum": "2026-10-08",
+   "versie": "5933f960bca5aa9c",
+   "extra": {
+    "organisatie": "Dordrecht",
+    "identifier": "gmb-2026-469440",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "e85b9d43966d6c21",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Aanvraag omgevingsvergunning vellen van een houtopstand (kap) Derde Hugo de Grootstraat 10-H 1052LL Amsterdam",
+   "samenvatting_bron": "(kap) het kappen van één boom staande in de achtertuin",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-470421.html",
+   "datum": "2026-10-08",
+   "versie": "36955eaef5e04cfe",
+   "extra": {
+    "organisatie": "Amsterdam",
+    "identifier": "gmb-2026-470421",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "0cc9b32150e5bd12",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "ruimtelijk plan of omgevingsdocument",
+   "titel": "Omgevingsplan gemeente Papendrecht",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-472709.html",
+   "datum": "2026-10-08",
+   "versie": "ffe63adcf2c5bd54",
+   "extra": {
+    "organisatie": "Papendrecht",
+    "identifier": "gmb-2026-472709",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "2c9fc45795f9b1e9",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "overige overheidsinformatie",
+   "titel": "Bekendmaking voorgenomen verkoop van grond ten behoeve van de uitbreiding van het bedrijventerrein van TOP in ’s-Gravenpolder en de bijbehorende natuurcompensatie.",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-461001.html",
+   "datum": "2026-10-09",
+   "versie": "19b8118fc2220be6",
+   "extra": {
+    "organisatie": "Borsele",
+    "identifier": "gmb-2026-461001",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "natuurcompensatie"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "8f627e58501e8905",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "RECTIFICATIE Besluit omgevingsvergunning reguliere procedure vellen van een houtopstand (kap) verleend Jan Bottemastraat 2 1063VN Amsterdam",
+   "samenvatting_bron": "vellen van één houtopstand in de achtertuin van de woning op de locatie Jan Bottemastraat 2",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-472722.html",
+   "datum": "2026-10-09",
+   "versie": "f5e12dff06f782e3",
+   "extra": {
+    "organisatie": "Amsterdam",
+    "identifier": "gmb-2026-472722",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "f54e2075c8abfd26",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsmelding",
+   "titel": "Kennisgeving melding milieubelastende activiteit(en), Vlamingstraat 35B te Den Haag",
+   "samenvatting_bron": "Koelinstallatie met kooldioxide, koolwaterstoffen of ammoniak.",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-472773.html",
+   "datum": "2026-10-09",
+   "versie": "bdb76f6cd3d62b36",
+   "extra": {
+    "organisatie": "'s-Gravenhage",
+    "identifier": "gmb-2026-472773",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Stikstof": [
+     "ammoniak"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "f093db662c16a16b",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Besluit omgevingsvergunning is verleend, het kappen van 7 bomen met een herplantplicht van 7 bomen, Prinsenbosch 52, 5126 ND Gilze, Prinsenbosch 44, 5126 ND Gilze, Prinsenbosch 16, 5126 ND Gilze, Prin",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-471820.html",
+   "datum": "2026-10-09",
+   "versie": "501236055337d6ae",
+   "extra": {
+    "organisatie": "Gilze en Rijen",
+    "identifier": "gmb-2026-471820",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "herplant"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "2277c800c2c43cb1",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Aanvraag omgevingsvergunning, het kappen en herplanten van een boom, Celsiuslaan, GU-Z2026-0069365",
+   "samenvatting_bron": "Toelichting: het kappen en herplanten van een boom",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-472140.html",
+   "datum": "2026-10-09",
+   "versie": "e76a3fca1fa71c92",
+   "extra": {
+    "organisatie": "Utrecht",
+    "identifier": "gmb-2026-472140",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "herplant"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "3babc2f9d04e3709",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "algemeen verbindend voorschrift (verordening)",
+   "titel": "Welstand De Ronde Venen",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-473341.html",
+   "datum": "2026-10-09",
+   "versie": "bcb2b40c9e9ddc3f",
+   "extra": {
+    "organisatie": "De Ronde Venen",
+    "identifier": "gmb-2026-473341",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "2c97bf27d445139f",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Aanvraag omgevingsvergunning vellen van een houtopstand (kap) Cornelis Vriendtstraat 17 1067AT Amsterdam",
+   "samenvatting_bron": "vellen van 6 houtopstanden in de achtertuin van de woning op de locatie Cornelis Vriendtstraat 17",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-473386.html",
+   "datum": "2026-10-09",
+   "versie": "a3f6495e0ed2ae61",
+   "extra": {
+    "organisatie": "Amsterdam",
+    "identifier": "gmb-2026-473386",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "0ce241c05ef85420",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Aanvraag omgevingsvergunning vellen van een houtopstand (kap) op verschillende locaties in het gebied van Stadsdeel Nieuw West in Amsterdam",
+   "samenvatting_bron": "het vellen van 6 houtopstanden op verschillende locaties in het gebied van stadsdeel Nieuw West (veiligheidskap)",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-472496.html",
+   "datum": "2026-10-09",
+   "versie": "386595cccdb4ccfd",
+   "extra": {
+    "organisatie": "Amsterdam",
+    "identifier": "gmb-2026-472496",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "333f6085ea1446af",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Gemeente Brummen - verlenen met herplantplicht omgevingsvergunning, het kappen van een treuriep, Marktplein 15, Brummen.",
+   "samenvatting_bron": "Gemeente Brummen - verlenen met herplantplicht omgevingsvergunning, het kappen van een treuriep, Marktplein 15, Brummen.",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-472781.html",
+   "datum": "2026-10-09",
+   "versie": "35147a4ddb769615",
+   "extra": {
+    "organisatie": "Brummen",
+    "identifier": "gmb-2026-472781",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "herplant"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "071e1cf67c3f690d",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Aanvraag omgevingsvergunning vellen van een houtopstand (kap) Seineweg 16 1043BH Amsterdam",
+   "samenvatting_bron": "vellen van één houtopstand op de locatie Seineweg 16 (Tuinpark De Bretten, tuin 127)",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-472148.html",
+   "datum": "2026-10-09",
+   "versie": "faf955093c0670f4",
+   "extra": {
+    "organisatie": "Amsterdam",
+    "identifier": "gmb-2026-472148",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "6144fc64a078b8e0",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Besluit omgevingsvergunning reguliere procedure vellen van een houtopstand (kap) verleend Veluwelaan 19 1079PX Amsterdam",
+   "samenvatting_bron": "kappen van twee bomen in de gemeenschappelijke binnentuin",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-473165.html",
+   "datum": "2026-10-09",
+   "versie": "af6d90eaf57b1ef3",
+   "extra": {
+    "organisatie": "Amsterdam",
+    "identifier": "gmb-2026-473165",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "97817dd7eed12b56",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Aanvraag vergunning voor het project vellen houtopstand, Herikkruid achter gebouw nr 26 tm 38, 1441XH Purmerend",
+   "samenvatting_bron": "Betreft: aanvraag op locatie Herikkruid achter gebouw nr 26 tm 38, 1441XH Purmerend",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-473273.html",
+   "datum": "2026-10-09",
+   "versie": "1e57df364b502867",
+   "extra": {
+    "organisatie": "Purmerend",
+    "identifier": "gmb-2026-473273",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "94fb39ede4f40417",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Verleend, reguliere procedure, Bunschoterweg 0-PERC Nijkerk, ecologische aanpassingen tbv weidevogels.",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-471867.html",
+   "datum": "2026-10-09",
+   "versie": "fe7ac5d68383b3bc",
+   "extra": {
+    "organisatie": "Nijkerk",
+    "identifier": "gmb-2026-471867",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "ecologisch"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "7144a843b998a11e",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Besluit omgevingsvergunning reguliere procedure vellen van een houtopstand (kap) verleend Wolbrantskerkweg 77 1069CL Amsterdam",
+   "samenvatting_bron": "vellen van één houtopstand in de achtertuin van de woning op de locatie Wolbrantskerkweg 77",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-473717.html",
+   "datum": "2026-10-09",
+   "versie": "95c81361891aa8dc",
+   "extra": {
+    "organisatie": "Amsterdam",
+    "identifier": "gmb-2026-473717",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "c5ec50b3d7fbea64",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "verkeersbesluit of -mededeling",
+   "titel": "Afdeling Stad en Ontwikkeling",
+   "samenvatting_bron": "Gemeente Amersfoort, uitbreiding autoluwe gebied Amersfoort",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-473622.html",
+   "datum": "2026-10-09",
+   "versie": "e9e8822159b7cee2",
+   "extra": {
+    "organisatie": "Amersfoort",
+    "identifier": "gmb-2026-473622",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "7867590aa2ef7aa5",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Besluit omgevingsvergunning reguliere procedure vellen van een houtopstand (kap) verleend Theodorus Dobbestraat 48-1 1063BW Amsterdam",
+   "samenvatting_bron": "Het snoeien van 1 houtopstand en het vellen van 1 houtopstand in de gemeenschappelijke tuin op de locatie t.h.v. Theodorus Dobbestraat 48-1",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-473692.html",
+   "datum": "2026-10-09",
+   "versie": "9010df10b3ee47b7",
+   "extra": {
+    "organisatie": "Amsterdam",
+    "identifier": "gmb-2026-473692",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "082cf407a64ef7f2",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "ruimtelijk plan of omgevingsdocument",
+   "titel": "Omgevingsvisie Nissewaard",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-474893.html",
+   "datum": "2026-10-09",
+   "versie": "97c4800f185e7c1f",
+   "extra": {
+    "organisatie": "Nissewaard",
+    "identifier": "gmb-2026-474893",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "af3192a964cc47df",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Gemeente Renkum - volledige melding in het kader van de Omgevingswet, Graven in bodem met een kwaliteit boven de interventiewaarde bodemkwaliteit, Doornenkampseweg 14 te Heelsum. Melding",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-472796.html",
+   "datum": "2026-10-09",
+   "versie": "24968cb9188d0b22",
+   "extra": {
+    "organisatie": "Renkum",
+    "identifier": "gmb-2026-472796",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Waterkwaliteit": [
+     "bodemkwaliteit"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "671b6c683122f086",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Besluit omgevingsvergunning reguliere procedure vellen van een houtopstand (kap) verleend omgeving Bok de Korverweg 6 1067HR Amsterdam, Bolstoen 32A 1046AV Amsterdam, Burgemeester Vening Meineszlaan 69 Amsterdam, C.P.M. Rommeplantsoen 73 1067WV Amsterdam, Confuciusplein 63 1064LG Amsterdam",
+   "samenvatting_bron": "vellen van 45 houtopstanden in de openbare ruimte op verschillende locaties in het gebied van Stadsdeel Nieuw West (veiligheidskap)",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-473661.html",
+   "datum": "2026-10-09",
+   "versie": "0db26082961a6c81",
+   "extra": {
+    "organisatie": "Amsterdam",
+    "identifier": "gmb-2026-473661",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "474dc1646ddceb58",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Besluit omgevingsvergunning reguliere procedure vellen van een houtopstand (kap) verleend Bok de Korverweg 6 1067HR Amsterdam, Bolstoen 32A 1046AV Amsterdam, Burgemeester Vening Meineszlaan 69 Amsterdam, verspreid over stadsdeel Nieuw-West",
+   "samenvatting_bron": "vellen van 45 houtopstanden in de openbare ruimte op verschillende locaties in het gebied van Stadsdeel Nieuw West (veiligheidskap)",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-473674.html",
+   "datum": "2026-10-09",
+   "versie": "9255fade24376fd3",
+   "extra": {
+    "organisatie": "Amsterdam",
+    "identifier": "gmb-2026-473674",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "e4284c1335e44162",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "ruimtelijk plan of omgevingsdocument",
+   "titel": "Herstel titel regeling omgevingsplan gemeente De Fryske Marren",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-475347.html",
+   "datum": "2026-10-09",
+   "versie": "d8d87b8108a2a865",
+   "extra": {
+    "organisatie": "De Fryske Marren",
+    "identifier": "gmb-2026-475347",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "7f0301dc2fc93417",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Gemeente Bergen, aanvraag omgevingsvergunning (regulier) deels verleend met herplantplicht, Voorweg 128, 1871CR Schoorl, het kappen van een esdoorn en het snoeien van een linde, verzenddatum 7 oktober 2026 (Z2026-00007826)",
+   "samenvatting_bron": "Voorweg 128, 1871CR Schoorl, het kappen van een esdoorn en het snoeien van een linde, verzenddatum 7 oktober 2026 (Z2026-00007826)",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-472410.html",
+   "datum": "2026-10-09",
+   "versie": "c65b6dbaa024744d",
+   "extra": {
+    "organisatie": "Bergen (NH)",
+    "identifier": "gmb-2026-472410",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "herplant"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "49fa925a4c917c04",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "ruimtelijk plan of omgevingsdocument",
+   "titel": "Ontwerp Omgevingsprogramma Klimaatadaptatie 2027-2031 gemeente Noardeast-Fryslân voor inspraak ter inzage",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-474565.html",
+   "datum": "2026-10-09",
+   "versie": "1a8adcbd8f0faa19",
+   "extra": {
+    "organisatie": "Noardeast-Fryslân",
+    "identifier": "gmb-2026-474565",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Klimaatadaptatie": [
+     "klimaatadaptatie"
+    ]
+   },
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "b79e51ca00ed8658",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Besluit omgevingsvergunning reguliere procedure vellen van een houtopstand (kap) verleend Lambertus Zijlplein 27 1067JR Amsterdam",
+   "samenvatting_bron": "vellen van 7 houtopstanden en verplanten van 1 houtopstand in de openbare ruimte op de locatie Lambertus Zijlplein",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-473624.html",
+   "datum": "2026-10-09",
+   "versie": "79912a57e19b4843",
+   "extra": {
+    "organisatie": "Amsterdam",
+    "identifier": "gmb-2026-473624",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "2bbd8160acf43316",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Aanvraag omgevingsvergunning vellen van een houtopstand (kap) Frederiksplein 1017XL Amsterdam, Nieuwe Herengracht 1011RN Amsterdam, Prins Hendrikkade 1011TD Amsterdam, Reguliersgracht 1017LW Amsterdam, Sarphatikade 1017WV Amsterdam, Singel 1015AA Amsterdam, Westerstraat 1015LZ Amsterdam, Windrooskade 1018ZX Amsterdam",
+   "samenvatting_bron": "kappen van 8 bomen in het kader van veiligheid op diverse plekken in de openbare ruimte",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-473700.html",
+   "datum": "2026-10-09",
+   "versie": "70100b71e28d5e76",
+   "extra": {
+    "organisatie": "Amsterdam",
+    "identifier": "gmb-2026-473700",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "87aa59a52b2fd788",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Toestemming het kappen en herplanten van 24 bomen op het adres Voorschoterweg te Valkenburg",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-475931.html",
+   "datum": "2026-10-12",
+   "versie": "f22ccb6598635b9d",
+   "extra": {
+    "organisatie": "Katwijk",
+    "identifier": "gmb-2026-475931",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "herplant"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "6fac88175bc142ce",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Besluit omgevingsvergunning reguliere procedure vellen van een houtopstand (kap) verleend Frederiksplein 1017XL Amsterdam, Nieuwe Herengracht 1011RN Amsterdam, Prins Hendrikkade 1011TD Amsterdam, Reguliersgracht 1017LW Amsterdam, Sarphatikade 1017WV Amsterdam, Singel 1015AA Amsterdam, Westerstraat 1015LZ Amsterdam, Windrooskade 1018ZX Amsterdam",
+   "samenvatting_bron": "kappen van 8 diverse bomen in het kader van veiligheid op verschillende locaties in de openbare ruimte",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-475982.html",
+   "datum": "2026-10-12",
+   "versie": "92611f670cc711a9",
+   "extra": {
+    "organisatie": "Amsterdam",
+    "identifier": "gmb-2026-475982",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "12321ad8c1d5759d",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Aanvraag vergunning voor, een hekwerk nabij de erfgrens - Boveneind ZZ 33A 3405AN Benschop",
+   "samenvatting_bron": "Boom kappen of houtopstand vellen - hekwerk nabij de erfgrens Boveneind ZZ 33A Benschop",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-475558.html",
+   "datum": "2026-10-12",
+   "versie": "b1cf51f2ae5ab8a4",
+   "extra": {
+    "organisatie": "Lopik",
+    "identifier": "gmb-2026-475558",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "2cdbcdb01b46379e",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Aanvraag omgevingsvergunning, het kappen van een boom en herplanten van twee bomen, Venkelhof te Utrecht, GU-Z2026-0069583",
+   "samenvatting_bron": "Toelichting: het kappen van een boom en herplanten van twee bomen",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-474744.html",
+   "datum": "2026-10-12",
+   "versie": "d2152b5366b0627e",
+   "extra": {
+    "organisatie": "Utrecht",
+    "identifier": "gmb-2026-474744",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "herplant"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "b499c2418b28e7e0",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Verleende omgevingsvergunning omgevingsplanactiviteit: Molenkampweg 5, Vlagtwedde, kap 1 boom, met herplant, verzenddatum: 8 oktober 2026",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-475501.html",
+   "datum": "2026-10-12",
+   "versie": "c57bd971ea2130ec",
+   "extra": {
+    "organisatie": "Westerwolde",
+    "identifier": "gmb-2026-475501",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "herplant"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "c73a3f0d69c5c390",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "ruimtelijk plan of omgevingsdocument",
+   "titel": "Omgevingsplan gemeente Súdwest-Fryslân",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-477611.html",
+   "datum": "2026-10-12",
+   "versie": "fc4795f39c886f52",
+   "extra": {
+    "organisatie": "Súdwest-Fryslân",
+    "identifier": "gmb-2026-477611",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "27412265d1daa5f8",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Aanvraag vergunning voor het vellen van 71 houtopstanden op de locatie Staalindustrieweg ong. te Alblasserdam zaaknummer 9003709148",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-474149.html",
+   "datum": "2026-10-12",
+   "versie": "f05e3b877d2f412d",
+   "extra": {
+    "organisatie": "Alblasserdam",
+    "identifier": "gmb-2026-474149",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "d08e5902ee6ee417",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Aanvraag vergunning voor het vellen of doen vellen van een houtopstand op de locatie Vondellaan thv. 23 te Alblasserdam zaaknummer 9003711834",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-474143.html",
+   "datum": "2026-10-12",
+   "versie": "4077cb189f59d1d4",
+   "extra": {
+    "organisatie": "Alblasserdam",
+    "identifier": "gmb-2026-474143",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "064f6ca19faec680",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "beleidsregel",
+   "titel": "Nota Kostenverhaal en Financiële bijdragen van Schagen 2024",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-475331.html",
+   "datum": "2026-10-12",
+   "versie": "bf36c57b1c8abe33",
+   "extra": {
+    "organisatie": "Schagen",
+    "identifier": "gmb-2026-475331",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "1553465d0132d488",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Verleende Omgevingsvergunning | Het kappen van 2 coniferen (met herplantplicht 2 bomen, voor 1 maart 2028), aan de Heidepark 19, 3723BW Bilthoven Z2026-00001287",
+   "samenvatting_bron": "Betreft: Besluit op locatie Heidepark 19, 3723BW Bilthoven",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-476304.html",
+   "datum": "2026-10-12",
+   "versie": "e7610b76bf37ea4b",
+   "extra": {
+    "organisatie": "De Bilt",
+    "identifier": "gmb-2026-476304",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "herplant"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "c4bef59c1f298512",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "ruimtelijk plan of omgevingsdocument",
+   "titel": "Omgevingsplan - Vijfde wijzigingsronde",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-478047.html",
+   "datum": "2026-10-12",
+   "versie": "8da3478ca1d0f4f6",
+   "extra": {
+    "organisatie": "Meierijstad",
+    "identifier": "gmb-2026-478047",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "e622cde390ab5ac3",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Aanvraag vergunning voor het vellen of doen vellen van een houtopstand op de locatie Park Huis Kinderdijk te Alblasserdam zaaknummer 9003711841",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-474081.html",
+   "datum": "2026-10-12",
+   "versie": "0d611f506ed3cad7",
+   "extra": {
+    "organisatie": "Alblasserdam",
+    "identifier": "gmb-2026-474081",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "ab6158b7322e5788",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Toestemming voor kappen en herplanten van bomen, 't Schoman Gelselaar",
+   "samenvatting_bron": "Betreft: Besluit op locatie 't Schoman Gelselaar",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-474132.html",
+   "datum": "2026-10-12",
+   "versie": "ca76ca75addbbddb",
+   "extra": {
+    "organisatie": "Berkelland",
+    "identifier": "gmb-2026-474132",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "herplant"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "49c283ab6a28a218",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "ruimtelijk plan of omgevingsdocument",
+   "titel": "technische omzetting Omgevingsvisie Putten 2040",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-477633.html",
+   "datum": "2026-10-12",
+   "versie": "5e2e786c555d5555",
+   "extra": {
+    "organisatie": "Putten",
+    "identifier": "gmb-2026-477633",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "2129cb5f08c7b175",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Verleende Omgevingsvergunning | Het kappen van 1 eik (met herplantplicht 1 boom, voor 1 maart 2028), aan de Gerard Terborchlaan 8, 3723EK Bilthoven Z2026-00001277",
+   "samenvatting_bron": "Betreft: Besluit op locatie Gerard Terborchlaan 8, 3723EK Bilthoven",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-475371.html",
+   "datum": "2026-10-12",
+   "versie": "cdc6daddfb981b2d",
+   "extra": {
+    "organisatie": "De Bilt",
+    "identifier": "gmb-2026-475371",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "herplant"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "19b903cc9be94c7e",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Toestemming voor het vellen of doen vellen van 8 houtopstanden op de locatie Wantijpark thv 3T te Dordrecht zaaknummer 9003717497",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-474469.html",
+   "datum": "2026-10-12",
+   "versie": "b78ae3b7c8774013",
+   "extra": {
+    "organisatie": "Dordrecht",
+    "identifier": "gmb-2026-474469",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "c882f094b248d40b",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Besluit omgevingsvergunning reguliere procedure vellen van een houtopstand (kap) verleend Frederiksplein 1017XL Amsterdam, Nieuwe Herengracht 1011RN Amsterdam, Prins Hendrikkade 1011TD Amsterdam, Reguliersgracht 1017LW Amsterdam, Sarphatikade 1017WV Amsterdam, Singel 1015AA Amsterdam, Westerstraat 1015LZ Amsterdam, Windrooskade 1018ZX Amsterdam",
+   "samenvatting_bron": "kappen van 8 diverse bomen in het kader van veiligheid op verschillende locaties in de openbare ruimte",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-475980.html",
+   "datum": "2026-10-12",
+   "versie": "92611f670cc711a9",
+   "extra": {
+    "organisatie": "Amsterdam",
+    "identifier": "gmb-2026-475980",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "4eaca888be6b8a65",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "ruimtelijk plan of omgevingsdocument",
+   "titel": "Wijziging Omgevingsplan gemeente Zwolle: Stadshagen, Breecamp West",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-458346.html",
+   "datum": "2026-10-12",
+   "versie": "b6ba7291c89ab09a",
+   "extra": {
+    "organisatie": "Zwolle",
+    "identifier": "gmb-2026-458346",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "bda128f5985b8adf",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "andere melding",
+   "titel": "Kennisgeving ontvangst Melding Besluit bodemkwaliteit t.b.v. bouwen appartementen, Rijksweg Zuid 26-28, 6131AP Sittard",
+   "samenvatting_bron": "Betreft: melding op locatie Rijksweg Zuid 26-28, 6131AP Sittard",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-474342.html",
+   "datum": "2026-10-12",
+   "versie": "48d54a445dda9c59",
+   "extra": {
+    "organisatie": "Sittard-Geleen",
+    "identifier": "gmb-2026-474342",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Waterkwaliteit": [
+     "bodemkwaliteit",
+     "besluit bodemkwaliteit"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "b9467f799f2a9965",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Verleend, reguliere procedure, Grebbedijk 0 terrein ten noorden van Jachthaven Wageningen, het kappen van 83 houtopstanden, Wageningen Landelijke dijk.",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-474355.html",
+   "datum": "2026-10-12",
+   "versie": "b7ca0aec85ff8a0d",
+   "extra": {
+    "organisatie": "Wageningen",
+    "identifier": "gmb-2026-474355",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "29a2b58c21b91a97",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "ruimtelijk plan of omgevingsdocument",
+   "titel": "Ontwerpwijziging 'Omgevingsplan gemeente Noordoostpolder – Marknesse, Zuid - fase 5'",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-477368.html",
+   "datum": "2026-10-12",
+   "versie": "c77e70413040e449",
+   "extra": {
+    "organisatie": "Noordoostpolder",
+    "identifier": "gmb-2026-477368",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "b01af5a00162810a",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Kennisgeving ondergeschikte wijziging herplant bij brug Mounleane te Wijnjewoude",
+   "samenvatting_bron": "OWO",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-475841.html",
+   "datum": "2026-10-12",
+   "versie": "ca20e7c3e64d91e2",
+   "extra": {
+    "organisatie": "Opsterland",
+    "identifier": "gmb-2026-475841",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "herplant"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "8454c6d70897e40a",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Sint Pietersberg te Maastricht. Verlenging beslistermijn omgevingsvergunning, het vellen van houtopstanden Sint Pietersberg 1",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-476307.html",
+   "datum": "2026-10-12",
+   "versie": "caefdf8ce976086a",
+   "extra": {
+    "organisatie": "Maastricht",
+    "identifier": "gmb-2026-476307",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "cc327c88eab7dd5e",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Besluit omgevingsvergunning reguliere procedure vellen van een houtopstand (kap) verleend Buiten Brouwersstraat 3A 1013GJ Amsterdam",
+   "samenvatting_bron": "kappen van 3 bomen (nr. 2, 3 en 4) en het snoeien van boom (nr. 1) in de gemeenschappelijke binnentuin",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-476168.html",
+   "datum": "2026-10-12",
+   "versie": "1894c12142a04da8",
+   "extra": {
+    "organisatie": "Amsterdam",
+    "identifier": "gmb-2026-476168",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "b135e2ef4e610f1d",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "beleidsregel",
+   "titel": "Rectificatie: Bomenkader 2025",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-475722.html",
+   "datum": "2026-10-13",
+   "versie": "a00c102b93f460e6",
+   "extra": {
+    "organisatie": "Almere",
+    "identifier": "gmb-2026-475722",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "aaf8f4fabbb9c2a2",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Gemeente Bergen, aanvraag omgevingsvergunning (regulier) verleend (met herplant), Kerkedijk 88, 1862BH Bergen (NH), het kappen van een boom (berk), verzenddatum 9 oktober 2026 (Z2026-00008273)",
+   "samenvatting_bron": "Kerkedijk 88, 1862BH Bergen (NH), het kappen van een boom (berk), verzenddatum 9 oktober 2026 (Z2026-00008273)",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-477192.html",
+   "datum": "2026-10-13",
+   "versie": "75cc0490075ee54c",
+   "extra": {
+    "organisatie": "Bergen (NH)",
+    "identifier": "gmb-2026-477192",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "herplant"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "0631aab087b5559b",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "WABO - Beschikking regulier verleende omgevingsvergunning Wet algemene bepalingen omgevingsrecht reguliere voorbereidingsprocedure voor het opslaan van gasflessen (stikstof), Zutphenseweg 21, 7418AG Deventer (zaaknummer Z2023-00012424)",
+   "samenvatting_bron": "het testen en opslaan met toepassing van waterstof-Milieuneutraal veranderen",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-477357.html",
+   "datum": "2026-10-13",
+   "versie": "ba4af1853f1591c5",
+   "extra": {
+    "organisatie": "Deventer",
+    "identifier": "gmb-2026-477357",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Stikstof": [
+     "stikstof"
+    ]
+   },
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "75fa3c0437704254",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Besluit omgevingsvergunning reguliere procedure vellen van een houtopstand (kap) verleend Keizersgracht 788 1017EC Amsterdam",
+   "samenvatting_bron": "kappen van een boom, een kronkelwilg, op het perceel",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-477471.html",
+   "datum": "2026-10-13",
+   "versie": "4569065b1027c397",
+   "extra": {
+    "organisatie": "Amsterdam",
+    "identifier": "gmb-2026-477471",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "31ca0b629e7474e0",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsmelding",
+   "titel": "Melding voor het graven in bodem met een kwaliteit boven de interventiewaarde bodemkwaliteit op de locatie nabij Pelseland 7 te Lent zaaknummer Z26MA.1975",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-477921.html",
+   "datum": "2026-10-13",
+   "versie": "bcd950c894185141",
+   "extra": {
+    "organisatie": "Nijmegen",
+    "identifier": "gmb-2026-477921",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Waterkwaliteit": [
+     "bodemkwaliteit"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "ed5df8c31c0bfedc",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "ruimtelijk plan of omgevingsdocument",
+   "titel": "Wijziging Omgevingsplan gemeente Zwolle: Nieuwe Veemarkt",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-478805.html",
+   "datum": "2026-10-13",
+   "versie": "55ead9efdb4f7097",
+   "extra": {
+    "organisatie": "Zwolle",
+    "identifier": "gmb-2026-478805",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "3b227fd4069c1992",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Aanvraag omgevingsvergunning Omgevingswet - Geesteren, nabij Langemaatsweg 1a: kappen houtopstanden",
+   "samenvatting_bron": "het kappen van houtopstanden",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-470613.html",
+   "datum": "2026-10-13",
+   "versie": "4c633311cbba00eb",
+   "extra": {
+    "organisatie": "Tubbergen",
+    "identifier": "gmb-2026-470613",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "02ab96ad5a7e078c",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Aanvraag omgevingsvergunning vellen van een houtopstand (kap) Jekerstraat 63-H 1078MA Amsterdam",
+   "samenvatting_bron": "kappen van één boom staande in de achtertuin",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-477231.html",
+   "datum": "2026-10-13",
+   "versie": "06a7ec5186f13a5b",
+   "extra": {
+    "organisatie": "Amsterdam",
+    "identifier": "gmb-2026-477231",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "houtopstand"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "84d8094d577c73cb",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "ruimtelijk plan of omgevingsdocument",
+   "titel": "Ontwerp wijziging omgevingsplan gemeente Leudal - Pilot Buitengebied",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-480601.html",
+   "datum": "2026-10-13",
+   "versie": "a8794cc7a46bf58f",
+   "extra": {
+    "organisatie": "Leudal",
+    "identifier": "gmb-2026-480601",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "d5fd34593f857bc6",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Gemeente Brummen - verlenen met herplantplicht omgevingsvergunning, het kappen van een eik, Hallsedijk 5, Tonden.",
+   "samenvatting_bron": "Gemeente Brummen - verlenen met herplantplicht omgevingsvergunning, het kappen van een eik, Hallsedijk 5, Tonden.",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-477726.html",
+   "datum": "2026-10-13",
+   "versie": "59d465a982cad85b",
+   "extra": {
+    "organisatie": "Brummen",
+    "identifier": "gmb-2026-477726",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "herplant"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "37858b84c8a8cd58",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "beleidsregel",
+   "titel": "Nota Vastgoedbeleid Heiloo",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-474891.html",
+   "datum": "2026-10-13",
+   "versie": "487eac2e3796f56c",
+   "extra": {
+    "organisatie": "Heiloo",
+    "identifier": "gmb-2026-474891",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "7b1852985c5962f6",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Gemeente Noordenveld - aanvr. beschikking behandelen - het kappen van 4 fijnsparren met herplant - Norg, sectie R, nummer 983 en 2409",
+   "samenvatting_bron": "Gemeente Noordenveld - besluit voor: het kappen van 4 fijnsparren met herplant - Norg, sectie R, nummer 983 en 2409",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-471821.html",
+   "datum": "2026-10-13",
+   "versie": "4f41476f1edc2256",
+   "extra": {
+    "organisatie": "Noordenveld",
+    "identifier": "gmb-2026-471821",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "herplant"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "4100c084180bab61",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "algemeen verbindend voorschrift (verordening)",
+   "titel": "Subsidieregeling Isolerende Maatregelen VvE's Oegstgeest 2026-2028",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-476919.html",
+   "datum": "2026-10-13",
+   "versie": "b12c40ff9e377002",
+   "extra": {
+    "organisatie": "Oegstgeest",
+    "identifier": "gmb-2026-476919",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "35d122d82ca2594e",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Besluit op omgevingsvergunning, Westerseweg 9, 9785AT Zuidwolde",
+   "samenvatting_bron": "het kappen van een boom (noodkap)(herplantplicht), Westerseweg 9, 9785AT Zuidwolde (20 november 2026)",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-477499.html",
+   "datum": "2026-10-13",
+   "versie": "949cff36f975b533",
+   "extra": {
+    "organisatie": "Het Hogeland",
+    "identifier": "gmb-2026-477499",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "herplant"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "cd1d3e7d0e2e40f5",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "beleidsregel",
+   "titel": "Beleidsregel Wet Bibob gemeente Almere 2026",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-477182.html",
+   "datum": "2026-10-13",
+   "versie": "ae14d929c549cb4b",
+   "extra": {
+    "organisatie": "Almere",
+    "identifier": "gmb-2026-477182",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "8dfe95bbcd827b59",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Verleende omgevingsvergunning, Hildebrandlaan 11 3768GV Soest, kappen van een conifeer in de achtertuin met herplant",
+   "samenvatting_bron": "kappen van een conifeer in de achtertuin",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-477531.html",
+   "datum": "2026-10-13",
+   "versie": "4433b5a385246820",
+   "extra": {
+    "organisatie": "Soest",
+    "identifier": "gmb-2026-477531",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "herplant"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "98dbcf3b7f11c78c",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "andere beschikking",
+   "titel": "Gemeente Zeist, Verleend voor kappen met herplantplichte omgevingsvergunning, Willem Coxlaan 15, 3734 BV Den Dolder, het kappen van 2 Douglassparren",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-477817.html",
+   "datum": "2026-10-13",
+   "versie": "6b71bbd05482b7ac",
+   "extra": {
+    "organisatie": "Zeist",
+    "identifier": "gmb-2026-477817",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "herplant"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "b8e6c4a554577510",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsvergunning",
+   "titel": "Aanvraag Omgevingsvergunning ontvangen voor het kappen van een boom (met herplanten), Maasdijk tegenover 168 te Maasdijk",
+   "samenvatting_bron": "Maasdijk tegenover 168 te Maasdijk",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-478004.html",
+   "datum": "2026-10-13",
+   "versie": "f386ef4ccf040d4d",
+   "extra": {
+    "organisatie": "Westland",
+    "identifier": "gmb-2026-478004",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "herplant"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "dbcb996abe433676",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "ruimtelijk plan of omgevingsdocument",
+   "titel": "Integrale wijziging 1 omgevingsplan gemeente Hilversum",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-479909.html",
+   "datum": "2026-10-13",
+   "versie": "d4fe8c791bbf53c0",
+   "extra": {
+    "organisatie": "Hilversum",
+    "identifier": "gmb-2026-479909",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "16f2ab3860ef3110",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "omgevingsmelding",
+   "titel": "Melding Besluit activiteiten leefomgeving voor het toepassen van grond of baggerspecie op of in de landbodem, Agnietenplas in Zwolle. Een deel van het weiland plaggen. Het vrijkomende materiaal komt op de andere helft van het weiland. Dit ter verhoging van de ecologische waarde van het perceel",
+   "samenvatting_bron": "het toepassen van grond of baggerspecie op of in de landbodem",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-477425.html",
+   "datum": "2026-10-13",
+   "versie": "d358469afad9b989",
+   "extra": {
+    "organisatie": "Zwolle",
+    "identifier": "gmb-2026-477425",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "ecologisch"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "7a18dfb1838584a9",
+   "bron": "Gemeentebladen",
+   "categorie": "Bekendmakingen",
+   "methode": "api_koop",
+   "soort": "ruimtelijk plan of omgevingsdocument",
+   "titel": "Omgevingsvisie voor Gemeente Velsen",
+   "samenvatting_bron": "",
+   "url": "https://zoek.officielebekendmakingen.nl/gmb-2026-479332.html",
+   "datum": "2026-10-13",
+   "versie": "0bdce865411cd8c6",
+   "extra": {
+    "organisatie": "Velsen",
+    "identifier": "gmb-2026-479332",
+    "spatial": null
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "treffer_in_volledige_tekst": true,
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "a8e17cbb4894ebfb",
+   "bron": "Eerste Kamer",
+   "categorie": "Parlement",
+   "methode": "web",
+   "soort": "",
+   "titel": "Kamerdelegatie bij 153e IPU Assemblee in Arusha",
+   "samenvatting_bron": "",
+   "url": "https://www.eerstekamer.nl/nieuws/20261012/kamerdelegatie_bij_153e_ipu",
+   "datum": null,
+   "versie": "67be70edac8ab8cf",
+   "extra": {},
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "99a90037df15177f",
+   "bron": "RIVM",
+   "categorie": "Onderzoek",
+   "methode": "feed",
+   "soort": "",
+   "titel": "Dalende trend stikstofdepositie op Natura 2000-gebieden",
+   "samenvatting_bron": "Tussen 2005 en 2024 daalde de stikstofneerslag in Natura 2000-gebieden met ongeveer 29 procent. Dit komt doordat verschillende sectoren minder stikstof uitstoten. De hoeveelheid stikstof boven de kritische depositiewaarde (KDW) nam in deze periode met 53 procent af. Toch is het grootste deel van het oppervlak van Natura 2000-gebieden nog steeds overbelast. Dat staat in de Monitor stikstofdepositie in Natura 2000-gebieden 2026.",
+   "url": "https://www.rivm.nl/nieuws/dalende-trend-stikstofdepositie-op-natura-2000-gebieden",
+   "datum": "2026-10-02",
+   "versie": "87d6016e4c37fbbd",
+   "extra": {},
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "natura 2000"
+    ],
+    "Stikstof": [
+     "stikstof",
+     "depositie",
+     "KDW",
+     "kritische depositiewaarde"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "79240065f9118e46",
+   "bron": "RIVM",
+   "categorie": "Onderzoek",
+   "methode": "feed",
+   "soort": "",
+   "titel": "Europese voedselsystemen onder druk door klimaatveranderingen en geopolitieke onrust",
+   "samenvatting_bron": "Klimaatveranderingen, zoals droogte en extreem weer, hebben de grote invloed op Europese voedselsystemen. Ook technologische ontwikkelingen en geopolitieke onrust en conflicten spelen een belangrijke rol. Dat blijkt uit literatuuronderzoek van het RIVM en internationale workshops met beleidsmakers, experts en vertegenwoordigers van het bedrijfsleven en maatschappelijke organisaties.",
+   "url": "https://www.rivm.nl/nieuws/europese-voedselsystemen-onder-druk-door-klimaatveranderingen-en-geopolitieke-onrust",
+   "datum": "2026-09-30",
+   "versie": "caaa718dadc3cf68",
+   "extra": {},
+   "status": "nieuw",
+   "thema_treffers": {
+    "Klimaatadaptatie": [
+     "droogte"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "d6c58844c57ce0e5",
+   "bron": "RIVM",
+   "categorie": "Onderzoek",
+   "methode": "feed",
+   "soort": "",
+   "titel": "Nieuwe metingen PFAS in bloed",
+   "samenvatting_bron": "In 2025 was bij 71 procent van de mensen de hoeveelheid PFAS (Per- en polyfluoralkylstoffen) in het bloed hoger dan de gezondheidskundige grenswaarde. Dat blijkt uit nieuw RIVM-onderzoek. In het vorige onderzoek met bloed uit 2016 en 2017 was dit nog bij vrijwel iedereen het geval.",
+   "url": "https://www.rivm.nl/nieuws/nieuwe-metingen-pfas-in-bloed",
+   "datum": "2026-09-29",
+   "versie": "1d33fdcec58bf269",
+   "extra": {},
+   "status": "nieuw",
+   "thema_treffers": {
+    "Waterkwaliteit": [
+     "PFAS"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "98e01d95fc98f6ec",
+   "bron": "RIVM",
+   "categorie": "Onderzoek",
+   "methode": "feed",
+   "soort": "",
+   "titel": "Microplastics in oppervlaktewater: meer aandacht nodig voor kwaliteit meetgegevens",
+   "samenvatting_bron": "De kennis over microplastics in oppervlaktewater ontwikkelt zich snel, maar kent op dit moment een aantal onzekerheden. Met name de kwaliteit en beschikbaarheid van meetgegevens is nog onvoldoende. Dat constateren het RIVM en WUR (Wageningen University &Research) in een onderzoek naar de bruikbaarheid van risicogrenswaarden voor microplastics in de praktijk.",
+   "url": "https://www.rivm.nl/nieuws/microplastics-in-oppervlaktewater-meer-aandacht-nodig-voor-kwaliteit-meetgegevens",
+   "datum": "2026-09-16",
+   "versie": "11a9e4cacb4ffaf7",
+   "extra": {},
+   "status": "nieuw",
+   "thema_treffers": {
+    "Waterkwaliteit": [
+     "oppervlaktewater"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "3bcbb18923c2e7ab",
+   "bron": "RIVM",
+   "categorie": "Onderzoek",
+   "methode": "feed",
+   "soort": "",
+   "titel": "Nog steeds veel PAK en metalen in stof IJmond",
+   "samenvatting_bron": "In de omgeving van Tata Steel komen meer PAK (Polycyclische Aromatische Koolwaterstoffen) en metalen neer op de grond dan in gebieden zonder industrie. Dat blijkt opnieuw uit depositiemetingen van het RIVM. Eerder stelde het RIVM vast dat de blootstelling aan de hoeveelheden lood en PAK ongewenst is voor de gezondheid van kinderen. Voor de andere metalen werd geen direct gezondheidseffect verwacht.",
+   "url": "https://www.rivm.nl/nieuws/nog-steeds-veel-pak-en-metalen-in-stof-ijmond",
+   "datum": "2026-09-10",
+   "versie": "21aeab400c85a5a1",
+   "extra": {},
+   "status": "nieuw",
+   "thema_treffers": {
+    "Stikstof": [
+     "depositie"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "a42d25b144f58a57",
+   "bron": "Trouw",
+   "categorie": "Media",
+   "methode": "web",
+   "soort": "",
+   "titel": "Hitte zorgt voor meer nierschade. Maar dít gevolg van klimaatverandering is vaak simpel te voorkomen",
+   "samenvatting_bron": "",
+   "url": "https://www.trouw.nl/gezondheid/hitte-zorgt-voor-meer-nierschade-maar-dit-gevolg-van-klimaatverandering-is-vaak-simpel-te-voorkomen~b9425577/",
+   "datum": "2026-10-11",
+   "versie": "b245445f080d30bb",
+   "extra": {},
+   "status": "nieuw",
+   "thema_treffers": {
+    "Klimaatadaptatie": [
+     "hitte"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
+  },
+  {
+   "id": "b5906a34d9b7affa",
+   "bron": "Binnenlands Bestuur",
+   "categorie": "Media",
+   "methode": "web",
+   "soort": "",
+   "titel": "kennispartners Nieuwe opleiding: Aan de slag met de Wet versterking regie volkshuisvesting Van woningbouwopgave naar uitvoering: begrijp de nieuwe regierol van gemeenten.",
+   "samenvatting_bron": "",
+   "url": "https://www.binnenlandsbestuur.nl/ruimte-en-milieu/schulinck-omgevingsrecht/opleiding-aan-de-slag-wet-versterking-regie-volkshuisvesting",
+   "datum": null,
+   "versie": "89e5e895ec879b0b",
+   "extra": {},
+   "status": "nieuw",
+   "thema_treffers": {
+    "Bouwcontext": [
+     "woningbouw"
+    ]
+   },
+   "verzameld_op": "2026-10-13T18:11:06+00:00"
   }
  ]
 }
