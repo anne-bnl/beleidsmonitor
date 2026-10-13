@@ -1,0 +1,205 @@
+# Trefwoorden voor de voorselectie.
+#
+# Deze lijst wordt ALLEEN gebruikt bij bronnen met grote aantallen publicaties
+# (algemeen nieuws, gemeente-, provincie- en waterschapsbladen, Staatscourant,
+# rechtspraak). Bij die bronnen gaat een publicatie door naar de inhoudelijke
+# beoordeling als minstens één trefwoord voorkomt in titel, samenvatting of
+# (waar beschikbaar) de volledige tekst. Bij alle andere bronnen gaat ALLES door.
+#
+# De lijst is bewust ruim. Liever een paar berichten te veel dan een gemist stuk.
+# Schrijfwijze: kleine letters = hoofdletterongevoelig, en het woord mag langer
+# doorlopen ("stikstof" vindt ook "stikstofdepositie"). Afkortingen in HOOFDLETTERS
+# worden alleen als los woord gevonden.
+
+thema's:
+  Natuurherstel en gebiedsbescherming:
+    - natuurherstel
+    - natuurherstelverordening
+    - nature restoration
+    - natuurdoelanalyse
+    - natura 2000
+    - natura-2000
+    - natura2000
+    - habitatrichtlijn
+    - vogelrichtlijn
+    - habitats directive
+    - natuurnetwerk
+    - NNN
+    - biodiversiteit
+    - biodiversity
+    - ecologie
+    - ecologisch
+    - ecosysteem
+    - natuurgebied
+    - natuurbeleid
+    - natuurwaarden
+    - landschap
+    - houtopstand
+    - herplant
+    - bossenstrategie
+    - natuurcompensatie
+    - Programma Natuur
+    - instandhoudingsdoel
+  Soortenbescherming:
+    - soortenbescherming
+    - beschermde soort
+    - beschermde dier
+    - beschermde plant
+    - flora en fauna
+    - flora- en fauna
+    - wet natuurbescherming
+    - WNB
+    - Wnb
+    - ontheffing
+    - omgevingsvergunning flora
+    - flora- en fauna-activiteit
+    - vleermuis
+    - vleermuizen
+    - huismus
+    - gierzwaluw
+    - rugstreeppad
+    - dassen
+    - kerkuil
+    - steenmarter
+    - broedvogel
+    - broedseizoen
+    - nestplaats
+    - verblijfplaats
+    - zorgplicht
+    - soortenmanagementplan
+    - SMP
+    - gebiedsgerichte ontheffing
+    - gebiedsgerichte aanpak
+    - ecologisch werkprotocol
+    - gedragscode
+    - invasieve exoot
+    - invasieve soort
+  Natuurinclusief bouwen:
+    - natuurinclusief
+    - natuurinclusieve
+    - nature-inclusive
+    - groene daken
+    - groen dak
+    - nestkast
+    - nestvoorziening
+    - gebouwgebonden soort
+    - biodiversiteitsdoel
+    - groennorm
+    - vergroening
+  eDNA en monitoring:
+    - eDNA
+    - environmental DNA
+    - omgevings-DNA
+    - soortenmonitoring
+    - NDFF
+    - natuurdata
+    - telgegevens
+  Stikstof:
+    - stikstof
+    - nitrogen
+    - depositie
+    - ammoniak
+    - NOx
+    - stikstofoxide
+    - AERIUS
+    - Aerius
+    - rekenkundige ondergrens
+    - KDW
+    - kritische depositiewaarde
+    - intern salderen
+    - extern salderen
+    - salderen
+    - bouwvrijstelling
+    - PAS-melder
+    - Porthos
+    - stikstofbank
+    - stikstofruimte
+    - voortoets
+    - passende beoordeling
+    - natuurvergunning
+    - additionaliteit
+    - emissiearm bouwen
+    - emissieloos bouwen
+    - schoon en emissieloos
+    - SEB
+  Waterkwaliteit:
+    - waterkwaliteit
+    - KRW
+    - kaderrichtlijn water
+    - water framework directive
+    - grondwater
+    - oppervlaktewater
+    - PFAS
+    - lozing
+    - lozen
+    - bemaling
+    - grondwateronttrekking
+    - waterschap
+    - water en bodem sturend
+    - WBS
+    - waterbeheer
+    - waterbeheerprogramma
+    - drinkwater
+    - bodemkwaliteit
+    - bodembeleid
+    - besluit bodemkwaliteit
+    - bagger
+    - verdroging
+    - zoetwater
+    - nutriënten
+  Klimaatadaptatie:
+    - klimaatadaptatie
+    - klimaatadaptief
+    - klimaatbestendig
+    - climate adaptation
+    - hittestress
+    - hitte
+    - wateroverlast
+    - droogte
+    - overstroming
+    - deltaprogramma
+    - deltaplan ruimtelijke adaptatie
+    - maatlat groene klimaatadaptieve
+    - klimaatrisico
+    - groenblauw
+    - waterberging
+    - hoogwater
+    - sponswerking
+
+# Bouwcontext: deze termen laten een bericht door bij algemene bronnen,
+# omdat ontwikkelingen in de bouw vaak natuur- of milieugevolgen hebben
+# die niet in de kop staan.
+bouwcontext:
+  - woningbouw
+  - woningbouwproject
+  - nieuwbouw
+  - renovatie
+  - verduurzaming
+  - na-isolatie
+  - isolatie
+  - sloop
+  - slopen
+  - onderhoud van
+  - infrastructuur
+  - infraproject
+  - wegenbouw
+  - MIRT
+  - rijkswaterstaat
+  - utiliteitsbouw
+  - bouwsector
+  - bouwbedrijf
+  - bouwproductie
+  - aannemer
+  - bouwvergunning
+  - omgevingsvergunning
+  - omgevingsplan
+  - bestemmingsplan
+  - omgevingswet
+  - projectbesluit
+  - tracébesluit
+  - gebiedsontwikkeling
+  - woontop
+  - bouwend nederland
+  - bouwstop
+  - vergunningverlening
+  - construction sector

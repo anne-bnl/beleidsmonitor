@@ -1,0 +1,247 @@
+# Bronnenlijst van de beleidsmonitor.
+#
+# Per bron:
+#   naam       : zoals hij op het dashboard verschijnt
+#   categorie  : groep op het dashboard
+#   methode    : api_tk_documenten | api_tk_besluiten | api_koop | api_rechtspraak | feed | web
+#                - api_*  : officiële koppeling, vraagt alle nieuwe en gewijzigde stukken op
+#                - feed   : RSS/Atom-feed van de bron
+#                - web    : webpagina; het programma zoekt eerst zelf naar een feed,
+#                           en vergelijkt anders de links op de pagina met de vorige keer
+#   url        : adres
+#   filter     : alles (alles gaat door naar beoordeling) | trefwoord (alleen bij treffer)
+#   toegevoegd : eigen = uit de lijst van Anne, voorstel = door Claude voorgesteld en goedgekeurd
+
+bronnen:
+
+  # ---------- Parlement en Rijk: officiële koppelingen ----------
+  - naam: Tweede Kamer (documenten, moties, Kamerbrieven, vragen)
+    categorie: Parlement
+    methode: api_tk_documenten
+    url: https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/
+    filter: alles
+    toegevoegd: eigen
+  - naam: Tweede Kamer (besluiten en stemmingen)
+    categorie: Parlement
+    methode: api_tk_besluiten
+    url: https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/
+    filter: alles
+    toegevoegd: eigen
+  - naam: Staatsblad
+    categorie: Bekendmakingen
+    methode: api_koop
+    publicatie: stb
+    url: https://repository.overheid.nl/sru
+    filter: alles
+    toegevoegd: eigen
+  - naam: Staatscourant
+    categorie: Bekendmakingen
+    methode: api_koop
+    publicatie: stcrt
+    url: https://repository.overheid.nl/sru
+    filter: trefwoord
+    toegevoegd: eigen
+  - naam: Provinciale bladen
+    categorie: Bekendmakingen
+    methode: api_koop
+    publicatie: prb
+    url: https://repository.overheid.nl/sru
+    filter: trefwoord
+    toegevoegd: eigen
+  - naam: Gemeentebladen
+    categorie: Bekendmakingen
+    methode: api_koop
+    publicatie: gmb
+    url: https://repository.overheid.nl/sru
+    filter: trefwoord
+    toegevoegd: eigen
+  - naam: Waterschapsbladen
+    categorie: Bekendmakingen
+    methode: api_koop
+    publicatie: wsb
+    url: https://repository.overheid.nl/sru
+    filter: trefwoord
+    toegevoegd: eigen
+  - naam: Bladen gemeenschappelijke regelingen
+    categorie: Bekendmakingen
+    methode: api_koop
+    publicatie: bgr
+    url: https://repository.overheid.nl/sru
+    filter: trefwoord
+    toegevoegd: eigen
+  - naam: Eerste Kamer
+    categorie: Parlement
+    methode: web
+    url: https://www.eerstekamer.nl/nieuws
+    filter: alles
+    toegevoegd: eigen
+  - naam: Rijksoverheid nieuws
+    categorie: Rijk
+    methode: web
+    url: https://www.rijksoverheid.nl/actueel/nieuws
+    filter: trefwoord
+    toegevoegd: eigen
+  - naam: Internetconsultatie
+    categorie: Consultaties
+    methode: web
+    url: https://www.internetconsultatie.nl/
+    filter: alles
+    toegevoegd: eigen
+  - naam: Wetgevingskalender
+    categorie: Rijk
+    methode: web
+    url: https://wetgevingskalender.overheid.nl/
+    filter: trefwoord
+    toegevoegd: eigen
+  - naam: Open Overheid (Woo-publicaties)
+    categorie: Rijk
+    methode: web
+    url: https://open.overheid.nl/
+    filter: trefwoord
+    toegevoegd: eigen
+  - naam: Wet- en regelgeving
+    categorie: Rijk
+    methode: web
+    url: https://wetten.overheid.nl/
+    filter: trefwoord
+    toegevoegd: eigen
+  - naam: IPO
+    categorie: Koepels
+    methode: web
+    url: https://www.ipo.nl/nieuws/
+    filter: alles
+    toegevoegd: eigen
+  - naam: VNG
+    categorie: Koepels
+    methode: web
+    url: https://vng.nl/nieuws
+    filter: trefwoord
+    toegevoegd: eigen
+  - naam: Unie van Waterschappen
+    categorie: Koepels
+    methode: web
+    url: https://unievanwaterschappen.nl/nieuws/
+    filter: alles
+    toegevoegd: voorstel
+
+  # ---------- Rechtspraak ----------
+  - naam: Raad van State en rechtspraak (uitspraken)
+    categorie: Rechtspraak
+    methode: api_rechtspraak
+    url: https://data.rechtspraak.nl/uitspraken/zoeken
+    filter: trefwoord
+    toegevoegd: voorstel
+  - naam: Raad van State (nieuws en uitspraken)
+    categorie: Rechtspraak
+    methode: web
+    url: https://www.raadvanstate.nl/actueel/nieuws/
+    filter: alles
+    toegevoegd: voorstel
+
+  # ---------- Europa ----------
+  - naam: Europese Commissie persberichten
+    categorie: Europa
+    methode: web
+    url: https://ec.europa.eu/commission/presscorner/home/en
+    filter: trefwoord
+    toegevoegd: eigen
+  - naam: Europese Commissie consultaties (Have your say)
+    categorie: Europa
+    methode: web
+    url: https://ec.europa.eu/info/law/better-regulation/have-your-say_en
+    filter: trefwoord
+    toegevoegd: eigen
+  - naam: Europees Parlement nieuws
+    categorie: Europa
+    methode: web
+    url: https://www.europarl.europa.eu/news/en
+    filter: trefwoord
+    toegevoegd: eigen
+  - naam: EUR-Lex
+    categorie: Europa
+    methode: web
+    url: https://eur-lex.europa.eu/homepage.html
+    filter: trefwoord
+    toegevoegd: eigen
+  - naam: Europees Milieuagentschap (EEA)
+    categorie: Europa
+    methode: web
+    url: https://www.eea.europa.eu/en/newsroom/news
+    filter: trefwoord
+    toegevoegd: eigen
+  - naam: FIEC
+    categorie: Europa
+    methode: web
+    url: https://www.fiec.eu/
+    filter: trefwoord
+    toegevoegd: eigen
+
+  # ---------- Provincies ----------
+  - {naam: Provincie Drenthe, categorie: Provincies, methode: web, url: "https://www.provincie.drenthe.nl/", filter: trefwoord, toegevoegd: eigen}
+  - {naam: Provincie Flevoland, categorie: Provincies, methode: web, url: "https://www.flevoland.nl/", filter: trefwoord, toegevoegd: eigen}
+  - {naam: Provincie Fryslân, categorie: Provincies, methode: web, url: "https://www.fryslan.frl/", filter: trefwoord, toegevoegd: eigen}
+  - {naam: Provincie Gelderland, categorie: Provincies, methode: web, url: "https://www.gelderland.nl/", filter: trefwoord, toegevoegd: eigen}
+  - {naam: Provincie Groningen, categorie: Provincies, methode: web, url: "https://www.provinciegroningen.nl/", filter: trefwoord, toegevoegd: eigen}
+  - {naam: Provincie Limburg, categorie: Provincies, methode: web, url: "https://www.limburg.nl/", filter: trefwoord, toegevoegd: eigen}
+  - {naam: Provincie Noord-Brabant, categorie: Provincies, methode: web, url: "https://www.brabant.nl/", filter: trefwoord, toegevoegd: eigen}
+  - {naam: Provincie Noord-Holland, categorie: Provincies, methode: web, url: "https://www.noord-holland.nl/", filter: trefwoord, toegevoegd: eigen}
+  - {naam: Provincie Overijssel, categorie: Provincies, methode: web, url: "https://www.overijssel.nl/", filter: trefwoord, toegevoegd: eigen}
+  - {naam: Provincie Utrecht, categorie: Provincies, methode: web, url: "https://www.provincie-utrecht.nl/", filter: trefwoord, toegevoegd: eigen}
+  - {naam: Provincie Zeeland, categorie: Provincies, methode: web, url: "https://www.zeeland.nl/", filter: trefwoord, toegevoegd: eigen}
+  - {naam: Provincie Zuid-Holland, categorie: Provincies, methode: web, url: "https://www.zuid-holland.nl/", filter: trefwoord, toegevoegd: eigen}
+
+  # ---------- Gemeenten ----------
+  - {naam: Gemeente Amsterdam, categorie: Gemeenten, methode: web, url: "https://www.amsterdam.nl/nieuws/", filter: trefwoord, toegevoegd: eigen}
+  - {naam: Gemeente Rotterdam, categorie: Gemeenten, methode: web, url: "https://www.rotterdam.nl/nieuws", filter: trefwoord, toegevoegd: eigen}
+  - {naam: Gemeente Utrecht, categorie: Gemeenten, methode: web, url: "https://www.utrecht.nl/nieuws/", filter: trefwoord, toegevoegd: eigen}
+
+  # ---------- Kennis- en uitvoeringsinstellingen ----------
+  - {naam: PBL Planbureau voor de Leefomgeving, categorie: Onderzoek, methode: web, url: "https://www.pbl.nl/actueel", filter: alles, toegevoegd: voorstel}
+  - {naam: RIVM, categorie: Onderzoek, methode: web, url: "https://www.rivm.nl/nieuws", filter: trefwoord, toegevoegd: voorstel}
+  - {naam: Raad voor de leefomgeving en infrastructuur (Rli), categorie: Onderzoek, methode: web, url: "https://www.rli.nl/", filter: alles, toegevoegd: voorstel}
+  - {naam: BIJ12, categorie: Uitvoering, methode: web, url: "https://www.bij12.nl/nieuws/", filter: alles, toegevoegd: voorstel}
+  - {naam: Rijkswaterstaat, categorie: Uitvoering, methode: web, url: "https://www.rijkswaterstaat.nl/nieuws", filter: trefwoord, toegevoegd: voorstel}
+  - {naam: STOWA, categorie: Onderzoek, methode: web, url: "https://www.stowa.nl/nieuws", filter: alles, toegevoegd: voorstel}
+  - {naam: Deltares, categorie: Onderzoek, methode: web, url: "https://www.deltares.nl/nieuws", filter: trefwoord, toegevoegd: voorstel}
+  - {naam: EIB, categorie: Onderzoek, methode: web, url: "https://www.eib.nl/news/", filter: alles, toegevoegd: eigen}
+  - {naam: WUR, categorie: Onderzoek, methode: web, url: "https://www.wur.nl/nl/nieuws.htm", filter: trefwoord, toegevoegd: eigen}
+  - {naam: TNO, categorie: Onderzoek, methode: web, url: "https://www.tno.nl/nl/newsroom/", filter: trefwoord, toegevoegd: eigen}
+  - {naam: Universiteiten van Nederland, categorie: Onderzoek, methode: web, url: "https://www.universiteitenvannederland.nl/", filter: trefwoord, toegevoegd: eigen}
+  - {naam: Universiteit Leiden, categorie: Onderzoek, methode: web, url: "https://www.universiteitleiden.nl/nieuws", filter: trefwoord, toegevoegd: eigen}
+  - {naam: Universiteit Utrecht, categorie: Onderzoek, methode: web, url: "https://www.uu.nl/nieuws", filter: trefwoord, toegevoegd: eigen}
+  - {naam: Universiteit van Amsterdam, categorie: Onderzoek, methode: web, url: "https://www.uva.nl/shared-content/uva/nl/nieuws/nieuws.html", filter: trefwoord, toegevoegd: eigen}
+  - {naam: Vrije Universiteit Amsterdam, categorie: Onderzoek, methode: web, url: "https://vu.nl/nl/nieuws", filter: trefwoord, toegevoegd: eigen}
+  - {naam: PLOS, categorie: Onderzoek, methode: web, url: "https://plos.org/", filter: trefwoord, toegevoegd: eigen}
+
+  # ---------- Natuur- en soortenorganisaties ----------
+  - {naam: Vogelbescherming, categorie: Natuurorganisaties, methode: web, url: "https://www.vogelbescherming.nl/actueel/nieuws", filter: alles, toegevoegd: eigen}
+  - {naam: Natuurmonumenten, categorie: Natuurorganisaties, methode: web, url: "https://www.natuurmonumenten.nl/nieuws", filter: alles, toegevoegd: eigen}
+  - {naam: Staatsbosbeheer, categorie: Natuurorganisaties, methode: web, url: "https://www.staatsbosbeheer.nl/nieuws", filter: alles, toegevoegd: eigen}
+  - {naam: De Vlinderstichting, categorie: Natuurorganisaties, methode: web, url: "https://www.vlinderstichting.nl/actueel/nieuws/", filter: alles, toegevoegd: eigen}
+  - {naam: Zoogdiervereniging, categorie: Natuurorganisaties, methode: web, url: "https://www.zoogdiervereniging.nl/nieuws", filter: alles, toegevoegd: eigen}
+  - {naam: EIS Kenniscentrum Insecten, categorie: Natuurorganisaties, methode: web, url: "https://kenniscentruminsecten.nl/actueel/", filter: alles, toegevoegd: eigen}
+  - {naam: Sovon Vogelonderzoek, categorie: Natuurorganisaties, methode: web, url: "https://www.sovon.nl/nieuws", filter: alles, toegevoegd: voorstel}
+  - {naam: RAVON, categorie: Natuurorganisaties, methode: web, url: "https://www.ravon.nl/nieuws", filter: alles, toegevoegd: voorstel}
+  - {naam: FLORON, categorie: Natuurorganisaties, methode: web, url: "https://www.floron.nl/nieuws", filter: alles, toegevoegd: voorstel}
+  - {naam: Natuur & Milieu, categorie: Natuurorganisaties, methode: web, url: "https://natuurenmilieu.nl/nieuws/", filter: alles, toegevoegd: eigen}
+  - {naam: Koninklijke VHG, categorie: Groen en bouw, methode: web, url: "https://www.vhg.org/nieuws", filter: trefwoord, toegevoegd: eigen}
+  - {naam: KAN Kennisnetwerk natuurinclusief bouwen, categorie: Groen en bouw, methode: web, url: "https://www.kanbouwen.nl/", filter: alles, toegevoegd: eigen}
+  - {naam: Dutch Green Building Council, categorie: Groen en bouw, methode: web, url: "https://www.dgbc.nl/nieuws", filter: trefwoord, toegevoegd: eigen}
+  - {naam: World Green Building Council, categorie: Internationaal, methode: web, url: "https://worldgbc.org/news-media/", filter: trefwoord, toegevoegd: eigen}
+  - {naam: IUCN, categorie: Internationaal, methode: web, url: "https://iucn.org/news", filter: trefwoord, toegevoegd: eigen}
+  - {naam: ICLEI Europe, categorie: Internationaal, methode: web, url: "https://iclei-europe.org/news/", filter: trefwoord, toegevoegd: eigen}
+
+  # ---------- Tegengeluid en procederende partijen ----------
+  - {naam: Mobilisation for the Environment (MOB), categorie: Tegengeluid, methode: web, url: "https://www.mobilisation.nl/", filter: alles, toegevoegd: voorstel}
+  - {naam: Greenpeace Nederland, categorie: Tegengeluid, methode: web, url: "https://www.greenpeace.org/nl/nieuws/", filter: trefwoord, toegevoegd: voorstel}
+  - {naam: LTO Nederland, categorie: Tegengeluid, methode: web, url: "https://www.lto.nl/nieuws/", filter: trefwoord, toegevoegd: voorstel}
+
+  # ---------- Media ----------
+  - {naam: NOS Binnenland, categorie: Media, methode: feed, url: "https://feeds.nos.nl/nosnieuwsbinnenland", filter: trefwoord, toegevoegd: eigen}
+  - {naam: NOS Politiek, categorie: Media, methode: feed, url: "https://feeds.nos.nl/nosnieuwspolitiek", filter: trefwoord, toegevoegd: eigen}
+  - {naam: NU.nl Algemeen, categorie: Media, methode: feed, url: "https://www.nu.nl/rss/Algemeen", filter: trefwoord, toegevoegd: eigen}
+  - {naam: Trouw, categorie: Media, methode: web, url: "https://www.trouw.nl/duurzaamheid-economie", filter: trefwoord, toegevoegd: voorstel}
+  - {naam: Binnenlands Bestuur, categorie: Media, methode: web, url: "https://www.binnenlandsbestuur.nl/", filter: trefwoord, toegevoegd: voorstel}
+  - {naam: Cobouw, categorie: Bouwmedia, methode: web, url: "https://www.cobouw.nl/", filter: trefwoord, toegevoegd: voorstel}
+  - {naam: BouwTotaal, categorie: Bouwmedia, methode: web, url: "https://www.bouwtotaal.nl/", filter: trefwoord, toegevoegd: eigen}
+  - {naam: Bouwend Nederland, categorie: Bouwmedia, methode: web, url: "https://www.bouwendnederland.nl/actueel/nieuws", filter: alles, toegevoegd: eigen}
