@@ -77,13 +77,11 @@ bronnen:
     url: https://www.eerstekamer.nl/nieuws
     filter: alles
     toegevoegd: eigen
-  - {naam: Rijksoverheid nieuws LVVN, categorie: Rijk, methode: feed, url: "https://feeds.rijksoverheid.nl/ministeries/ministerie-van-landbouw-visserij-voedselzekerheid-en-natuur/nieuws.rss", filter: alles, toegevoegd: eigen}
-  - {naam: Rijksoverheid documenten LVVN, categorie: Rijk, methode: feed, url: "https://feeds.rijksoverheid.nl/ministeries/ministerie-van-landbouw-visserij-voedselzekerheid-en-natuur/documenten.rss", filter: trefwoord, toegevoegd: eigen}
-  - {naam: Rijksoverheid nieuws IenW, categorie: Rijk, methode: feed, url: "https://feeds.rijksoverheid.nl/ministeries/ministerie-van-infrastructuur-en-waterstaat/nieuws.rss", filter: trefwoord, toegevoegd: eigen}
-  - {naam: Rijksoverheid documenten IenW, categorie: Rijk, methode: feed, url: "https://feeds.rijksoverheid.nl/ministeries/ministerie-van-infrastructuur-en-waterstaat/documenten.rss", filter: trefwoord, toegevoegd: eigen}
-  - {naam: Rijksoverheid nieuws VRO, categorie: Rijk, methode: feed, url: "https://feeds.rijksoverheid.nl/ministeries/ministerie-van-volkshuisvesting-en-ruimtelijke-ordening/nieuws.rss", filter: trefwoord, toegevoegd: eigen}
-  - {naam: Rijksoverheid documenten VRO, categorie: Rijk, methode: feed, url: "https://feeds.rijksoverheid.nl/ministeries/ministerie-van-volkshuisvesting-en-ruimtelijke-ordening/documenten.rss", filter: trefwoord, toegevoegd: eigen}
-  - {naam: Rijksoverheid nieuws KGG, categorie: Rijk, methode: feed, url: "https://feeds.rijksoverheid.nl/ministeries/ministerie-van-klimaat-en-groene-groei/nieuws.rss", filter: trefwoord, toegevoegd: eigen}
+  - {naam: Rijksoverheid nieuws (alle ministeries), categorie: Rijk, methode: feed, url: "https://www.rijksoverheid.nl/api/rss?query=%7B%22filters%22%3A%5B%7B%22field%22%3A%22content_type%22%2C%22values%22%3A%5B%22pro%3AnewsDocument%22%5D%2C%22type%22%3A%22all%22%7D%5D%2C%22resultSearchTerm%22%3A%22%22%2C%22pageTitle%22%3A%22Nieuws%22%7D", filter: trefwoord, toegevoegd: eigen}
+  - {naam: Rijksoverheid nieuws over natuur, categorie: Rijk, methode: feed, url: "https://www.rijksoverheid.nl/api/rss?query=%7B%22filters%22%3A%5B%7B%22field%22%3A%22content_type%22%2C%22values%22%3A%5B%22pro%3AnewsDocument%22%5D%2C%22type%22%3A%22all%22%7D%5D%2C%22resultSearchTerm%22%3A%22natuur%22%2C%22pageTitle%22%3A%22Nieuws%22%7D", filter: alles, toegevoegd: eigen}
+  - {naam: Rijksoverheid nieuws over stikstof, categorie: Rijk, methode: feed, url: "https://www.rijksoverheid.nl/api/rss?query=%7B%22filters%22%3A%5B%7B%22field%22%3A%22content_type%22%2C%22values%22%3A%5B%22pro%3AnewsDocument%22%5D%2C%22type%22%3A%22all%22%7D%5D%2C%22resultSearchTerm%22%3A%22stikstof%22%2C%22pageTitle%22%3A%22Nieuws%22%7D", filter: alles, toegevoegd: eigen}
+  - {naam: Rijksoverheid nieuws over water, categorie: Rijk, methode: feed, url: "https://www.rijksoverheid.nl/api/rss?query=%7B%22filters%22%3A%5B%7B%22field%22%3A%22content_type%22%2C%22values%22%3A%5B%22pro%3AnewsDocument%22%5D%2C%22type%22%3A%22all%22%7D%5D%2C%22resultSearchTerm%22%3A%22water%22%2C%22pageTitle%22%3A%22Nieuws%22%7D", filter: alles, toegevoegd: eigen}
+  - {naam: Rijksoverheid nieuws over woningbouw, categorie: Rijk, methode: feed, url: "https://www.rijksoverheid.nl/api/rss?query=%7B%22filters%22%3A%5B%7B%22field%22%3A%22content_type%22%2C%22values%22%3A%5B%22pro%3AnewsDocument%22%5D%2C%22type%22%3A%22all%22%7D%5D%2C%22resultSearchTerm%22%3A%22woningbouw%22%2C%22pageTitle%22%3A%22Nieuws%22%7D", filter: alles, toegevoegd: eigen}
   - naam: Internetconsultatie
     categorie: Consultaties
     methode: zoekcontrole
@@ -104,7 +102,7 @@ bronnen:
     toegevoegd: eigen
   - naam: Wet- en regelgeving
     categorie: Rijk
-    methode: web
+    methode: zoekcontrole
     url: https://wetten.overheid.nl/
     filter: trefwoord
     toegevoegd: eigen
@@ -122,7 +120,7 @@ bronnen:
     toegevoegd: eigen
   - naam: Unie van Waterschappen
     categorie: Koepels
-    methode: web
+    methode: zoekcontrole
     url: https://unievanwaterschappen.nl/nieuws/
     filter: alles
     toegevoegd: voorstel
@@ -144,25 +142,25 @@ bronnen:
   # ---------- Europa ----------
   - naam: Europese Commissie persberichten
     categorie: Europa
-    methode: web
+    methode: zoekcontrole
     url: https://ec.europa.eu/commission/presscorner/home/en
     filter: trefwoord
     toegevoegd: eigen
   - naam: Europese Commissie consultaties (Have your say)
     categorie: Europa
-    methode: web
+    methode: zoekcontrole
     url: https://ec.europa.eu/info/law/better-regulation/have-your-say_en
     filter: trefwoord
     toegevoegd: eigen
   - naam: Europees Parlement nieuws
     categorie: Europa
-    methode: feed
+    methode: zoekcontrole
     url: https://www.europarl.europa.eu/rss/doc/top-stories/en.xml
     filter: trefwoord
     toegevoegd: eigen
   - naam: EUR-Lex
     categorie: Europa
-    methode: web
+    methode: zoekcontrole
     url: https://eur-lex.europa.eu/homepage.html
     filter: trefwoord
     toegevoegd: eigen
@@ -181,9 +179,9 @@ bronnen:
 
   # ---------- Provincies ----------
   - {naam: Provincie Drenthe, categorie: Provincies, methode: web, url: "https://www.provincie.drenthe.nl/", filter: trefwoord, toegevoegd: eigen}
-  - {naam: Provincie Flevoland, categorie: Provincies, methode: web, url: "https://www.flevoland.nl/", filter: trefwoord, toegevoegd: eigen}
-  - {naam: Provincie Fryslân, categorie: Provincies, methode: web, url: "https://www.fryslan.frl/", filter: trefwoord, toegevoegd: eigen}
-  - {naam: Provincie Gelderland, categorie: Provincies, methode: web, url: "https://www.gelderland.nl/", filter: trefwoord, toegevoegd: eigen}
+  - {naam: Provincie Flevoland, categorie: Provincies, methode: zoekcontrole, url: "https://www.flevoland.nl/", filter: trefwoord, toegevoegd: eigen}
+  - {naam: Provincie Fryslân, categorie: Provincies, methode: zoekcontrole, url: "https://www.fryslan.frl/", filter: trefwoord, toegevoegd: eigen}
+  - {naam: Provincie Gelderland, categorie: Provincies, methode: zoekcontrole, url: "https://www.gelderland.nl/", filter: trefwoord, toegevoegd: eigen}
   - {naam: Provincie Groningen, categorie: Provincies, methode: web, url: "https://www.provinciegroningen.nl/", filter: trefwoord, toegevoegd: eigen}
   - {naam: Provincie Limburg, categorie: Provincies, methode: web, url: "https://www.limburg.nl/", filter: trefwoord, toegevoegd: eigen}
   - {naam: Provincie Noord-Brabant, categorie: Provincies, methode: web, url: "https://www.brabant.nl/", filter: trefwoord, toegevoegd: eigen}
@@ -195,11 +193,12 @@ bronnen:
 
   # ---------- Gemeenten ----------
   - {naam: Gemeente Amsterdam, categorie: Gemeenten, methode: web, url: "https://www.amsterdam.nl/nieuws/", filter: trefwoord, toegevoegd: eigen}
-  - {naam: Gemeente Rotterdam, categorie: Gemeenten, methode: web, url: "https://www.rotterdam.nl/nieuws", filter: trefwoord, toegevoegd: eigen}
+  - {naam: Gemeente Rotterdam, categorie: Gemeenten, methode: zoekcontrole, url: "https://www.rotterdam.nl/nieuws", filter: trefwoord, toegevoegd: eigen}
   - {naam: Gemeente Utrecht, categorie: Gemeenten, methode: web, url: "https://www.utrecht.nl/nieuws/", filter: trefwoord, toegevoegd: eigen}
 
   # ---------- Kennis- en uitvoeringsinstellingen ----------
-  - {naam: PBL Planbureau voor de Leefomgeving, categorie: Onderzoek, methode: web, url: "https://www.pbl.nl/actueel", filter: alles, toegevoegd: voorstel}
+  - {naam: PBL nieuws, categorie: Onderzoek, methode: feed, url: "https://www.pbl.nl/feed/article/rss.xml", filter: alles, toegevoegd: voorstel}
+  - {naam: PBL publicaties, categorie: Onderzoek, methode: feed, url: "https://www.pbl.nl/feed/publication/rss.xml", filter: alles, toegevoegd: voorstel}
   - {naam: RIVM, categorie: Onderzoek, methode: feed, url: "https://www.rivm.nl/nieuws/rss.xml", filter: trefwoord, toegevoegd: voorstel}
   - {naam: Raad voor de leefomgeving en infrastructuur (Rli), categorie: Onderzoek, methode: web, url: "https://www.rli.nl/", filter: alles, toegevoegd: voorstel}
   - {naam: BIJ12, categorie: Uitvoering, methode: web, url: "https://www.bij12.nl/nieuws/", filter: alles, toegevoegd: voorstel}
@@ -213,29 +212,29 @@ bronnen:
   - {naam: Universiteit Leiden, categorie: Onderzoek, methode: web, url: "https://www.universiteitleiden.nl/nieuws", filter: trefwoord, toegevoegd: eigen}
   - {naam: Universiteit Utrecht, categorie: Onderzoek, methode: web, url: "https://www.uu.nl/nieuws", filter: trefwoord, toegevoegd: eigen}
   - {naam: Universiteit van Amsterdam, categorie: Onderzoek, methode: web, url: "https://www.uva.nl/", filter: trefwoord, toegevoegd: eigen}
-  - {naam: Vrije Universiteit Amsterdam, categorie: Onderzoek, methode: web, url: "https://vu.nl/nl/nieuws", filter: trefwoord, toegevoegd: eigen}
-  - {naam: PLOS, categorie: Onderzoek, methode: web, url: "https://plos.org/", filter: trefwoord, toegevoegd: eigen}
+  - {naam: Vrije Universiteit Amsterdam, categorie: Onderzoek, methode: zoekcontrole, url: "https://vu.nl/nl/nieuws", filter: trefwoord, toegevoegd: eigen}
+  - {naam: PLOS, categorie: Onderzoek, methode: zoekcontrole, url: "https://plos.org/", filter: trefwoord, toegevoegd: eigen}
 
   # ---------- Natuur- en soortenorganisaties ----------
   - {naam: Vogelbescherming, categorie: Natuurorganisaties, methode: web, url: "https://www.vogelbescherming.nl/actueel/nieuws", filter: alles, toegevoegd: eigen}
   - {naam: Natuurmonumenten, categorie: Natuurorganisaties, methode: web, url: "https://www.natuurmonumenten.nl/nieuws", filter: alles, toegevoegd: eigen}
-  - {naam: Staatsbosbeheer, categorie: Natuurorganisaties, methode: web, url: "https://www.staatsbosbeheer.nl/nieuws", filter: alles, toegevoegd: eigen}
+  - {naam: Staatsbosbeheer, categorie: Natuurorganisaties, methode: web, url: "https://www.staatsbosbeheer.nl/wat-we-doen/nieuws", filter: alles, toegevoegd: eigen}
   - {naam: De Vlinderstichting, categorie: Natuurorganisaties, methode: web, url: "https://www.vlinderstichting.nl/actueel/nieuws/", filter: alles, toegevoegd: eigen}
   - {naam: Zoogdiervereniging, categorie: Natuurorganisaties, methode: web, url: "https://www.zoogdiervereniging.nl/nieuws", filter: alles, toegevoegd: eigen}
   - {naam: EIS Kenniscentrum Insecten, categorie: Natuurorganisaties, methode: web, url: "https://kenniscentruminsecten.nl/actueel/", filter: alles, toegevoegd: eigen}
   - {naam: Sovon Vogelonderzoek, categorie: Natuurorganisaties, methode: web, url: "https://www.sovon.nl/", filter: alles, toegevoegd: voorstel}
   - {naam: RAVON, categorie: Natuurorganisaties, methode: web, url: "https://www.ravon.nl/nieuws", filter: alles, toegevoegd: voorstel}
   - {naam: FLORON, categorie: Natuurorganisaties, methode: web, url: "https://www.floron.nl/nieuws", filter: alles, toegevoegd: voorstel}
-  - {naam: Natuur & Milieu, categorie: Natuurorganisaties, methode: web, url: "https://natuurenmilieu.nl/nieuws/", filter: alles, toegevoegd: eigen}
+  - {naam: Natuur & Milieu, categorie: Natuurorganisaties, methode: zoekcontrole, url: "https://natuurenmilieu.nl/nieuws/", filter: alles, toegevoegd: eigen}
   - {naam: Koninklijke VHG, categorie: Groen en bouw, methode: web, url: "https://www.vhg.org/nieuws", filter: trefwoord, toegevoegd: eigen}
   - {naam: KAN Kennisnetwerk natuurinclusief bouwen, categorie: Groen en bouw, methode: web, url: "https://www.kanbouwen.nl/", filter: alles, toegevoegd: eigen}
   - {naam: Dutch Green Building Council, categorie: Groen en bouw, methode: web, url: "https://www.dgbc.nl/nieuws", filter: trefwoord, toegevoegd: eigen}
-  - {naam: World Green Building Council, categorie: Internationaal, methode: feed, url: "https://worldgbc.org/feed/", filter: trefwoord, toegevoegd: eigen}
+  - {naam: World Green Building Council, categorie: Internationaal, methode: zoekcontrole, url: "https://worldgbc.org/feed/", filter: trefwoord, toegevoegd: eigen}
   - {naam: IUCN, categorie: Internationaal, methode: web, url: "https://iucn.org/news", filter: trefwoord, toegevoegd: eigen}
-  - {naam: ICLEI Europe, categorie: Internationaal, methode: web, url: "https://iclei-europe.org/news/", filter: trefwoord, toegevoegd: eigen}
+  - {naam: ICLEI Europe, categorie: Internationaal, methode: zoekcontrole, url: "https://iclei-europe.org/news/", filter: trefwoord, toegevoegd: eigen}
 
   # ---------- Tegengeluid en procederende partijen ----------
-  - {naam: Mobilisation for the Environment (MOB), categorie: Tegengeluid, methode: web, url: "https://www.mobilisation.nl/", filter: alles, toegevoegd: voorstel}
+  - {naam: Mobilisation for the Environment (MOB), categorie: Tegengeluid, methode: zoekcontrole, url: "https://www.mobilisation.nl/", filter: alles, toegevoegd: voorstel}
   - {naam: Greenpeace Nederland, categorie: Tegengeluid, methode: web, url: "https://www.greenpeace.org/nl/nieuws/", filter: trefwoord, toegevoegd: voorstel}
   - {naam: LTO Nederland, categorie: Tegengeluid, methode: web, url: "https://www.lto.nl/nieuws/", filter: trefwoord, toegevoegd: voorstel}
 

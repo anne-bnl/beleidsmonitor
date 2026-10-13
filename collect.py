@@ -614,7 +614,7 @@ def main():
             eerste_keer = not bstate.get("laatst_gelukt")
             m = bron["methode"]
             if m == "zoekcontrole":
-                st.update(gelukt=None, toelichting="Website staat automatisch uitlezen niet toe; "
+                st.update(gelukt=None, toelichting="Automatisch uitlezen is niet toegestaan of technisch niet mogelijk; "
                           "Claude controleert deze bron met een gerichte zoekopdracht")
                 status.append(st)
                 continue
