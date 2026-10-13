@@ -1,0 +1,41 @@
+name: Dagelijkse verzameling
+
+on:
+  schedule:
+    # Elke dag om 04:15 UTC (06:15 Nederlandse zomertijd, 05:15 wintertijd)
+    - cron: "15 4 * * *"
+  workflow_dispatch: {}   # handmatig starten via de knop "Run workflow"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: verzamelen
+  cancel-in-progress: false
+
+jobs:
+  verzamelen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Benodigdheden installeren
+        run: pip install -r requirements.txt
+
+      - name: Bronnen controleren en publicaties verzamelen
+        run: python collect.py
+
+      - name: Resultaat opslaan
+        if: always()
+        run: |
+          git config user.name "beleidsmonitor-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data state
+          git diff --cached --quiet || git commit -m "Verzameling $(date -u +%Y-%m-%d)"
+          git push
