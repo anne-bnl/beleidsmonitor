@@ -3,11 +3,13 @@
 # Per bron:
 #   naam       : zoals hij op het dashboard verschijnt
 #   categorie  : groep op het dashboard
-#   methode    : api_tk_documenten | api_tk_besluiten | api_koop | api_rechtspraak | feed | web
+#   methode    : api_tk_documenten | api_tk_besluiten | api_koop | api_rechtspraak | feed | web | zoekcontrole
 #                - api_*  : officiële koppeling, vraagt alle nieuwe en gewijzigde stukken op
 #                - feed   : RSS/Atom-feed van de bron
 #                - web    : webpagina; het programma zoekt eerst zelf naar een feed,
 #                           en vergelijkt anders de links op de pagina met de vorige keer
+#                - zoekcontrole : website staat automatisch uitlezen niet toe; Claude controleert
+#                           deze bron dagelijks met een gerichte zoekopdracht (minder volledig)
 #   url        : adres
 #   filter     : alles (alles gaat door naar beoordeling) | trefwoord (alleen bij treffer)
 #   toegevoegd : eigen = uit de lijst van Anne, voorstel = door Claude voorgesteld en goedgekeurd
@@ -75,27 +77,28 @@ bronnen:
     url: https://www.eerstekamer.nl/nieuws
     filter: alles
     toegevoegd: eigen
-  - naam: Rijksoverheid nieuws
-    categorie: Rijk
-    methode: web
-    url: https://www.rijksoverheid.nl/actueel/nieuws
-    filter: trefwoord
-    toegevoegd: eigen
+  - {naam: Rijksoverheid nieuws LVVN, categorie: Rijk, methode: feed, url: "https://feeds.rijksoverheid.nl/ministeries/ministerie-van-landbouw-visserij-voedselzekerheid-en-natuur/nieuws.rss", filter: alles, toegevoegd: eigen}
+  - {naam: Rijksoverheid documenten LVVN, categorie: Rijk, methode: feed, url: "https://feeds.rijksoverheid.nl/ministeries/ministerie-van-landbouw-visserij-voedselzekerheid-en-natuur/documenten.rss", filter: trefwoord, toegevoegd: eigen}
+  - {naam: Rijksoverheid nieuws IenW, categorie: Rijk, methode: feed, url: "https://feeds.rijksoverheid.nl/ministeries/ministerie-van-infrastructuur-en-waterstaat/nieuws.rss", filter: trefwoord, toegevoegd: eigen}
+  - {naam: Rijksoverheid documenten IenW, categorie: Rijk, methode: feed, url: "https://feeds.rijksoverheid.nl/ministeries/ministerie-van-infrastructuur-en-waterstaat/documenten.rss", filter: trefwoord, toegevoegd: eigen}
+  - {naam: Rijksoverheid nieuws VRO, categorie: Rijk, methode: feed, url: "https://feeds.rijksoverheid.nl/ministeries/ministerie-van-volkshuisvesting-en-ruimtelijke-ordening/nieuws.rss", filter: trefwoord, toegevoegd: eigen}
+  - {naam: Rijksoverheid documenten VRO, categorie: Rijk, methode: feed, url: "https://feeds.rijksoverheid.nl/ministeries/ministerie-van-volkshuisvesting-en-ruimtelijke-ordening/documenten.rss", filter: trefwoord, toegevoegd: eigen}
+  - {naam: Rijksoverheid nieuws KGG, categorie: Rijk, methode: feed, url: "https://feeds.rijksoverheid.nl/ministeries/ministerie-van-klimaat-en-groene-groei/nieuws.rss", filter: trefwoord, toegevoegd: eigen}
   - naam: Internetconsultatie
     categorie: Consultaties
-    methode: web
+    methode: zoekcontrole
     url: https://www.internetconsultatie.nl/
     filter: alles
     toegevoegd: eigen
   - naam: Wetgevingskalender
     categorie: Rijk
-    methode: web
+    methode: zoekcontrole
     url: https://wetgevingskalender.overheid.nl/
     filter: trefwoord
     toegevoegd: eigen
   - naam: Open Overheid (Woo-publicaties)
     categorie: Rijk
-    methode: web
+    methode: zoekcontrole
     url: https://open.overheid.nl/
     filter: trefwoord
     toegevoegd: eigen
@@ -153,8 +156,8 @@ bronnen:
     toegevoegd: eigen
   - naam: Europees Parlement nieuws
     categorie: Europa
-    methode: web
-    url: https://www.europarl.europa.eu/news/en
+    methode: feed
+    url: https://www.europarl.europa.eu/rss/doc/top-stories/en.xml
     filter: trefwoord
     toegevoegd: eigen
   - naam: EUR-Lex
@@ -197,19 +200,19 @@ bronnen:
 
   # ---------- Kennis- en uitvoeringsinstellingen ----------
   - {naam: PBL Planbureau voor de Leefomgeving, categorie: Onderzoek, methode: web, url: "https://www.pbl.nl/actueel", filter: alles, toegevoegd: voorstel}
-  - {naam: RIVM, categorie: Onderzoek, methode: web, url: "https://www.rivm.nl/nieuws", filter: trefwoord, toegevoegd: voorstel}
+  - {naam: RIVM, categorie: Onderzoek, methode: feed, url: "https://www.rivm.nl/nieuws/rss.xml", filter: trefwoord, toegevoegd: voorstel}
   - {naam: Raad voor de leefomgeving en infrastructuur (Rli), categorie: Onderzoek, methode: web, url: "https://www.rli.nl/", filter: alles, toegevoegd: voorstel}
   - {naam: BIJ12, categorie: Uitvoering, methode: web, url: "https://www.bij12.nl/nieuws/", filter: alles, toegevoegd: voorstel}
   - {naam: Rijkswaterstaat, categorie: Uitvoering, methode: web, url: "https://www.rijkswaterstaat.nl/nieuws", filter: trefwoord, toegevoegd: voorstel}
   - {naam: STOWA, categorie: Onderzoek, methode: web, url: "https://www.stowa.nl/nieuws", filter: alles, toegevoegd: voorstel}
   - {naam: Deltares, categorie: Onderzoek, methode: web, url: "https://www.deltares.nl/nieuws", filter: trefwoord, toegevoegd: voorstel}
   - {naam: EIB, categorie: Onderzoek, methode: web, url: "https://www.eib.nl/news/", filter: alles, toegevoegd: eigen}
-  - {naam: WUR, categorie: Onderzoek, methode: web, url: "https://www.wur.nl/nl/nieuws.htm", filter: trefwoord, toegevoegd: eigen}
+  - {naam: WUR, categorie: Onderzoek, methode: web, url: "https://www.wur.nl/nl.htm", filter: trefwoord, toegevoegd: eigen}
   - {naam: TNO, categorie: Onderzoek, methode: web, url: "https://www.tno.nl/nl/newsroom/", filter: trefwoord, toegevoegd: eigen}
   - {naam: Universiteiten van Nederland, categorie: Onderzoek, methode: web, url: "https://www.universiteitenvannederland.nl/", filter: trefwoord, toegevoegd: eigen}
   - {naam: Universiteit Leiden, categorie: Onderzoek, methode: web, url: "https://www.universiteitleiden.nl/nieuws", filter: trefwoord, toegevoegd: eigen}
   - {naam: Universiteit Utrecht, categorie: Onderzoek, methode: web, url: "https://www.uu.nl/nieuws", filter: trefwoord, toegevoegd: eigen}
-  - {naam: Universiteit van Amsterdam, categorie: Onderzoek, methode: web, url: "https://www.uva.nl/shared-content/uva/nl/nieuws/nieuws.html", filter: trefwoord, toegevoegd: eigen}
+  - {naam: Universiteit van Amsterdam, categorie: Onderzoek, methode: web, url: "https://www.uva.nl/", filter: trefwoord, toegevoegd: eigen}
   - {naam: Vrije Universiteit Amsterdam, categorie: Onderzoek, methode: web, url: "https://vu.nl/nl/nieuws", filter: trefwoord, toegevoegd: eigen}
   - {naam: PLOS, categorie: Onderzoek, methode: web, url: "https://plos.org/", filter: trefwoord, toegevoegd: eigen}
 
@@ -220,14 +223,14 @@ bronnen:
   - {naam: De Vlinderstichting, categorie: Natuurorganisaties, methode: web, url: "https://www.vlinderstichting.nl/actueel/nieuws/", filter: alles, toegevoegd: eigen}
   - {naam: Zoogdiervereniging, categorie: Natuurorganisaties, methode: web, url: "https://www.zoogdiervereniging.nl/nieuws", filter: alles, toegevoegd: eigen}
   - {naam: EIS Kenniscentrum Insecten, categorie: Natuurorganisaties, methode: web, url: "https://kenniscentruminsecten.nl/actueel/", filter: alles, toegevoegd: eigen}
-  - {naam: Sovon Vogelonderzoek, categorie: Natuurorganisaties, methode: web, url: "https://www.sovon.nl/nieuws", filter: alles, toegevoegd: voorstel}
+  - {naam: Sovon Vogelonderzoek, categorie: Natuurorganisaties, methode: web, url: "https://www.sovon.nl/", filter: alles, toegevoegd: voorstel}
   - {naam: RAVON, categorie: Natuurorganisaties, methode: web, url: "https://www.ravon.nl/nieuws", filter: alles, toegevoegd: voorstel}
   - {naam: FLORON, categorie: Natuurorganisaties, methode: web, url: "https://www.floron.nl/nieuws", filter: alles, toegevoegd: voorstel}
   - {naam: Natuur & Milieu, categorie: Natuurorganisaties, methode: web, url: "https://natuurenmilieu.nl/nieuws/", filter: alles, toegevoegd: eigen}
   - {naam: Koninklijke VHG, categorie: Groen en bouw, methode: web, url: "https://www.vhg.org/nieuws", filter: trefwoord, toegevoegd: eigen}
   - {naam: KAN Kennisnetwerk natuurinclusief bouwen, categorie: Groen en bouw, methode: web, url: "https://www.kanbouwen.nl/", filter: alles, toegevoegd: eigen}
   - {naam: Dutch Green Building Council, categorie: Groen en bouw, methode: web, url: "https://www.dgbc.nl/nieuws", filter: trefwoord, toegevoegd: eigen}
-  - {naam: World Green Building Council, categorie: Internationaal, methode: web, url: "https://worldgbc.org/news-media/", filter: trefwoord, toegevoegd: eigen}
+  - {naam: World Green Building Council, categorie: Internationaal, methode: feed, url: "https://worldgbc.org/feed/", filter: trefwoord, toegevoegd: eigen}
   - {naam: IUCN, categorie: Internationaal, methode: web, url: "https://iucn.org/news", filter: trefwoord, toegevoegd: eigen}
   - {naam: ICLEI Europe, categorie: Internationaal, methode: web, url: "https://iclei-europe.org/news/", filter: trefwoord, toegevoegd: eigen}
 

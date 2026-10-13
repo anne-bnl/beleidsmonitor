@@ -11,7 +11,8 @@ Uitvoer:
   data/kandidaten.json   alles wat deze run is doorgelaten
   data/recent.json       doorgelaten stukken van de afgelopen 14 dagen
   data/status.json       bronstatus van deze run (gecontroleerd, fouten, aantallen)
-  data/archief/<datum>.json
+  data/overzicht.json    compacte lijst van alles wat deze run is doorgelaten
+  data/archief/<datum>.json  compacte lijst per dag
   state/state.json       geheugen tussen runs (wat al gezien is)
 """
 
@@ -29,6 +30,7 @@ import traceback
 import urllib.parse
 import urllib.robotparser
 import xml.etree.ElementTree as ET
+from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
 
 import feedparser
@@ -54,7 +56,7 @@ TODAY = NOW.date().isoformat()
 RECENT_DAYS = 14
 FIRST_RUN_DAYS = 7          # hoe ver terug bij de allereerste run
 OVERLAP_HOURS = 30          # overlap met vorige run, zodat niets tussen wal en schip valt
-MAX_PDF_PER_RUN = 250       # rest gaat naar de achterstandsrij
+MAX_PDF_PER_RUN = 1200      # rest gaat naar de achterstandsrij
 MAX_PDF_BYTES = 40_000_000
 
 session = requests.Session()
@@ -91,10 +93,20 @@ def clean(text, limit=None):
     return text[:limit] if limit else text
 
 
-def get(url, **kw):
-    r = session.get(url, timeout=TIMEOUT, **kw)
-    r.raise_for_status()
-    return r
+def get(url, tries=3, **kw):
+    """Haal een adres op; bij een tijdelijke storing (5xx, time-out) tot 3 keer opnieuw."""
+    for poging in range(tries):
+        try:
+            r = session.get(url, timeout=kw.pop("timeout", TIMEOUT), **kw)
+            if r.status_code >= 500 and poging < tries - 1:
+                time.sleep(5 * (poging + 1))
+                continue
+            r.raise_for_status()
+            return r
+        except (requests.ConnectionError, requests.Timeout):
+            if poging == tries - 1:
+                raise
+            time.sleep(5 * (poging + 1))
 
 
 def strip_ns(tag):
@@ -108,22 +120,33 @@ class Matcher:
         self.rules = []  # (thema, term, regex)
         for thema, terms in cfg["thema's"].items():
             for t in terms:
-                self.rules.append((thema, t, self._rx(t)))
+                self.rules.append((thema, t.lstrip("="), self._rx(t)))
         for t in cfg.get("bouwcontext", []):
             self.rules.append(("Bouwcontext", t, self._rx(t)))
+        self.niet_bij_bekendmakingen = {t.lower() for t in cfg.get("niet_bij_bekendmakingen", [])}
+        self.volledige_tekst = cfg.get("volledige_tekst", [])
 
     @staticmethod
     def _rx(term):
+        if term.startswith("="):
+            # precies zo, hoofdlettergevoelig
+            return re.compile(r"(?<![A-Za-z0-9])" + re.escape(term[1:]))
         if term.isupper() or (any(c.isupper() for c in term[1:]) and len(term) <= 6):
             # afkorting: hoofdlettergevoelig, als los woord
             return re.compile(r"(?<![A-Za-z0-9])" + re.escape(term) + r"(?![A-Za-z0-9])")
         return re.compile(r"(?<![a-zà-ÿ0-9])" + re.escape(term.lower()), re.IGNORECASE)
 
-    def match(self, text):
+    def match(self, text, bekendmaking=False, bouw=True):
+        """Thema's met gevonden termen. Bij bekendmakingen tellen algemene
+        vergunningstermen en (tenzij bouw=True) de bouwcontext niet mee."""
         found = {}
         if not text:
             return found
         for thema, term, rx in self.rules:
+            if thema == "Bouwcontext" and not bouw:
+                continue
+            if bekendmaking and term.lower() in self.niet_bij_bekendmakingen:
+                continue
             if rx.search(text):
                 found.setdefault(thema, []).append(term)
         return found
@@ -165,7 +188,13 @@ def make_item(bron, *, uid, titel, url, datum=None, samenvatting="", soort="",
 
 TK = "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/"
 TK_PDF_SOORTEN = ("brief", "rapport", "bijlage", "nota", "verslag", "motie",
-                  "amendement", "advies", "memorie", "voorstel", "notitie", "antwoord")
+                  "amendement", "advies", "memorie", "voorstel", "notitie", "antwoord",
+                  "position paper")
+TK_PDF_OVERSLAAN = ("stenogram", "convocatie", "sprekerslijst", "mededeling",
+                    "besluitenlijst", "agenda")
+TK_MAX_LEEFTIJD = 90
+TK_BESLUIT_ZAAKSOORTEN = ("motie", "amendement", "wetgeving", "initiatiefwetgeving",
+                          "verdrag", "brief regering", "begroting")
 
 
 def odata_all(url, max_pages=40):
@@ -184,8 +213,13 @@ def tk_documenten(bron, since):
          "&$select=Id,Titel,Onderwerp,Soort,Datum,DocumentNummer,GewijzigdOp,ContentType"
          "&$expand=Zaak($select=Id,Nummer,Soort,Titel,Onderwerp)&$orderby=GewijzigdOp")
     rows, truncated = odata_all(q)
-    items = []
+    items, oud = [], 0
+    grens_oud = (NOW - dt.timedelta(days=TK_MAX_LEEFTIJD)).date().isoformat()
     for d in rows:
+        # Oude stukken die alleen administratief zijn bijgewerkt, slaan we over
+        if (d.get("Datum") or "9999")[:10] < grens_oud:
+            oud += 1
+            continue
         zaak = (d.get("Zaak") or [{}])[0] if d.get("Zaak") else {}
         nummer = zaak.get("Nummer")
         if nummer and d.get("DocumentNummer"):
@@ -200,10 +234,16 @@ def tk_documenten(bron, since):
                        extra={"zaaknummer": nummer, "zaaksoort": zaak.get("Soort"),
                               "documentnummer": d.get("DocumentNummer")})
         soort = (d.get("Soort") or "").lower()
-        if "pdf" in (d.get("ContentType") or "") or any(s in soort for s in TK_PDF_SOORTEN):
+        if not any(s in soort for s in TK_PDF_OVERSLAAN) and (
+                "pdf" in (d.get("ContentType") or "") or any(s in soort for s in TK_PDF_SOORTEN)):
             it["_pdf"] = f"{TK}Document({d['Id']})/resource"
         items.append(it)
-    return items, ("Meer dan 40 pagina's; rest volgt volgende run" if truncated else None)
+    notes = []
+    if oud:
+        notes.append(f"{oud} oudere stukken (> {TK_MAX_LEEFTIJD} dagen) alleen administratief bijgewerkt, overgeslagen")
+    if truncated:
+        notes.append("Meer dan 40 pagina's; rest volgt volgende run")
+    return items, "; ".join(notes) or None
 
 
 def tk_besluiten(bron, since):
@@ -213,28 +253,43 @@ def tk_besluiten(bron, since):
          "&$expand=Zaak($select=Id,Nummer,Soort,Titel,Onderwerp),"
          "Stemming($select=Soort,ActorFractie,FractieGrootte)&$orderby=GewijzigdOp")
     rows, truncated = odata_all(q)
-    items = []
+    items, zonder_inhoud = [], 0
     for b in rows:
         zaken = b.get("Zaak") or []
-        if not zaken:
+        if not zaken or not (b.get("BesluitTekst") or "").strip():
+            zonder_inhoud += 1
             continue
         z = zaken[0]
+        zs = (z.get("Soort") or "").lower()
+        tekst = b.get("BesluitTekst", "")
+        if not any(s in zs for s in TK_BESLUIT_ZAAKSOORTEN) and not b.get("Stemming"):
+            # procedurele besluiten (agendering, rondzending) over overige zaken:
+            # alleen houden als het onderwerp raakt aan de thema's (wordt later bepaald)
+            b["_procedureel"] = True
         stemmen = b.get("Stemming") or []
         voor = sorted({s["ActorFractie"] for s in stemmen if s.get("Soort") == "Voor" and s.get("ActorFractie")})
         tegen = sorted({s["ActorFractie"] for s in stemmen if s.get("Soort") == "Tegen" and s.get("ActorFractie")})
         zetels_voor = sum(s.get("FractieGrootte") or 0 for s in stemmen if s.get("Soort") == "Voor")
         zetels_tegen = sum(s.get("FractieGrootte") or 0 for s in stemmen if s.get("Soort") == "Tegen")
-        samenvatting = f"{b.get('BesluitTekst','')}"
+        samenvatting = f"{tekst}"
         if stemmen:
             samenvatting += f" Stemming: {zetels_voor} voor, {zetels_tegen} tegen."
-        items.append(make_item(
+        it = make_item(
             bron, uid=b["Id"], titel=f"{z.get('Soort','')}: {z.get('Onderwerp') or z.get('Titel','')}",
             url=f"https://www.tweedekamer.nl/kamerstukken/detail?id={z.get('Nummer','')}",
             datum=(b.get("GewijzigdOp") or "")[:10], soort="Besluit/stemming",
             samenvatting=samenvatting, versie=b.get("GewijzigdOp", ""),
             extra={"zaaknummer": z.get("Nummer"), "zaaksoort": z.get("Soort"),
-                   "besluit": b.get("BesluitTekst"), "fracties_voor": voor, "fracties_tegen": tegen}))
-    return items, ("Meer dan 40 pagina's; rest volgt volgende run" if truncated else None)
+                   "besluit": tekst, "fracties_voor": voor, "fracties_tegen": tegen})
+        if b.get("_procedureel"):
+            it["_alleen_bij_treffer"] = True
+        items.append(it)
+    notes = []
+    if zonder_inhoud:
+        notes.append(f"{zonder_inhoud} besluiten zonder besluittekst overgeslagen")
+    if truncated:
+        notes.append("Meer dan 40 pagina's; rest volgt volgende run")
+    return items, "; ".join(notes) or None
 
 
 # ------------------------------------------------------------------ KOOP (officiële bekendmakingen)
@@ -264,11 +319,11 @@ def koop_parse(xml_text):
     return total, nxt, recs
 
 
-def koop_query(cql, max_records=20000):
+def koop_query(cql, max_records=20000, page=500):
     out, start, total = [], 1, None
     while True:
-        r = get(KOOP, params={"query": cql, "maximumRecords": 1000, "startRecord": start,
-                              "operation": "searchRetrieve", "version": "2.0"})
+        r = get(KOOP, params={"query": cql, "maximumRecords": page, "startRecord": start,
+                              "operation": "searchRetrieve", "version": "2.0"}, timeout=120)
         total, nxt, recs = koop_parse(r.text)
         out.extend(recs)
         if not nxt or len(out) >= max_records or not recs:
@@ -279,22 +334,32 @@ def koop_query(cql, max_records=20000):
 
 def koop(bron, since, matcher):
     code = bron["publicatie"]
-    base = (f'c.product-area==officielepublicaties AND dt.modified>={since.date().isoformat()}'
-            f' AND w.publicatienaam=="{PUBNAAM[code]}"')
-    recs, total = koop_query(base)
-    opmerking = None
-    # Aanvullend: zoeken in de volledige tekst op themawoorden (vindt ook stukken
-    # waarbij het trefwoord niet in de titel staat).
+    naam = PUBNAAM[code]
+    recs, total, notes = [], 0, []
+    # Per dag opvragen: bij grote bladen (gemeenteblad) voorkomt dit time-outs.
+    dag = since.date()
+    while dag <= NOW.date():
+        volgende = dag + dt.timedelta(days=1)
+        base = (f'c.product-area==officielepublicaties AND dt.modified>={dag.isoformat()}'
+                f' AND dt.modified<{volgende.isoformat()} AND w.publicatienaam=="{naam}"')
+        r, t = koop_query(base)
+        recs.extend(r)
+        total += t or 0
+        dag = volgende
+    # Aanvullend: zoeken in de volledige tekst op onderscheidende woorden
+    # (vindt ook stukken waarbij het trefwoord niet in de titel staat).
     fulltext_ids = set()
-    if bron.get("filter") == "trefwoord":
-        terms = [t for (th, t, _) in matcher.rules if th != "Bouwcontext" and len(t) > 4]
-        for i in range(0, len(terms), 15):
-            chunk = " OR ".join(f'cql.textAndIndexes="{t}"' for t in terms[i:i + 15])
+    if bron.get("filter") == "trefwoord" and matcher.volledige_tekst:
+        base = (f'c.product-area==officielepublicaties AND dt.modified>={since.date().isoformat()}'
+                f' AND w.publicatienaam=="{naam}"')
+        terms = matcher.volledige_tekst
+        for i in range(0, len(terms), 10):
+            chunk = " OR ".join(f'cql.textAndIndexes="{t}"' for t in terms[i:i + 10])
             try:
                 hits, _ = koop_query(f"{base} AND ({chunk})", max_records=3000)
                 fulltext_ids.update(r.get("identifier") for r in hits)
             except Exception as e:  # volledige-tekstzoeken is een extra, geen vereiste
-                opmerking = f"Zoeken in volledige tekst deels mislukt: {type(e).__name__}"
+                notes.append(f"Zoeken in volledige tekst deels mislukt ({type(e).__name__})")
                 break
     items = []
     for r in recs:
@@ -310,8 +375,10 @@ def koop(bron, since, matcher):
             it["_fulltext_hit"] = True
         items.append(it)
     if total and total > len(recs):
-        opmerking = f"{total} records gemeld, {len(recs)} opgehaald"
-    return items, opmerking
+        notes.append(f"{total} records gemeld, {len(recs)} opgehaald")
+    if fulltext_ids:
+        notes.append(f"{len(fulltext_ids)} treffers in volledige tekst")
+    return items, "; ".join(notes) or None
 
 
 # ------------------------------------------------------------------ rechtspraak
@@ -356,8 +423,8 @@ def robots_ok(url):
     return _robots[base].can_fetch(UA, url)
 
 
-def feed_items(bron, feed_url):
-    r = get(feed_url)
+def feed_items(bron, feed_url, tries=3):
+    r = get(feed_url, tries=tries, timeout=25 if tries == 1 else TIMEOUT)
     f = feedparser.parse(r.content)
     if not f.entries:
         raise ValueError("Feed bevat geen berichten")
@@ -408,26 +475,81 @@ def page_links(bron, page_url, html):
     return items
 
 
+FEED_PADEN = ("feed/", "rss", "rss.xml", "feed", "nieuws/rss", "nieuws/rss.xml",
+              "nieuws/feed/", "actueel/rss", "news/rss", "en/rss.xml")
+
+
+def try_feed(bron, url):
+    if not robots_ok(url):
+        return None
+    try:
+        return feed_items(bron, url, tries=1)
+    except Exception:
+        return None
+
+
 def web(bron, bstate):
+    """Webpagina: 1) eerder gevonden feed, 2) feed op de pagina zelf,
+    3) gangbare feedadressen, 4) feed op de homepage, 5) links op de pagina vergelijken."""
     url = bron["url"]
     feed_url = bstate.get("feed")
     if feed_url:
+        items = try_feed(bron, feed_url)
+        if items:
+            return items, f"via feed {feed_url}", "feed"
+        bstate.pop("feed", None)
+
+    html, fout = None, None
+    if robots_ok(url):
         try:
-            return feed_items(bron, feed_url), f"via feed {feed_url}", "feed"
-        except Exception:
-            bstate.pop("feed", None)
-    if not robots_ok(url):
-        raise PermissionError("Website staat automatisch uitlezen niet toe (robots.txt)")
-    html = get(url).text
-    found = discover_feed(url, html)
-    if found:
+            html = get(url).text
+        except Exception as e:
+            fout = e
+    else:
+        fout = PermissionError("Website staat automatisch uitlezen van deze pagina niet toe (robots.txt)")
+
+    kandidaten = []
+    if html:
+        found = discover_feed(url, html)
+        if found:
+            kandidaten.append(found)
+    p = urllib.parse.urlparse(url)
+    home = f"{p.scheme}://{p.netloc}/"
+    base = url if url.endswith("/") else url.rsplit("/", 1)[0] + "/"
+    for pad in FEED_PADEN:
+        for b in {base, home}:
+            kandidaten.append(urllib.parse.urljoin(b, pad))
+    if url != home and robots_ok(home):
         try:
-            items = feed_items(bron, found)
-            bstate["feed"] = found
-            return items, f"feed gevonden: {found}", "feed"
+            hf = discover_feed(home, get(home, tries=1).text)
+            if hf:
+                kandidaten.insert(1, hf)
         except Exception:
             pass
-    return page_links(bron, url, html), "links op pagina vergeleken", "pagina"
+
+    links = page_links(bron, url, html) if html else []
+    if len(links) >= 3:
+        # pagina bruikbaar; kijk alleen naar een feed die direct op de pagina staat
+        if kandidaten and html and discover_feed(url, html):
+            items = try_feed(bron, kandidaten[0])
+            if items:
+                bstate["feed"] = kandidaten[0]
+                return items, f"feed gevonden: {kandidaten[0]}", "feed"
+        return links, "links op pagina vergeleken", "pagina"
+
+    seen = set()
+    for k in kandidaten:
+        if k in seen:
+            continue
+        seen.add(k)
+        items = try_feed(bron, k)
+        if items:
+            bstate["feed"] = k
+            return items, f"feed gevonden: {k}", "feed"
+    if fout:
+        raise fout
+    raise ValueError("Geen berichten herkend op de pagina en geen feed gevonden "
+                     "(pagina wordt waarschijnlijk pas in de browser opgebouwd)")
 
 
 # ------------------------------------------------------------------ PDF-tekst
@@ -450,6 +572,22 @@ def pdf_text(url):
     if "html" in ctype or "xml" in ctype or raw[:1] == b"<":
         return clean(raw.decode("utf-8", "ignore")), 1
     raise ValueError(f"Onbekend formaat ({ctype})")
+
+
+# ------------------------------------------------------------------ compact overzicht
+
+def compact(it):
+    """Korte regel per stuk, zodat de beoordeling eerst alle titels kan overzien."""
+    doc = it.get("document") or {}
+    th = sorted(t for t in it.get("thema_treffers", {}) if t != "Bouwcontext")
+    th_doc = sorted(t for t in (doc.get("thema_treffers_tekst") or {}) if t != "Bouwcontext")
+    return {
+        "id": it["id"], "bron": it["bron"], "cat": it["categorie"], "soort": it.get("soort", "")[:40],
+        "titel": it["titel"][:220], "datum": it.get("datum"), "status": it.get("status"),
+        "themas": th, "themas_tekst": th_doc, "bouw": "Bouwcontext" in it.get("thema_treffers", {}),
+        "doc_fout": "fout" in doc, "volledige_tekst": it.get("treffer_in_volledige_tekst", False),
+        "url": it["url"],
+    }
 
 
 # ------------------------------------------------------------------ hoofdprogramma
@@ -475,6 +613,11 @@ def main():
         try:
             eerste_keer = not bstate.get("laatst_gelukt")
             m = bron["methode"]
+            if m == "zoekcontrole":
+                st.update(gelukt=None, toelichting="Website staat automatisch uitlezen niet toe; "
+                          "Claude controleert deze bron met een gerichte zoekopdracht")
+                status.append(st)
+                continue
             if m == "api_tk_documenten":
                 items, note = tk_documenten(bron, since)
             elif m == "api_tk_besluiten":
@@ -503,20 +646,30 @@ def main():
 
             st["gevonden"] = len(items)
             st["toelichting"] = note
+            if m == "web":
+                st["toelichting"] = note
+            bekendmaking = m in ("api_koop", "api_rechtspraak")
+            grens_feed = (since - dt.timedelta(days=2)).date().isoformat()
             for it in items:
                 vorige = bstate["gezien"].get(it["id"])
                 if vorige == it["versie"]:
                     continue
+                bstate["gezien"][it["id"]] = it["versie"]
+                # oude berichten in een (pas gevonden) feed niet als nieuw tonen
+                if m in ("feed", "web") and it.get("datum") and it["datum"] < grens_feed and not eerste_keer:
+                    continue
                 it["status"] = "gewijzigd" if vorige else "nieuw"
                 st["gewijzigd" if vorige else "nieuw"] += 1
-                bstate["gezien"][it["id"]] = it["versie"]
                 tekst = f"{it['titel']} {it['samenvatting_bron']}"
-                hits = matcher.match(tekst)
+                rvs = bool(it.get("extra", {}).get("raad_van_state"))
+                hits = matcher.match(tekst, bekendmaking=bekendmaking, bouw=(not bekendmaking) or rvs)
                 it["thema_treffers"] = hits
                 ft = it.pop("_fulltext_hit", False)
                 if ft:
                     it["treffer_in_volledige_tekst"] = True
-                if bron.get("filter", "alles") == "alles" or hits or ft:
+                alleen_bij_treffer = it.pop("_alleen_bij_treffer", False)
+                filt = "trefwoord" if alleen_bij_treffer else bron.get("filter", "alles")
+                if filt == "alles" or hits or ft:
                     it["verzameld_op"] = NOW.isoformat(timespec="seconds")
                     doorgelaten.append(it)
                     st["doorgelaten"] += 1
@@ -543,45 +696,61 @@ def main():
             bstate["gezien"] = dict(list(bstate["gezien"].items())[-40000:])
 
     # ---- documenten lezen (bijlagen, rapporten, Kamerbrieven) ----
-    rij = state.get("pdf_rij", []) + [
-        {"id": it["id"], "url": it["_pdf"]} for it in doorgelaten if it.get("_pdf")]
+    # Stukken die op hun tekst wachten. Een stuk dat alleen om zijn tekst is
+    # doorgelaten, gaat pas naar de beoordeling als de tekst een themawoord bevat.
+    oude_rij = [r for r in state.get("pdf_rij", []) if r.get("item")]
+    vervallen = len(state.get("pdf_rij", [])) - len(oude_rij)
+    rij = oude_rij + [{"item": it, "url": it["_pdf"]} for it in doorgelaten if it.get("_pdf")]
     seen_ids, uniq = set(), []
     for r in rij:
-        if r["id"] not in seen_ids:
-            seen_ids.add(r["id"]); uniq.append(r)
+        if r["item"]["id"] not in seen_ids:
+            seen_ids.add(r["item"]["id"]); uniq.append(r)
     nu, later = uniq[:MAX_PDF_PER_RUN], uniq[MAX_PDF_PER_RUN:]
-    by_id = {it["id"]: it for it in doorgelaten}
-    gelezen, mislukt, extra_items = 0, [], []
-    for r in nu:
-        it = by_id.get(r["id"])
+    nu_ids = {r["item"]["id"] for r in nu}
+    later_ids = {r["item"]["id"] for r in later}
+
+    def lees(r):
         try:
             text, pages = pdf_text(r["url"])
-            gelezen += 1
             hits = matcher.match(text)
-            frag = matcher.snippets(text)
-            info = {"pagina's": pages, "thema_treffers_tekst": hits, "fragmenten": frag,
-                    "tekst_begin": text[:1200]}
-            if it is not None:
+            return r, {"pagina's": pages, "thema_treffers_tekst": hits,
+                       "fragmenten": matcher.snippets(text), "tekst_begin": text[:1200]}, None
+        except Exception as e:
+            return r, None, f"{type(e).__name__}: {str(e)[:150]}"
+
+    gelezen, mislukt, uit_rij = 0, [], []
+    doorgelaten_ids = {it["id"] for it in doorgelaten}
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        for r, info, fout in pool.map(lees, nu):
+            it = r["item"]
+            if info:
+                gelezen += 1
                 it["document"] = info
             else:
-                extra_items.append({"id": r["id"], "document": info})
-        except Exception as e:
-            mislukt.append({"id": r["id"], "url": r["url"], "fout": f"{type(e).__name__}: {str(e)[:150]}"})
-            if it is not None:
+                mislukt.append({"id": it["id"], "titel": it["titel"][:120], "url": r["url"], "fout": fout})
                 it["document"] = {"fout": "Document kon niet worden gelezen"}
-    # stukken die alleen doorgingen om hun tekst: houden als de tekst iets oplevert
+            if it["id"] not in doorgelaten_ids:
+                it["later_gelezen"] = True
+                uit_rij.append(it)
+
     final = []
-    for it in doorgelaten:
+    for it in doorgelaten + uit_rij:
+        if it["id"] in later_ids:
+            continue  # komt in een volgende run, na het lezen
         it.pop("_pdf", None)
-        if it.pop("_alleen_bij_tekstrefer", False):
+        if it.pop("_alleen_bij_tekstrefer", False) or it.get("_tekst_nodig"):
+            it.pop("_tekst_nodig", None)
             doc = it.get("document", {})
             hits = {k: v for k, v in (doc.get("thema_treffers_tekst") or {}).items() if k != "Bouwcontext"}
             if not hits and "fout" not in doc:
                 continue
-            for s in status:
-                if s["bron"] == it["bron"]:
-                    s["doorgelaten"] += 1
+            for st in status:
+                if st["bron"] == it["bron"]:
+                    st["doorgelaten"] += 1
         final.append(it)
+    for r in later:
+        if r["item"].pop("_alleen_bij_tekstrefer", False):
+            r["item"]["_tekst_nodig"] = True
     state["pdf_rij"] = later
 
     # ---- wegschrijven ----
@@ -589,15 +758,19 @@ def main():
         "run_op": NOW.isoformat(timespec="seconds"),
         "bronnen_totaal": len(status),
         "bronnen_gelukt": sum(1 for s in status if s["gelukt"]),
-        "bronnen_mislukt": [s["bron"] for s in status if not s["gelukt"]],
+        "bronnen_mislukt": [s["bron"] for s in status if s["gelukt"] is False],
+        "bronnen_zoekcontrole": [s["bron"] for s in status if s["gelukt"] is None],
         "documenten_gelezen": gelezen,
         "documenten_mislukt": mislukt,
         "achterstand_documenten": len(later),
+        "vervallen_uit_oude_rij": vervallen,
         "doorgelaten": len(final),
     }
     save_json(DATA / "kandidaten.json", {"run": run, "items": final})
     save_json(DATA / "status.json", {"run": run, "bronnen": status})
-    save_json(DATA / "archief" / f"{TODAY}.json", {"run": run, "items": final})
+    overzicht = {"run": run, "items": [compact(it) for it in final]}
+    save_json(DATA / "overzicht.json", overzicht)
+    save_json(DATA / "archief" / f"{TODAY}.json", overzicht)
 
     recent_path = DATA / "recent.json"
     recent = json.loads(recent_path.read_text(encoding="utf-8"))["items"] if recent_path.exists() else []

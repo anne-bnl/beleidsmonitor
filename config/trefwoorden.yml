@@ -9,7 +9,8 @@
 # De lijst is bewust ruim. Liever een paar berichten te veel dan een gemist stuk.
 # Schrijfwijze: kleine letters = hoofdletterongevoelig, en het woord mag langer
 # doorlopen ("stikstof" vindt ook "stikstofdepositie"). Afkortingen in HOOFDLETTERS
-# worden alleen als los woord gevonden.
+# worden alleen als los woord gevonden. Een term die begint met = wordt
+# precies zo gezocht, inclusief hoofdletters ("=dassen" vindt niet het Kamerlid Dassen).
 
 thema's:
   Natuurherstel en gebiedsbescherming:
@@ -58,7 +59,8 @@ thema's:
     - huismus
     - gierzwaluw
     - rugstreeppad
-    - dassen
+    - "=dassen"
+    - dassenburcht
     - kerkuil
     - steenmarter
     - broedvogel
@@ -203,3 +205,56 @@ bouwcontext:
   - bouwstop
   - vergunningverlening
   - construction sector
+
+# Termen die bij officiële bekendmakingen (Staatscourant, provinciale, gemeentelijke
+# en waterschapsbladen) en rechtspraak NIET meetellen, omdat ze in vrijwel elke
+# vergunning of kennisgeving voorkomen. Bij nieuws en organisaties tellen ze wel.
+niet_bij_bekendmakingen:
+  - waterschap
+  - oppervlaktewater
+  - grondwater
+  - lozen
+  - lozing
+  - bemaling
+  - grondwateronttrekking
+  - waterbeheer
+  - drinkwater
+  - ontheffing
+  - landschap
+  - hitte
+  - droogte
+  - bagger
+  - zorgplicht
+
+# Woorden waarop in de VOLLEDIGE tekst van officiële bekendmakingen wordt gezocht.
+# Alleen onderscheidende losse woorden, zodat er geen ruis ontstaat.
+volledige_tekst:
+  - stikstof
+  - stikstofdepositie
+  - natuurherstel
+  - natuurherstelverordening
+  - natuurdoelanalyse
+  - habitatrichtlijn
+  - vogelrichtlijn
+  - soortenbescherming
+  - soortenmanagementplan
+  - natuurinclusief
+  - natuurinclusieve
+  - vleermuis
+  - vleermuizen
+  - gierzwaluw
+  - gierzwaluwen
+  - huismus
+  - huismussen
+  - rugstreeppad
+  - natuurvergunning
+  - natuurvergunningen
+  - natuurnetwerk
+  - biodiversiteit
+  - klimaatadaptatie
+  - klimaatadaptief
+  - PFAS
+  - waterkwaliteit
+  - AERIUS
+  - bouwvrijstelling
+  - eDNA
