@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-10-14T11:30:18+00:00",
+ "bijgewerkt": "2026-10-14T14:25:27+00:00",
  "items": [
   {
    "id": "eb8ec55134b5b83c",
@@ -36,7 +36,7 @@
    "wat": "ROB-advies over democratische controle en zeggenschap bij keuzes rondom netbeheer",
    "datum": "2026-10-14",
    "tijd": "13:00",
-   "status": "Gepland",
+   "status": "Uitgevoerd",
    "commissie": "vaste commissie voor Klimaat en Groene Groei",
    "commissie_afk": "K&GG",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06388",
@@ -64,7 +64,7 @@
    "wat": "Besloten technische briefing over focusonderzoek inzake militaire mobiliteit door de Algemene Rekenkamer",
    "datum": "2026-10-14",
    "tijd": "13:30",
-   "status": "Gepland",
+   "status": "Uitgevoerd",
    "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
    "commissie_afk": "I&W",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06516",
@@ -257,7 +257,7 @@
    "id": "fa656d1a169b2bc3",
    "bron": "Tweede Kamer",
    "soort": "Technische briefing",
-   "wat": "Inzake volume- en tijdsafhankelijke nettarieven namens ACM",
+   "wat": "Volume- en tijdsafhankelijke nettarieven door de ACM",
    "datum": "2026-10-15",
    "tijd": "16:00",
    "status": "Gepland",
@@ -978,20 +978,6 @@
    "bouw": false
   },
   {
-   "id": "e3e61f4cdb7312d7",
-   "bron": "Tweede Kamer",
-   "soort": "Rondetafelgesprek",
-   "wat": "Grevelingenmeer",
-   "datum": "2026-11-02",
-   "tijd": "13:30",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
-   "commissie_afk": "I&W",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06667",
-   "themas": [],
-   "kerncommissie": true
-  },
-  {
    "id": "ee790d1394cf214d",
    "bron": "Internetconsultatie",
    "soort": "Consultatie",
@@ -1302,6 +1288,20 @@
    "commissie": "vaste commissie voor Klimaat en Groene Groei",
    "commissie_afk": "K&GG",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05144",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "dfd204449b7d20c6",
+   "bron": "Tweede Kamer",
+   "soort": "Technische briefing",
+   "wat": "Onderzoeksrapport over natuurbeheer in veengebieden door de Algemene Rekenkamer",
+   "datum": "2026-11-11",
+   "tijd": "11:15",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
+   "commissie_afk": "LVVN",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07414",
    "themas": [],
    "kerncommissie": true
   },
@@ -1720,13 +1720,13 @@
    "kerncommissie": false
   },
   {
-   "id": "fc564853646d99e2",
+   "id": "365755d440cd5682",
    "bron": "Tweede Kamer",
    "soort": "Commissiedebat",
-   "wat": "Leveringszekerheid ",
+   "wat": "Leveringszekerheid (VERPLAATST NAAR 3 DECEMBER 2026 i.v.m. buitenlandse verplichtingen van de minister)",
    "datum": "2026-12-02",
    "tijd": "14:00",
-   "status": "Gepland",
+   "status": "Verplaatst",
    "commissie": "vaste commissie voor Klimaat en Groene Groei",
    "commissie_afk": "K&GG",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05148",
@@ -1758,6 +1758,20 @@
    "commissie": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
    "commissie_afk": "LVVN",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A05314",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "fc564853646d99e2",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Leveringszekerheid",
+   "datum": "2026-12-03",
+   "tijd": "10:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Klimaat en Groene Groei",
+   "commissie_afk": "K&GG",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07640",
    "themas": [],
    "kerncommissie": true
   },
