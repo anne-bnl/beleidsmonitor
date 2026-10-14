@@ -404,6 +404,96 @@ def rechtspraak(bron, since):
     return items, None
 
 
+# ------------------------------------------------------------------ KOOP-koppelingen voor internetconsultatie en wetgevingskalender
+# Beide websites staan in robots.txt alleen zoekmachines toe. KOOP, de beheerder,
+# heeft voor hergebruik deze officiële koppelingen aangewezen (zie data.overheid.nl,
+# dataverzoek 268). We vragen ze één keer per dag op.
+
+def _veld(d, *namen):
+    for k, v in d.items():
+        kl = k.lower()
+        if any(n in kl for n in namen) and v:
+            return v
+    return ""
+
+
+def internetconsultatie(bron, since):
+    url = bron.get("api", "https://www.internetconsultatie.nl/rest/openconsultaties/")
+    r = get(url, headers={"Accept": "application/xml, text/xml, application/json"})
+    DIAGNOSE.setdefault(bron["naam"], {})["voorbeeld"] = r.text[:2500]
+    items = []
+    if r.text.lstrip().startswith(("{", "[")):
+        data = r.json()
+        rows = data if isinstance(data, list) else next((v for v in data.values() if isinstance(v, list)), [])
+    else:
+        root = ET.fromstring(r.content)
+        # het herhaalde element met kinderen is één consultatie
+        tellingen = {}
+        for el in root.iter():
+            if len(list(el)) >= 2:
+                tellingen[strip_ns(el.tag)] = tellingen.get(strip_ns(el.tag), 0) + 1
+        tag = max((t for t in tellingen if t != strip_ns(root.tag)), key=lambda t: tellingen[t], default=None)
+        rows = []
+        for el in root.iter():
+            if strip_ns(el.tag) == tag:
+                rows.append({strip_ns(c.tag): (c.text or "").strip() for c in el.iter() if c is not el and (c.text or "").strip()})
+    for d in rows:
+        if not isinstance(d, dict):
+            continue
+        titel = _veld(d, "titel", "title", "naam")
+        link = _veld(d, "url", "link", "href")
+        if link and link.startswith("/"):
+            link = "https://www.internetconsultatie.nl" + link
+        sluit = _veld(d, "eind", "sluit", "einde", "end")
+        start = _veld(d, "start", "begin", "publicatie", "datum")
+        items.append(make_item(bron, uid=link or titel, titel=titel, url=link or "https://www.internetconsultatie.nl/",
+                               datum=str(start)[:10], soort="Internetconsultatie",
+                               samenvatting=f"{_veld(d, 'omschrijving', 'beschrijving', 'samenvatting', 'description')} "
+                                            f"Organisatie: {_veld(d, 'ministerie', 'organisatie', 'eigenaar', 'department')}. "
+                                            f"Sluit: {str(sluit)[:10]}",
+                               versie=str(sluit), extra={"sluitingsdatum": str(sluit)[:10], "velden": list(d)[:20]}))
+    if not items:
+        raise ValueError("Koppeling gaf geen consultaties terug (zie diagnose)")
+    return items, f"{len(items)} open consultaties via KOOP-koppeling"
+
+
+def wetgevingskalender(bron, since):
+    url = "https://zoekservice.overheid.nl/sru/Search"
+    q = f"dcterms.modified>={since.date().isoformat()}"
+    r = get(url, params={"operation": "searchRetrieve", "version": "1.2", "x-connection": "wgk",
+                         "query": q, "maximumRecords": 500, "startRecord": 1})
+    DIAGNOSE.setdefault(bron["naam"], {})["voorbeeld"] = r.text[:2500]
+    total, nxt, recs = koop_parse(r.text)
+    items = []
+    for d in recs:
+        ident = d.get("identifier", "")
+        link = _veld(d, "preferredurl", "url", "link") or (
+            ident if ident.startswith("http") else f"https://wetgevingskalender.overheid.nl/regeling/{ident}")
+        items.append(make_item(bron, uid=ident or d.get("title", ""), titel=d.get("title", ident), url=link,
+                               datum=(d.get("modified") or "")[:10], soort="Wetgevingskalender",
+                               samenvatting=f"{_veld(d, 'abstract', 'description', 'omschrijving')} "
+                                            f"Ministerie: {_veld(d, 'creator', 'ministerie')}. Fase: {_veld(d, 'fase', 'status', 'stadium')}",
+                               versie=d.get("modified", ""), extra={"velden": list(d)[:25]}))
+    note = f"{len(items)} gewijzigde regelingen via KOOP-zoekdienst"
+    if total and total > len(items):
+        note += f" ({total} gemeld)"
+    return items, note
+
+
+def plooi_proef(bron, since):
+    """Proef: staan Woo-publicaties (PLOOI) ook in de KOOP-zoekdienst?"""
+    uitkomst = {}
+    for area in ("plooi", "openoverheid", "woo"):
+        try:
+            r = get(KOOP, params={"query": f"c.product-area=={area} AND dt.available>={since.date().isoformat()}",
+                                  "maximumRecords": 3, "startRecord": 1, "operation": "searchRetrieve", "version": "2.0"}, tries=1)
+            total, _, recs = koop_parse(r.text)
+            uitkomst[area] = {"aantal": total, "voorbeeld": recs[:2]}
+        except Exception as e:
+            uitkomst[area] = {"fout": f"{type(e).__name__}: {str(e)[:120]}"}
+    DIAGNOSE.setdefault(bron["naam"], {})["plooi_proef"] = uitkomst
+
+
 # ------------------------------------------------------------------ feeds en webpagina's
 
 _robots = {}
@@ -688,6 +778,11 @@ def main():
         try:
             eerste_keer = not bstate.get("laatst_gelukt")
             m = bron["methode"]
+            if bron.get("proef") == "plooi":
+                try:
+                    plooi_proef(bron, since)
+                except Exception:
+                    pass
             if m in ("web", "zoekcontrole"):
                 DIAGNOSE.setdefault(naam, {})["robots"] = robots_samenvatting(bron["url"])
             if m == "gedekt":
@@ -699,7 +794,11 @@ def main():
                           + ". Claude controleert deze bron met een gerichte zoekopdracht."))
                 status.append(st)
                 continue
-            if m == "api_tk_documenten":
+            if m == "api_internetconsultatie":
+                items, note = internetconsultatie(bron, since)
+            elif m == "api_wetgevingskalender":
+                items, note = wetgevingskalender(bron, since)
+            elif m == "api_tk_documenten":
                 items, note = tk_documenten(bron, since)
             elif m == "api_tk_besluiten":
                 items, note = tk_besluiten(bron, since)

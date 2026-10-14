@@ -3,7 +3,8 @@
 # Per bron:
 #   naam       : zoals hij op het dashboard verschijnt
 #   categorie  : groep op het dashboard
-#   methode    : api_tk_documenten | api_tk_besluiten | api_koop | api_rechtspraak | feed | web | zoekcontrole
+#   methode    : api_tk_documenten | api_tk_besluiten | api_koop | api_rechtspraak | api_internetconsultatie |
+#                api_wetgevingskalender | feed | web | gedekt | zoekcontrole
 #                - api_*  : officiële koppeling, vraagt alle nieuwe en gewijzigde stukken op
 #                - feed   : RSS/Atom-feed van de bron
 #                - web    : webpagina; het programma zoekt eerst zelf naar een feed,
@@ -87,25 +88,25 @@ bronnen:
   - {naam: Rijksoverheid nieuws over woningbouw, categorie: Rijk, methode: feed, url: "https://www.rijksoverheid.nl/api/rss?query=%7B%22filters%22%3A%5B%7B%22field%22%3A%22content_type%22%2C%22values%22%3A%5B%22pro%3AnewsDocument%22%5D%2C%22type%22%3A%22all%22%7D%5D%2C%22resultSearchTerm%22%3A%22woningbouw%22%2C%22pageTitle%22%3A%22Nieuws%22%7D", filter: alles, toegevoegd: eigen}
   - naam: Internetconsultatie
     categorie: Consultaties
-    methode: zoekcontrole
+    methode: api_internetconsultatie
     url: https://www.internetconsultatie.nl/
+    api: https://www.internetconsultatie.nl/rest/openconsultaties/
     filter: alles
     toegevoegd: eigen
-    reden: "Website staat in robots.txt alleen zoekmachines toe"
   - naam: Wetgevingskalender
     categorie: Rijk
-    methode: zoekcontrole
+    methode: api_wetgevingskalender
     url: https://wetgevingskalender.overheid.nl/
     filter: trefwoord
     toegevoegd: eigen
-    reden: "Website staat in robots.txt alleen zoekmachines toe"
   - naam: Open Overheid (Woo-publicaties)
     categorie: Rijk
     methode: zoekcontrole
     url: https://open.overheid.nl/
+    proef: plooi
+    reden: "Website staat in robots.txt alleen zoekmachines toe; een officiële koppeling wordt onderzocht"
     filter: trefwoord
     toegevoegd: eigen
-    reden: "Website staat in robots.txt alleen zoekmachines toe"
   - naam: Wet- en regelgeving
     categorie: Rijk
     methode: gedekt
