@@ -13,7 +13,7 @@
 zoekvragen:
   - {zoek: '"nitrogen deposition" AND ("Natura 2000" OR "protected area" OR "protected areas" OR habitat OR heathland)', thema: Stikstof, alleen_nl: false}
   - {zoek: '("construction machinery" OR "construction equipment" OR "construction sector" OR "construction site") AND (nitrogen OR NOx OR "zero-emission")', thema: Stikstof, alleen_nl: false}
-  - {zoek: 'ammonia OR "nitrogen deposition" OR "critical load"', thema: Stikstof, alleen_nl: true}
+  - {zoek: 'ammonia OR "nitrogen deposition" OR ("critical load" AND nitrogen)', thema: Stikstof, alleen_nl: true}
   - {zoek: '"Nature Restoration Law" OR "Nature Restoration Regulation" OR "Habitats Directive"', thema: Natuurherstel, alleen_nl: false}
   - {zoek: '"nature restoration" OR "habitat restoration" OR "ecological restoration" OR "conservation status"', thema: Natuurherstel, alleen_nl: true}
   - {zoek: '("urban biodiversity" OR "urban green space" OR "green infrastructure") AND (housing OR "urban development" OR "urban planning" OR building)', thema: Natuurherstel, alleen_nl: false}
@@ -24,4 +24,4 @@ zoekvragen:
   - {zoek: '"Water Framework Directive"', thema: Waterkwaliteit, alleen_nl: false}
   - {zoek: 'PFAS AND (soil OR groundwater OR sediment OR "surface water")', thema: Waterkwaliteit, alleen_nl: true}
   - {zoek: '("urban heat island" OR "heat stress" OR "climate adaptation" OR "pluvial flooding") AND (urban OR city OR building OR "built environment")', thema: Klimaatadaptatie, alleen_nl: true}
-  - {zoek: '"climate-adaptive" OR "climate resilient building" OR "nature-based solutions"', thema: Klimaatadaptatie, alleen_nl: false}
+  - {zoek: '"nature-based solutions" AND (urban OR city OR building OR "built environment" OR flood OR heat)', thema: Klimaatadaptatie, alleen_nl: false}

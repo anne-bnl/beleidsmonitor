@@ -583,12 +583,22 @@ def openalex(bron, since):
     van = (since - dt.timedelta(days=2)).date().isoformat()
     for z in cfg.get("zoekvragen", []):
         # Zoeken in titel en samenvatting (niet in de volledige tekst), met AND, OR en "exacte woordgroepen".
-        filt = f'title_and_abstract.search:{z["zoek"]},from_publication_date:{van},is_paratext:false'
+        filt = (f'title_and_abstract.search:{z["zoek"]},from_publication_date:{van},is_paratext:false,'
+                'type:article|review|preprint|report|book-chapter')
         if z.get("alleen_nl"):
             filt += ",authorships.institutions.country_code:NL"
         params = {"filter": filt, "sort": "publication_date:desc", "per_page": 25}
         try:
-            r = get("https://api.openalex.org/works", params=params)
+            time.sleep(1.5)  # OpenAlex beperkt het aantal verzoeken per seconde
+            for poging in range(4):
+                try:
+                    r = get("https://api.openalex.org/works", params=params)
+                    break
+                except requests.HTTPError as fout:
+                    if fout.response is not None and fout.response.status_code == 429 and poging < 3:
+                        time.sleep(10 * (poging + 1))
+                        continue
+                    raise
             res = r.json().get("results", [])
         except Exception as e:
             per[z["zoek"]] = f"fout: {type(e).__name__}: {str(e)[:150]}"
