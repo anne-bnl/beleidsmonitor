@@ -457,8 +457,13 @@ SKIP_LINK = re.compile(r"(login|inloggen|cookie|privacy|contact|zoeken|search|fa
 
 def page_links(bron, page_url, html):
     soup = BeautifulSoup(html, "html.parser")
-    for tag in soup(["nav", "header", "footer", "script", "style"]):
+    # alleen de algemene sitekop, navigatie en voettekst weghalen; een <header>
+    # binnen een nieuwsbericht (kop met link) moet blijven staan
+    for tag in soup(["nav", "footer", "script", "style"]):
         tag.decompose()
+    for tag in soup.find_all("header"):
+        if tag.find_parent(["article", "li", "section", "main"]) is None or tag.get("role") == "banner":
+            tag.decompose()
     host = urllib.parse.urlparse(page_url).netloc.replace("www.", "")
     items, seen = [], set()
     for a in soup.find_all("a", href=True):
@@ -685,9 +690,13 @@ def main():
             m = bron["methode"]
             if m in ("web", "zoekcontrole"):
                 DIAGNOSE.setdefault(naam, {})["robots"] = robots_samenvatting(bron["url"])
+            if m == "gedekt":
+                st.update(gelukt=True, toelichting=bron.get("reden", "Gedekt via een andere bron"))
+                status.append(st)
+                continue
             if m == "zoekcontrole":
-                st.update(gelukt=None, toelichting="Automatisch uitlezen is niet toegestaan of technisch niet mogelijk; "
-                          "Claude controleert deze bron met een gerichte zoekopdracht")
+                st.update(gelukt=None, toelichting=(bron.get("reden", "Automatisch uitlezen is niet toegestaan of technisch niet mogelijk")
+                          + ". Claude controleert deze bron met een gerichte zoekopdracht."))
                 status.append(st)
                 continue
             if m == "api_tk_documenten":
@@ -720,6 +729,18 @@ def main():
             st["toelichting"] = note
             if m == "web":
                 st["toelichting"] = note
+            # Een webpagina waarvan ineens vrijwel alle links nieuw zijn (andere opmaak of
+            # verbeterde herkenning), wordt opnieuw als nulmeting vastgelegd in plaats
+            # van tientallen oude berichten als nieuw te tonen.
+            if m == "web" and st.get("methode_gebruikt") in ("pagina", "browser"):
+                onbekend = [it for it in items if it["id"] not in bstate["gezien"]]
+                if len(onbekend) > 10 and len(onbekend) > 0.6 * len(items):
+                    for it in items:
+                        bstate["gezien"][it["id"]] = it["versie"]
+                    st.update(gelukt=True, toelichting="Opmaak gewijzigd of herkenning verbeterd: opnieuw nulmeting vastgelegd")
+                    bstate["laatst_gelukt"] = NOW.isoformat()
+                    status.append(st)
+                    continue
             bekendmaking = m in ("api_koop", "api_rechtspraak")
             grens_feed = (since - dt.timedelta(days=2)).date().isoformat()
             for it in items:

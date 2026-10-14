@@ -10,6 +10,7 @@
 #                           en vergelijkt anders de links op de pagina met de vorige keer
 #                - web probeert als laatste stap ook een onzichtbare browser (voor pagina's die
 #                  pas in de browser worden opgebouwd)
+#                - gedekt : de inhoud komt al volledig binnen via een andere bron
 #                - zoekcontrole : website staat automatisch uitlezen niet toe; Claude controleert
 #                           deze bron dagelijks met een gerichte zoekopdracht (minder volledig)
 #   url        : adres
@@ -90,24 +91,28 @@ bronnen:
     url: https://www.internetconsultatie.nl/
     filter: alles
     toegevoegd: eigen
+    reden: "Website staat in robots.txt alleen zoekmachines toe"
   - naam: Wetgevingskalender
     categorie: Rijk
     methode: zoekcontrole
     url: https://wetgevingskalender.overheid.nl/
     filter: trefwoord
     toegevoegd: eigen
+    reden: "Website staat in robots.txt alleen zoekmachines toe"
   - naam: Open Overheid (Woo-publicaties)
     categorie: Rijk
     methode: zoekcontrole
     url: https://open.overheid.nl/
     filter: trefwoord
     toegevoegd: eigen
+    reden: "Website staat in robots.txt alleen zoekmachines toe"
   - naam: Wet- en regelgeving
     categorie: Rijk
-    methode: web
+    methode: gedekt
     url: https://wetten.overheid.nl/
     filter: trefwoord
     toegevoegd: eigen
+    reden: "Nieuwe en gewijzigde wet- en regelgeving wordt volledig gevolgd via het Staatsblad en de Staatscourant"
   - naam: IPO
     categorie: Koepels
     methode: web
@@ -122,10 +127,11 @@ bronnen:
     toegevoegd: eigen
   - naam: Unie van Waterschappen
     categorie: Koepels
-    methode: web
+    methode: zoekcontrole
     url: https://unievanwaterschappen.nl/nieuws/
     filter: alles
     toegevoegd: voorstel
+    reden: "Website weigert automatische bezoekers, ook via de browser"
 
   # ---------- Rechtspraak ----------
   - naam: Raad van State en rechtspraak (uitspraken)
@@ -162,10 +168,11 @@ bronnen:
     toegevoegd: eigen
   - naam: EUR-Lex
     categorie: Europa
-    methode: web
+    methode: zoekcontrole
     url: https://eur-lex.europa.eu/homepage.html
     filter: trefwoord
     toegevoegd: eigen
+    reden: "Website is beveiligd tegen automatische bezoekers; de officiële koppeling vereist registratie bij de EU"
   - naam: Europees Milieuagentschap (EEA)
     categorie: Europa
     methode: web
@@ -181,8 +188,8 @@ bronnen:
 
   # ---------- Provincies ----------
   - {naam: Provincie Drenthe, categorie: Provincies, methode: web, url: "https://www.provincie.drenthe.nl/", filter: trefwoord, toegevoegd: eigen}
-  - {naam: Provincie Flevoland, categorie: Provincies, methode: web, url: "https://www.flevoland.nl/", filter: trefwoord, toegevoegd: eigen}
-  - {naam: Provincie Fryslân, categorie: Provincies, methode: web, url: "https://www.fryslan.frl/", filter: trefwoord, toegevoegd: eigen}
+  - {naam: Provincie Flevoland, categorie: Provincies, methode: web, url: "https://www.flevoland.nl/nieuwsoverzicht", filter: trefwoord, toegevoegd: eigen}
+  - {naam: Provincie Fryslân, categorie: Provincies, methode: web, url: "https://www.fryslan.frl/nieuws", filter: trefwoord, toegevoegd: eigen}
   - {naam: Provincie Gelderland, categorie: Provincies, methode: web, url: "https://www.gelderland.nl/", filter: trefwoord, toegevoegd: eigen}
   - {naam: Provincie Groningen, categorie: Provincies, methode: web, url: "https://www.provinciegroningen.nl/", filter: trefwoord, toegevoegd: eigen}
   - {naam: Provincie Limburg, categorie: Provincies, methode: web, url: "https://www.limburg.nl/", filter: trefwoord, toegevoegd: eigen}
@@ -215,7 +222,7 @@ bronnen:
   - {naam: Universiteit Utrecht, categorie: Onderzoek, methode: web, url: "https://www.uu.nl/nieuws", filter: trefwoord, toegevoegd: eigen}
   - {naam: Universiteit van Amsterdam, categorie: Onderzoek, methode: web, url: "https://www.uva.nl/", filter: trefwoord, toegevoegd: eigen}
   - {naam: Vrije Universiteit Amsterdam, categorie: Onderzoek, methode: web, url: "https://vu.nl/nl/nieuws", filter: trefwoord, toegevoegd: eigen}
-  - {naam: PLOS, categorie: Onderzoek, methode: web, url: "https://plos.org/", filter: trefwoord, toegevoegd: eigen}
+  - {naam: PLOS, categorie: Onderzoek, methode: feed, url: "https://journals.plos.org/plosone/feed/atom", filter: trefwoord, toegevoegd: eigen}
 
   # ---------- Natuur- en soortenorganisaties ----------
   - {naam: Vogelbescherming, categorie: Natuurorganisaties, methode: web, url: "https://www.vogelbescherming.nl/actueel/nieuws", filter: alles, toegevoegd: eigen}
@@ -233,10 +240,10 @@ bronnen:
   - {naam: Dutch Green Building Council, categorie: Groen en bouw, methode: web, url: "https://www.dgbc.nl/nieuws", filter: trefwoord, toegevoegd: eigen}
   - {naam: World Green Building Council, categorie: Internationaal, methode: web, url: "https://worldgbc.org/", filter: trefwoord, toegevoegd: eigen}
   - {naam: IUCN, categorie: Internationaal, methode: web, url: "https://iucn.org/news", filter: trefwoord, toegevoegd: eigen}
-  - {naam: ICLEI Europe, categorie: Internationaal, methode: web, url: "https://iclei-europe.org/news/", filter: trefwoord, toegevoegd: eigen}
+  - {naam: ICLEI Europe, categorie: Internationaal, methode: zoekcontrole, url: "https://iclei-europe.org/news/", filter: trefwoord, toegevoegd: eigen, reden: "Website weigert automatische bezoekers, ook via de browser"}
 
   # ---------- Tegengeluid en procederende partijen ----------
-  - {naam: Mobilisation for the Environment (MOB), categorie: Tegengeluid, methode: web, url: "https://www.mobilisation.nl/", filter: alles, toegevoegd: voorstel}
+  - {naam: Mobilisation for the Environment (MOB), categorie: Tegengeluid, methode: zoekcontrole, url: "https://www.mobilisation.nl/", filter: alles, toegevoegd: voorstel, reden: "Website weigert automatische bezoekers, ook via de browser"}
   - {naam: Greenpeace Nederland, categorie: Tegengeluid, methode: web, url: "https://www.greenpeace.org/nl/nieuws/", filter: trefwoord, toegevoegd: voorstel}
   - {naam: LTO Nederland, categorie: Tegengeluid, methode: web, url: "https://www.lto.nl/nieuws/", filter: trefwoord, toegevoegd: voorstel}
 
