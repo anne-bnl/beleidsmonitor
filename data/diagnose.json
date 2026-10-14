@@ -1,0 +1,1567 @@
+{
+ "Eerste Kamer": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-Agent: *",
+    "Disallow: /*layout=print",
+    "Disallow: /*&%2338;",
+    "Disallow: /*&start_*&start_",
+    "Disallow: /reageer_op_pagina",
+    "Disallow: /*/reageer_op_pagina",
+    "Disallow: /zoeken",
+    "Disallow: /*/zoeken",
+    "Disallow: /eu/reageer_op_pagina",
+    "Disallow: /eu/zoeken",
+    "Disallow: /mobiel/reageer_op_pagina",
+    "Disallow: /mobiel/zoeken",
+    "Disallow: /eumobiel/reageer_op_pagina",
+    "Disallow: /eumobiel/zoeken",
+    "Disallow: /*&sort"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "Internetconsultatie": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: Applebot",
+    "Disallow:",
+    "User-agent: Googlebot",
+    "Disallow:",
+    "User-agent: Bingbot",
+    "Disallow:",
+    "User-agent: Slurp",
+    "Disallow:",
+    "User-agent: DuckDuckBot",
+    "Disallow:",
+    "User-agent: ChatGPT-User",
+    "Disallow:",
+    "User-agent: *",
+    "Disallow: /",
+    "Crawl-delay: 60"
+   ],
+   "pagina_toegestaan": false
+  }
+ },
+ "Wetgevingskalender": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: Applebot",
+    "Disallow:",
+    "User-agent: Googlebot",
+    "Disallow:",
+    "User-agent: Bingbot",
+    "Disallow:",
+    "User-agent: Slurp",
+    "Disallow:",
+    "User-agent: DuckDuckBot",
+    "Disallow:",
+    "User-agent: ChatGPT-User",
+    "Disallow:",
+    "User-agent: *",
+    "Disallow: /",
+    "Crawl-delay: 60"
+   ],
+   "pagina_toegestaan": false
+  }
+ },
+ "Open Overheid (Woo-publicaties)": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: Googlebot",
+    "Allow: /home",
+    "Allow: /over",
+    "Allow: /verwijzingen",
+    "Allow: /details/*",
+    "User-agent: *",
+    "Disallow: /"
+   ],
+   "pagina_toegestaan": false
+  }
+ },
+ "Wet- en regelgeving": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "Sitemap: https://wetten.overheid.nl/sitemap.xml",
+    "User-agent: Googlebot",
+    "Disallow: /zoeken/zoekresultaat",
+    "Disallow: /uitgebreid_zoeken/zoekresultaat",
+    "Disallow: /toekomstig_zoeken/zoekresultaat",
+    "Disallow: /*/download/1$",
+    "Disallow: /*afdrukken$",
+    "Disallow: /*/informatie/xml",
+    "Disallow: /service/",
+    "Allow: /",
+    "User-agent: Googlebot-Image",
+    "Disallow: /zoeken/zoekresultaat",
+    "Disallow: /uitgebreid_zoeken/zoekresultaat",
+    "Disallow: /toekomstig_zoeken/zoekresultaat",
+    "Disallow: /*afdrukken$",
+    "Disallow: /*/informatie/xml",
+    "Disallow: /service/",
+    "Allow: /",
+    "User-agent: Googlebot-Video",
+    "Disallow: /zoeken/zoekresultaat",
+    "Disallow: /uitgebreid_zoeken/zoekresultaat",
+    "Disallow: /toekomstig_zoeken/zoekresultaat",
+    "Disallow: /*afdrukken$",
+    "Disallow: /*/informatie/xml",
+    "Disallow: /service/"
+   ],
+   "pagina_toegestaan": true
+  },
+  "json_eindpunten": []
+ },
+ "IPO": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "Sitemap: https://www.ipo.nl/sitemap_index.xml",
+    "User-agent: *",
+    "Disallow:",
+    "Sitemap: https://www.ipo.nl/sitemap_index.xml",
+    "Sitemap: https://www.bij12.nl/sitemap_index.xml",
+    "Sitemap: https://www.risicokaart.nl/sitemap_index.xml",
+    "Sitemap: https://www.lisa.nl/sitemap_index.xml",
+    "Sitemap: https://www.archeodepot.nl/sitemap_index.xml",
+    "Sitemap: https://werkenbij.ipo.nl/sitemap_index.xml"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "VNG": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: *",
+    "Allow: /core/*.css$",
+    "Allow: /core/*.css?",
+    "Allow: /core/*.js$",
+    "Allow: /core/*.js?",
+    "Allow: /core/*.gif",
+    "Allow: /core/*.jpg",
+    "Allow: /core/*.jpeg",
+    "Allow: /core/*.png",
+    "Allow: /core/*.svg",
+    "Allow: /profiles/*.css$",
+    "Allow: /profiles/*.css?",
+    "Allow: /profiles/*.js$",
+    "Allow: /profiles/*.js?",
+    "Allow: /profiles/*.gif",
+    "Allow: /profiles/*.jpg",
+    "Allow: /profiles/*.jpeg",
+    "Allow: /profiles/*.png",
+    "Allow: /profiles/*.svg",
+    "Disallow: /core/",
+    "Disallow: /profiles/",
+    "Disallow: /README.md",
+    "Disallow: /composer/Metapackage/README.txt",
+    "Disallow: /composer/Plugin/ProjectMessage/README.md",
+    "Disallow: /composer/Plugin/Scaffold/README.md"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "Unie van Waterschappen": {
+  "robots": {
+   "status": 403,
+   "regels": [
+    "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-Xnn9s9DMAHiKQ2q8PXVmaa&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"Xnn9s9DMAHiKQ2q8PXVmaa\">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: '_dg5WFnlQCjQUAu.KbReBVorLjAouug0o3vzRg7CfXs-1791969477-1.2.1.1-eI8r1Lc5fGFgAW2B89At_blAFRnhGvXglDOF8yK0oE_OlmFXCxmDEq1TOVRrthYo',cITimeS: '1791969477',cN: 'Xnn9s9DMAHiKQ2q8PXVmaa',cRay: 'a4a57e70d9dfb002',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/robots.txt?__cf_chl_tk=wwfLtaTWB4kdCikLG07K8gRkb0W2V9QYB3ZwRUFpbE4-1791969477-1.0.1.1-B2BOUSrqeL01EDp0SJYKntMFnaUkPlm5OFag4Kqyp8U\",cvId: '3',cZone: 'unievanwaterschappen.nl',fa:\"/robots.txt?__cf_chl_f_tk=wwfLtaTWB4kdCikLG07K8gRkb0W2V9QYB3ZwRUFpbE4-1791969477-1.0.1.1-B2BOUSrqeL01EDp0SJYKntMFnaUkPlm5OFag4Kqyp8U\",md: '_P.q7NnqjBdDZ8rRB91e7jZVL6QKJPvJOSI6UCHe3Po-1791969477-1.2.1.1-b22AQoup6jFujg.HjocvutvTQ4_y70XYeNf31MelvOwNmwW6MRQpcOU_uKfvznEgZ9bZujxowODNcSesjAGOCluQFylg4_MhenjNPRqqMLQHKkWKgfzyFiNAeVszykIbJvT83kQzY83CFyXav2cyZcQe1kcvH9CJg2fw36avEwmqP6jlAUPmmJBtx7rN2AWA_OANuLGypH34dk19TYmOGiNjFJzmIdwaK7n9evSG2qiuScjUcPfwUmlSkLVxly1INc1FSRCsuV5uixYd5K_0_Y1uunrvLGfPKsvT6vDUDugmca_zHT6B49WQP2lv4sJPfC0S0lWDux4EUKaZyjeATmqwuGKP3av5g1KL1v3Vez4TUzzuETgpPl0zRKb58p4ZYbVwT2V.RLpqGg9M8am9jPY6aOVvkRfIYbblHQYw07Q1MJ5UvcQif5bmNLZftBW_FogJ8o8X6TtExkVPMoV_LcdlmxlVOeMyuL9SMgfrgJYlIoWc8125JSMRYAYcdbfB9rw.kJ3RvYYcbCzybrw3YlpOysaFbc.4M24mbot95ao.C6qBoPVBYY4SxWuncrgxCw7kVilj7L6aKyU3efMJta.TD9xF05Jrtc.5GNuXvj8hz2xa8Eq_JK4WuA0wJymQJuzLv.e0jhYTDrWT1flOGnjxWmwBsWwm.8VpkmhRgOIzp.ypr9n1F1q_najY9AXLJd_HzRFZZzssY.L4cSH9gn3HA1DvtsjxDdGaTu4UF.Wnpq08dFgWOX30n94H3HWQxBHFiT0ytASVEo2q926_KAKiatm5E2Nbex8pLu90M9PU8dSqasbyqmNJ79kqcCufAYHSeJvVeDl3xSd6YJYZvyGOPGHywJyZcGgnt.p7LEAt0wY5mYQfebPh_JblBpN1lRLsRAyjPK5HLleFpn5.sCbCDffEJ6TrCu49RrSbQ5_wawdK68Qe9tDecvX6YNJixO2KndMt1TVDCSCBuHHAA_To6ZDZGkTOqk2pYNoxhmqnWxfMY.xb4A2xUZ1SZapNsw5ulmUF1vgs697lSPrKzcCESZeI2ydbQ.01lcHYwiwjJwm4OfYk9SXI.h1CL2AXCsylT3RRmqRZ.GTUDMMuo6lNnCaO8jM2K3pFPAjoDgKHl.fAhpFwnBNID4WBvrLcB1VVed0zFKfjlORx5FS7yIMQN07bZfg25URW6c.cs4T7scvICHvXhM5U_faT.Vmj3CxiOzRw29pcmd0MOFmg92lZ1Qxm2gkZYHVqui4tHvI',mdrd: 'O8pSYBCH5bZMey3c4I45PkMWKOIKwI_w9nFiRk00jlQ-1791969477-1.2.1.1-cnNUwcU3ogweHCE8SOhsfRVEBfuEB_o7oiAUonxW5cj2A3hFlQ19tZIYbS55NKKRI9rbbcktI9SxpD5ftsNA3JaABB9yFIWJhk9nmYBfFOWPYeWjNDIYltNlRVKmsSYugdG_XNjvEQVzdzdgLRJ47TkOLra.9QEg3BxRVgKqbnTg02rEfCeSLrL40PqCEVgCa5TqrByUAVOFp_N6t310e3Azowq_jlv_IZWK8xoh8FIzBicNtJ5G8pCocfpwXdLZCxUVT1RXVGy8f_Jzenuz5E.E6riJJWg.Vh3KxZxi3.B9xm9wLu5z0MfalXOT2IOnSVk0akOcmlmuM.ZE4VOe9GpjZVO7cJKNZ1W4TBeT3bc_GtVqXuuXH5ROgVdt00O3E6E4Kg8WElz8dCPL_zReMP4X1xsA5iFZawjVK3fXchg',};var a = document.createElement('script');a.nonce = 'Xnn9s9DMAHiKQ2q8PXVmaa';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a4a57e70d9dfb002';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/robots.txt?__cf_chl_rt_tk=wwfLtaTWB4kdCikLG07K8gRkb0W2V9QYB3ZwRUFpbE4-1791969477-1.0.1.1-B2BOUSrqeL01EDp0SJYKntMFnaUkPlm5OFag4Kqyp8U\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>"
+   ],
+   "pagina_toegestaan": true
+  },
+  "json_eindpunten": []
+ },
+ "Raad van State (nieuws en uitspraken)": {
+  "robots": {
+   "status": 406,
+   "regels": [
+    "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Strict//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd\">",
+    "<html xmlns=\"http://www.w3.org/1999/xhtml\">",
+    "<head>",
+    "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=iso-8859-1\"/>",
+    "<title>406 - Client browser does not accept the MIME type of the requested page.</title>",
+    "<style type=\"text/css\">",
+    "<!--",
+    "body{margin:0;font-size:.7em;font-family:Verdana, Arial, Helvetica, sans-serif;background:#EEEEEE;}",
+    "fieldset{padding:0 15px 10px 15px;}",
+    "h1{font-size:2.4em;margin:0;color:#FFF;}",
+    "h2{font-size:1.7em;margin:0;color:#CC0000;}",
+    "h3{font-size:1.2em;margin:10px 0 0 0;color:#000000;}",
+    "background-color:#555555;}",
+    ".content-container{background:#FFF;width:96%;margin-top:8px;padding:10px;position:relative;}",
+    "-->",
+    "</style>",
+    "</head>",
+    "<body>",
+    "<div id=\"header\"><h1>Server Error</h1></div>",
+    "<div id=\"content\">",
+    "<div class=\"content-container\"><fieldset>",
+    "<h2>406 - Client browser does not accept the MIME type of the requested page.</h2>",
+    "<h3>The page you are looking for cannot be opened by your browser because it has a file name extension that your browser does not accept.</h3>",
+    "</fieldset></div>",
+    "</div>"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "Europese Commissie persberichten": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: Baiduspider",
+    "Disallow: /eurostat/tgm/",
+    "Disallow: /europeaid/prag/",
+    "User-agent: Twitterbot",
+    "Allow: /digital-single-market/en/files",
+    "Allow: /digital-single-market/files",
+    "Allow: /digital-single-market/sites/",
+    "Allow: /digital-single-market/en/sites/",
+    "User-agent: *",
+    "Disallow: /archives/",
+    "Disallow: /cgi-bin/",
+    "Disallow: /clima/ets/",
+    "Disallow: /clima/sites/registry/",
+    "Disallow: /commission_2010-2014/katainen/",
+    "Disallow: /creative-europe/404_en.htm",
+    "Disallow: /culture/404_en.htm",
+    "Disallow: /dgs/education_culture/404_en.htm",
+    "Disallow: /eclas/",
+    "Disallow: /education/404_en.htm",
+    "Disallow: /employment_social/anticipedia/xwiki/bin/attach/",
+    "Disallow: /employment_social/anticipedia/xwiki/bin/cancel/",
+    "Disallow: /employment_social/anticipedia/xwiki/bin/commentadd/",
+    "Disallow: /employment_social/anticipedia/xwiki/bin/delattachment/",
+    "Disallow: /employment_social/anticipedia/xwiki/bin/delete/",
+    "Disallow: /employment_social/anticipedia/xwiki/bin/dot/"
+   ],
+   "pagina_toegestaan": true
+  },
+  "json_eindpunten": [
+   "https://ec.europa.eu/commission/presscorner/assets/env-json-config.json",
+   "https://ec.europa.eu/commission/presscorner/assets/i18n-eui/nl.json",
+   "https://ec.europa.eu/commission/presscorner/assets/i18n-ecl/nl.json",
+   "https://ec.europa.eu/commission/presscorner/assets/i18n/nl.json",
+   "https://ec.europa.eu/commission/presscorner/assets/i18n-ecl/en.json",
+   "https://ec.europa.eu/commission/presscorner/assets/i18n-eui/en.json",
+   "https://ec.europa.eu/commission/presscorner/assets/i18n/en.json",
+   "https://ec.europa.eu/commission/presscorner/api/announcement/allactivated",
+   "https://ec.europa.eu/commission/presscorner/api/highlights?language=en&ts=1791969493906",
+   "https://ec.europa.eu/commission/presscorner/api/docutypes?language=en&ts=1791969493906",
+   "https://ec.europa.eu/commission/presscorner/api/commissioners?language=en&ts=1791969493906",
+   "https://ec.europa.eu/commission/presscorner/api/policies/parents?language=en&ts=1791969493906",
+   "https://ec.europa.eu/commission/presscorner/api/commissioners?language=en&ts=1791969493944",
+   "https://ec.europa.eu/commission/presscorner/api/highlights?language=en&ts=1791969493944",
+   "https://ec.europa.eu/commission/presscorner/api/docutypes?language=en&ts=1791969493944"
+  ]
+ },
+ "Europese Commissie consultaties (Have your say)": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: Baiduspider",
+    "Disallow: /eurostat/tgm/",
+    "Disallow: /europeaid/prag/",
+    "User-agent: Twitterbot",
+    "Allow: /digital-single-market/en/files",
+    "Allow: /digital-single-market/files",
+    "Allow: /digital-single-market/sites/",
+    "Allow: /digital-single-market/en/sites/",
+    "User-agent: *",
+    "Disallow: /archives/",
+    "Disallow: /cgi-bin/",
+    "Disallow: /clima/ets/",
+    "Disallow: /clima/sites/registry/",
+    "Disallow: /commission_2010-2014/katainen/",
+    "Disallow: /creative-europe/404_en.htm",
+    "Disallow: /culture/404_en.htm",
+    "Disallow: /dgs/education_culture/404_en.htm",
+    "Disallow: /eclas/",
+    "Disallow: /education/404_en.htm",
+    "Disallow: /employment_social/anticipedia/xwiki/bin/attach/",
+    "Disallow: /employment_social/anticipedia/xwiki/bin/cancel/",
+    "Disallow: /employment_social/anticipedia/xwiki/bin/commentadd/",
+    "Disallow: /employment_social/anticipedia/xwiki/bin/delattachment/",
+    "Disallow: /employment_social/anticipedia/xwiki/bin/delete/",
+    "Disallow: /employment_social/anticipedia/xwiki/bin/dot/"
+   ],
+   "pagina_toegestaan": true
+  },
+  "json_eindpunten": [
+   "https://eams.fpfis.tech.ec.europa.eu/config?siteID=237&instance=ec.europa.eu",
+   "https://ec.europa.eu/info/law/better-regulation/assets/env-json-config.json",
+   "https://ec.europa.eu/info/law/better-regulation/brpapi/getAccessibilityDates",
+   "https://ec.europa.eu/info/law/better-regulation/assets/i18n-eui/en.json",
+   "https://ec.europa.eu/info/law/better-regulation/brpapi/topics",
+   "https://ec.europa.eu/info/law/better-regulation/brpapi/config",
+   "https://ec.europa.eu/info/law/better-regulation/assets/i18n-ecl/en.json",
+   "https://ec.europa.eu/info/law/better-regulation/brpapi/getOpcPublicationsIdsWithoutEcas",
+   "https://ec.europa.eu/info/law/better-regulation/assets/i18n-eui-addons/en.json",
+   "https://ec.europa.eu/info/law/better-regulation/assets/i18n/en.json",
+   "https://ec.europa.eu/info/law/better-regulation/brpapi/closingSoon?language=EN",
+   "https://ec.europa.eu/info/law/better-regulation/brpapi/initiativeHighlights?language=EN",
+   "https://audiovisual.ec.europa.eu/oembed?url=https%3A%2F%2Faudiovisual.ec.europa.eu%2Fembed%2FI-136353%3Flanguage%3Den",
+   "https://eams.fpfis.tech.ec.europa.eu/config?siteID=f04b98a2-38f4-4d46-aeda-d36b3a24a789",
+   "https://webgate.ec.europa.eu/apis/parrotfish/media?reference=I-136353&withShotlist=true&withChapters=true&relatedMediaTypes=VIDEO"
+  ]
+ },
+ "Europees Parlement nieuws": {
+  "robots": {
+   "status": 202,
+   "regels": [],
+   "pagina_toegestaan": true
+  },
+  "json_eindpunten": [
+   "https://e3c1b12827d4.3535c7cd.us-east-1.token.awswaf.com/e3c1b12827d4/d7f65e927fcd/f9998b2f6105/inputs?client=browser",
+   "https://e3c1b12827d4.3535c7cd.us-east-1.token.awswaf.com/e3c1b12827d4/d7f65e927fcd/f9998b2f6105/mp_verify?region=us-east-1"
+  ]
+ },
+ "EUR-Lex": {
+  "robots": {
+   "status": 202,
+   "regels": [],
+   "pagina_toegestaan": true
+  },
+  "json_eindpunten": [
+   "https://3e3378af7cd0.299dfecb.us-east-1.token.awswaf.com/3e3378af7cd0/b8f8ae018166/c9ffa032f402/inputs?client=browser",
+   "https://3e3378af7cd0.299dfecb.us-east-1.token.awswaf.com/3e3378af7cd0/b8f8ae018166/c9ffa032f402/mp_verify?region=us-east-1",
+   "https://analytics.webanalytics.op.europa.eu/containers/0b5594a8-b9c8-4cd6-aa25-5c578dcf91df/privacy-widgets.json"
+  ]
+ },
+ "Europees Milieuagentschap (EEA)": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: *",
+    "Disallow: */assets/*",
+    "Disallow: /api",
+    "Disallow: /images",
+    "Disallow: /XML",
+    "Disallow: /Control_Panel",
+    "Disallow: /sandbox",
+    "Disallow: /*/sandbox",
+    "Disallow: /*login_form$",
+    "Disallow: /*login$",
+    "Disallow: /events/submitted",
+    "Disallow: /*@@invalidate_cache",
+    "Disallow: /*@@updated_search",
+    "Disallow: /*@@faceted_query",
+    "Disallow: /*@@search",
+    "Disallow: /*listing_not_available",
+    "Disallow: /portal_navigationmanager",
+    "Disallow: /*@@rdf",
+    "Disallow: /*/RSS",
+    "Disallow: /*/atom.xml",
+    "Disallow: /*/rss.xml",
+    "Disallow: /*/search_rss",
+    "Disallow: /search_rss",
+    "Disallow: /*/?c*=",
+    "Disallow: /*/?q="
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "FIEC": {
+  "robots": {
+   "fout": "ReadTimeout"
+  }
+ },
+ "Provincie Drenthe": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "sitemap: https://www.provincie.drenthe.nl/sitemap.xml",
+    "User-agent: *",
+    "Disallow: /aspx/",
+    "Allow: /aspx/read.aspx"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "Provincie Flevoland": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "user-agent: *",
+    "disallow: /cms.*",
+    "disallow: /cmsctx*",
+    "disallow: /Kentico/",
+    "disallow: /FlevolandAdmin/",
+    "disallow: /Content/Pages/Test/",
+    "disallow: /Content/Pages/Bedankt",
+    "disallow: /Content/Pages/Domeinnaam-geregistreerd",
+    "disallow: /Content/Pages/Disclaimer-e-mail",
+    "disallow: /settings",
+    "disallow: /components",
+    "disallow: /schrijfwijzer-(1)",
+    "disallow: /pagetemplates",
+    "disallow: /bedankt",
+    "disallow: /test"
+   ],
+   "pagina_toegestaan": true
+  },
+  "json_eindpunten": [
+   "https://connect.facebook.net/app_config/json/652383499323256/",
+   "https://www.flevoland.nl/trackingconsent/reject"
+  ]
+ },
+ "Provincie Fryslân": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: SemrushBot",
+    "User-agent: SemrushBot-SA",
+    "User-agent: AhrefsBot",
+    "User-agent: MJ12bot",
+    "User-agent: PetalBot",
+    "User-agent: Owlin",
+    "User-agent: trendictionbot",
+    "User-agent: dotbot",
+    "User-agent: scooperbot",
+    "Disallow: /"
+   ],
+   "pagina_toegestaan": true
+  },
+  "json_eindpunten": [
+   "https://www.fryslan.frl/_next/data/2.13.0/index.json",
+   "https://www.fryslan.frl/_next/data/2.13.0/contact.json?all=contact",
+   "https://www.fryslan.frl/_next/data/2.13.0/wegen.json?all=wegen",
+   "https://www.fryslan.frl/_next/data/2.13.0/werken-bij-provincie-fryslan.json?all=werken-bij-provincie-fryslan",
+   "https://www.fryslan.frl/_next/data/2.13.0/provinciebestuur.json?all=provinciebestuur",
+   "https://www.fryslan.frl/_next/data/2.13.0/wat-doen-we.json?all=wat-doen-we",
+   "https://www.fryslan.frl/_next/data/2.13.0/loket.json?all=loket",
+   "https://www.fryslan.frl/_next/data/2.13.0/actueel.json?all=actueel",
+   "https://www.fryslan.frl/_next/data/2.13.0/wie-zijn-we.json?all=wie-zijn-we"
+  ]
+ },
+ "Provincie Gelderland": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: *",
+    "Allow: /",
+    "Host: http://www.gelderland.nl",
+    "Sitemap: http://www.gelderland.nl/sitemap.xml"
+   ],
+   "pagina_toegestaan": true
+  },
+  "json_eindpunten": [
+   "https://www.gelderland.nl/next/api/auth/session",
+   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl.json",
+   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl.json",
+   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/vergunningen-startpagina.json",
+   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/themas/politiek/ps.json",
+   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/contact.json",
+   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/themas/stikstof.json",
+   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/themas/bereikbaar.json",
+   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/themas/wonen.json",
+   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/themas/werken-bij-de-provincie.json",
+   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/themas/politiek.json",
+   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/subsidies.json",
+   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/themas/economie.json",
+   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/wegwerkzaamheden.json",
+   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/kaarten-en-cijfers.json"
+  ]
+ },
+ "Provincie Groningen": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: *",
+    "Disallow: /typo3",
+    "Sitemap: https://www.provinciegroningen.nl/sitemap.xml",
+    "Sitemap: https://www.provinciegroningen.nl/sitemap_news.xml",
+    "Sitemap: https://www.provinciegroningen.nl/sitemap_attachments.xml"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "Provincie Limburg": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "sitemap: https://www.limburg.nl/sitemap.xml",
+    "User-agent: *",
+    "Disallow: /aspx/",
+    "Allow: /aspx/read.aspx"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "Provincie Noord-Brabant": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "sitemap: https://www.brabant.nl/sitemap.xml",
+    "User-agent: *",
+    "Disallow: /*?AppIdt=voi-asset",
+    "Disallow: /aspx/",
+    "Allow: /aspx/read.aspx"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "Provincie Noord-Holland": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: *",
+    "Allow:",
+    "Disallow: /*?*hid=pdf",
+    "Disallow: /*?*HID=PDF",
+    "Disallow: /*?*hid=PDF",
+    "Disallow: /*?*HID=pdf",
+    "Disallow: /Modules/Speciale_pagina/Speciale_pagina_Uitgebreid_zoeken_Zoekresultaten",
+    "User-agent: Googlebot",
+    "Allow:",
+    "User-agent: AdsBot-Google",
+    "Allow:",
+    "User-agent: Googlebot-Image",
+    "Allow:",
+    "Sitemap: https://www.noord-holland.nl/noord-holland.xml"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "Provincie Overijssel": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "Sitemap: https://www.overijssel.nl/sitemap.xml",
+    "User-Agent: *",
+    "Disallow: /bin/"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "Provincie Utrecht": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: *",
+    "Allow: /core/*.css$",
+    "Allow: /core/*.css?",
+    "Allow: /core/*.js$",
+    "Allow: /core/*.js?",
+    "Allow: /core/*.avif",
+    "Allow: /core/*.gif",
+    "Allow: /core/*.jpg",
+    "Allow: /core/*.jpeg",
+    "Allow: /core/*.png",
+    "Allow: /core/*.svg",
+    "Allow: /core/*.webp",
+    "Allow: /profiles/*.css$",
+    "Allow: /profiles/*.css?",
+    "Allow: /profiles/*.js$",
+    "Allow: /profiles/*.js?",
+    "Allow: /profiles/*.avif",
+    "Allow: /profiles/*.gif",
+    "Allow: /profiles/*.jpg",
+    "Allow: /profiles/*.jpeg",
+    "Allow: /profiles/*.png",
+    "Allow: /profiles/*.svg",
+    "Allow: /profiles/*.webp",
+    "Disallow: /core/",
+    "Disallow: /profiles/"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "Provincie Zeeland": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: *",
+    "Allow: /core/*.css$",
+    "Allow: /core/*.css?",
+    "Allow: /core/*.js$",
+    "Allow: /core/*.js?",
+    "Allow: /core/*.gif",
+    "Allow: /core/*.jpg",
+    "Allow: /core/*.jpeg",
+    "Allow: /core/*.png",
+    "Allow: /core/*.svg",
+    "Allow: /profiles/*.css$",
+    "Allow: /profiles/*.css?",
+    "Allow: /profiles/*.js$",
+    "Allow: /profiles/*.js?",
+    "Allow: /profiles/*.gif",
+    "Allow: /profiles/*.jpg",
+    "Allow: /profiles/*.jpeg",
+    "Allow: /profiles/*.png",
+    "Allow: /profiles/*.svg",
+    "Disallow: /core/",
+    "Disallow: /profiles/",
+    "Disallow: /README.txt",
+    "Disallow: /web.config",
+    "Disallow: /admin/",
+    "Disallow: /comment/reply/"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "Provincie Zuid-Holland": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "sitemap: https://www.zuid-holland.nl/sitemap.xml",
+    "User-agent: *",
+    "Disallow: /aspx/",
+    "Allow: /aspx/read.aspx"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "Gemeente Amsterdam": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "sitemap: https://www.amsterdam.nl/sitemap.xml",
+    "User-agent: simplepie",
+    "Disallow: /",
+    "User-agent: 80legs.com",
+    "Disallow: /",
+    "User-agent: curl",
+    "Disallow: /",
+    "User-agent: Python urllib",
+    "Disallow: /",
+    "User-agent: OSCE",
+    "Disallow: /",
+    "User-agent: Wget",
+    "Disallow: /",
+    "User-agent: Wotbox",
+    "Disallow: /",
+    "User-agent: YandexBot",
+    "Disallow: /",
+    "User-agent: Ezooms",
+    "Disallow: /",
+    "User-agent: YandexImages",
+    "Disallow: /",
+    "User-agent: MJ12bot",
+    "Disallow: /",
+    "User-agent: Genieo",
+    "Disallow: /"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "Gemeente Rotterdam": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: *",
+    "Allow: /",
+    "Disallow: /api/",
+    "Sitemap: https://backend-dvg.rotterdam.nl/sitemap.xml"
+   ],
+   "pagina_toegestaan": true
+  },
+  "json_eindpunten": [
+   "https://www.rotterdam.nl/_next/data/VPRsLL76BcyTSk22wAgCB/nl.json",
+   "https://www.rotterdam.nl/_next/data/VPRsLL76BcyTSk22wAgCB/nl/bewoners.json?slug=bewoners",
+   "https://www.rotterdam.nl/_next/data/VPRsLL76BcyTSk22wAgCB/nl/bestuur-en-organisatie.json?slug=bestuur-en-organisatie",
+   "https://www.rotterdam.nl/_next/data/VPRsLL76BcyTSk22wAgCB/nl/toeslagen-010.json?slug=toeslagen-010",
+   "https://www.rotterdam.nl/_next/data/VPRsLL76BcyTSk22wAgCB/nl/ondernemers.json?slug=ondernemers",
+   "https://www.rotterdam.nl/_next/data/VPRsLL76BcyTSk22wAgCB/nl/search.json",
+   "https://www.rotterdam.nl/_next/data/VPRsLL76BcyTSk22wAgCB/nl/contact.json?slug=contact",
+   "https://www.rotterdam.nl/_next/data/VPRsLL76BcyTSk22wAgCB/nl/algoritmes.json?slug=algoritmes",
+   "https://www.rotterdam.nl/_next/data/VPRsLL76BcyTSk22wAgCB/nl/cookies.json?slug=cookies",
+   "https://www.rotterdam.nl/_next/data/VPRsLL76BcyTSk22wAgCB/nl/proclaimer.json?slug=proclaimer",
+   "https://www.rotterdam.nl/_next/data/VPRsLL76BcyTSk22wAgCB/nl/werken-voor-rotterdam.json?slug=werken-voor-rotterdam",
+   "https://www.rotterdam.nl/_next/data/VPRsLL76BcyTSk22wAgCB/nl/toegankelijkheid.json?slug=toegankelijkheid",
+   "https://www.rotterdam.nl/_next/data/VPRsLL76BcyTSk22wAgCB/nl/bestrijding-mensenhandel-werkt-met-hulp-van-rotterdammers.json?slug=bestrijding-mensenhandel-werkt-met-hulp-van-rotterdammers",
+   "https://www.rotterdam.nl/_next/data/VPRsLL76BcyTSk22wAgCB/nl/avontureneiland-en-sportplaza-feyenoord-vernieuwd.json?slug=avontureneiland-en-sportplaza-feyenoord-vernieuwd",
+   "https://backend-dvg.rotterdam.nl/graphql"
+  ]
+ },
+ "Gemeente Utrecht": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: Fasterfox",
+    "Disallow: /",
+    "User-Agent: 008",
+    "Disallow: /",
+    "User-Agent: Yandex",
+    "Disallow: /",
+    "User-Agent: YandexBot",
+    "Disallow: /",
+    "User-agent: MJ12bot",
+    "Disallow: /",
+    "User-agent: Exabot",
+    "Disallow: /",
+    "User-agent: proximic",
+    "Disallow: /",
+    "User-Agent: YoudaoBot",
+    "Disallow: /",
+    "User-Agent: AhrefsBot",
+    "disallow: /",
+    "User-Agent: *",
+    "Allow: /",
+    "Disallow: /typo3/",
+    "Disallow: /typo3conf/",
+    "Disallow: /typo3temp/",
+    "Disallow: /*?id=*",
+    "Disallow: /*&id=*"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "Raad voor de leefomgeving en infrastructuur (Rli)": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: ClaudeBot",
+    "Disallow: /",
+    "User-agent: *",
+    "Allow: /core/*.css$",
+    "Allow: /core/*.css?",
+    "Allow: /core/*.js$",
+    "Allow: /core/*.js?",
+    "Allow: /core/*.gif",
+    "Allow: /core/*.jpg",
+    "Allow: /core/*.jpeg",
+    "Allow: /core/*.png",
+    "Allow: /core/*.svg",
+    "Allow: /profiles/*.css$",
+    "Allow: /profiles/*.css?",
+    "Allow: /profiles/*.js$",
+    "Allow: /profiles/*.js?",
+    "Allow: /profiles/*.gif",
+    "Allow: /profiles/*.jpg",
+    "Allow: /profiles/*.jpeg",
+    "Allow: /profiles/*.png",
+    "Allow: /profiles/*.svg",
+    "Disallow: /core/",
+    "Disallow: /profiles/",
+    "Disallow: /README.txt",
+    "Disallow: /web.config"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "BIJ12": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "Sitemap: https://www.bij12.nl/sitemap_index.xml",
+    "User-agent: *",
+    "Disallow:",
+    "Sitemap: https://www.bij12.nl/sitemap_index.xml",
+    "Sitemap: https://www.risicokaart.nl/sitemap_index.xml",
+    "Sitemap: https://www.lisa.nl/sitemap_index.xml",
+    "Sitemap: https://www.archeodepot.nl/sitemap_index.xml",
+    "Sitemap: https://www.ipo.nl/sitemap_index.xml",
+    "Sitemap: https://werkenbij.ipo.nl/sitemap_index.xml"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "Rijkswaterstaat": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: *",
+    "Disallow: /*.aspx",
+    "Disallow: /zoeken*",
+    "Sitemap: https://www.rijkswaterstaat.nl/sitemap.xml",
+    "Sitemap: https://www.rijkswaterstaat.nl/nieuws/sitemap.xml"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "STOWA": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: *",
+    "Allow: /core/*.css$",
+    "Allow: /core/*.css?",
+    "Allow: /core/*.js$",
+    "Allow: /core/*.js?",
+    "Allow: /core/*.gif",
+    "Allow: /core/*.jpg",
+    "Allow: /core/*.jpeg",
+    "Allow: /core/*.png",
+    "Allow: /core/*.svg",
+    "Allow: /profiles/*.css$",
+    "Allow: /profiles/*.css?",
+    "Allow: /profiles/*.js$",
+    "Allow: /profiles/*.js?",
+    "Allow: /profiles/*.gif",
+    "Allow: /profiles/*.jpg",
+    "Allow: /profiles/*.jpeg",
+    "Allow: /profiles/*.png",
+    "Allow: /profiles/*.svg",
+    "Disallow: /core/",
+    "Disallow: /profiles/",
+    "Disallow: /README.md",
+    "Disallow: /composer/Metapackage/README.txt",
+    "Disallow: /composer/Plugin/ProjectMessage/README.md",
+    "Disallow: /composer/Plugin/Scaffold/README.md"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "Deltares": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: *",
+    "Disallow: /admin",
+    "Disallow: /debug",
+    "Disallow: /images/logos/fabrique.png",
+    "Allow: /",
+    "Sitemap: https://www.deltares.nl/sitemap.xml",
+    "User-agent: AhrefsSiteAudit",
+    "Allow: /",
+    "User-agent: AhrefsBot",
+    "Allow: /"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "EIB": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: *",
+    "Allow: /",
+    "Sitemap: https://www.eib.nl/sitemap.xml",
+    "Sitemap: https://www.eib.nl/sitemap_index_0.xml",
+    "Sitemap: https://www.eib.nl/sitemap_index_1.xml",
+    "Sitemap: https://www.eib.nl/sitemap_index_2.xml",
+    "Sitemap: https://www.eib.nl/sitemap_index_3.xml",
+    "Sitemap: https://www.eib.nl/sitemap_index_4.xml",
+    "Sitemap: https://www.eib.nl/sitemap_index_5.xml",
+    "Sitemap: https://www.eib.nl/sitemap_index_6.xml",
+    "Sitemap: https://www.eib.nl/sitemap_index_7.xml",
+    "Sitemap: https://www.eib.nl/sitemap_index_8.xml",
+    "Sitemap: https://www.eib.nl/sitemap_index_9.xml",
+    "Sitemap: https://www.eib.nl/sitemap_index_10.xml",
+    "Sitemap: https://www.eib.nl/sitemap_index_11.xml",
+    "Sitemap: https://www.eib.nl/sitemap_index_12.xml",
+    "Sitemap: https://www.eib.nl/sitemap_index_13.xml",
+    "Sitemap: https://www.eib.nl/sitemap_index_14.xml",
+    "Sitemap: https://www.eib.nl/sitemap_index_15.xml",
+    "Sitemap: https://www.eib.nl/sitemap_index_16.xml",
+    "Sitemap: https://www.eib.nl/sitemap_index_17.xml",
+    "Sitemap: https://www.eib.nl/sitemap_index_18.xml",
+    "Sitemap: https://www.eib.nl/sitemap_index_19.xml",
+    "Sitemap: https://www.eib.nl/sitemap_index_20.xml",
+    "Sitemap: https://www.eib.nl/sitemap_index_21.xml"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "WUR": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-Agent: *",
+    "Disallow: /api/",
+    "Disallow: /*?studievorm=",
+    "Disallow: /*?studietaal=",
+    "Disallow: /*?start=",
+    "Disallow: /*?interesse=",
+    "Disallow: /*?programme_form=",
+    "Disallow: /*?interest_area=",
+    "Disallow: /*?programme_language=",
+    "Disallow: /*?niveau=",
+    "Disallow: /*?interessegebied=",
+    "Disallow: /*?formaat=",
+    "Disallow: /*?accreditatie=",
+    "Disallow: /*?direct_starten=",
+    "Disallow: /*?voertaal=",
+    "Disallow: /*?groepsformaat=",
+    "Disallow: /*?prijs=",
+    "Disallow: /*?format=",
+    "Disallow: /*?accreditation=",
+    "Disallow: /*?course_starts_immediately=",
+    "Disallow: /*?language_of_instruction=",
+    "Disallow: /*?group_size=",
+    "Disallow: /*?price=",
+    "Disallow: /*?events=",
+    "Disallow: /*?type_faciliteit="
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "TNO": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "Sitemap: https://www.tno.nl/nl/sitemap.xml",
+    "Sitemap: https://www.tno.nl/en/sitemap.xml",
+    "User-agent: *",
+    "Disallow: /aspx/",
+    "Disallow: /*zoeken_term=",
+    "Disallow: /*Zoe=",
+    "Disallow: /*Zoe_Selected_facet",
+    "Disallow: /*expertid=",
+    "Disallow: /*apply=",
+    "Allow: /aspx/read.aspx"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "Universiteiten van Nederland": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: *",
+    "Allow: /core/*.css$",
+    "Allow: /core/*.css?",
+    "Allow: /core/*.js$",
+    "Allow: /core/*.js?",
+    "Allow: /core/*.avif",
+    "Allow: /core/*.gif",
+    "Allow: /core/*.jpg",
+    "Allow: /core/*.jpeg",
+    "Allow: /core/*.png",
+    "Allow: /core/*.svg",
+    "Allow: /core/*.webp",
+    "Allow: /profiles/*.css$",
+    "Allow: /profiles/*.css?",
+    "Allow: /profiles/*.js$",
+    "Allow: /profiles/*.js?",
+    "Allow: /profiles/*.avif",
+    "Allow: /profiles/*.gif",
+    "Allow: /profiles/*.jpg",
+    "Allow: /profiles/*.jpeg",
+    "Allow: /profiles/*.png",
+    "Allow: /profiles/*.svg",
+    "Allow: /profiles/*.webp",
+    "Disallow: /core/",
+    "Disallow: /profiles/"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "Universiteit Leiden": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "<pre>",
+    "User-agent: *",
+    "Disallow: /print",
+    "Disallow: /zoeken?*",
+    "Disallow: /*/zoeken?*",
+    "Disallow: /search?*",
+    "Disallow: /*/search?*",
+    "Disallow: /nieuws?*",
+    "Disallow: /*/nieuws?*",
+    "Disallow: /news?*",
+    "Disallow: /*/news?*",
+    "Disallow: /in-de-media?*",
+    "Disallow: /*/in-de-media?*",
+    "Disallow: /in-the-media?*",
+    "Disallow: /*/in-the-media?*",
+    "Disallow: /agenda?*",
+    "Disallow: /*/agenda?*",
+    "Disallow: /events?*",
+    "Disallow: /*/events?*",
+    "Disallow: /faciliteiten?*",
+    "Disallow: /*/faciliteiten?*",
+    "Disallow: /facilities?*",
+    "Disallow: /*/facilities?*",
+    "Disallow: /locaties?*",
+    "Disallow: /*/locaties?*"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "Universiteit Utrecht": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: *",
+    "Allow: /core/*.css$",
+    "Allow: /core/*.css?",
+    "Allow: /core/*.js$",
+    "Allow: /core/*.js?",
+    "Allow: /core/*.gif",
+    "Allow: /core/*.jpg",
+    "Allow: /core/*.jpeg",
+    "Allow: /core/*.png",
+    "Allow: /core/*.svg",
+    "Allow: /profiles/*.css$",
+    "Allow: /profiles/*.css?",
+    "Allow: /profiles/*.js$",
+    "Allow: /profiles/*.js?",
+    "Allow: /profiles/*.gif",
+    "Allow: /profiles/*.jpg",
+    "Allow: /profiles/*.jpeg",
+    "Allow: /profiles/*.png",
+    "Allow: /profiles/*.svg",
+    "Disallow: /core/",
+    "Disallow: /profiles/",
+    "Disallow: /README.md",
+    "Disallow: /composer/Metapackage/README.txt",
+    "Disallow: /composer/Plugin/ProjectMessage/README.md",
+    "Disallow: /composer/Plugin/Scaffold/README.md"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "Universiteit van Amsterdam": {
+  "robots": {
+   "status": 200,
+   "regels": [],
+   "pagina_toegestaan": true
+  }
+ },
+ "Vrije Universiteit Amsterdam": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: *",
+    "Disallow: /nl/mijn-studiekeuze",
+    "Disallow: /en/my-studychoice",
+    "Sitemap: https://vu.nl/sitemap.xml"
+   ],
+   "pagina_toegestaan": true
+  },
+  "json_eindpunten": [
+   "https://vu.nl/api/search"
+  ]
+ },
+ "PLOS": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: *",
+    "Disallow:",
+    "Sitemap: https://plos.org/sitemap_index.xml"
+   ],
+   "pagina_toegestaan": true
+  },
+  "json_eindpunten": [
+   "https://forms.hsforms.com/embed/v3/form/44092021/70d8b992-3c0e-4a15-91fa-652de72cbcd3/json?hs_static_app=forms-embed&hs_static_app_version=1.11458&X-HubSpot-Static-App-Info=forms-embed-1.11458",
+   "https://cta-service-cms2.hubspot.com/web-interactives/public/v1/embed/combinedConfigs?portalId=44092021&currentUrl=https%3A%2F%2Fplos.org%2F",
+   "https://api.hubapi.com/hs-script-loader-public/v2/config/pixels-and-events/json?portalId=44092021"
+  ]
+ },
+ "Vogelbescherming": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: *",
+    "Disallow: /admin/",
+    "Disallow: /WEB-INF/",
+    "Disallow: /zoeken/",
+    "Disallow: /Sverige*",
+    "Sitemap: https://www.vogelbescherming.nl/sitemap.xml"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "Natuurmonumenten": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-Agent: *",
+    "Allow: /",
+    "Allow: /api/sitemap/",
+    "Disallow: /api/",
+    "Disallow: /user/",
+    "Sitemap: https://www.natuurmonumenten.nl/sitemap.xml"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "Staatsbosbeheer": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "ï»¿user-agent: MJ12bot/v1.4.5",
+    "disallow: /",
+    "user-agent: monitis - premium monitoring service",
+    "disallow: /",
+    "user-agent: Exabot/3.0",
+    "disallow: /",
+    "user-agent: AhrefsBot/5.0",
+    "disallow: /",
+    "user-agent: AhrefsBot",
+    "disallow: /",
+    "user-agent: UniLeipzigASV",
+    "disallow: /",
+    "User-agent: *",
+    "Disallow: /sitecore/",
+    "Disallow: /zoekresultaten",
+    "Disallow: /zoekresultaten.aspx",
+    "Sitemap: https://www.staatsbosbeheer.nl/sitemap.xml"
+   ],
+   "pagina_toegestaan": true
+  },
+  "json_eindpunten": [
+   "https://consentcdn.cookiebot.com/consentconfig/ca0430f6-b76a-4b16-8ffb-cfdd3c0ad3dd/settings.json",
+   "https://www.staatsbosbeheer.nl/api/news/news?perPage[]=10&page[]=1&highlight[]=adee700b-6971-48a4-9585-4ebf0845dd86"
+  ]
+ },
+ "De Vlinderstichting": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: *",
+    "Disallow: /app/uploads/wc-logs/",
+    "Disallow: /app/uploads/woocommerce_transient_files/",
+    "Disallow: /app/uploads/woocommerce_uploads/",
+    "Disallow: /*?add-to-cart=",
+    "Disallow: /*?*add-to-cart=",
+    "Disallow: /wp/wp-admin/",
+    "Allow: /wp/wp-admin/admin-ajax.php",
+    "User-agent: *",
+    "Disallow:",
+    "Sitemap: https://vlinderstichting.nl/sitemap_index.xml"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "Zoogdiervereniging": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: A6-Indexer",
+    "Disallow: /",
+    "User-agent: AhrefsBot",
+    "Disallow: /",
+    "User-agent: AlphaSeoBot",
+    "Disallow: /",
+    "User-agent: AlphaSeoBot-SA",
+    "Disallow: /",
+    "User-agent: AspiegelBot",
+    "Disallow: /",
+    "User-agent: Blackboard Safeassign",
+    "Disallow: /",
+    "User-agent: BLEXBot/1.0",
+    "Disallow: /",
+    "User-agent: Bytespider",
+    "Disallow: /",
+    "User-agent: crawler4j",
+    "Disallow: /",
+    "User-agent: DotBot",
+    "Disallow: /",
+    "User-agent: Gigabot",
+    "Disallow: /",
+    "User-agent: LieBaoFast",
+    "Disallow: /",
+    "User-agent: MauiBot"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "EIS Kenniscentrum Insecten": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: *",
+    "Disallow: /wp-content/uploads/wc-logs/",
+    "Disallow: /wp-content/uploads/woocommerce_transient_files/",
+    "Disallow: /wp-content/uploads/woocommerce_uploads/",
+    "Disallow: /wp-admin/",
+    "Disallow: /*?feed=",
+    "Allow: /wp-admin/admin-ajax.php",
+    "Sitemap: https://kenniscentruminsecten.nl/sitemap_index.xml",
+    "User-agent: *",
+    "Disallow: /*?srch=",
+    "Disallow: /*&srch=",
+    "Disallow: /*/jaar-",
+    "Disallow: /*/type_publicatie-",
+    "Disallow: /*/jaartal-",
+    "Disallow: /*/werkgroep-categorie-",
+    "Disallow: /*/srtzkr-categorie-",
+    "Disallow: /*/productcategorie-"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "Sovon Vogelonderzoek": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: *",
+    "Allow: /core/*.css$",
+    "Allow: /core/*.css?",
+    "Allow: /core/*.js$",
+    "Allow: /core/*.js?",
+    "Allow: /core/*.avif",
+    "Allow: /core/*.gif",
+    "Allow: /core/*.jpg",
+    "Allow: /core/*.jpeg",
+    "Allow: /core/*.png",
+    "Allow: /core/*.svg",
+    "Allow: /core/*.webp",
+    "Allow: /profiles/*.css$",
+    "Allow: /profiles/*.css?",
+    "Allow: /profiles/*.js$",
+    "Allow: /profiles/*.js?",
+    "Allow: /profiles/*.avif",
+    "Allow: /profiles/*.gif",
+    "Allow: /profiles/*.jpg",
+    "Allow: /profiles/*.jpeg",
+    "Allow: /profiles/*.png",
+    "Allow: /profiles/*.svg",
+    "Allow: /profiles/*.webp",
+    "Disallow: /core/",
+    "Disallow: /profiles/"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "RAVON": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: Applebot",
+    "Disallow: /",
+    "User-agent: Applebot-Extended",
+    "Disallow: /",
+    "User-agent: facebookexternalhit",
+    "Disallow: /",
+    "User-agent: Facebot",
+    "Disallow: /",
+    "User-agent: *",
+    "Disallow: /wp-admin/",
+    "Allow: /wp-admin/admin-ajax.php",
+    "Sitemap: https://www.ravon.nl/wp-sitemap.xml"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "FLORON": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: AdsBot-Google",
+    "Allow: /",
+    "User-agent: AdsBot-Google-Mobile",
+    "Allow: /",
+    "User-agent: *",
+    "Disallow: /admin/",
+    "Disallow: /App_Browsers/",
+    "Disallow: /App_Code/",
+    "Disallow: /App_Data/",
+    "Disallow: /App_GlobalResources/",
+    "Disallow: /bin/",
+    "Disallow: /Components/",
+    "Disallow: /Config/",
+    "Disallow: /contest/",
+    "Disallow: /controls/",
+    "Disallow: /DesktopModules/",
+    "Disallow: /Documentation/",
+    "Disallow: /HttpModules/",
+    "Disallow: /images/",
+    "Disallow: /Install/",
+    "Disallow: /js/",
+    "Disallow: /Portals/",
+    "Disallow: /Providers/",
+    "Disallow: /Resources/ContentRotator/",
+    "Disallow: /Resources/ControlPanel/"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "Natuur & Milieu": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: *",
+    "Disallow: /wp/wp-admin/",
+    "Allow: /wp/wp-admin/admin-ajax.php",
+    "User-agent: *",
+    "Disallow:",
+    "Sitemap: https://natuurenmilieu.nl/sitemap_index.xml"
+   ],
+   "pagina_toegestaan": true
+  },
+  "json_eindpunten": [
+   "https://sentry.studioseptember.nl/api/67/envelope/?sentry_version=7&sentry_key=76a6e89c7be94090885a32b1fb95f97a&sentry_client=sentry.javascript.browser%2F8.55.0",
+   "https://consentcdn.cookiebot.com/consentconfig/64d129e0-426a-4ace-b0d7-249f8eba89ef/settings.json"
+  ]
+ },
+ "Koninklijke VHG": {
+  "robots": {
+   "status": 404,
+   "regels": [],
+   "pagina_toegestaan": true
+  }
+ },
+ "KAN Kennisnetwerk natuurinclusief bouwen": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: *",
+    "Disallow:",
+    "Sitemap: https://www.kanbouwen.nl/sitemap_index.xml"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "Dutch Green Building Council": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: *",
+    "Disallow: /*?_categories=",
+    "Disallow: /*?_sort_news=",
+    "Disallow: /*?_post_themes=",
+    "Disallow: /*?_search=",
+    "Disallow: /*?_sort_events=",
+    "Disallow: /*?_event_dates=",
+    "Disallow: /*?_event_themes=",
+    "Disallow: /*?_event_prices=",
+    "Disallow: /*?_dictionary_search=",
+    "Disallow: /*?_sort_partners=",
+    "Disallow: /*?_partner_ppc=",
+    "Disallow: /*?_organisation_type=",
+    "Disallow: /*?_search_events=",
+    "Disallow: /*?_search_partners=",
+    "Disallow: /*?_post_search=",
+    "Disallow: /*?_knowledge_center_themes=",
+    "Disallow: /*?_knowledge_center_subject=",
+    "Disallow: /*?_knowledge_center_level=",
+    "Disallow: /*?_knowledge_center_industry=",
+    "Disallow: /*?_faq_search=",
+    "Disallow: /*?_knowledge_popular_themes=",
+    "Disallow: /*?_sort_partners_theme_paris_proof=",
+    "Disallow: /*?_sort_partners_theme_circulariteit=",
+    "Disallow: /*?_toolbox_service="
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "World Green Building Council": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "Crawl-delay: 10",
+    "User-agent: *",
+    "Disallow: /wp-content/uploads/wpo/wpo-plugins-tables-list.json",
+    "User-agent: *",
+    "Disallow:",
+    "Sitemap: https://worldgbc.org/sitemap_index.xml"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "IUCN": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: *",
+    "Crawl-delay: 10",
+    "Disallow: /search",
+    "Disallow: /*/search",
+    "Disallow: /search-website",
+    "Disallow: /*/search-website",
+    "Disallow: /*=published_on*",
+    "Disallow: /*?artype=*",
+    "Disallow: /*&artype=*",
+    "Disallow: /*?artype_web_22=*",
+    "Disallow: /*&artype_web_22=*",
+    "Disallow: /*?cntry=*",
+    "Disallow: /*&cntry=*",
+    "Disallow: /*=country*",
+    "Disallow: /*?evttype=*",
+    "Disallow: /*&evttype=*",
+    "Disallow: /*?ptype=*",
+    "Disallow: /*&ptype=*",
+    "Disallow: /*?rgn=*",
+    "Disallow: /*&rgn=*",
+    "Disallow: /*?rstype=*",
+    "Disallow: /*&rstype=*",
+    "Disallow: /*?search_api_fulltext=*",
+    "Disallow: /*&search_api_fulltext=*",
+    "Disallow: /*?sort_by=*"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "ICLEI Europe": {
+  "robots": {
+   "status": 403,
+   "regels": [
+    "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-1gy7vXmQNRyuyxBOpQQUkD&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"1gy7vXmQNRyuyxBOpQQUkD\">(function(){window._cf_chl_opt = {cFPWv: 'g',cH: '8EyUa1.KQp6SwIgWky9WbWVKbB2M.Y8VO7vgW0_IhFk-1791969743-1.2.1.1-RTOGc.apGggmfCaui6YXT_dm0zXFGO7puA3bIkwtOVTtrgnoXyosAvFbw1n4oeuP',cITimeS: '1791969743',cN: '1gy7vXmQNRyuyxBOpQQUkD',cRay: 'a4a584ee6eccb002',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/robots.txt?__cf_chl_tk=jLytsOXVUMABDMPnkXrG8OUXKosxV7PoH.3HvF634Sg-1791969743-1.0.1.1-TfBjryLhRMnsZASEHIv3TDstizHwLamGlFiLS5OtWe8\",cvId: '3',cZone: 'iclei-europe.org',fa:\"/robots.txt?__cf_chl_f_tk=jLytsOXVUMABDMPnkXrG8OUXKosxV7PoH.3HvF634Sg-1791969743-1.0.1.1-TfBjryLhRMnsZASEHIv3TDstizHwLamGlFiLS5OtWe8\",md: 'P58btagQh4DQRXI1cQDVkmOnbDIeYoS8PRy26lbOjM8-1791969743-1.2.1.1-4QX3aGTShpmdhEJ7_5kknPNLM8fC5xPM2B40P8TdkX5FqtZ3IH.vrTNVowLBFWwb0hDUYFpsIVf7YKR6fuqsGSqz7JoDI1QXe9ULdlSodMcReLGgSOZZlGX6KjouJNLl.HsPLbrYahe9IFBwcitTWk7GHxUvysJuOcrRO3bmHliw0YFhLKXJ4Ob2SkakAx1Ldncq5FCBRDX2ZYx.wbE9qBi..wCcFdLz6X7tezE4wcp5gefkyXuNNEqtBtm.y.lbN2nsYQH9vTLy0l57sO7u0Bgx4qZfH5.rcQt3gxjk3C7qGpQjaTTEz8lEqxy3z73BuGpAqRkLhi34ypAWzkV.skNB0lN29RelBfqQguFa70oxCfsjDxx7Z2lbJWSTdHNo4Ej3QkLtZAWXnUTp._fBH.mxBZRrtxGY8Xk60zgn1gJ9tHVk_Zn4GewNM_ZQbislyx8CxFkyKFlOl2RdZSbB65oF.xD926iSeHti9JrRF6x.dPTdQ_pW3MJzVfJPgtjwNWkxeeLWRFJsUKhV6Ffc.X7iCmGj8rMLQX0RP.wPN4EndyHvG6wJG0J2e3bEbW7X3leavUrj2un3FYHBStdyHjmzZ_RPFdKTB9AGfQCh59hUpn9P5VzY30FtSYcLlCpdO3YcU0bVQWrunkuklnOYSA0HKgtVONR2bdd1FyjzPFmzFDWXIp8n8BViPaDB0kmXFkacad3lHbiM91z7AwnZeate9aFyzilh_TTnfmE16Zi.NksrXXHkXEzQoEdl4Vw65LG8jS6Nj8o1I5MTxM5KsGU1Z6QzQ1DN4pSDW.OeCnYQ2r2p5UKhq31izlNbL.UK4yiFfOIGD3o5xcD7eO_ujGx51ugwx1mSL.vFQy8yPRsT3BP.p5yveXHM3oFYNIY5yL2qvaYx3m7cAmm9bfFJHwPXr_Gvp6uFj97Kc9VLuK6fbjzJJnk6xXoYZoN0YiALg_TBNbqKodA8Fzblc.UDs88.EiyeN3C_AtHQXoAbffSKBDdWCZ5gz2c_4a62rzmkV29KyRtjDNZAcoNvKpIijdc8bw_G._orNcJeP6PlXlWdGZN4R2t4Syiy2AKP7ARAoPhf43HmmS7d6Xbw56_GR6LsvGLQruqFmtLuJrPAyxg.kbR6TEtPk.1FoHyqR6_UIbRuZXtzM_5lfxozwS5m3B3YG0MLRfqdMz62mqoOrhg',mdrd: 'Ru5JOQiiOlO9CyDhD5L9pLHlFZeuCX_tJfzog2pDnsQ-1791969743-1.2.1.1-c5zNlZz5m8S1eacWvlf80_XU2YQBxe_0e06_KpZFGaHalyFZXw77aBHZPPMBvivNGm0PPdtRPt_ZK3F3igCIT2RIlKy0S9gokJ8BC6lZTpehucNkkx7GhdsNolcrwh6ld9keTxVjENvDyQOfWmY7KZofLBW6pkRP.iTTWi1gJSr7TofEfHIku433qGtFVw272qReo49cwdYJ5sMzuway45xONgivCSybxVLANS_F9HAEzlN4NeNEoPGrdSbdcm.MSAimLSLgHTwm6WS6HO.MHIz9jFGL6GRILfbh8vmXN8MUw9q2hMNAUHF_z28uDRr.fAgVvVqn8vxH_r3p6Dn3sGxGA5KLYl2D1VAJzD5.CpmlQPrSCIrnIrAM.ZbA.fdlDKDLc7GnY7j3T3WD9J2f8Q',};var a = document.createElement('script');a.nonce = '1gy7vXmQNRyuyxBOpQQUkD';a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a4a584ee6eccb002';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/robots.txt?__cf_chl_rt_tk=jLytsOXVUMABDMPnkXrG8OUXKosxV7PoH.3HvF634Sg-1791969743-1.0.1.1-TfBjryLhRMnsZASEHIv3TDstizHwLamGlFiLS5OtWe8\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>"
+   ],
+   "pagina_toegestaan": true
+  },
+  "json_eindpunten": []
+ },
+ "Mobilisation for the Environment (MOB)": {
+  "robots": {
+   "status": 403,
+   "regels": [
+    "<!DOCTYPE html>",
+    "<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->",
+    "<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->",
+    "<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->",
+    "<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]-->",
+    "<head>",
+    "<title>Attention Required! | Cloudflare</title>",
+    "<meta charset=\"UTF-8\" />",
+    "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\" />",
+    "<meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\" />",
+    "<meta name=\"robots\" content=\"noindex, nofollow\" />",
+    "<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\" />",
+    "<link rel=\"stylesheet\" id=\"cf_styles-css\" href=\"/cdn-cgi/styles/cf.errors.css\" />",
+    "<!--[if lt IE 9]><link rel=\"stylesheet\" id='cf_styles-ie-css' href=\"/cdn-cgi/styles/cf.errors.ie.css\" /><![endif]-->",
+    "<style>body{margin:0;padding:0}</style>",
+    "<!--[if gte IE 10]><!-->",
+    "<script>",
+    "if (!navigator.cookieEnabled) {",
+    "window.addEventListener('DOMContentLoaded', function () {",
+    "var cookieEl = document.getElementById('cookie-alert');",
+    "cookieEl.style.display = 'block';",
+    "})",
+    "}",
+    "</script>",
+    "<!--<![endif]-->"
+   ],
+   "pagina_toegestaan": true
+  },
+  "json_eindpunten": []
+ },
+ "Greenpeace Nederland": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: *",
+    "Disallow:"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "LTO Nederland": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: *",
+    "Disallow:",
+    "Sitemap: https://www.lto.nl/sitemap_index.xml"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "Trouw": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: Twitterbot",
+    "Allow: /",
+    "User-agent: *",
+    "Allow: /",
+    "Allow: /zoeken/$",
+    "Disallow: /*?otag*",
+    "Disallow: /*?abo_type*",
+    "Disallow: /*?URL_referrer*",
+    "Disallow: /auth/",
+    "Disallow: /temptation/",
+    "Disallow: /*utm_campaign=shared_earned*",
+    "Disallow: /*redirectUri=*",
+    "Disallow: /api/_next-api*",
+    "Disallow: /_next/data/*",
+    "Disallow: /zoeken/",
+    "Disallow: /search",
+    "Disallow: /tag/*?page=",
+    "Disallow: /*?parentSlug=*",
+    "Disallow: /web/urlpatterns",
+    "User-agent: GPTBot",
+    "Disallow: /",
+    "User-agent: ChatGPT-User",
+    "Disallow: /",
+    "User-agent: CCBot",
+    "Disallow: /"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "Binnenlands Bestuur": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: *",
+    "crawl-delay: 10",
+    "Disallow: /*.lynkx?*",
+    "Disallow: /zoeken?*",
+    "Disallow: /login",
+    "Disallow: /whitepapers?q=*",
+    "Disallow: /whitepapers?*topic*",
+    "Disallow: /whitepapers?*text*",
+    "Disallow: /whitepapers?*published_min*",
+    "Disallow: /whitepapers?*published_max*",
+    "Disallow: /whitepapers?*searchFrom*",
+    "Disallow: /whitepapers?*searchUntil*",
+    "User-agent: Yandex",
+    "User-agent: MJ12bot",
+    "User-agent: AhrefsBot",
+    "User-agent: Sogou web spider",
+    "User-agent: Sogou spider",
+    "User-agent: Sogou inst spider",
+    "User-agent: Baiduspider",
+    "User-agent: Bytespider",
+    "Disallow: /",
+    "Sitemap: https://www.binnenlandsbestuur.nl/sitemap/index.xml.gz"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "Cobouw": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: *",
+    "Allow: /",
+    "Disallow: /auth/redirect",
+    "User-Agent: Google-Extended",
+    "Disallow: /",
+    "User-agent: ChatGPT-User",
+    "Disallow: /",
+    "User-agent: Baiduspider",
+    "Disallow: /",
+    "Sitemap: https://www.cobouw.nl/sitemap-authors.xml",
+    "Sitemap: https://www.cobouw.nl/sitemap-categories.xml",
+    "Sitemap: https://www.cobouw.nl/sitemap-content.xml",
+    "Sitemap: https://www.cobouw.nl/sitemap-news.xml",
+    "Sitemap: https://www.cobouw.nl/sitemap-tags.xml",
+    "Sitemap: https://www.cobouw.nl/sitemap.xml"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "BouwTotaal": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: *",
+    "Disallow: /wp-admin/",
+    "Disallow: /wp-login.php",
+    "Disallow: /*?option=*",
+    "Disallow: /*?post_type=*",
+    "Disallow: /*?sidebar=*",
+    "Sitemap: https://www.bouwtotaal.nl/sitemap_index.xml",
+    "Sitemap: https://www.gwwtotaal.nl/sitemap_index.xml",
+    "Sitemap: https://www.renovatietotaal.nl/sitemap_index.xml"
+   ],
+   "pagina_toegestaan": true
+  }
+ },
+ "Bouwend Nederland": {
+  "robots": {
+   "status": 200,
+   "regels": [
+    "User-agent: *",
+    "Allow: /",
+    "Disallow: /dashboard",
+    "Disallow: /dashboard/bouwactueel",
+    "Sitemap: https://www.bouwendnederland.nl/sitemap.xml"
+   ],
+   "pagina_toegestaan": true
+  }
+ }
+}
