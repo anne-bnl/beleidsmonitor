@@ -2,22 +2,26 @@
 # wetenschappelijke publicaties). Elke ochtend worden publicaties opgehaald die
 # sinds de vorige run zijn verschenen. Claude beoordeelt daarna de relevantie.
 #
-# zoek      : zoekvraag in het Engels (de meeste publicaties zijn Engelstalig)
+# Er wordt alleen gezocht in titel en samenvatting. Gebruik Engelse termen,
+# "aanhalingstekens" voor een vaste woordgroep, en AND / OR (in hoofdletters)
+# met haakjes om termen te combineren.
+#
+# zoek      : zoekvraag
 # thema     : thema op het dashboard
 # alleen_nl : true = alleen publicaties met minstens één Nederlandse instelling
 
 zoekvragen:
-  - {zoek: "nitrogen deposition Natura 2000", thema: Stikstof, alleen_nl: false}
-  - {zoek: "nitrogen deposition construction emissions", thema: Stikstof, alleen_nl: false}
-  - {zoek: "ammonia nitrogen deposition Netherlands", thema: Stikstof, alleen_nl: true}
-  - {zoek: "habitat restoration nature restoration regulation", thema: Natuurherstel, alleen_nl: false}
-  - {zoek: "biodiversity Netherlands", thema: Natuurherstel, alleen_nl: true}
-  - {zoek: "urban biodiversity green infrastructure", thema: Natuurherstel, alleen_nl: false}
-  - {zoek: "nature-inclusive building design", thema: Natuurinclusief bouwen, alleen_nl: false}
-  - {zoek: "building-dwelling species swifts bats sparrows", thema: Soortenbescherming, alleen_nl: false}
-  - {zoek: "species protection infrastructure mitigation", thema: Soortenbescherming, alleen_nl: false}
-  - {zoek: "environmental DNA eDNA monitoring", thema: eDNA en monitoring, alleen_nl: false}
-  - {zoek: "surface water quality Water Framework Directive", thema: Waterkwaliteit, alleen_nl: false}
-  - {zoek: "PFAS soil groundwater", thema: Waterkwaliteit, alleen_nl: true}
-  - {zoek: "urban climate adaptation heat stress", thema: Klimaatadaptatie, alleen_nl: false}
-  - {zoek: "climate adaptation Netherlands", thema: Klimaatadaptatie, alleen_nl: true}
+  - {zoek: '"nitrogen deposition" AND ("Natura 2000" OR "protected area" OR "protected areas" OR habitat OR heathland)', thema: Stikstof, alleen_nl: false}
+  - {zoek: '("construction machinery" OR "construction equipment" OR "construction sector" OR "construction site") AND (nitrogen OR NOx OR "zero-emission")', thema: Stikstof, alleen_nl: false}
+  - {zoek: 'ammonia OR "nitrogen deposition" OR "critical load"', thema: Stikstof, alleen_nl: true}
+  - {zoek: '"Nature Restoration Law" OR "Nature Restoration Regulation" OR "Habitats Directive"', thema: Natuurherstel, alleen_nl: false}
+  - {zoek: '"nature restoration" OR "habitat restoration" OR "ecological restoration" OR "conservation status"', thema: Natuurherstel, alleen_nl: true}
+  - {zoek: '("urban biodiversity" OR "urban green space" OR "green infrastructure") AND (housing OR "urban development" OR "urban planning" OR building)', thema: Natuurherstel, alleen_nl: false}
+  - {zoek: '"nature-inclusive" OR "nature inclusive" OR "biodiversity-inclusive" OR ("green roof" AND biodiversity) OR ("green facade" AND biodiversity)', thema: Natuurinclusief bouwen, alleen_nl: false}
+  - {zoek: '("Apus apus" OR "common swift" OR "house sparrow" OR "Passer domesticus" OR "bat roost" OR "bat roosts" OR "nest box" OR "nest boxes") AND (building OR buildings OR renovation OR urban)', thema: Soortenbescherming, alleen_nl: false}
+  - {zoek: '("wildlife crossing" OR "wildlife crossings" OR "road ecology" OR "roadkill" OR "habitat fragmentation") AND (road OR roads OR railway OR infrastructure)', thema: Soortenbescherming, alleen_nl: false}
+  - {zoek: '("environmental DNA" OR eDNA) AND (monitoring OR survey OR detection)', thema: eDNA en monitoring, alleen_nl: false}
+  - {zoek: '"Water Framework Directive"', thema: Waterkwaliteit, alleen_nl: false}
+  - {zoek: 'PFAS AND (soil OR groundwater OR sediment OR "surface water")', thema: Waterkwaliteit, alleen_nl: true}
+  - {zoek: '("urban heat island" OR "heat stress" OR "climate adaptation" OR "pluvial flooding") AND (urban OR city OR building OR "built environment")', thema: Klimaatadaptatie, alleen_nl: true}
+  - {zoek: '"climate-adaptive" OR "climate resilient building" OR "nature-based solutions"', thema: Klimaatadaptatie, alleen_nl: false}

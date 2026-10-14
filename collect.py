@@ -516,7 +516,10 @@ def plooi_proef(bron, since):
 # van de komende maanden. Wordt elke run volledig opnieuw opgebouwd.
 
 TK_PLANNING_DAGEN = 120
-TK_COMMISSIES = ("LVVN", "IenW", "VRO", "KGG", "BZK", "EZ", "EU")
+TK_COMMISSIES = ("LVVN", "IenW", "I&W", "VRO", "KGG", "BZK", "EZ", "EU")
+# Herkenning op naam van de commissie, voor het geval de afkorting in de API afwijkt.
+TK_KERN_NAMEN = ("landbouw", "infrastructuur en waterstaat", "volkshuisvesting", "klimaat en groene groei")
+TK_OVERIG_NAMEN = ("binnenlandse zaken", "economische zaken", "europese zaken")
 
 
 def tk_activiteiten(planning, matcher):
@@ -525,15 +528,19 @@ def tk_activiteiten(planning, matcher):
     q = (f"{TK}Activiteit?$filter=Datum ge {van}T00:00:00Z and Datum le {tot}T23:59:59Z and Verwijderd eq false"
          "&$orderby=Datum")
     rows, _ = odata_all(q, max_pages=30)
-    n = 0
+    n, telling = 0, {}
     for a in rows:
         soort = a.get("Soort") or ""
         if soort.lower() in ("procedurevergadering", "petitie", "werkbezoek", "delegatiereis"):
             continue
         onderwerp = a.get("Onderwerp") or ""
         commissie = a.get("Voortouwafkorting") or ""
+        naam = (a.get("Voortouwnaam") or "").lower()
+        telling[f"{commissie} | {a.get('Voortouwnaam') or ''}"] = telling.get(f"{commissie} | {a.get('Voortouwnaam') or ''}", 0) + 1
+        kern = commissie in ("LVVN", "IenW", "I&W", "VRO", "KGG") or any(k in naam for k in TK_KERN_NAMEN)
         hits = {k: v for k, v in matcher.match(onderwerp).items() if k != "Bouwcontext"}
-        if not hits and commissie not in TK_COMMISSIES:
+        if not hits and not kern and commissie not in TK_COMMISSIES \
+                and not any(k in naam for k in TK_OVERIG_NAMEN):
             continue
         nummer = a.get("Nummer") or ""
         plenair = "plenair" in soort.lower() or (a.get("Voortouwnaam") or "").lower().startswith("tweede kamer")
@@ -544,9 +551,10 @@ def tk_activiteiten(planning, matcher):
             "wat": onderwerp, "datum": (a.get("Datum") or "")[:10],
             "tijd": (a.get("Aanvangstijd") or "")[11:16], "status": a.get("Status"),
             "commissie": a.get("Voortouwnaam"), "commissie_afk": commissie, "url": url,
-            "themas": sorted(hits), "kerncommissie": commissie in ("LVVN", "IenW", "VRO", "KGG"),
+            "themas": sorted(hits), "kerncommissie": kern,
         })
         n += 1
+    DIAGNOSE.setdefault("Tweede Kamer agenda", {})["per_commissie"] = telling
     return n
 
 
@@ -574,15 +582,16 @@ def openalex(bron, since):
     items, per = [], {}
     van = (since - dt.timedelta(days=2)).date().isoformat()
     for z in cfg.get("zoekvragen", []):
-        filt = f"from_publication_date:{van}"
+        # Zoeken in titel en samenvatting (niet in de volledige tekst), met AND, OR en "exacte woordgroepen".
+        filt = f'title_and_abstract.search:{z["zoek"]},from_publication_date:{van},is_paratext:false'
         if z.get("alleen_nl"):
             filt += ",authorships.institutions.country_code:NL"
-        params = {"search": z["zoek"], "filter": filt, "sort": "publication_date:desc", "per_page": 25}
+        params = {"filter": filt, "sort": "publication_date:desc", "per_page": 25}
         try:
             r = get("https://api.openalex.org/works", params=params)
             res = r.json().get("results", [])
         except Exception as e:
-            per[z["zoek"]] = f"fout: {type(e).__name__}"
+            per[z["zoek"]] = f"fout: {type(e).__name__}: {str(e)[:150]}"
             continue
         per[z["zoek"]] = len(res)
         for w in res:
