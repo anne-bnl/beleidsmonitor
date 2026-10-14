@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-10-14T11:16:34+00:00",
+ "bijgewerkt": "2026-10-14T11:30:18+00:00",
  "items": [
   {
    "id": "eb8ec55134b5b83c",
@@ -30,6 +30,62 @@
    "kerncommissie": true
   },
   {
+   "id": "b08804a8de0b3ff1",
+   "bron": "Tweede Kamer",
+   "soort": "Technische briefing",
+   "wat": "ROB-advies over democratische controle en zeggenschap bij keuzes rondom netbeheer",
+   "datum": "2026-10-14",
+   "tijd": "13:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Klimaat en Groene Groei",
+   "commissie_afk": "K&GG",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06388",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "1dcf6fd97c7946a1",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Klokkenluiders (verplaatst naar 26 november 2026)",
+   "datum": "2026-10-14",
+   "tijd": "13:00",
+   "status": "Verplaatst",
+   "commissie": "vaste commissie voor Binnenlandse Zaken",
+   "commissie_afk": "BiZa",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A02092",
+   "themas": [],
+   "kerncommissie": false
+  },
+  {
+   "id": "bffa81deba3c4888",
+   "bron": "Tweede Kamer",
+   "soort": "Technische briefing",
+   "wat": "Besloten technische briefing over focusonderzoek inzake militaire mobiliteit door de Algemene Rekenkamer",
+   "datum": "2026-10-14",
+   "tijd": "13:30",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06516",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "884ffb713854ddf7",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Energieraad (formeel) d.d. 29 oktober 2026",
+   "datum": "2026-10-14",
+   "tijd": "15:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Klimaat en Groene Groei",
+   "commissie_afk": "K&GG",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04753",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
    "id": "275884a80c208d07",
    "bron": "Tweede Kamer",
    "soort": "Commissiedebat",
@@ -44,6 +100,20 @@
    "kerncommissie": true
   },
   {
+   "id": "77b6b70541c62828",
+   "bron": "Tweede Kamer",
+   "soort": "Rondetafelgesprek",
+   "wat": "Slagvaardige overheid ",
+   "datum": "2026-10-15",
+   "tijd": "10:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Binnenlandse Zaken",
+   "commissie_afk": "BiZa",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05437",
+   "themas": [],
+   "kerncommissie": false
+  },
+  {
    "id": "bcd0fa8877b43f4d",
    "bron": "Tweede Kamer",
    "soort": "Commissiedebat",
@@ -54,6 +124,34 @@
    "commissie": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
    "commissie_afk": "LVVN",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05278",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "42998f61b4a74b31",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Openbaar vervoer en taxi",
+   "datum": "2026-10-15",
+   "tijd": "10:00",
+   "status": "Verplaatst",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02811",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "a866dcc8beb0661b",
+   "bron": "Tweede Kamer",
+   "soort": "Inbreng feitelijke vragen",
+   "wat": "Periodieke rapportage art. 16 van Hoofdstuk 12 van de rijksbegroting en aanverwante artikelen - verplaatst naar 29 oktober 2026",
+   "datum": "2026-10-15",
+   "tijd": "12:00",
+   "status": "Verplaatst",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06895",
    "themas": [],
    "kerncommissie": true
   },
@@ -72,6 +170,62 @@
    "kerncommissie": false
   },
   {
+   "id": "a9b9d79457d102d7",
+   "bron": "Tweede Kamer",
+   "soort": "Technische briefing",
+   "wat": "Het Nationaal Plan Energiesysteem Actualisatie 2026",
+   "datum": "2026-10-15",
+   "tijd": "13:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Klimaat en Groene Groei",
+   "commissie_afk": "K&GG",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07120",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "9c23348d78e9f057",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Slavernijverleden",
+   "datum": "2026-10-15",
+   "tijd": "13:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Binnenlandse Zaken",
+   "commissie_afk": "BiZa",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A06095",
+   "themas": [],
+   "kerncommissie": false
+  },
+  {
+   "id": "591cd8d122192e95",
+   "bron": "Tweede Kamer",
+   "soort": "Inbreng schriftelijk overleg",
+   "wat": "Onderzoek vermogensgrenzen kwijtschelding lokale belastingen ",
+   "datum": "2026-10-15",
+   "tijd": "14:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Binnenlandse Zaken",
+   "commissie_afk": "BiZa",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06971",
+   "themas": [],
+   "kerncommissie": false
+  },
+  {
+   "id": "248d2920b89f9236",
+   "bron": "Tweede Kamer",
+   "soort": "Wetgevingsoverleg",
+   "wat": "Begrotingsonderzoek Infrastructuur en Waterstaat",
+   "datum": "2026-10-15",
+   "tijd": "14:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05429",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
    "id": "6781981d51eb1815",
    "bron": "Tweede Kamer",
    "soort": "Inbreng feitelijke vragen",
@@ -82,6 +236,34 @@
    "commissie": "vaste commissie voor Volkshuisvesting en Ruimtelijke Ordening",
    "commissie_afk": "VRO",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06579",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "631fd4c7b5a44a45",
+   "bron": "Tweede Kamer",
+   "soort": "Inbreng feitelijke vragen",
+   "wat": "Gemeentefonds ingroeipad 2028 ",
+   "datum": "2026-10-15",
+   "tijd": "14:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Binnenlandse Zaken",
+   "commissie_afk": "BiZa",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06970",
+   "themas": [],
+   "kerncommissie": false
+  },
+  {
+   "id": "fa656d1a169b2bc3",
+   "bron": "Tweede Kamer",
+   "soort": "Technische briefing",
+   "wat": "Inzake volume- en tijdsafhankelijke nettarieven namens ACM",
+   "datum": "2026-10-15",
+   "tijd": "16:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Klimaat en Groene Groei",
+   "commissie_afk": "K&GG",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06655",
    "themas": [],
    "kerncommissie": true
   },
@@ -260,6 +442,20 @@
    "kerncommissie": false
   },
   {
+   "id": "078b8e06e3ee1988",
+   "bron": "Tweede Kamer",
+   "soort": "Notaoverleg",
+   "wat": "Energiesysteem",
+   "datum": "2026-10-26",
+   "tijd": "10:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Klimaat en Groene Groei",
+   "commissie_afk": "K&GG",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05143",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
    "id": "6f53a4f77b130e3e",
    "bron": "Internetconsultatie",
    "soort": "Consultatie",
@@ -272,6 +468,34 @@
    "bouw": false
   },
   {
+   "id": "6513fe80e9e5f9ae",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Grondwet en democratische rechtsstaat",
+   "datum": "2026-10-27",
+   "tijd": "16:30",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Binnenlandse Zaken",
+   "commissie_afk": "BiZa",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05169",
+   "themas": [],
+   "kerncommissie": false
+  },
+  {
+   "id": "e934dbc20b521f44",
+   "bron": "Tweede Kamer",
+   "soort": "Technische briefing",
+   "wat": "Aandachtspunten bij de ontwerpbegroting 2027 begrotingshoofdstuk XXIII van Klimaat en Groene Groei door de Algemene Rekenkamer",
+   "datum": "2026-10-27",
+   "tijd": "18:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Klimaat en Groene Groei",
+   "commissie_afk": "K&GG",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07195",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
    "id": "088f039ce5ccb3ae",
    "bron": "Tweede Kamer",
    "soort": "Commissiedebat",
@@ -282,6 +506,20 @@
    "commissie": "vaste commissie voor Economische Zaken",
    "commissie_afk": "EZ",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05087",
+   "themas": [],
+   "kerncommissie": false
+  },
+  {
+   "id": "a16879315c1b5743",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Slagvaardige overheid en regeldruk",
+   "datum": "2026-10-28",
+   "tijd": "10:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Binnenlandse Zaken",
+   "commissie_afk": "BiZa",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A01369",
    "themas": [],
    "kerncommissie": false
   },
@@ -327,6 +565,48 @@
    "themas": [
     "Natuurherstel en gebiedsbescherming"
    ],
+   "kerncommissie": true
+  },
+  {
+   "id": "e7ea4269588faff4",
+   "bron": "Tweede Kamer",
+   "soort": "Technische briefing",
+   "wat": "Inzet onderhandelingen VN-klimaatconferentie (COP31)",
+   "datum": "2026-10-28",
+   "tijd": "13:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Klimaat en Groene Groei",
+   "commissie_afk": "K&GG",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06391",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "2af8ec908ca91c8b",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Leefomgeving - verplaatst i.v.m. begrotingsbehandeling I&W",
+   "datum": "2026-10-28",
+   "tijd": "14:00",
+   "status": "Verplaatst",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02830",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "8a660f10c79bb0aa",
+   "bron": "Tweede Kamer",
+   "soort": "Rondetafelgesprek",
+   "wat": "Zon op dak: van potentie naar realisatie ",
+   "datum": "2026-10-28",
+   "tijd": "14:15",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Klimaat en Groene Groei",
+   "commissie_afk": "K&GG",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07432",
+   "themas": [],
    "kerncommissie": true
   },
   {
@@ -406,6 +686,20 @@
    "kerncommissie": false
   },
   {
+   "id": "4ac4540975fee888",
+   "bron": "Tweede Kamer",
+   "soort": "Inbreng feitelijke vragen",
+   "wat": "Periodieke rapportage art. 16 van Hoofdstuk 12 van de rijksbegroting en aanverwante artikelen",
+   "datum": "2026-10-29",
+   "tijd": "12:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07526",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
    "id": "034f52efb4a20052",
    "bron": "Tweede Kamer",
    "soort": "Gesprek",
@@ -434,6 +728,20 @@
    "kerncommissie": true
   },
   {
+   "id": "59cf947d1806474c",
+   "bron": "Tweede Kamer",
+   "soort": "Gesprek",
+   "wat": "NGO-observers bij COP31",
+   "datum": "2026-10-29",
+   "tijd": "13:30",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Klimaat en Groene Groei",
+   "commissie_afk": "K&GG",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07197",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
    "id": "2ee9341c153b4ea9",
    "bron": "Tweede Kamer",
    "soort": "Inbreng verslag (wetsvoorstel)",
@@ -448,6 +756,20 @@
    "kerncommissie": false
   },
   {
+   "id": "8dfe048280435982",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Regeldruk (samengevoegd met commissiedebat Slagvaardige overheid op 28 oktober 2026)",
+   "datum": "2026-10-29",
+   "tijd": "15:00",
+   "status": "Verplaatst",
+   "commissie": "vaste commissie voor Binnenlandse Zaken",
+   "commissie_afk": "BiZa",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05712",
+   "themas": [],
+   "kerncommissie": false
+  },
+  {
    "id": "2793babf07af4dd4",
    "bron": "Tweede Kamer",
    "soort": "Technische briefing",
@@ -458,6 +780,20 @@
    "commissie": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
    "commissie_afk": "LVVN",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07122",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "4515affba0a34368",
+   "bron": "Tweede Kamer",
+   "soort": "Technische briefing",
+   "wat": "Beschouwing over het concept van de Klimaat- en Energienota 2026 door de Afdeling advisering van de Raad van State",
+   "datum": "2026-10-29",
+   "tijd": "15:30",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Klimaat en Groene Groei",
+   "commissie_afk": "K&GG",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07431",
    "themas": [],
    "kerncommissie": true
   },
@@ -642,6 +978,20 @@
    "bouw": false
   },
   {
+   "id": "e3e61f4cdb7312d7",
+   "bron": "Tweede Kamer",
+   "soort": "Rondetafelgesprek",
+   "wat": "Grevelingenmeer",
+   "datum": "2026-11-02",
+   "tijd": "13:30",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06667",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
    "id": "ee790d1394cf214d",
    "bron": "Internetconsultatie",
    "soort": "Consultatie",
@@ -680,6 +1030,20 @@
    "kerncommissie": true
   },
   {
+   "id": "7ea371e4c5b31c11",
+   "bron": "Tweede Kamer",
+   "soort": "Gesprek",
+   "wat": "Deltacommissaris",
+   "datum": "2026-11-04",
+   "tijd": "11:30",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06891",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
    "id": "3e2166871ca6019c",
    "bron": "Tweede Kamer",
    "soort": "Commissiedebat",
@@ -693,6 +1057,20 @@
    "themas": [
     "Stikstof"
    ],
+   "kerncommissie": true
+  },
+  {
+   "id": "925501cfe779a375",
+   "bron": "Tweede Kamer",
+   "soort": "Rondetafelgesprek",
+   "wat": "Sustainable Aviation Fuel (SAF)",
+   "datum": "2026-11-04",
+   "tijd": "13:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04079",
+   "themas": [],
    "kerncommissie": true
   },
   {
@@ -760,6 +1138,34 @@
    "commissie": "OCW",
    "themas": [],
    "bouw": false
+  },
+  {
+   "id": "8db83f426d7ee202",
+   "bron": "Tweede Kamer",
+   "soort": "Technische briefing",
+   "wat": "Toekomstige Marktordening Spoor",
+   "datum": "2026-11-05",
+   "tijd": "09:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04082",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "726d0d46bf4d6e26",
+   "bron": "Tweede Kamer",
+   "soort": "Rondetafelgesprek",
+   "wat": "Toekomstige Marktordening Spoor",
+   "datum": "2026-11-05",
+   "tijd": "10:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04089",
+   "themas": [],
+   "kerncommissie": true
   },
   {
    "id": "5a7a5ce903fa3fc2",
@@ -844,6 +1250,20 @@
    "kerncommissie": false
   },
   {
+   "id": "ed80beab1d01b58b",
+   "bron": "Tweede Kamer",
+   "soort": "Vergadering",
+   "wat": "Ontbijtbijeenkomst over strategieën voor de kust in relatie tot zeespiegelstijging",
+   "datum": "2026-11-11",
+   "tijd": "08:30",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05078",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
    "id": "c481c022bb7e13cc",
    "bron": "Tweede Kamer",
    "soort": "Commissiedebat",
@@ -872,6 +1292,34 @@
    "kerncommissie": false
   },
   {
+   "id": "4b8e6235a140ae60",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Kernenergie ",
+   "datum": "2026-11-11",
+   "tijd": "10:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Klimaat en Groene Groei",
+   "commissie_afk": "K&GG",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05144",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "ede4ecf1bbfa397a",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Verduurzaming luchtvaart",
+   "datum": "2026-11-11",
+   "tijd": "14:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A04829",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
    "id": "e0cadc8bc65fb961",
    "bron": "Tweede Kamer",
    "soort": "Strategische procedurevergadering",
@@ -896,6 +1344,20 @@
    "commissie": "OCW",
    "themas": [],
    "bouw": false
+  },
+  {
+   "id": "29991bd2bcdd665c",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Vergunningverlening, toezicht en handhaving (VTH-stelsel)",
+   "datum": "2026-11-12",
+   "tijd": "10:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A00664",
+   "themas": [],
+   "kerncommissie": true
   },
   {
    "id": "4b8f96d320472e3c",
@@ -1006,6 +1468,48 @@
    "kerncommissie": true
   },
   {
+   "id": "baa1b236f784dd05",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Spoor - verplaatst i.v.m. planning voortgangsrapportage PHS",
+   "datum": "2026-11-18",
+   "tijd": "13:00",
+   "status": "Verplaatst",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02831",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "7169ad0bc04ed079",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Informatie- en werkafspraken tussen Tweede Kamer en kabinet",
+   "datum": "2026-11-18",
+   "tijd": "16:30",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Binnenlandse Zaken",
+   "commissie_afk": "BiZa",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A05411",
+   "themas": [],
+   "kerncommissie": false
+  },
+  {
+   "id": "3d973268293a77ed",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Transportraad op 30 november 2026",
+   "datum": "2026-11-19",
+   "tijd": "10:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05471",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
    "id": "9265c51dbbdd73a9",
    "bron": "Tweede Kamer",
    "soort": "Commissiedebat",
@@ -1020,6 +1524,34 @@
    "kerncommissie": true
   },
   {
+   "id": "741563a4b41484ea",
+   "bron": "Tweede Kamer",
+   "soort": "Wetgevingsoverleg",
+   "wat": "Water",
+   "datum": "2026-11-23",
+   "tijd": "10:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02981",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "ff6c007dfee62b03",
+   "bron": "Tweede Kamer",
+   "soort": "Wetgevingsoverleg",
+   "wat": "Begrotingsonderdeel Herstel Groningen (verplaatst naar 30 november 2026)",
+   "datum": "2026-11-23",
+   "tijd": "16:00",
+   "status": "Verplaatst",
+   "commissie": "vaste commissie voor Binnenlandse Zaken",
+   "commissie_afk": "BiZa",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06721",
+   "themas": [],
+   "kerncommissie": false
+  },
+  {
    "id": "a2adce5dffad308b",
    "bron": "Tweede Kamer",
    "soort": "Commissiedebat",
@@ -1030,6 +1562,20 @@
    "commissie": "vaste commissie voor Volkshuisvesting en Ruimtelijke Ordening",
    "commissie_afk": "VRO",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A01811",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "98cb7ac559a84ae6",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Netcongestie en elektriciteitsnet",
+   "datum": "2026-11-25",
+   "tijd": "10:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Klimaat en Groene Groei",
+   "commissie_afk": "K&GG",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04028",
    "themas": [],
    "kerncommissie": true
   },
@@ -1076,6 +1622,20 @@
    "kerncommissie": false
   },
   {
+   "id": "1b8fe6273dfe38f7",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Klokkenluiders ",
+   "datum": "2026-11-26",
+   "tijd": "13:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Binnenlandse Zaken",
+   "commissie_afk": "BiZa",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05798",
+   "themas": [],
+   "kerncommissie": false
+  },
+  {
    "id": "09876f91bdd79bd3",
    "bron": "Tweede Kamer",
    "soort": "Commissiedebat",
@@ -1104,6 +1664,48 @@
    "kerncommissie": false
   },
   {
+   "id": "53297f6e3ae96482",
+   "bron": "Tweede Kamer",
+   "soort": "Notaoverleg",
+   "wat": "Initiatiefnota van het lid Kisteman over naar de beste overheid van Europa: een overheid die weer doet wat nodig is (36870) (tot nader order uitgesteld)",
+   "datum": "2026-11-30",
+   "tijd": "10:00",
+   "status": "Verplaatst",
+   "commissie": "vaste commissie voor Binnenlandse Zaken",
+   "commissie_afk": "BiZa",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05782",
+   "themas": [],
+   "kerncommissie": false
+  },
+  {
+   "id": "45636c62cbaefd8e",
+   "bron": "Tweede Kamer",
+   "soort": "Wetgevingsoverleg",
+   "wat": "Begrotingsonderdeel Herstel Groningen ",
+   "datum": "2026-11-30",
+   "tijd": "16:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Binnenlandse Zaken",
+   "commissie_afk": "BiZa",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07447",
+   "themas": [],
+   "kerncommissie": false
+  },
+  {
+   "id": "c424d6099ec52930",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Milieuraad op 11 december 2026",
+   "datum": "2026-12-01",
+   "tijd": "16:30",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05439",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
    "id": "33287fdc236e0a9f",
    "bron": "Tweede Kamer",
    "soort": "Commissiedebat",
@@ -1116,6 +1718,20 @@
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05297",
    "themas": [],
    "kerncommissie": false
+  },
+  {
+   "id": "fc564853646d99e2",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Leveringszekerheid ",
+   "datum": "2026-12-02",
+   "tijd": "14:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Klimaat en Groene Groei",
+   "commissie_afk": "K&GG",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05148",
+   "themas": [],
+   "kerncommissie": true
   },
   {
    "id": "038368e4c887dcbf",
@@ -1146,6 +1762,34 @@
    "kerncommissie": true
   },
   {
+   "id": "94b69b79df81d1a4",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Spoorveiligheid en ERTMS - verplaatst i.v.m. planning voortgangsrapportage ERTMS",
+   "datum": "2026-12-03",
+   "tijd": "13:00",
+   "status": "Verplaatst",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02827",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "2c7450b458842bb4",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Spoor",
+   "datum": "2026-12-03",
+   "tijd": "13:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05263",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
    "id": "e0c3c725fcd560cd",
    "bron": "Internetconsultatie",
    "soort": "Consultatie",
@@ -1156,6 +1800,34 @@
    "commissie": "Tweede Kamer der Staten-Generaal",
    "themas": [],
    "bouw": false
+  },
+  {
+   "id": "cb6919d39275e7ef",
+   "bron": "Tweede Kamer",
+   "soort": "Notaoverleg",
+   "wat": "Meerjarenprogramma Infrastructuur, Ruimte en Transport (MIRT)",
+   "datum": "2026-12-07",
+   "tijd": "10:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02983",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "15760cd9055c4bfa",
+   "bron": "Tweede Kamer",
+   "soort": "Wetgevingsoverleg",
+   "wat": "Regels betreffende de financiering van politieke partijen en transparantieregels met betrekking tot hun interne organisatie en financiën, evenals regels met betrekking tot het toezicht en het verbieden van politieke partijen (Wet op de politieke partijen) (36742) (1e termijn Kamer) (verplaatst naar 14.00 uur i.v.m. onvoorziene overlap in planning wetgevingsoverleggen)",
+   "datum": "2026-12-07",
+   "tijd": "10:00",
+   "status": "Verplaatst",
+   "commissie": "vaste commissie voor Binnenlandse Zaken",
+   "commissie_afk": "BiZa",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06195",
+   "themas": [],
+   "kerncommissie": false
   },
   {
    "id": "871d1a9182cf40f7",
@@ -1172,6 +1844,20 @@
    "kerncommissie": false
   },
   {
+   "id": "dadfd85b9a2a6146",
+   "bron": "Tweede Kamer",
+   "soort": "Wetgevingsoverleg",
+   "wat": "Regels betreffende de financiering van politieke partijen en transparantieregels met betrekking tot hun interne organisatie en financiën, evenals regels met betrekking tot het toezicht en het verbieden van politieke partijen (Wet op de politieke partijen) (36742) (1e termijn Kamer) ",
+   "datum": "2026-12-07",
+   "tijd": "14:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Binnenlandse Zaken",
+   "commissie_afk": "BiZa",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07549",
+   "themas": [],
+   "kerncommissie": false
+  },
+  {
    "id": "40848c0aed7839f0",
    "bron": "Tweede Kamer",
    "soort": "Commissiedebat",
@@ -1182,6 +1868,34 @@
    "commissie": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
    "commissie_afk": "LVVN",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04782",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "6e5da64b6ac3a6cb",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Energieraad (formeel) d.d. 10 december 2026",
+   "datum": "2026-12-08",
+   "tijd": "18:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Klimaat en Groene Groei",
+   "commissie_afk": "K&GG",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04755",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "9efb6a82a574f597",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Spoorveiligheid en ERTMS",
+   "datum": "2026-12-09",
+   "tijd": "10:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05262",
    "themas": [],
    "kerncommissie": true
   },
@@ -1214,6 +1928,48 @@
    "kerncommissie": false
   },
   {
+   "id": "6200bbf4fef530bf",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Externe veiligheid",
+   "datum": "2026-12-10",
+   "tijd": "13:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02828",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "ecacb606d2ae22e1",
+   "bron": "Tweede Kamer",
+   "soort": "Wetgevingsoverleg",
+   "wat": "Regels betreffende de financiering van politieke partijen en transparantieregels met betrekking tot hun interne organisatie en financiën, evenals regels met betrekking tot het toezicht en het verbieden van politieke partijen (Wet op de politieke partijen) (36742) (antwoord 1e termijn + 2e termijn)",
+   "datum": "2026-12-14",
+   "tijd": "10:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Binnenlandse Zaken",
+   "commissie_afk": "BiZa",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05819",
+   "themas": [],
+   "kerncommissie": false
+  },
+  {
+   "id": "e537dacf895b3995",
+   "bron": "Tweede Kamer",
+   "soort": "Notaoverleg",
+   "wat": "Meerjarenprogramma Infrastructuur, Ruimte en Transport (MIRT) - reservering voor mogelijke voortzetting notaoverleg 7 december",
+   "datum": "2026-12-14",
+   "tijd": "10:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06719",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
    "id": "f1e7eef15d2fb5a9",
    "bron": "Internetconsultatie",
    "soort": "Consultatie",
@@ -1238,6 +1994,48 @@
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06013",
    "themas": [],
    "kerncommissie": false
+  },
+  {
+   "id": "fbad404b6f88d9d0",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Verkeersveiligheid",
+   "datum": "2026-12-16",
+   "tijd": "13:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02813",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "21ee3ecd25a09737",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Verduurzaming Industrie ",
+   "datum": "2026-12-17",
+   "tijd": "13:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Klimaat en Groene Groei",
+   "commissie_afk": "K&GG",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02571",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "bbd936412fc31715",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Mijnbouw",
+   "datum": "2027-01-13",
+   "tijd": "10:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Klimaat en Groene Groei",
+   "commissie_afk": "K&GG",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05097",
+   "themas": [],
+   "kerncommissie": true
   },
   {
    "id": "7befd621641072d5",
@@ -1268,6 +2066,20 @@
    "kerncommissie": true
   },
   {
+   "id": "ed665aee500981fd",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Duurzame energiedragers ",
+   "datum": "2027-01-27",
+   "tijd": "10:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Klimaat en Groene Groei",
+   "commissie_afk": "K&GG",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05151",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
    "id": "5a5763aad0f82e76",
    "bron": "Tweede Kamer",
    "soort": "Commissiedebat",
@@ -1282,6 +2094,20 @@
    "kerncommissie": false
   },
   {
+   "id": "db9c4344ddcbe96d",
+   "bron": "Tweede Kamer",
+   "soort": "Technische briefing",
+   "wat": "Rapport 'Circulair versterkt' door de Wetenschappelijke Klimaatraad",
+   "datum": "2027-01-27",
+   "tijd": "15:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Klimaat en Groene Groei",
+   "commissie_afk": "K&GG",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06444",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
    "id": "a4ff781941c73ddb",
    "bron": "Internetconsultatie",
    "soort": "Consultatie",
@@ -1292,6 +2118,20 @@
    "commissie": "JenV",
    "themas": [],
    "bouw": false
+  },
+  {
+   "id": "86fc155fb7e06b2f",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Circulaire economie",
+   "datum": "2027-02-03",
+   "tijd": "10:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Klimaat en Groene Groei",
+   "commissie_afk": "K&GG",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05152",
+   "themas": [],
+   "kerncommissie": true
   }
  ]
 }
