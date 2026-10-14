@@ -190,7 +190,7 @@ bronnen:
   # ---------- Provincies ----------
   - {naam: Provincie Drenthe, categorie: Provincies, methode: web, url: "https://www.provincie.drenthe.nl/", filter: trefwoord, toegevoegd: eigen}
   - {naam: Provincie Flevoland, categorie: Provincies, methode: web, url: "https://www.flevoland.nl/nieuwsoverzicht", filter: trefwoord, toegevoegd: eigen}
-  - {naam: Provincie Fryslân, categorie: Provincies, methode: web, url: "https://www.fryslan.frl/nieuws", filter: trefwoord, toegevoegd: eigen}
+  - {naam: Provincie Fryslân, categorie: Provincies, methode: zoekcontrole, url: "https://www.fryslan.frl/nieuws", filter: trefwoord, toegevoegd: eigen, reden: "Nieuwspagina technisch niet uit te lezen; formele provinciale besluiten komen binnen via het provinciaal blad"}
   - {naam: Provincie Gelderland, categorie: Provincies, methode: web, url: "https://www.gelderland.nl/", filter: trefwoord, toegevoegd: eigen}
   - {naam: Provincie Groningen, categorie: Provincies, methode: web, url: "https://www.provinciegroningen.nl/", filter: trefwoord, toegevoegd: eigen}
   - {naam: Provincie Limburg, categorie: Provincies, methode: web, url: "https://www.limburg.nl/", filter: trefwoord, toegevoegd: eigen}
@@ -203,10 +203,16 @@ bronnen:
 
   # ---------- Gemeenten ----------
   - {naam: Gemeente Amsterdam, categorie: Gemeenten, methode: web, url: "https://www.amsterdam.nl/nieuws/", filter: trefwoord, toegevoegd: eigen}
-  - {naam: Gemeente Rotterdam, categorie: Gemeenten, methode: web, url: "https://www.rotterdam.nl/nieuws", filter: trefwoord, toegevoegd: eigen}
+  - {naam: Gemeente Rotterdam, categorie: Gemeenten, methode: zoekcontrole, url: "https://www.rotterdam.nl/nieuws", filter: trefwoord, toegevoegd: eigen, reden: "Nieuwspagina technisch niet uit te lezen; formele gemeentelijke besluiten komen binnen via het gemeenteblad"}
   - {naam: Gemeente Utrecht, categorie: Gemeenten, methode: web, url: "https://www.utrecht.nl/nieuws/", filter: trefwoord, toegevoegd: eigen}
 
   # ---------- Kennis- en uitvoeringsinstellingen ----------
+  - naam: Wetenschappelijke publicaties (OpenAlex)
+    categorie: Onderzoek
+    methode: api_openalex
+    url: https://openalex.org/
+    filter: alles
+    toegevoegd: voorstel
   - {naam: PBL nieuws, categorie: Onderzoek, methode: feed, url: "https://www.pbl.nl/feed/article/rss.xml", filter: alles, toegevoegd: voorstel}
   - {naam: PBL publicaties, categorie: Onderzoek, methode: feed, url: "https://www.pbl.nl/feed/publication/rss.xml", filter: alles, toegevoegd: voorstel}
   - {naam: RIVM, categorie: Onderzoek, methode: feed, url: "https://www.rivm.nl/nieuws/rss.xml", filter: trefwoord, toegevoegd: voorstel}
@@ -235,7 +241,7 @@ bronnen:
   - {naam: Sovon Vogelonderzoek, categorie: Natuurorganisaties, methode: web, url: "https://www.sovon.nl/", filter: alles, toegevoegd: voorstel}
   - {naam: RAVON, categorie: Natuurorganisaties, methode: web, url: "https://www.ravon.nl/nieuws", filter: alles, toegevoegd: voorstel}
   - {naam: FLORON, categorie: Natuurorganisaties, methode: web, url: "https://www.floron.nl/nieuws", filter: alles, toegevoegd: voorstel}
-  - {naam: Natuur & Milieu, categorie: Natuurorganisaties, methode: web, url: "https://natuurenmilieu.nl/nieuws/", filter: alles, toegevoegd: eigen}
+  - {naam: Natuur & Milieu, categorie: Natuurorganisaties, methode: zoekcontrole, url: "https://natuurenmilieu.nl/nieuws/", filter: alles, toegevoegd: eigen, reden: "Nieuwspagina technisch niet uit te lezen, ook niet via de browser"}
   - {naam: Koninklijke VHG, categorie: Groen en bouw, methode: web, url: "https://www.vhg.org/nieuws", filter: trefwoord, toegevoegd: eigen}
   - {naam: KAN Kennisnetwerk natuurinclusief bouwen, categorie: Groen en bouw, methode: web, url: "https://www.kanbouwen.nl/", filter: alles, toegevoegd: eigen}
   - {naam: Dutch Green Building Council, categorie: Groen en bouw, methode: web, url: "https://www.dgbc.nl/nieuws", filter: trefwoord, toegevoegd: eigen}

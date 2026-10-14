@@ -1,0 +1,23 @@
+# Zoekvragen voor wetenschappelijk onderzoek via OpenAlex (open index van
+# wetenschappelijke publicaties). Elke ochtend worden publicaties opgehaald die
+# sinds de vorige run zijn verschenen. Claude beoordeelt daarna de relevantie.
+#
+# zoek      : zoekvraag in het Engels (de meeste publicaties zijn Engelstalig)
+# thema     : thema op het dashboard
+# alleen_nl : true = alleen publicaties met minstens één Nederlandse instelling
+
+zoekvragen:
+  - {zoek: "nitrogen deposition Natura 2000", thema: Stikstof, alleen_nl: false}
+  - {zoek: "nitrogen deposition construction emissions", thema: Stikstof, alleen_nl: false}
+  - {zoek: "ammonia nitrogen deposition Netherlands", thema: Stikstof, alleen_nl: true}
+  - {zoek: "habitat restoration nature restoration regulation", thema: Natuurherstel, alleen_nl: false}
+  - {zoek: "biodiversity Netherlands", thema: Natuurherstel, alleen_nl: true}
+  - {zoek: "urban biodiversity green infrastructure", thema: Natuurherstel, alleen_nl: false}
+  - {zoek: "nature-inclusive building design", thema: Natuurinclusief bouwen, alleen_nl: false}
+  - {zoek: "building-dwelling species swifts bats sparrows", thema: Soortenbescherming, alleen_nl: false}
+  - {zoek: "species protection infrastructure mitigation", thema: Soortenbescherming, alleen_nl: false}
+  - {zoek: "environmental DNA eDNA monitoring", thema: eDNA en monitoring, alleen_nl: false}
+  - {zoek: "surface water quality Water Framework Directive", thema: Waterkwaliteit, alleen_nl: false}
+  - {zoek: "PFAS soil groundwater", thema: Waterkwaliteit, alleen_nl: true}
+  - {zoek: "urban climate adaptation heat stress", thema: Klimaatadaptatie, alleen_nl: false}
+  - {zoek: "climate adaptation Netherlands", thema: Klimaatadaptatie, alleen_nl: true}

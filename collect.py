@@ -409,6 +409,16 @@ def rechtspraak(bron, since):
 # heeft voor hergebruik deze officiële koppelingen aangewezen (zie data.overheid.nl,
 # dataverzoek 268). We vragen ze één keer per dag op.
 
+def _iso(datum):
+    """Zet 12-10-2026 om naar 2026-10-12; laat 2026-10-12 ongemoeid."""
+    m = re.match(r"(\d{1,2})-(\d{1,2})-(\d{4})", str(datum or ""))
+    return f"{m.group(3)}-{int(m.group(2)):02d}-{int(m.group(1)):02d}" if m else str(datum or "")[:10]
+
+
+KERNDEPARTEMENTEN = ("landbouw", "natuur", "lvvn", "volkshuisvesting", "vro", "infrastructuur",
+                     "waterstaat", "ienw", "klimaat", "groene groei", "kgg")
+
+
 def _veld(d, *namen):
     for k, v in d.items():
         kl = k.lower()
@@ -444,14 +454,15 @@ def internetconsultatie(bron, since):
         link = _veld(d, "url", "link", "href")
         if link and link.startswith("/"):
             link = "https://www.internetconsultatie.nl" + link
-        sluit = _veld(d, "eind", "sluit", "einde", "end")
-        start = _veld(d, "start", "begin", "publicatie", "datum")
+        sluit_ruw = _veld(d, "eind", "sluit", "einde", "end")
+        sluit = _iso(sluit_ruw)
+        start = _iso(_veld(d, "start", "begin", "publicatie", "datum"))
         items.append(make_item(bron, uid=link or titel, titel=titel, url=link or "https://www.internetconsultatie.nl/",
                                datum=str(start)[:10], soort="Internetconsultatie",
                                samenvatting=f"{_veld(d, 'omschrijving', 'beschrijving', 'samenvatting', 'description')} "
-                                            f"Organisatie: {_veld(d, 'ministerie', 'organisatie', 'eigenaar', 'department')}. "
+                                            f"Organisatie: {_veld(d, 'departement', 'ministerie', 'organisatie', 'eigenaar', 'department')}. "
                                             f"Sluit: {str(sluit)[:10]}",
-                               versie=str(sluit), extra={"sluitingsdatum": str(sluit)[:10], "velden": list(d)[:20]}))
+                               versie=str(sluit_ruw), extra={"sluitingsdatum": sluit, "velden": list(d)[:20]}))
     if not items:
         raise ValueError("Koppeling gaf geen consultaties terug (zie diagnose)")
     return items, f"{len(items)} open consultaties via KOOP-koppeling"
@@ -469,11 +480,17 @@ def wetgevingskalender(bron, since):
         ident = d.get("identifier", "")
         link = _veld(d, "preferredurl", "url", "link") or (
             ident if ident.startswith("http") else f"https://wetgevingskalender.overheid.nl/regeling/{ident}")
-        items.append(make_item(bron, uid=ident or d.get("title", ""), titel=d.get("title", ident), url=link,
-                               datum=(d.get("modified") or "")[:10], soort="Wetgevingskalender",
-                               samenvatting=f"{_veld(d, 'abstract', 'description', 'omschrijving')} "
-                                            f"Ministerie: {_veld(d, 'creator', 'ministerie')}. Fase: {_veld(d, 'fase', 'status', 'stadium')}",
-                               versie=d.get("modified", ""), extra={"velden": list(d)[:25]}))
+        dep = _veld(d, "departement", "creator", "ministerie")
+        it = make_item(bron, uid=ident or d.get("title", ""), titel=d.get("title", ident),
+                       url=f"https://wetgevingskalender.overheid.nl/regeling/{ident}" if ident.startswith("WGK") else link,
+                       datum=(d.get("modified") or "")[:10], soort=f"Wetgevingskalender: {_veld(d, 'type')}",
+                       samenvatting=f"{_veld(d, 'abstract', 'description', 'omschrijving')} "
+                                    f"Ministerie: {dep}. Actieve fase: {_veld(d, 'fase', 'status', 'stadium')}.",
+                       versie=d.get("modified", ""), extra={"ministerie": dep, "fase": _veld(d, "fase")})
+        # regelingen van de voor bouw en natuur kernministeries gaan altijd door
+        if any(k in dep.lower() for k in KERNDEPARTEMENTEN):
+            it["_fulltext_hit"] = True
+        items.append(it)
     note = f"{len(items)} gewijzigde regelingen via KOOP-zoekdienst"
     if total and total > len(items):
         note += f" ({total} gemeld)"
@@ -492,6 +509,124 @@ def plooi_proef(bron, since):
         except Exception as e:
             uitkomst[area] = {"fout": f"{type(e).__name__}: {str(e)[:120]}"}
     DIAGNOSE.setdefault(bron["naam"], {})["plooi_proef"] = uitkomst
+
+
+# ------------------------------------------------------------------ planning: Tweede Kamer-activiteiten
+# Alle geplande debatten, overleggen, rondetafelgesprekken en inbrengtermijnen
+# van de komende maanden. Wordt elke run volledig opnieuw opgebouwd.
+
+TK_PLANNING_DAGEN = 120
+TK_COMMISSIES = ("LVVN", "IenW", "VRO", "KGG", "BZK", "EZ", "EU")
+
+
+def tk_activiteiten(planning, matcher):
+    van = NOW.date().isoformat()
+    tot = (NOW + dt.timedelta(days=TK_PLANNING_DAGEN)).date().isoformat()
+    q = (f"{TK}Activiteit?$filter=Datum ge {van}T00:00:00Z and Datum le {tot}T23:59:59Z and Verwijderd eq false"
+         "&$orderby=Datum")
+    rows, _ = odata_all(q, max_pages=30)
+    n = 0
+    for a in rows:
+        soort = a.get("Soort") or ""
+        if soort.lower() in ("procedurevergadering", "petitie", "werkbezoek", "delegatiereis"):
+            continue
+        onderwerp = a.get("Onderwerp") or ""
+        commissie = a.get("Voortouwafkorting") or ""
+        hits = {k: v for k, v in matcher.match(onderwerp).items() if k != "Bouwcontext"}
+        if not hits and commissie not in TK_COMMISSIES:
+            continue
+        nummer = a.get("Nummer") or ""
+        plenair = "plenair" in soort.lower() or (a.get("Voortouwnaam") or "").lower().startswith("tweede kamer")
+        url = (f"https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id={nummer}"
+               if plenair else f"https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id={nummer}")
+        planning.append({
+            "id": h("TK-activiteit", a.get("Id")), "bron": "Tweede Kamer", "soort": soort,
+            "wat": onderwerp, "datum": (a.get("Datum") or "")[:10],
+            "tijd": (a.get("Aanvangstijd") or "")[11:16], "status": a.get("Status"),
+            "commissie": a.get("Voortouwnaam"), "commissie_afk": commissie, "url": url,
+            "themas": sorted(hits), "kerncommissie": commissie in ("LVVN", "IenW", "VRO", "KGG"),
+        })
+        n += 1
+    return n
+
+
+def planning_uit_consultaties(planning, items, matcher):
+    for it in items:
+        sluit = it.get("extra", {}).get("sluitingsdatum")
+        if not sluit:
+            continue
+        hits = {k: v for k, v in matcher.match(it["titel"]).items() if k != "Bouwcontext"}
+        planning.append({
+            "id": it["id"], "bron": "Internetconsultatie", "soort": "Consultatie", "wat": it["titel"],
+            "datum": sluit, "start": it.get("datum"), "url": it["url"],
+            "commissie": (it["samenvatting_bron"].split("Organisatie:")[-1].split(".")[0].strip()
+                          if "Organisatie:" in it["samenvatting_bron"] else ""),
+            "themas": sorted(hits), "bouw": "Bouwcontext" in matcher.match(it["titel"]),
+        })
+
+
+# ------------------------------------------------------------------ onderzoek: OpenAlex
+# OpenAlex is een open, gratis index van wetenschappelijke publicaties.
+# De zoekvragen staan in config/onderzoek.yml.
+
+def openalex(bron, since):
+    cfg = load_yaml("onderzoek.yml")
+    items, per = [], {}
+    van = (since - dt.timedelta(days=2)).date().isoformat()
+    for z in cfg.get("zoekvragen", []):
+        filt = f"from_publication_date:{van}"
+        if z.get("alleen_nl"):
+            filt += ",authorships.institutions.country_code:NL"
+        params = {"search": z["zoek"], "filter": filt, "sort": "publication_date:desc", "per_page": 25}
+        try:
+            r = get("https://api.openalex.org/works", params=params)
+            res = r.json().get("results", [])
+        except Exception as e:
+            per[z["zoek"]] = f"fout: {type(e).__name__}"
+            continue
+        per[z["zoek"]] = len(res)
+        for w in res:
+            abstract = ""
+            inv = w.get("abstract_inverted_index") or {}
+            if inv:
+                pos = {}
+                for woord, plekken in inv.items():
+                    for p in plekken:
+                        pos[p] = woord
+                abstract = " ".join(pos[i] for i in sorted(pos))[:1500]
+            src = ((w.get("primary_location") or {}).get("source") or {}).get("display_name") or ""
+            inst = sorted({i.get("display_name") for a in (w.get("authorships") or [])[:8]
+                           for i in (a.get("institutions") or []) if i.get("display_name")})[:5]
+            url = w.get("doi") or (w.get("primary_location") or {}).get("landing_page_url") or w.get("id")
+            it = make_item(bron, uid=w.get("id"), titel=w.get("title") or "", url=url,
+                           datum=w.get("publication_date"), soort=f"Wetenschappelijke publicatie ({w.get('type','')})",
+                           samenvatting=abstract, versie=w.get("publication_date"),
+                           extra={"tijdschrift": src, "instellingen": inst, "zoekvraag": z["zoek"],
+                                  "thema_hint": z.get("thema"), "open_access": (w.get("open_access") or {}).get("is_oa")})
+            items.append(it)
+    DIAGNOSE.setdefault(bron["naam"], {})["per_zoekvraag"] = per
+    # zelfde publicatie via meerdere zoekvragen: één keer
+    uniek = {}
+    for it in items:
+        uniek.setdefault(it["id"], it)
+    return list(uniek.values()), f"{len(uniek)} publicaties uit {len(per)} zoekvragen"
+
+
+ONDERZOEK_WOORDEN = ("rapport", "onderzoek", "evaluatie", "monitor", "verkenning", "advies", "analyse",
+                     "studie", "effectmeting", "doorrekening", "inventarisatie", "nulmeting")
+
+
+def rubriek(it):
+    """Voorlopige indeling: onderzoek, planning of bericht (Claude beslist uiteindelijk)."""
+    t = it["titel"].lower()
+    if it["methode"] == "api_openalex" or it["categorie"] == "Onderzoek":
+        return "onderzoek"
+    if it["methode"] == "api_tk_documenten" and (it.get("soort") or "").lower().startswith("bijlage") \
+            and any(w in t for w in ONDERZOEK_WOORDEN) and "beslisnota" not in t:
+        return "onderzoek"
+    if it["methode"] == "api_internetconsultatie":
+        return "planning"
+    return "bericht"
 
 
 # ------------------------------------------------------------------ feeds en webpagina's
@@ -751,7 +886,7 @@ def compact(it):
         "titel": it["titel"][:220], "datum": it.get("datum"), "status": it.get("status"),
         "themas": th, "themas_tekst": th_doc, "bouw": "Bouwcontext" in it.get("thema_treffers", {}),
         "doc_fout": "fout" in doc, "volledige_tekst": it.get("treffer_in_volledige_tekst", False),
-        "url": it["url"],
+        "url": it["url"], "rubriek": rubriek(it),
     }
 
 
@@ -763,6 +898,7 @@ def main():
     state = load_state()
     status, doorgelaten = [], []
 
+    planning = []
     for bron in bronnen:
         naam = bron["naam"]
         bstate = state["bronnen"].setdefault(naam, {"gezien": {}})
@@ -796,8 +932,11 @@ def main():
                 continue
             if m == "api_internetconsultatie":
                 items, note = internetconsultatie(bron, since)
+                planning_uit_consultaties(planning, items, matcher)
             elif m == "api_wetgevingskalender":
                 items, note = wetgevingskalender(bron, since)
+            elif m == "api_openalex":
+                items, note = openalex(bron, since)
             elif m == "api_tk_documenten":
                 items, note = tk_documenten(bron, since)
             elif m == "api_tk_besluiten":
@@ -887,6 +1026,21 @@ def main():
         if len(bstate["gezien"]) > 60000:
             bstate["gezien"] = dict(list(bstate["gezien"].items())[-40000:])
 
+    # ---- planning: Tweede Kamer-activiteiten ----
+    try:
+        n_act = tk_activiteiten(planning, matcher)
+        status.append({"bron": "Tweede Kamer (agenda: debatten en overleggen)", "categorie": "Parlement",
+                       "methode": "api_tk_activiteiten", "url": TK, "filter": "commissie of thema",
+                       "gelukt": True, "gevonden": n_act, "nieuw": 0, "gewijzigd": 0, "doorgelaten": n_act,
+                       "toelichting": f"{n_act} geplande activiteiten in de komende {TK_PLANNING_DAGEN} dagen",
+                       "fout": None, "gecontroleerd_op": NOW.isoformat(timespec="seconds")})
+    except Exception as e:
+        status.append({"bron": "Tweede Kamer (agenda: debatten en overleggen)", "categorie": "Parlement",
+                       "methode": "api_tk_activiteiten", "url": TK, "gelukt": False, "gevonden": 0, "nieuw": 0,
+                       "gewijzigd": 0, "doorgelaten": 0, "toelichting": None,
+                       "fout": f"{type(e).__name__}: {str(e)[:300]}", "gecontroleerd_op": NOW.isoformat(timespec="seconds")})
+    planning.sort(key=lambda p: (p.get("datum") or "9999", p.get("tijd") or ""))
+
     # ---- documenten lezen (bijlagen, rapporten, Kamerbrieven) ----
     # Stukken die op hun tekst wachten. Een stuk dat alleen om zijn tekst is
     # doorgelaten, gaat pas naar de beoordeling als de tekst een themawoord bevat.
@@ -961,6 +1115,7 @@ def main():
     save_json(DATA / "kandidaten.json", {"run": run, "items": final})
     save_json(DATA / "status.json", {"run": run, "bronnen": status})
     save_json(DATA / "diagnose.json", DIAGNOSE)
+    save_json(DATA / "planning.json", {"bijgewerkt": NOW.isoformat(timespec="seconds"), "items": planning})
     if _pw.get("browser"):
         try:
             _pw["browser"].close(); _pw["ctx"].stop()
