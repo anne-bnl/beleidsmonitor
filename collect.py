@@ -546,10 +546,80 @@ def web(bron, bstate):
         if items:
             bstate["feed"] = k
             return items, f"feed gevonden: {k}", "feed"
+    # 6) laatste stap: de pagina laten opbouwen in een echte (onzichtbare) browser
+    if robots_ok(url):
+        try:
+            rhtml, eindpunten = render(url)
+            DIAGNOSE.setdefault(bron["naam"], {})["json_eindpunten"] = eindpunten[:15]
+            found = discover_feed(url, rhtml)
+            if found:
+                items = try_feed(bron, found)
+                if items:
+                    bstate["feed"] = found
+                    return items, f"feed gevonden na opbouwen pagina: {found}", "feed"
+            rlinks = page_links(bron, url, rhtml)
+            if len(rlinks) >= 3:
+                return rlinks, "pagina opgebouwd in browser, links vergeleken", "browser"
+            fout = ValueError(f"Ook na opbouwen in de browser geen berichten herkend ({len(rlinks)} links)")
+        except Exception as e:
+            fout = fout or e
+            DIAGNOSE.setdefault(bron["naam"], {})["browserfout"] = f"{type(e).__name__}: {str(e)[:200]}"
     if fout:
         raise fout
-    raise ValueError("Geen berichten herkend op de pagina en geen feed gevonden "
-                     "(pagina wordt waarschijnlijk pas in de browser opgebouwd)")
+    raise ValueError("Geen berichten herkend op de pagina en geen feed gevonden")
+
+
+# ------------------------------------------------------------------ onzichtbare browser
+
+DIAGNOSE = {}
+_pw = {"browser": None}
+
+
+def render(url):
+    """Opent de pagina in een onzichtbare Chromium-browser, wacht tot de inhoud
+    is opgebouwd en geeft de HTML terug, plus de JSON-adressen die de pagina zelf opvroeg."""
+    if _pw["browser"] is None:
+        from playwright.sync_api import sync_playwright
+        _pw["ctx"] = sync_playwright().start()
+        _pw["browser"] = _pw["ctx"].chromium.launch()
+    page = _pw["browser"].new_page(user_agent=UA, locale="nl-NL")
+    eindpunten = []
+
+    def op_antwoord(resp):
+        try:
+            if "json" in (resp.headers.get("content-type") or "") and len(eindpunten) < 40:
+                eindpunten.append(resp.url[:300])
+        except Exception:
+            pass
+    page.on("response", op_antwoord)
+    try:
+        page.goto(url, wait_until="networkidle", timeout=45000)
+        # cookiemelding: altijd de privacyvriendelijke keuze (alleen noodzakelijke cookies)
+        for tekst in ("Alleen noodzakelijke cookies", "Alleen noodzakelijk", "Weigeren", "Afwijzen",
+                      "Niet akkoord", "Reject all", "Decline", "Only necessary"):
+            try:
+                knop = page.get_by_role("button", name=tekst)
+                if knop.count():
+                    knop.first.click(timeout=2000)
+                    page.wait_for_timeout(1500)
+                    break
+            except Exception:
+                pass
+        page.wait_for_timeout(2000)
+        return page.content(), eindpunten
+    finally:
+        page.close()
+
+
+def robots_samenvatting(url):
+    p = urllib.parse.urlparse(url)
+    try:
+        r = session.get(f"{p.scheme}://{p.netloc}/robots.txt", timeout=15)
+        regels = [l.strip() for l in r.text.splitlines() if l.strip() and not l.startswith("#")]
+        return {"status": r.status_code, "regels": regels[:25],
+                "pagina_toegestaan": robots_ok(url)}
+    except Exception as e:
+        return {"fout": f"{type(e).__name__}"}
 
 
 # ------------------------------------------------------------------ PDF-tekst
@@ -613,6 +683,8 @@ def main():
         try:
             eerste_keer = not bstate.get("laatst_gelukt")
             m = bron["methode"]
+            if m in ("web", "zoekcontrole"):
+                DIAGNOSE.setdefault(naam, {})["robots"] = robots_samenvatting(bron["url"])
             if m == "zoekcontrole":
                 st.update(gelukt=None, toelichting="Automatisch uitlezen is niet toegestaan of technisch niet mogelijk; "
                           "Claude controleert deze bron met een gerichte zoekopdracht")
@@ -633,7 +705,7 @@ def main():
                 st["methode_gebruikt"] = sub
                 # Bij een webpagina zonder feed is de eerste keer een nulmeting:
                 # alles wat er al staat is 'oud'.
-                if sub == "pagina" and eerste_keer:
+                if sub in ("pagina", "browser") and eerste_keer:
                     for it in items:
                         bstate["gezien"][it["id"]] = it["versie"]
                     st.update(gelukt=True, gevonden=len(items),
@@ -768,6 +840,12 @@ def main():
     }
     save_json(DATA / "kandidaten.json", {"run": run, "items": final})
     save_json(DATA / "status.json", {"run": run, "bronnen": status})
+    save_json(DATA / "diagnose.json", DIAGNOSE)
+    if _pw.get("browser"):
+        try:
+            _pw["browser"].close(); _pw["ctx"].stop()
+        except Exception:
+            pass
     overzicht = {"run": run, "items": [compact(it) for it in final]}
     save_json(DATA / "overzicht.json", overzicht)
     save_json(DATA / "archief" / f"{TODAY}.json", overzicht)
