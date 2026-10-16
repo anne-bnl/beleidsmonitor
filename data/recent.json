@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-10-16T14:39:24+00:00",
+ "bijgewerkt": "2026-10-16T15:14:57+00:00",
  "items": [
   {
    "id": "9cb75086ff9a87d9",
@@ -40806,26 +40806,6 @@
     "zaaknummer": "2026Z07028",
     "zaaksoort": "Wetgeving",
     "documentnummer": "2026D50513"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-13T17:51:15+00:00"
-  },
-  {
-   "id": "9140075652296d8e",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Eindtekst",
-   "titel": "36947, eindtekst",
-   "samenvatting_bron": "Wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met het verhogen van het aandeel van gas uit hernieuwbare bronnen in de totale leveringen van gas aan afnemers (Wet bijmengverplichting groen gas) . Zaak: Wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met het verhogen van het aandeel van gas uit hernieuwbare bronnen in de totale leveringen van gas aan afnemers (Wet bijmengverplichting groen gas) Wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met het verhogen van het aandeel van gas uit hernieuwbare bronnen in de totale leveringen van gas aan afnemers (Wet bijmengverplichting groen gas)",
-   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z10595&did=2026D50515",
-   "datum": "2026-10-06",
-   "versie": "1b8fca4453b8ed93",
-   "extra": {
-    "zaaknummer": "2026Z10595",
-    "zaaksoort": "Wetgeving",
-    "documentnummer": "2026D50515"
    },
    "status": "nieuw",
    "thema_treffers": {},
@@ -211799,114 +211779,6 @@
    }
   },
   {
-   "id": "8f9c6584af9b581b",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Brief regering",
-   "titel": "Afschrift reactiebrief aan Centraal Dialoog Bonaire ten aanzien van energiesysteem",
-   "samenvatting_bron": "None. Zaak: None Afschrift reactiebrief aan Centraal Dialoog Bonaire ten aanzien van energiesysteem",
-   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z22586&did=2026D51933",
-   "datum": "2026-10-16",
-   "versie": "04cb6df581300b60",
-   "extra": {
-    "zaaknummer": "2026Z22586",
-    "zaaksoort": "Brief regering",
-    "documentnummer": "2026D51933"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-16T14:04:56+00:00",
-   "document": {
-    "pagina's": 1,
-    "thema_treffers_tekst": {},
-    "fragmenten": [],
-    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0016P]Kz;\u0001\u0000\u0000T \u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ŖKN@\u0010by\u000e,F#\u0005\u0002i H\u0005*Ik #\u0015l'\u0006 bcɮn[\u000fggw\u00167 ~^ WӲ@/2~5/7'_˳>b.y&BdF\u0007 \u0011=WtH\u000eoJD`d:\"d&T{7԰T\\66UY}uԼ47^IBi Fk$\u0010ōW&[MO^᥈bN7/\u0019\u0015$ mHJ 7>{HFbb \u0012sSq*\u000e?\u0005\u001bÓt\u0014-#\u0003\u0015c\u0010l\u0019nq{4'$:\u00048κ\u0002\u001a bϰFP\u000f\u001a\u000f;Q\u0000Z;p;0\u0002 Мy Kc l))׏ ͫzB<;\u0016\u001bzK|p]${xXOj ?@\u0001\u000eK^\u0001\u0014n\\I |z[ch\u0016\u0001PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u0000eG \u0001\u0000\u0000\u0002\u0000\u0000 \u0000\b\u0002_rels/.rels \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
-   }
-  },
-  {
-   "id": "832b31b4d612af23",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Bijlage",
-   "titel": "Beslisnota bij Kamerbrief over afschrift reactiebrief aan Centraal Dialoog Bonaire ten aanzien van energiesysteem",
-   "samenvatting_bron": "None. Zaak:",
-   "url": "https://www.tweedekamer.nl/downloads/document?id=d76a2adf-023a-40e0-bd3a-5ac195a88fc6",
-   "datum": "2026-10-16",
-   "versie": "63bec7a3e18c9b2b",
-   "extra": {
-    "zaaknummer": null,
-    "zaaksoort": null,
-    "documentnummer": "2026D51936"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-16T14:04:56+00:00",
-   "document": {
-    "pagina's": 1,
-    "thema_treffers_tekst": {
-     "Bouwcontext": [
-      "verduurzaming"
-     ]
-    },
-    "fragmenten": [],
-    "tekst_begin": " Aan de Minister van Klimaat en Groene Groei TER BESLISSING Afschrift voor TK-commissie KR reactiebrief aan Centraal Dialoog Bonaire t.a.v. stroomstoringen op Bonaire Pagina 1 van 1 Directoraat-generaal Bedrijfsleven & Innovatie Directie Regio en Ruimtelijke Economie Auteur Datum aangemaakt 13 oktober 2026 Kenmerk EZK_DGBI_RRE / 108671911 Bijlage(n) 3 Ontvangen BPZ Parafenroute Aanleiding Op 6 oktober 2026 is een herinnering voor het verzoek van de vaste commissie voor Koninkrijksrelaties ontvangen om een afschrift te krijgen van de reactie namens MKGG op de brieven van de Centraal Dialoog Bonaire over het energiesysteem op Bonaire. Het initiële verzoek dateert van 16 januari 2026. Met bijgaande Kamerbrief, inclusief verzending van de reactiebrief, voldoet u aan het verzoek van de commissie. Geadviseerd besluit U kunt bijgevoegde Kamerbrief ondertekenen en daarmee instemmen met verzending van het afschrift aan de TK-commissie Koninkrijksrelaties. Kernpunten • In december 2025 zijn er door de Centraal Dialoog Bonaire twee brieven aan MKGG en MEZ gestuurd. In de brieven worden zorgen geuit over de stijging van de energieprijzen per 1 januari 2026, over (de gevolgen van) stroomstoring"
-   }
-  },
-  {
-   "id": "ac3d0b4ee159e241",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Bijlage",
-   "titel": "Brief aan Centraal Dialoog Bonaire Zorgen Centraal Dialoog Bonaire energietarieven en vo",
-   "samenvatting_bron": "None. Zaak:",
-   "url": "https://www.tweedekamer.nl/downloads/document?id=424b408d-24af-4c05-a970-5ed18dcf4daf",
-   "datum": "2026-10-16",
-   "versie": "03c65e3e23d024ee",
-   "extra": {
-    "zaaknummer": null,
-    "zaaksoort": null,
-    "documentnummer": "2026D51934"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-16T14:04:56+00:00",
-   "document": {
-    "pagina's": 2,
-    "thema_treffers_tekst": {},
-    "fragmenten": [],
-    "tekst_begin": " "
-   }
-  },
-  {
-   "id": "de6692b554f6a9d1",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Bijlage",
-   "titel": "Brief aan gezaghebber Soliano - Terugkoppeling werkbezoek Bonaire",
-   "samenvatting_bron": "None. Zaak:",
-   "url": "https://www.tweedekamer.nl/downloads/document?id=12afc293-97ad-4575-a7ec-7317942391a0",
-   "datum": "2026-10-16",
-   "versie": "60959d801920cacb",
-   "extra": {
-    "zaaknummer": null,
-    "zaaksoort": null,
-    "documentnummer": "2026D51935"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-16T14:04:56+00:00",
-   "document": {
-    "pagina's": 3,
-    "thema_treffers_tekst": {},
-    "fragmenten": [],
-    "tekst_begin": " "
-   }
-  },
-  {
    "id": "409715df521e1df4",
    "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
    "categorie": "Parlement",
@@ -212193,32 +212065,6 @@
    "status": "nieuw",
    "thema_treffers": {},
    "verzameld_op": "2026-10-16T14:39:24+00:00"
-  },
-  {
-   "id": "d77986387f206d5e",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Motie",
-   "titel": "Motie van het lid Van Baarle over niet meegaan in het verschaffen van immuniteit voor staatsburgers van de VS of het deprioritiseren van onderzoek naar handelen van de VS",
-   "samenvatting_bron": "Het Internationaal Strafhof. Zaak: Het Internationaal Strafhof Motie van het lid Van Baarle over niet meegaan in het verschaffen van immuniteit voor staatsburgers van de VS of het deprioritiseren van onderzoek naar handelen van de VS",
-   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z21739&did=2026D50000",
-   "datum": "2026-10-08",
-   "versie": "4362475a448026f0",
-   "extra": {
-    "zaaknummer": "2026Z21739",
-    "zaaksoort": "Motie",
-    "documentnummer": "2026D50000"
-   },
-   "status": "gewijzigd",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-16T14:39:24+00:00",
-   "document": {
-    "pagina's": 1,
-    "thema_treffers_tekst": {},
-    "fragmenten": [],
-    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u00007P]P%tt\u0001\u0000\u0000\u0006\u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000MN0\u0010\u0012y[%nY v\u0001l\u0012\\u&E#{ҟH\\IFjB&R2<&_ F\u0017 |P֤l Y\u0004FLEJ;6߶\u000eBD&l9\u000fr Z:0Tɭ\u0002/\u0013], \\Z`0ʃMƏiCX9 **eJWM\\WQ\" s\u0002W&;@wX )랰T. TD]:\u0017 BS\u001b_[R49s湒+7筄\u0010^t\u0015-\u0019t\u0004\u0016\u0010 \u0010I\u0007ιa 0~w֢ǅ\u0014` ΗL\"ż>&@c qhAcH! ( Qy3\u001a<=bPÅۡE ?Ac\u0001 )f<1A=ց=`\u000e e Tk@^@ \u001a Ru$s?$u \u000fi͝u\u00079昲\u0014sda,\u00009}\u000508{C\"h\"j39LiD\u00125jP(Лegu\u000fm{!Yվ>-H]Н=$<)xӖm_O,ֆ$G\u00158ogt_49m@ 7)1M\u0006&oIͯ0\u0007FviRI\u0019QF[XS@-\u0011aF\u0014 sC3 Hú \u0012BY^ 2Cxdf 2ŅK{u^B ő8\u0011@*UU!-kH*\u0014]Y\u0000o09۰Ȋl4͒\u0015薉27 %^4Õ~ $\u00116X(ە(2eNSt1%|B X:\u001b\u001449BFDZlD3^@-\\18%tIkL5u wJ\u0018G mӍ\u0010\u001aa+ bhI mi \u0017DDf\u0019)\b{$\u000f*jzg;w\u0005ג \\3EuTyoun\u000fLyߛq.%fz\u0010ϪڑE]pz-\u0012 \u0004) [g|j5RI \u0017! 7\bqo$捿4ush5?S_\u0016K?#*m\\,\u0015iŨ\\SS\u0003`-)ņHsG\u00048%\u0011;ZK+HTTw֨ v5ߌ\u0014n[nl~6)[ rv{tdɥW.:l-mj\u0004*[VZx6E#Ԑm\b ӬO赸[\u0015x~]^۫^Wֆ&fTԵQvs\"\bF♆mt \u0015UE:\\uNySlhVp5j"
-   }
   },
   {
    "id": "60ae12326435ce17",
@@ -213566,6 +213412,978 @@
     ]
    },
    "verzameld_op": "2026-10-16T14:39:24+00:00"
+  },
+  {
+   "id": "5dfafed2ba681479",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Antwoord schriftelijke vragen",
+   "titel": "Antwoord op vragen van de leden Stultiens en Bushoff over mogelijke corruptie via Nederlandse brievenbusfirma’s bij Albanees resort van schoonzoon Trump",
+   "samenvatting_bron": "None. Zaak: None Mogelijke corruptie via Nederlandse brievenbusfirma’s bij Albanees resort van schoonzoon Trump",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z13066&did=2026D40663",
+   "datum": "2026-09-03",
+   "versie": "3e8aba36db5c84a4",
+   "extra": {
+    "zaaknummer": "2026Z13066",
+    "zaaksoort": "Schriftelijke vragen",
+    "documentnummer": "2026D40663"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T15:14:57+00:00",
+   "document": {
+    "pagina's": 4,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "Tweede Kamer der Staten-Generaal 2 Vergaderjaar 2025–2026 Aanhangsel van de Handelingen Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden 2923 Vragen van de leden Stultiens en Bushoff (beiden PRO) aan de Minister en Staatssecretaris van Financiën over mogelijke corruptie via Nederlandse brievenbusfirma’s bij Albanees resort van schoonzoon Trump (ingezonden 15 juni 2026). Antwoord van Minister Heinen (Financiën) (ontvangen 3 september 2026). Vraag 1 Bent u op de hoogte van het corruptieonderzoek naar het Albanese resort dat leidt naar Nederlandse brievenbusfirma’s?1 Antwoord 1 Ja, ik ben bekend met de berichtgeving hierover in de media. Vraag 2 Deelt u de analyse dat de combinatie van grootschalige buitenlandse investeringen, zwakke institutionele controle en complexe Nederlandse eigendomsstructuren een enorm risico vormt voor de democratische controle? Antwoord 2 Het kabinet onderschrijft in algemene zin het belang van transparantie over eigendomsstructuren en geldstromen en van adequate waarborgen tegen witwassen en corruptie. Complexe eigendomsstructuren zijn op zichzelf niet ongebruikelijk of onrechtmatig, maar kunnen het moeilijker maken "
+   }
+  },
+  {
+   "id": "5d4d6bcea6f872f6",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Mededeling (uitstel antwoord)",
+   "titel": "Uitstel beantwoording vragen van het lid Ten Hove over het bericht «Defensie zet zinnen op scherfvesten van Chinees-Israëlische makelij, en dat schiet Nederlandse industrie in verkeerde keelgat»",
+   "samenvatting_bron": "None. Zaak: None Het bericht ‘Defensie zet zinnen op scherfvesten van Chinees-Israëlische makelij, en dat schiet Nederlandse industrie in verkeerde keelgat’",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z16145&did=2026D40676",
+   "datum": "2026-09-03",
+   "versie": "fea91aa913d94570",
+   "extra": {
+    "zaaknummer": "2026Z16145",
+    "zaaksoort": "Schriftelijke vragen",
+    "documentnummer": "2026D40676"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T15:14:57+00:00"
+  },
+  {
+   "id": "b5d53ae825e13938",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Mededeling (uitstel antwoord)",
+   "titel": "Uitstel beantwoording vragen van de leden Jagtenberg en Belhirch over de aanschaf van Israëlische scherfvesten met Chinese componenten en de aankoop van Chinese 3D printers",
+   "samenvatting_bron": "None. Zaak: None De aanschaf van Israëlische scherfvesten met Chinese componenten en de aankoop van Chinese 3D printers",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z16139&did=2026D40671",
+   "datum": "2026-09-03",
+   "versie": "549f0e900233af7b",
+   "extra": {
+    "zaaknummer": "2026Z16139",
+    "zaaksoort": "Schriftelijke vragen",
+    "documentnummer": "2026D40671"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T15:14:57+00:00"
+  },
+  {
+   "id": "d77986387f206d5e",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Motie",
+   "titel": "Motie van het lid Van Baarle over niet meegaan in het verschaffen van immuniteit voor staatsburgers van de VS of het deprioritiseren van onderzoek naar handelen van de VS",
+   "samenvatting_bron": "Het Internationaal Strafhof. Zaak: Het Internationaal Strafhof Motie van het lid Van Baarle over niet meegaan in het verschaffen van immuniteit voor staatsburgers van de VS of het deprioritiseren van onderzoek naar handelen van de VS",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z21739&did=2026D50000",
+   "datum": "2026-10-08",
+   "versie": "4a62a2b94270771c",
+   "extra": {
+    "zaaknummer": "2026Z21739",
+    "zaaksoort": "Motie",
+    "documentnummer": "2026D50000"
+   },
+   "status": "gewijzigd",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T15:14:57+00:00",
+   "document": {
+    "pagina's": 1,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000ƅP]P%tt\u0001\u0000\u0000\u0006\u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000MN0\u0010\u0012y[%nY v\u0001l\u0012\\u&E#{ҟH\\IFjB&R2<&_ F\u0017 |P֤l Y\u0004FLEJ;6߶\u000eBD&l9\u000fr Z:0Tɭ\u0002/\u0013], \\Z`0ʃMƏiCX9 **eJWM\\WQ\" s\u0002W&;@wX )랰T. TD]:\u0017 BS\u001b_[R49s湒+7筄\u0010^t\u0015-\u0019t\u0004\u0016\u0010 \u0010I\u0007ιa 0~w֢ǅ\u0014` ΗL\"ż>&@c qhAcH! ( Qy3\u001a<=bPÅۡE ?Ac\u0001 )f<1A=ց=`\u000e e Tk@^@ \u001a Ru$s?$u \u000fi͝u\u00079昲\u0014sda,\u00009}\u000508{C\"h\"j39LiD\u00125jP(Лegu\u000fm{!Yվ>-H]Н=$<)xӖm_O,ֆ$G\u00158ogt_49m@ 7)1M\u0006&oIͯ0\u0007FviRI\u0019QF[XS@-\u0011aF\u0014 sC3 Hú \u0012BY^ 2Cxdf 2ŅK{u^B ő8\u0011@*UU!-kH*\u0014]Y\u0000o09۰Ȋl4͒\u0015薉27 %^4Õ~ $\u00116X(ە(2eNSt1%|B X:\u001b\u001449BFDZlD3^@-\\18%tIkL5u wJ\u0018G mӍ\u0010\u001aa+ bhI mi \u0017DDf\u0019)\b{$\u000f*jzg;w\u0005ג \\3EuTyoun\u000fLyߛq.%fz\u0010ϪڑE]pz-\u0012 \u0004) [g|j5RI \u0017! 7\bqo$捿4ush5?S_\u0016K?#*m\\,\u0015iŨ\\SS\u0003`-)ņHsG\u00048%\u0011;ZK+HTTw֨ v5ߌ\u0014n[nl~6)[ rv{tdɥW.:l-mj\u0004*[VZx6E#Ԑm\b ӬO赸[\u0015x~]^۫^Wֆ&fTԵQvs\"\bF♆mt \u0015UE:\\uNySlhVp5j"
+   }
+  },
+  {
+   "id": "4a6040db87c38954",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Brief regering",
+   "titel": "Integrale aanpak industrie",
+   "samenvatting_bron": "None. Zaak: None Integrale aanpak industrie",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z22600&did=2026D51978",
+   "datum": "2026-10-16",
+   "versie": "74dfc8e0a41423c3",
+   "extra": {
+    "zaaknummer": "2026Z22600",
+    "zaaksoort": "Brief regering",
+    "documentnummer": "2026D51978"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T15:14:57+00:00",
+   "document": {
+    "pagina's": 1,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000SP]Kz;\u0001\u0000\u0000T \u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ŖKN@\u0010by\u000e,F#\u0005\u0002i H\u0005*Ik #\u0015l'\u0006 bcɮn[\u000fggw\u00167 ~^ WӲ@/2~5/7'_˳>b.y&BdF\u0007 \u0011=WtH\u000eoJD`d:\"d&T{7԰T\\66UY}uԼ47^IBi Fk$\u0010ōW&[MO^᥈bN7/\u0019\u0015$ mHJ 7>{HFbb \u0012sSq*\u000e?\u0005\u001bÓt\u0014-#\u0003\u0015c\u0010l\u0019nq{4'$:\u00048κ\u0002\u001a bϰFP\u000f\u001a\u000f;Q\u0000Z;p;0\u0002 Мy Kc l))׏ ͫzB<;\u0016\u001bzK|p]${xXOj ?@\u0001\u000eK^\u0001\u0014n\\I |z[ch\u0016\u0001PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u0000eG \u0001\u0000\u0000\u0002\u0000\u0000 \u0000\b\u0002_rels/.rels \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+   }
+  },
+  {
+   "id": "7c93bebb84125318",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Bijlage",
+   "titel": "Toekomstvisie Brandstoffen en Chemiegrondstoffenproductie",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=97fcf6e4-5b14-4177-b5a6-fbf5d50b82e3",
+   "datum": "2026-10-16",
+   "versie": "0106b4dc2b13f5fe",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D51979"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T15:14:57+00:00",
+   "document": {
+    "pagina's": 40,
+    "thema_treffers_tekst": {
+     "Natuurherstel en gebiedsbescherming": [
+      "biodiversiteit"
+     ],
+     "Stikstof": [
+      "ammoniak"
+     ],
+     "Bouwcontext": [
+      "nieuwbouw",
+      "verduurzaming",
+      "infrastructuur",
+      "vergunningverlening"
+     ]
+    },
+    "fragmenten": [
+     {
+      "term": "biodiversiteit",
+      "fragment": "…en productie o.b.v. geïmporteerde ruwe biogrondstoffen Toekomstbeeld 4: Eigen productie bio- en e-fuels en bio-based chemiegrondstof Duurzaamheid Klimaatdoel: - Circulariteit: -- Biodiversiteit: +- Klimaatdoel: +- Circulariteit: - Biodiversiteit: +- Klimaatdoel: ++ Circulariteit: + Biodiversiteit: +- Klimaatdoel: + Circulariteit: ++ Biodiversiteit: + Strategische auto no…"
+     },
+     {
+      "term": "ammoniak",
+      "fragment": "…energiesysteem is volgens HCSS ingericht op efficiëntie in vredestijd, niet op leveringszekerheid tijdens oorlog of crisis. Eerder onderzoek van HCSS geeft aan dat biomethanol en ammoniak niet geschikt zijn voor militair gebruik (overigens ook niet voor civiele luchtvaart). Wel geschikt zijn (geavanceerde) biobrandstoffen en synthetische brandstoffen die bij fossie…"
+     }
+    ],
+    "tekst_begin": "Toekomstvisie Brandstoffen- en chemiegrondstoffen- productie 2 Inhoudsopgave Samenvatting 3 1 Aanleiding en kernvragen 7 2 Wat zijn de opgaven? 9 3 Opbouw hernieuwbare brandstoffen en chemieproductie 12 3a Vier toekomstbeelden opbouw hernieuwbare BCP 12 3b Publieke belangen 14 3c Conclusie opbouw hernieuwbare BCP 21 4 Afbouw en emissiereductie in de fossiele BCP-sector 24 4a Huidige situatie en verwachtingen voor afbouw en emissiereductie 24 4b Vier toekomstbeelden voor de fossiele BCP 26 4c Publieke belangen 27 4d Conclusie afbouw en emissiereductie fossiele BCP 30 5 Conclusie 31 Begrippenlijst 34 Afkortingenlijst 35 Bijlage 1: Basisgegevens Nederlandse raffinagesector 36 Bijlage 2: Hernieuwbare brandstoffen- en chemieproductieroutes voor Nederland 37 Bijlage 3: verwacht aanbod van duurzame biogrondstoffen 39 3 Samenvatting Deze visie beschouwt de toekomst richting 2050 van de brandstoffen- en chemiegrondstoffen-productie in Nederland (hierna BCP), in het licht van EU-brede korte termijnproblemen en lange-termijnopgaven ten aanzien van duurzaamheid, weerbaarheid en verdienvermogen. Om de lange-termijnopgaven te verwezenlijken moet de sector tegelijkertijd investeren in opbouw van "
+   }
+  },
+  {
+   "id": "acdc146b053f85e8",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Bijlage",
+   "titel": "Verduurzamingsplannen en knelpunten bij de Nederlandse industrie 2026 rapportage top 60 interviews RVO",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=e7eca2d5-f353-45fb-827b-2a1e31f5fc33",
+   "datum": "2026-10-16",
+   "versie": "be5f4aa25affc677",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D51980"
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Bouwcontext": [
+     "verduurzaming"
+    ]
+   },
+   "verzameld_op": "2026-10-16T15:14:57+00:00",
+   "document": {
+    "pagina's": 28,
+    "thema_treffers_tekst": {
+     "Natuurinclusief bouwen": [
+      "vergroening"
+     ],
+     "Stikstof": [
+      "stikstof",
+      "Porthos"
+     ],
+     "Bouwcontext": [
+      "verduurzaming",
+      "infrastructuur",
+      "vergunningverlening"
+     ]
+    },
+    "fragmenten": [
+     {
+      "term": "vergroening",
+      "fragment": "…van deze projec- ten als onzek er. • De scope 3-projecten (7,4 Mton) betreffen onder meer waterstofproductie, productie van biobrandstoffen, warmtelevering aan stadsverwarming en vergroening van grondstoffen. Emissiereductie zal voor een deel in het buitenland plaatsvinden. Van deze projecten wordt 8% als onzeker gekwalificeerd. 7 | Verduurzamingsprojecten en knelpunt…"
+     },
+     {
+      "term": "stikstof",
+      "fragment": "…hterd, vergeleken met andere landen binnen en buiten Europa. Bedrijven worden geconfronteerd met hoge energieprijzen, concurrentie uit China en onzekerheden rondom netcongestie en stikstof problematiek. Daarnaast hebben sommige bedrijven bijvoorbeeld te maken met oplopende kosten voor CO2-opslag (CCS), waardoor de eerder toegekende subsidies niet meer toereikend zij…"
+     },
+     {
+      "term": "Porthos",
+      "fragment": "…heid betreffende de infrastructuur (bijvoorbeeld vertraging van Aramis), vertraging met vergunningen, onzekerheid omtrent bioswap. • Van de 5 Mton wordt er 1,6 Mton opgeslagen via Porthos en 0,8 Mton via Northern Lights (beide vanaf 2026). Van de overige projecten (2,6 Mton) is onbekend welke binnenlandse of buitenlandse opslagfaciliteit zal worden gebruikt. • Er z…"
+     }
+    ],
+    "tekst_begin": "Verduurzamingsprojecten en knelpunten bij de Nederlandse industrie 2026 2 | Verduurzamingsprojecten en knelpunten bij de Nederlandse industrie 2026 Opdrachtgever Uitvoering en rapportage Vertegenwoordiging bedrijfsleven Inbreng gegevens 65 bedrijven verspreid over Nederland 3 | Verduurzamingsprojecten en knelpunten bij de Nederlandse industrie 2026 Samenvatting 4 Achtergrond 7 Procesverantwoording 8 Dekkingsgraad geïnterviewde bedrijven in relatie tot de emissie van de gehele sector industrie 9 Deel 1: Algemene vragen 10 Deel 2: Overzicht scope 1 CO2-reductieprojecten 14 Deel 3: Overzicht knelpunten m.b.t. scope 1 CO2-reductieprojecten gesplitst naar projecten voor en na 2030 21 Deel 4: Inzicht in scope 2 en scope 3 CO2-reductieprojecten 26 Inhoud In 2021 startte RVO met het interviewen van 30 grote uitstoters van CO2 binnen de industrie. Sindsdien zijn de interviewrondes een belangrijk instrument voor het ministerie van Economische Zaken en Klimaat (EZK) en R VO om de dialoog te voeren met grote bedrijven over hun verduurzamingsplannen. Dit rapport geeft een overzicht van de verwachte CO2-reductie door investeringen van de Nederlandse industrie. Ook geeft het rapport inzicht in de"
+   }
+  },
+  {
+   "id": "2af306b33e2cad15",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Bijlage",
+   "titel": "TNO 2026 Breaking free from fossil dependence",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=9e43d363-a883-4b7d-9bdd-3515467f4acc",
+   "datum": "2026-10-16",
+   "versie": "93d07655f0bffbeb",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D51981"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T15:14:57+00:00",
+   "document": {
+    "pagina's": 121,
+    "thema_treffers_tekst": {
+     "Natuurherstel en gebiedsbescherming": [
+      "biodiversity",
+      "ecologisch",
+      "ecosysteem",
+      "landschap"
+     ],
+     "Stikstof": [
+      "nitrogen"
+     ],
+     "Bouwcontext": [
+      "infrastructuur",
+      "construction sector"
+     ]
+    },
+    "fragmenten": [
+     {
+      "term": "biodiversity",
+      "fragment": "…, heterogeneous, and structurally limited resources. Biomass availability is constrained by photosynthetic productivity, land use, and the need to preserve ecosystem functions and biodiversity. Importantly, there is no broad scientific or policy consensus on how much biomass can be responsibly mobilized without undermining nature’s vital role in ecosystems21, leading to…"
+     },
+     {
+      "term": "ecologisch",
+      "fragment": "…om olefinen en aromaten te produceren uit niet fossiele bronnen. De chemische industrie in de Trilaterale Chemische Regio bevindt zich op het snijvlak van ingrijpende economische, ecologische en geopolitieke verschuivingen. Haar historische kracht is een sterk geïntegreerd industrieel ecosysteem: procesinstallaties in clusters, grensoverschrijdende ethyleen‑ en propee…"
+     },
+     {
+      "term": "ecosysteem",
+      "fragment": "…Chemische Regio bevindt zich op het snijvlak van ingrijpende economische, ecologische en geopolitieke verschuivingen. Haar historische kracht is een sterk geïntegreerd industrieel ecosysteem: procesinstallaties in clusters, grensoverschrijdende ethyleen‑ en propeenpijpleidingen, gedeelde nutsvoorzieningen en productiemiddelen die grotendeels boekhoudkundig zijn afgesc…"
+     },
+     {
+      "term": "landschap",
+      "fragment": "…euwbare bronnen, en beleid te baseren op levenscyclus‑gebaseerde productprestaties, kan de Trilaterale Chemische Regio concurrerend én relevant blijven in een veranderend mondiaal landschap. Dit vereist consistentie tussen industriestrategie en reguleringsontwerp: het belonen van duurzaamheid op productniveau, het mogelijk maken van toegang tot niet‑fossiele koolstof…"
+     }
+    ],
+    "tekst_begin": " Breaking free from fossil dependence How the Trilateral Chemical Region can deliver sustainable products TNO Public TNO 2026 R10806 30 Juni 2026 Energy & Materials Transition www.tno.nl +31 88 866 23 45 info@tno.nl TNO Public TNO 2026 R10806 – 30 Juni 2026 Breaking free from fossil dependence How the Trilateral Chemical Region can deliver sustainable products TNO Public Author(s) Frank Wubbolts Marcelle Senekal Jonathan Moncada Botero Tonny Manalal Karina Veum (project manager) Classification report TNO Public Title TNO Public Report text TNO Public Appendices TNO Public Number of pages 119 (excl. front and back cover) Number of appendices 5 Sponsor Ministry of EZK/KGG Project name ‘3CVaCS’ – TNO’s value chain and systems perspective Project number 060.58118 TNO Public TNO 2026 R10806 TNO Public All rights reserved No part of this publication may be reproduced and/or published by print, photoprint, microfilm or any other means without the previous written consent of TNO. © 2026 TNO TNO Public TNO 2026 R10806 TNO Public 3/119 Samenvatting De Trilaterale Chemische Regio (Nederland, Vlaanderen, Noordrijn-Westfalen) is een belangrijk centrum voor de Europese chemische industrie. Dit w"
+   }
+  },
+  {
+   "id": "fc764eff5606cbe6",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Bijlage",
+   "titel": "TNO 2026 Barriers to Advanced Biofuels",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=7d2e0637-3c69-45b9-b673-1080430d618e",
+   "datum": "2026-10-16",
+   "versie": "9ccd90fb39051b18",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D51982"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T15:14:57+00:00",
+   "document": {
+    "pagina's": 115,
+    "thema_treffers_tekst": {
+     "Stikstof": [
+      "nitrogen"
+     ]
+    },
+    "fragmenten": [
+     {
+      "term": "nitrogen",
+      "fragment": "…e quality level required by the methanol synthesis step. Syngas cleaning involves the removal of certain impurities, tar removal/cracking, particulate matter removal, and sulphur, nitrogen and chlorine species removal. The syngas is subsequently conditioned through several steps to reach the optimal composition for methanol synthesis, for example by removing CO2 or…"
+     }
+    ],
+    "tekst_begin": " Intern gebruik Barriers to Advanced Biofuels Addressing Policy and Finance Barriers TNO Public TNO 2025 P12633 February 2026 Energy & Materials Transition www.tno.nl +31 88 866 23 45 info@tno.nl TNO Public TNO 2025 P12633 – February 2026 Barriers to Advanced Biofuels Addressing Policy and Finance Barriers TNO Public Author(s) Ayla Uslu Marcelle Senekal Martijn de Wit Tonny Manalal Hein de Wilde Classification report TNO Public Title TNO Public Report text TNO Public Appendices TNO Public Number of pages 114 (excl. front and back cover) Number of appendices 10 Sponsor Ministry of Climate Policy and Green Growth TNO Public TNO 2025 P12633 TNO Public All rights reserved No part of this publication may be reproduced and/or published by print, photoprint, microfilm or any other means without the previous written consent of TNO. © 2026 TNO TNO Public TNO 2025 P12633 TNO Public 3/114 Summary Background and Objectives The Netherlands aims to become climate -neutral by 2050 , with advanced biofuels playing a key role in reducing greenhouse gas (GHG) emissions from hard-to-abate sectors such as aviation and maritime transport. These biofuels, produced from lignocellulosic waste and residues"
+   }
+  },
+  {
+   "id": "2d89f6a7deb7fe0c",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Bijlage",
+   "titel": "Beslisnota bij Kamerbrief over integrale aanpak industrie",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=3c228868-8d22-4397-ae50-2c72c1c8f288",
+   "datum": "2026-10-16",
+   "versie": "ae8cea1644484e9a",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D51983"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T15:14:57+00:00",
+   "document": {
+    "pagina's": 2,
+    "thema_treffers_tekst": {
+     "Bouwcontext": [
+      "verduurzaming",
+      "infrastructuur"
+     ]
+    },
+    "fragmenten": [],
+    "tekst_begin": " Aan de Minister van Klimaat en Groene Groei Aan de Minister van Economische Zaken en Klimaat Aan de Staatssecretaris van Klimaat en Groene Groei TER BESLISSING Kamerbrief integrale aanpak industrie Pagina 1 van 2 Directoraat-generaal Realisatie Groene Groei Directie Verduurzaming Industrie Auteur TER BESLISSING Datum aangemaakt 1 oktober 2026 Kenmerk KGG_DGRGG_VI / 108509434 RT-0000161376 Kopie aan Bijlage(n) 1. Kamerbrief integraal beeld industrie 2. Visie BCP 3. Rapportage Verduurzamingsprojecten en knelpunten in de Nederlandse industrie 2026 4. Rapport Breaking free from fossil dependence 5. Rapport Barriers to Advanced Biofuels Parafenroute Aanleiding In het commissiedebat verduurzaming industrie van april jl. heeft u (MKGG) toegezegd een integrale aanpak van het industriebeleid naar de Kamer te sturen in het najaar. Bijgaand ontvangt u deze Kamerbrief. Geadviseerd besluit U kunt instemmen met verzending van bijgevoegde Kamerbrief inclusief bijlagen. Kernpunten • De brief richt zich met name op de energie-intensieve industrie (EII), maar wel nadrukkelijk binnen de context van het brede industriebeleid. • De hoofdboodschap luidt: op naar een duurzame, toekomstbestendige, concur"
+   }
+  },
+  {
+   "id": "fb5d74c46b1ad5bc",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Brief regering",
+   "titel": "Verslag van de informele Raad Buitenlandse Zaken Ontwikkelingssamenwerking van 9 oktober 2026",
+   "samenvatting_bron": "None. Zaak: None Verslag van de informele Raad Buitenlandse Zaken Ontwikkelingssamenwerking van 9 oktober 2026",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z22601&did=2026D51984",
+   "datum": "2026-10-16",
+   "versie": "6926f8d107fdf5dd",
+   "extra": {
+    "zaaknummer": "2026Z22601",
+    "zaaksoort": "Brief regering",
+    "documentnummer": "2026D51984"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T15:14:57+00:00",
+   "document": {
+    "pagina's": 1,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000P].\u0001\u0000\u0000 \u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ŖMN0\u0010\u0012e\u0012\"!\u0000\u0004\u0017pIk\u0011Ȟp6\u0016 +0I\bU\u0004M쉒x{\\\"Z\u000fʚ,>MGq\u0004FX +`\bu7\u0005D\u0001uױٙI\u000f޺@#7\u0003ENh\u000e {\u0015m[_1\u000fuDq\u0018+6B L)*u~]LVf25}<;l~Xz JigF}G F b+F1UW@\bc6O(b\\\u0019M(zØ5S'5\u0000/^QjV+o9vK *\u0005bJ\u0005Hf\u0017 c\u001bN\u0006Y3ER\u0015z=,i\u001bl0$· pك\u0015\u0015Ǫ\u0011|ApTGCW\u0019x;È\u0017N1\u0007\u0003{Vu_v4zX\u0019Ec\u0001՛\u0000f1is&u\u001bG \\<\u0016յ]Xi'Ɉ~]B r)\u0003T* OMU#sĦ gYTgڇ_\u000f?\u0018\u000f\u0014 REGq \u0005MйX8/c!Mzyｇ\u0005$O\u0018\u000f? ž}\u0013θs&+t!Yg\u0013GNCzʷugL1d7\u001aQIyHk ۱ P\u0010wP>\u001aOJE\"J$\u0012Bub\u0013SxhUd9Z\u00029 \u0017љ:k\u0018\\3)HanR\u0002\\'4^w\u0017r\u0015U .5*˵2bP$94\u0019\u000eAcTL%uY)\u00047 9ɶSkYB\u001a54>YGZ^_Ïbw\u0001PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000P]u'L\u0001\u0000\u0000R\b\u0000\u0000 \u0000\b\u0001word/_rels/document.xml.rels \u0004\u0001(\u0000\u0001\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+   }
+  },
+  {
+   "id": "bfebf3dffae92601",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Bijlage",
+   "titel": "Verslag van de informele Raad Buitenlandse Zaken Ontwikkelingssamenwerking van 9 oktober 2026",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=50e1cd90-1437-4c7b-98ac-edcc56968b47",
+   "datum": "2026-10-16",
+   "versie": "ec5972890519c07b",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D51985"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T15:14:57+00:00",
+   "document": {
+    "pagina's": 1,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000P]=|\u0001\u0000\u0000\u0007\u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000KN0\u0010\u0012y\u0012,\u0010B},-T '}\u0005G L6B46Hǒ1nL D \u0001KJ]Yyz˦CL1[\";Σ\\\u00111s ,Ur\u0017@Z\u0005B\u0005Kg\u0011,Xy\u0001rQ\u0016 8 1҈M\u0015#\u0004C IZn\u0002\u0011\u001a\u0013\u0001\u0014}\u0010윻\u00190 y7I Z} HkM\u0001V\u0004w>m\u0012\u0010\u0001)\u0000\u0014(\u0005􁰳@?h&΂JҖ=\u0004 F;P .ˈΜ J;\u0002PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u0000U~\u0005\u0000\u0000\u0000\u0002\u0000\u0000 \u0000\b\u0002_rels/.rels \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+   }
+  },
+  {
+   "id": "90c7417c660f675f",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Bijlage",
+   "titel": "Beslisnota bij Kamerbrief over verslag van de informele Raad Buitenlandse Zaken Ontwikkelingssamenwerking van 9 oktober 2026",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=d72e9f33-f79f-45bf-b4ea-9433d3e22cfc",
+   "datum": "2026-10-16",
+   "versie": "26380fd472cf4b18",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D51986"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T15:14:57+00:00",
+   "document": {
+    "pagina's": 1,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "m Ministerie van Buitenlandse Zaken TER BESLISSING Datum 15 oktober 2026 Aan Van R Onze referentie B22632450 Via Bescherming persoonlijke levenssfeer Kopie aan Afgestemd met Opgesteld door Bescherming persoonlijke levenssfeer Bijlage n 1 nota Verslag van de informele Raad Buitenlandse Zaken Ontwikkelingssamenwerking van 9 oktober 2026 Aanleiding De bijeenkomst van de informele Raad Buitenlandse Zaken Ontwikkelingssamenwerking van 9 oktober 2026 in Dublin lerland Geadviseerd besluit Uw akkoord met de inhoud van het verslag en ondertekening van de aanbiedingsbrieven aan de Eerste en Tweede Kamer Kernpunten Op vrijdag 9 oktober 2026 vond een informele Raad Buitenlandse Zaken Ontwikkelingssamenwerking plaats in Dublin lerland Voorafgaand aan de Raad vond op donderdag 8 oktober een werkdiner plaats De informele Raad heeft in het teken gestaan van een brede strategische gedachtenwisseling Er is gesproken over o De toekomst van Europese ontwikkelingssamenwerking o Humanitaire hulpverlening In dit verslag wordt tevens ingegaan op toezeggingen gedaan tijdens het CD informele RBZ OS van 1 oktober en het WGO Handel van 5 oktober jl ONGERUBRICEERD GEEN MERKING Pagina 1 van 1 00001 7751711"
+   }
+  },
+  {
+   "id": "0fc9527fb2e01113",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Brief regering",
+   "titel": "Schriftelijke beantwoording op een deel van de vragen, gesteld tijdens het wetgevingsoverleg van 12 oktober 2026, over het pakket Belastingplan 2027",
+   "samenvatting_bron": "None. Zaak: None Schriftelijke beantwoording op een deel van de vragen, gesteld tijdens het wetgevingsoverleg van 12 oktober 2026, over het pakket Belastingplan 2027",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z22602&did=2026D51987",
+   "datum": "2026-10-16",
+   "versie": "919999a8abcf586e",
+   "extra": {
+    "zaaknummer": "2026Z22602",
+    "zaaksoort": "Brief regering",
+    "documentnummer": "2026D51987"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T15:14:57+00:00",
+   "document": {
+    "pagina's": 1,
+    "thema_treffers_tekst": {
+     "Soortenbescherming": [
+      "Wnb"
+     ]
+    },
+    "fragmenten": [
+     {
+      "term": "Wnb",
+      "fragment": "…Kxj@TpjX1,4O{l\u0012M\u000fsoTyQA+\u0000$Oi =LYL(\u0007L}'?Ϥ\"Ɨg%` cx\u0013d(r\u0006s J|~Zw\u000e\bh46\u0014qxOup] \\;{ 4-mI\u0001\u0004:9b.0-|XӧDFB8\u0006l\u0016j `!($ \u0012׈>Hc\u0004^ \u0001&q\u0015utcOڶ͆&\u0006ǇzB3s>\u0013Wxu 0\u0000[4,gfad\"l\u0005\b\u0010ӍU)\u0013J\u0010Anȯ\\m.;h\u0002&]\u0002+7\u0005p>~(Rw!@WNbv\bx\u0003ژBZ\u0005}Le \u0019ߜ\u001bP}!u\u00013\u0002ɽaU\u0007dT\u0003 \u001b{z\u0006\"cK\u0006>\u0013 $Ȯ\u0015\u0000<\u0005g\u000e.??\u000f=] V$w\u001b΀[\u0010(2gv.n-ʃ=>1buf4B\b=[ڸ\u001a\u000eZb?i.A\u0019\u0003wI|lϕ/\u0019yd휕?Vأ\u0014\u0012A~=sQ\u000e\u00100O.k\u0003z\"U\u0019[E:ema<҈\u000e\u0019\u0005V967&j\u0001\u0004\bp`$1u`I\u000e 5e6V-ģ.|, c\\8\u0006 \u0011\u0019M_i8…"
+     }
+    ],
+    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u0000+ 0\u0001\u0000\u0000\b\u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Ė]O0\u0014M\u000fKo +paapǥ?gи~={\u0018,\bCazd=}ߧkn00E\u0010\u0019]Ni;sÒ*Q8 \u0019[Ad`\u0010\u0013Rۘ9<9\u0018\u0011SR%w\b0^71\u0003vt\u0016b\u0007K\u000f6 C.\u0016\u0005&\u000f 4\\x;c]WFeLR_o\u0015\u0001#\u0011\u0017Z :_Z0\\Ĺ\u001a$\u0001\u001b3}̠\u0015$c\u0011I\u0018.(\\\u0018Rmty%\u0007'!FZ%Su\bm{9L! u#DU\u0001\u0004os< s#;L_Zb\b;a\u001bQ[7BU-1l\u001b\u0011 \u0014 *#SDL hc l\u001b!.\u0010P$u.ioRݡ {\b\u000f:O W\u0002l͑g^O\u000e=K\u0019~\u0002\u0000\u0000\u0003\u0000PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u0000U~\u0005\u0000\u0000\u0000\u0002\u0000\u0000 \u0000\b\u0002_rels/.rels \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+   }
+  },
+  {
+   "id": "3d3164ffb9a35634",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Bijlage",
+   "titel": "Beslisnota bij de schriftelijke beantwoording op een deel van de vragen, gesteld tijdens het wetgevingsoverleg van 12 oktober 2026, over het pakket Belastingplan 2027",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=44b66dba-7864-46ba-be4a-36d2d21920ab",
+   "datum": "2026-10-16",
+   "versie": "d92725125aa932ac",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D51988"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T15:14:57+00:00",
+   "document": {
+    "pagina's": 2,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "Ge 2026-10-16 Ministerie van Financiën TER BESLISSING Aan de staatssecretaris van Financiën Nn ota Beantwoording WGO I pakket Belastingplan 2027 Directoraat-Generaal voor Fiscale Zaken Directie Algemene Fiscale Politiek Persoonsgegevens Datum 14 oktober 2026 Notanummer 2026-0000410064 Bijlagen 1. Kamerbrief schriftelijke beant- woording. Aanleiding De vragen uit het eerste wetgevingsoverleg over het pakket Belastingplan 2027 worden deels schriftelijk en deels mondeling beantwoord. Bijgaand ontvangt u de schriftelijke antwoorden. In deze nota wordt uw akkoord voor verzending van de schriftelijke antwoorden gevraagd. Beslispunt 1: Verzending schriftelijke antwoorden aan de Tweede Kamer Gaat u akkoord met de verzending van de schriftelijke beantwoording naar de Tweede Kamer? Bij akkoord kunt u de brief (bijlage 1) ondertekenen. Toelichting: + We hebben als algemene lijn aangehouden dat meer technische vragen schriftelijk en meer politieke vragen mondeling beantwoord worden. Pagina 1 van 2 « Tijdens het wetgevingsoverleg werden enkele vragen van de leden van de fractie van het CDA nagezonden. Deze vragen waren per abuis niet toegevoegd aan het verslag en daarom niet beantwoord. We stel"
+   }
+  },
+  {
+   "id": "609d472305a07cfc",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Brief regering",
+   "titel": "SEO-rapport “zekerheden” naar aanleiding van motie-Flach",
+   "samenvatting_bron": "None. Zaak: None SEO-rapport “zekerheden” naar aanleiding van motie-Flach",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z22603&did=2026D51989",
+   "datum": "2026-10-16",
+   "versie": "6a91172f23453194",
+   "extra": {
+    "zaaknummer": "2026Z22603",
+    "zaaksoort": "Brief regering",
+    "documentnummer": "2026D51989"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T15:14:57+00:00",
+   "document": {
+    "pagina's": 1,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000WP]Zɽ\u0001\u0000\u0000 \u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ŖMn0\u0010\"h\u001bHt(v\u0016m\u0017\u0005 D\u0007r8gG\u0015:l\bHm,t#@y}CJ~~19[<`&Ey^\u0002 ܒ.˫)b.E!r\u000er \"z \u0010ߦ \u001alN =UxG԰T|.\u0016.\u000f]_\u0013(kGE㒄6?@H \u0007MS'Y䍉\u001b^hK/& (, 8n\u0013!):֯ ! Z\u001bq)H̙ٺ80l\u0010o \u0013KOO[\u000fSdzOG\"VLAw fx00 &!\u000f4ņ\u0014D\u0010\u0007a t~zxVL\u0002\u0019]\u0002\u0013\u0000]\u0001͙8\u0005z\u0010y5[RO\u000f F]\u0011\u0013\u000fd7OIPE5\u0012( \u0010_`a\u0004;$\u0002o\u0017m;R?V_PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u0000~Y0\u0001\u0000\u0000p\u0003\u0000\u0000 \u0000\b\u0002_rels/.rels \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+   }
+  },
+  {
+   "id": "285f87ac8213b650",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Bijlage",
+   "titel": "SEO Economisch onderzoek - Zekerheden bij mkb-financiering",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=ab15f932-65fc-46ba-a066-bd8e26b820e0",
+   "datum": "2026-10-16",
+   "versie": "7326141a7617bc5b",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D51990"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T15:14:57+00:00",
+   "document": {
+    "pagina's": 47,
+    "thema_treffers_tekst": {
+     "Soortenbescherming": [
+      "zorgplicht",
+      "gedragscode"
+     ],
+     "Bouwcontext": [
+      "infrastructuur"
+     ]
+    },
+    "fragmenten": [
+     {
+      "term": "zorgplicht",
+      "fragment": "…snorm bij oversecurering Non-bancair voor, banken en keurmerk tegen Nieuwe wettelijke aanspraak (Duitse 110/150%- norm); Nederlands recht kent nu geen recht op vrijgave; deels via zorgplicht en rechter Direct wapen tegen oversecurering, maar de overwaarde komt alleen bij een tweede financier terecht als negative pledge en no further debt niet blokkeren; wel bruikbaar…"
+     },
+     {
+      "term": "gedragscode",
+      "fragment": "…liteitsnorm naar Duits model, standaardisering van vrijgaveprocessen en boeterente worden ook veel genoemd . Zulke afspraken vergen geen wetswijziging en sluiten aan bij bestaande gedragscodes en het keurmerk. Denkbaar zijn een afspraak om zekerheden vrij te geven zodra de vordering is afgelost, medewerking aan rangwisseling wanneer het onderpand voor twee financ iers…"
+     }
+    ],
+    "tekst_begin": " ZEKERHEDEN BIJ MKB- FINANCIERING KNELPUNTEN EN OPLOSSINGSRICHTINGEN VOOR NIET- BANCAIRE FINANCIERS. RAPPORT AUTEURS MICHIEL BIJLSMA, WOUTER ELSENBURG, BEN SCHUIJLING IN OPDRACHT VAN MINISTERIE VAN ECONOMISCHE ZAKEN EN KLIMAAT AMSTERDAM, OKTOBER 2026 ZEKERHEDEN BIJ MKB-FINANCIERING 2 Samenvatting Uit de gesprekken blijkt dat de zekerhedenpraktijk de kredietverlening aan het mkb soms belemmert. Niet-bancaire financiers kunnen als tweede financier soms niet geen onderpand verkrijgen van een mkb -bedrijf, omdat de eerste financier (meestal de huisbank) op vrijwel alles zekerheden heeft. Beperkte transparantie leidt ertoe dat niet altijd duidelijk is of er al zekerheden zijn gevestigd. De huisbank houdt, onder meer via verzamelpandakten, zekerheden op een groot deel van de activa, zonder dat die rechten kenbaar zijn voor derden . Daarnaast binden contractuele bedingen en trage vrijgaveprocessen ondernemers aan hun eerste financier. Dit beeld wordt vooral door crowdfunders en direct lend ers gedeeld. Banken, leasemaatschappijen en factoringbedrijven, samen verreweg het grootste deel van de markt, herkennen het niet : het knelpunt zou zich volgens hen in de praktijk zelden voordoen en ui"
+   }
+  },
+  {
+   "id": "edd51a1cca99823a",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Bijlage",
+   "titel": "Beslisnota bij Kamerbrief over SEO-rapport “zekerheden” naar aanleiding van motie-Flach",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=4b480c23-1e3a-4232-a513-c75e051c449b",
+   "datum": "2026-10-16",
+   "versie": "ec230bbcc8988719",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D51991"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T15:14:57+00:00",
+   "document": {
+    "pagina's": 1,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": " Aan: De Minister van Economische Zaken en Klimaat TER BESLISSING Parafenroute SEO-onderzoek “Zekerheden bij mkb- financiering” n.a.v. motie-Flach Pagina 1 van 1 Directoraat-generaal Bedrijfsleven & Innovatie Auteur TER BESLISSING Datum aangemaakt 29 september 2026 Kenmerk DGBI / 108477127 Kopie aan Bijlage 1. SEO-onderzoek Zekerheden bij mkb-financiering Aanleiding Met deze brief deelt u het SEO -onderzoek “Zekerheden bij mkb-financiering” met de Kamer. Het onderzoek is uitgevoerd naar aanleiding van de motie-Flach.1 Geadviseerd besluit U kunt de Kamerbrief ondertekenen en het onderzoek aan de Kamer aanbieden. Kernpunten • N.a.v. de motie-Flach onderzocht SEO Economisch Onderzoek of en hoe de Nederlandse zekerhedenpraktijk de mkb-kredietverlening belemmert, met aandacht voor non-bancaire financiers. o Zekerhedenpraktijk: Hoe financiers bij kredietverlening omgaan met zekerheden (zoals onderpand). Dit omvat zowel het juridisch kader voor zekerheden als de private afspraken die financiers en kredietnemers op grond van hun contractsvrijheid maken. • De motie vroeg om oplevering in Q2. Het onderzoek is in overleg met de Stichting MKB Financiering verbreed. Deze verbreding had echter a"
+   }
+  },
+  {
+   "id": "8f9c6584af9b581b",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Brief regering",
+   "titel": "Afschrift reactiebrief aan Centraal Dialoog Bonaire ten aanzien van energiesysteem",
+   "samenvatting_bron": "None. Zaak: None Afschrift reactiebrief aan Centraal Dialoog Bonaire ten aanzien van energiesysteem",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z22586&did=2026D51933",
+   "datum": "2026-10-16",
+   "versie": "33a930399ebd0e45",
+   "extra": {
+    "zaaknummer": "2026Z22586",
+    "zaaksoort": "Brief regering",
+    "documentnummer": "2026D51933"
+   },
+   "status": "gewijzigd",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T15:14:57+00:00",
+   "document": {
+    "pagina's": 1,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000fP]Kz;\u0001\u0000\u0000T \u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ŖKN@\u0010by\u000e,F#\u0005\u0002i H\u0005*Ik #\u0015l'\u0006 bcɮn[\u000fggw\u00167 ~^ WӲ@/2~5/7'_˳>b.y&BdF\u0007 \u0011=WtH\u000eoJD`d:\"d&T{7԰T\\66UY}uԼ47^IBi Fk$\u0010ōW&[MO^᥈bN7/\u0019\u0015$ mHJ 7>{HFbb \u0012sSq*\u000e?\u0005\u001bÓt\u0014-#\u0003\u0015c\u0010l\u0019nq{4'$:\u00048κ\u0002\u001a bϰFP\u000f\u001a\u000f;Q\u0000Z;p;0\u0002 Мy Kc l))׏ ͫzB<;\u0016\u001bzK|p]${xXOj ?@\u0001\u000eK^\u0001\u0014n\\I |z[ch\u0016\u0001PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u0000eG \u0001\u0000\u0000\u0002\u0000\u0000 \u0000\b\u0002_rels/.rels \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+   }
+  },
+  {
+   "id": "ac3d0b4ee159e241",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Bijlage",
+   "titel": "Brief aan Centraal Dialoog Bonaire Zorgen Centraal Dialoog Bonaire energietarieven en vo",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=424b408d-24af-4c05-a970-5ed18dcf4daf",
+   "datum": "2026-10-16",
+   "versie": "0881f621587bb6da",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D51934"
+   },
+   "status": "gewijzigd",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T15:14:57+00:00",
+   "document": {
+    "pagina's": 2,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": " "
+   }
+  },
+  {
+   "id": "de6692b554f6a9d1",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Bijlage",
+   "titel": "Brief aan gezaghebber Soliano - Terugkoppeling werkbezoek Bonaire",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=12afc293-97ad-4575-a7ec-7317942391a0",
+   "datum": "2026-10-16",
+   "versie": "d022e1ac2175145e",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D51935"
+   },
+   "status": "gewijzigd",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T15:14:57+00:00",
+   "document": {
+    "pagina's": 2,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": " "
+   }
+  },
+  {
+   "id": "832b31b4d612af23",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Bijlage",
+   "titel": "Beslisnota bij Kamerbrief over afschrift reactiebrief aan Centraal Dialoog Bonaire ten aanzien van energiesysteem",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=d76a2adf-023a-40e0-bd3a-5ac195a88fc6",
+   "datum": "2026-10-16",
+   "versie": "69e83e11730db463",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D51936"
+   },
+   "status": "gewijzigd",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T15:14:57+00:00",
+   "document": {
+    "pagina's": 1,
+    "thema_treffers_tekst": {
+     "Bouwcontext": [
+      "verduurzaming"
+     ]
+    },
+    "fragmenten": [],
+    "tekst_begin": " Aan de Minister van Klimaat en Groene Groei TER BESLISSING Afschrift voor TK-commissie KR reactiebrief aan Centraal Dialoog Bonaire t.a.v. stroomstoringen op Bonaire Pagina 1 van 1 Directoraat-generaal Bedrijfsleven & Innovatie Directie Regio en Ruimtelijke Economie Auteur Datum aangemaakt 13 oktober 2026 Kenmerk EZK_DGBI_RRE / 108671911 Bijlage(n) 3 Ontvangen BPZ Parafenroute Aanleiding Op 6 oktober 2026 is een herinnering voor het verzoek van de vaste commissie voor Koninkrijksrelaties ontvangen om een afschrift te krijgen van de reactie namens MKGG op de brieven van de Centraal Dialoog Bonaire over het energiesysteem op Bonaire. Het initiële verzoek dateert van 16 januari 2026. Met bijgaande Kamerbrief, inclusief verzending van de reactiebrief, voldoet u aan het verzoek van de commissie. Geadviseerd besluit U kunt bijgevoegde Kamerbrief ondertekenen en daarmee instemmen met verzending van het afschrift aan de TK-commissie Koninkrijksrelaties. Kernpunten • In december 2025 zijn er door de Centraal Dialoog Bonaire twee brieven aan MKGG en MEZ gestuurd. In de brieven worden zorgen geuit over de stijging van de energieprijzen per 1 januari 2026, over (de gevolgen van) stroomstoring"
+   }
+  },
+  {
+   "id": "442ace29be720b9a",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Brief regering",
+   "titel": "Voorlopige beoordeling RRF betaalverzoek Finland",
+   "samenvatting_bron": "None. Zaak: None Voorlopige beoordeling RRF betaalverzoek Finland",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z22604&did=2026D51992",
+   "datum": "2026-10-16",
+   "versie": "076cfc24bc37bd25",
+   "extra": {
+    "zaaknummer": "2026Z22604",
+    "zaaksoort": "Brief regering",
+    "documentnummer": "2026D51992"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T15:14:57+00:00",
+   "document": {
+    "pagina's": 1,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u0000+ 0\u0001\u0000\u0000\b\u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Ė]O0\u0014M\u000fKo +paapǥ?gи~={\u0018,\bCazd=}ߧkn00E\u0010\u0019]Ni;sÒ*Q8 \u0019[Ad`\u0010\u0013Rۘ9<9\u0018\u0011SR%w\b0^71\u0003vt\u0016b\u0007K\u000f6 C.\u0016\u0005&\u000f 4\\x;c]WFeLR_o\u0015\u0001#\u0011\u0017Z :_Z0\\Ĺ\u001a$\u0001\u001b3}̠\u0015$c\u0011I\u0018.(\\\u0018Rmty%\u0007'!FZ%Su\bm{9L! u#DU\u0001\u0004os< s#;L_Zb\b;a\u001bQ[7BU-1l\u001b\u0011 \u0014 *#SDL hc l\u001b!.\u0010P$u.ioRݡ {\b\u000f:O W\u0002l͑g^O\u000e=K\u0019~\u0002\u0000\u0000\u0003\u0000PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u0000U~\u0005\u0000\u0000\u0000\u0002\u0000\u0000 \u0000\b\u0002_rels/.rels \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+   }
+  },
+  {
+   "id": "5efc9e91e276c2c2",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Bijlage",
+   "titel": "Voorlopige beoordeling RRF betaalverzoek Finland",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=5aab641b-c91d-4afa-9867-ffc8e16ed91b",
+   "datum": "2026-10-16",
+   "versie": "1bed14544e98b919",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D51993"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T15:14:57+00:00",
+   "document": {
+    "pagina's": 80,
+    "thema_treffers_tekst": {
+     "Stikstof": [
+      "nitrogen"
+     ]
+    },
+    "fragmenten": [
+     {
+      "term": "nitrogen",
+      "fragment": "…t questions aimed at reporting the nutrient recovery rates and the total amount recovered under each project. Coherently with the calls requirements, nutrients recovery focuses on nitrogen and/or phosphorus, which are therefore the nutrients reported in the described Annexes . If several methods have been studied in the project, results are presented separately for…"
+     }
+    ],
+    "tekst_begin": "1 5 October 2026 Positive preliminary assessment of the satisfactory fulfilment of milestones and targets related to the fifth payment request submitted by Finland on 2 June 2026, transmitted to the Economic and Financial Committee by the European Commission Executive summary In accordance with Article 24(2) of Regulation (EU) 2021/241, on 2 June 2026, Finland submitted a request for payment for the fifth instalment of the non -repayable support. The payment request was accompanied by the required management declaration and summary of audits. To support its payment request, Finland provided due justification of the satisfactory fulfilment of the 22 milestones and targets of the fifth instalment of the non -repayable support , a s set out in Section 2.1 of the Council Implementing Decision of 29 October 2021 on the approval of the assessment of the recovery and resilience plan for Finland 1. In its payment re quest, Finland has confirmed that measures related to previously satisfactorily fulfilled milestones and targets have not been reversed. The Commission does not have evidence of the contrary. The milestones and targets positively assessed as part of this payment request demonst"
+   }
+  },
+  {
+   "id": "fea7163a55a1ac21",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Bijlage",
+   "titel": "Beslisnota bij Kamerbrief over voorlopige beoordeling RRF betaalverzoek Finland",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=16758e49-2203-4a0d-9b78-abf7e8a8a150",
+   "datum": "2026-10-16",
+   "versie": "06a648d95299f6e1",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D51994"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T15:14:57+00:00",
+   "document": {
+    "pagina's": 2,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "Ministerie van Financiën Generale Thesaurie Directie Buitenlandse Financiële Betrekkingen TER BESLISSING Aan | 5 E \\oliG Persoonsgegevens ota Voorlopige beoordeling RRF betaalverzoek Finland Datum 6 oktober 2026 Aanleiding Notanummer * ‚ 2026-0000402575 e De Kamer heeft verzocht om direct te worden geïnformeerd over de voorlopige Bieden beoordeling van betaalverzoeken door de Europese Commissie in het kader 1 ° Voorlopige beoordeling van de Recovery and Resilience Facility (RRF), voordat het Economisch en RRF betaalverzoek Finland Financieel Comité (EFC) hierover een advies opstelt, e Hierop hebben uw voorgangers toegezegd de voorlopige beoordeling van betaalverzoeken direct te zullen doorsturen zodra wij die ontvangen. e Met bijgaande brief stuurt u de voorlopige beoordeling het betaalverzoek van Finland door, die op 5 oktoberjl. verscheen. Beslispunten e Indien u kunt instemmen met de inhoud van de brief wordt u verzocht deze te ondertekenen. e Graag uw akkoord voor het openbaar maken van de voorliggende nota, conform de beleidslijn Actieve openbaarmaking nota's. Kernpunten e In de Kamerbrief geeft u aan dat dit een invulling van de toezegging aan de Kamer is en schetst u het tij"
+   }
+  },
+  {
+   "id": "bf7939f286c81a82",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Nota n.a.v. het (nader/tweede nader/enz.) verslag",
+   "titel": "Nota naar aanleiding van het verslag",
+   "samenvatting_bron": "Wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met het verhogen van het aandeel van gas uit hernieuwbare bronnen in de totale leveringen van gas aan afnemers (Wet bijmengverplichting groen gas) . Zaak: Wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met het verhogen van het aandeel van gas uit hernieuwbare bronnen in de totale leveringen van gas aan afnemers (Wet bijmengverplichting groen gas) Wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met het verhogen van het aandeel van gas uit hernieuwbare bronnen in de totale leveringen van gas aan afnemers (Wet bijmengverplichting groen gas)",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z10595&did=2026D40307",
+   "datum": "2026-09-03",
+   "versie": "6b9f867e250cd6bf",
+   "extra": {
+    "zaaknummer": "2026Z10595",
+    "zaaksoort": "Wetgeving",
+    "documentnummer": "2026D40307"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T15:14:57+00:00",
+   "document": {
+    "pagina's": 1,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u0000J~3\u0001\u0000\u0000 \u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Ėj@\u0010 }\u0007ۢPJE.@\u0007Q;DJI4\bsf\u0014x]\u0012όY?\u00004*}MG\u0016x\u0014Zh\u0006<\u001bnoӍ\u0005 Zs/S(\u0005M'q@usn\u0016s^K\u00114Xz\u0005\u00121x]AY\\\u0015Y1\u0013\u0014H|՟p\u0010r[;*``Byr<`ѸLA0\u0011\u000eEAU|eEA\u0001N$Z_Yg$xO3/>)DG9#AjF\b *x@$A\u0017\u0000;F\u0015>;e\b\u0018`\u0017on\u0000:b;7\" \u0014 */+ 2\u001aA~S\u0005κ\u0011\u0002i z9\u0015I\u0013gPCj؂N$r5Q\u000ed5\u0001\u0000\u0000\u0003\u0000PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u0000 \u001a\u0000\u0000\u0000N\u0002\u0000\u0000 \u0000\b\u0002_rels/.rels \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+   }
+  },
+  {
+   "id": "efe30053929a8a75",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Nota van wijziging",
+   "titel": "Nota van wijziging",
+   "samenvatting_bron": "Wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met het verhogen van het aandeel van gas uit hernieuwbare bronnen in de totale leveringen van gas aan afnemers (Wet bijmengverplichting groen gas) . Zaak: Wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met het verhogen van het aandeel van gas uit hernieuwbare bronnen in de totale leveringen van gas aan afnemers (Wet bijmengverplichting groen gas) Nota van wijziging",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z17619&did=2026D40310",
+   "datum": "2026-09-03",
+   "versie": "98c2f09b5d10a975",
+   "extra": {
+    "zaaknummer": "2026Z17619",
+    "zaaksoort": "Nota van wijziging",
+    "documentnummer": "2026D40310"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T15:14:57+00:00",
+   "document": {
+    "pagina's": 1,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000ZP]{\u0001\u0000\u0000L\b\u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ŖKN0\u0010\u0012e\u0012,\u0010B},\u0005\u0012/ ./Sڞ\u0005G L \u0004P\"6??dy0^Z=BLڻa/{y\u0006NxtQ\u0015x4_\u0005H\u00194gᄱ$f`y*}\u0000G\u0015Hq\u0002\u0017\u000f| ;b;\u0004\u0005V hp\u0006 fKĂUyvUQ\\J, T\u0014\u000f* т#٣ Њ5VIʺ'tH\u0007UD]2a#ZBv#^sKmldҋ%i'^)-`B\u0002RuV,\u0015$@{w|@$E\u0017\u0004kv\u0005L:xgNG籋\u0005ZS Alw n\u0001\u0000 @|b u;\u0005I\u000esŨmͤC!bcR\u00174\u0000\u0011uvF#ꆐ  . ;A\u0015 9\u00130\u0017N \u0018&\u0014ӦR뢩<\"Yo0z\u0005PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u00006j=\u0001\u0000\u0000\u0003\u0004\u0000\u0000 \u0000\b\u0002_rels/.rels \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+   }
+  },
+  {
+   "id": "2f9108e8ae099924",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Bijgewerkte tekst",
+   "titel": "36947, bijgewerkt t/m nr. 9 (NvW d.d. 3 september 2026)",
+   "samenvatting_bron": "Wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met het verhogen van het aandeel van gas uit hernieuwbare bronnen in de totale leveringen van gas aan afnemers (Wet bijmengverplichting groen gas) . Zaak: Wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met het verhogen van het aandeel van gas uit hernieuwbare bronnen in de totale leveringen van gas aan afnemers (Wet bijmengverplichting groen gas) Wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met het verhogen van het aandeel van gas uit hernieuwbare bronnen in de totale leveringen van gas aan afnemers (Wet bijmengverplichting groen gas)",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z10595&did=2026D40953",
+   "datum": "2026-09-03",
+   "versie": "272cd5cf3cfa7396",
+   "extra": {
+    "zaaknummer": "2026Z10595",
+    "zaaksoort": "Wetgeving",
+    "documentnummer": "2026D40953"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T15:14:57+00:00"
+  },
+  {
+   "id": "9140075652296d8e",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Eindtekst",
+   "titel": "36947, eindtekst",
+   "samenvatting_bron": "Wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met het verhogen van het aandeel van gas uit hernieuwbare bronnen in de totale leveringen van gas aan afnemers (Wet bijmengverplichting groen gas) . Zaak: Wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met het verhogen van het aandeel van gas uit hernieuwbare bronnen in de totale leveringen van gas aan afnemers (Wet bijmengverplichting groen gas) Wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met het verhogen van het aandeel van gas uit hernieuwbare bronnen in de totale leveringen van gas aan afnemers (Wet bijmengverplichting groen gas)",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z10595&did=2026D50515",
+   "datum": "2026-10-06",
+   "versie": "68176ebd7d3e841e",
+   "extra": {
+    "zaaknummer": "2026Z10595",
+    "zaaksoort": "Wetgeving",
+    "documentnummer": "2026D50515"
+   },
+   "status": "gewijzigd",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T15:14:57+00:00"
+  },
+  {
+   "id": "5980bef67e18c4fe",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Mededeling (uitstel antwoord)",
+   "titel": "Uitstel beantwoording vragen van het lid Al Biyati over het rapport \"Achter de façade – Strategische normalisering vanuit de rechts-extremistische beweging\"",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=450ea4e8-1fa0-4a0d-a677-c80628e8454b",
+   "datum": "2026-10-16",
+   "versie": "9fc8a5f23b22a77c",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D51996"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T15:14:57+00:00"
+  },
+  {
+   "id": "1618f8862384cc51",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Verslag van een wetgevingsoverleg",
+   "titel": "Verslag van een wetgevingsoverleg, gehouden op 7 september 2026, over de wet bijmengverplichting groen gas",
+   "samenvatting_bron": "Wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met het verhogen van het aandeel van gas uit hernieuwbare bronnen in de totale leveringen van gas aan afnemers (Wet bijmengverplichting groen gas) . Zaak: Wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met het verhogen van het aandeel van gas uit hernieuwbare bronnen in de totale leveringen van gas aan afnemers (Wet bijmengverplichting groen gas) Wijziging van de Wet milieubeheer en de Wet op de economische delicten in verband met het verhogen van het aandeel van gas uit hernieuwbare bronnen in de totale leveringen van gas aan afnemers (Wet bijmengverplichting groen gas)",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z10595&did=2026D51995",
+   "datum": "2026-10-16",
+   "versie": "ef950705c6babb04",
+   "extra": {
+    "zaaknummer": "2026Z10595",
+    "zaaksoort": "Wetgeving",
+    "documentnummer": "2026D51995"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T15:14:57+00:00",
+   "document": {
+    "pagina's": 1,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u0000[\u0001\u0000\u0000\u0007\u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000j@\u0010 }\u0007Z'\u0017\u0014˹h\u0012\b$\u0003wG;{,YXn\u0004sη;;Ym0ڻB\\SS^nU?o\"K\u0004N\u000e $n?͞\u0001Sj Q\u0011R&U+\u0016q%\u0003\u0017XNJ 5 b>\u0012ֆ nI\"$ mcU\b\b rIГ:/ MN&\u001a\u0005D G-Wk\u001b,kq +LܚXݑ]\u000eK $lx7 o8`Dy\u001a4󳟐@\u0003|%\u0007W3 18W\u0006xeW4G(\u000f/\u0000\u0000\u0000\u0003\u0000PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u0000eG \u0001\u0000\u0000\u0002\u0000\u0000 \u0000\b\u0002_rels/.rels \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+   }
+  },
+  {
+   "id": "f46d95a23717c289",
+   "bron": "Provincie Limburg",
+   "categorie": "Provincies",
+   "methode": "web",
+   "soort": "",
+   "titel": "Kabinet komt over de brug met geld voor Limburgse infrastructuur",
+   "samenvatting_bron": "",
+   "url": "https://www.limburg.nl/actueel/nieuws/nieuwsberichten/2026/oktober/kabinet-komt-brug-geld-limburgse-infra/",
+   "datum": null,
+   "versie": "d74f4fb1080829a4",
+   "extra": {},
+   "status": "nieuw",
+   "thema_treffers": {
+    "Bouwcontext": [
+     "infrastructuur"
+    ]
+   },
+   "verzameld_op": "2026-10-16T15:14:57+00:00"
+  },
+  {
+   "id": "1681c9166857cf6d",
+   "bron": "Provincie Noord-Holland",
+   "categorie": "Provincies",
+   "methode": "web",
+   "soort": "",
+   "titel": "Lees meer over Van het gemaal IJmuiden tot de Houtribdijk: Rijk investeert in onderhoud en uitbreiding Noord-Hollandse infrastructuur",
+   "samenvatting_bron": "",
+   "url": "https://www.noord-holland.nl/Actueel/Archief/2026/Oktober_2026/Van_het_gemaal_IJmuiden_tot_de_Houtribdijk_Rijk_investeert_in_onderhoud_en_uitbreiding_Noord_Hollandse_infrastructuur",
+   "datum": null,
+   "versie": "3001b0b11c3b3f2d",
+   "extra": {},
+   "status": "nieuw",
+   "thema_treffers": {
+    "Bouwcontext": [
+     "infrastructuur"
+    ]
+   },
+   "verzameld_op": "2026-10-16T15:14:57+00:00"
+  },
+  {
+   "id": "8192d09330b40107",
+   "bron": "Binnenlands Bestuur",
+   "categorie": "Media",
+   "methode": "web",
+   "soort": "",
+   "titel": "ruimte en milieu Ministerie van Infrastructuur heeft gewikt en gewogen Het kabinet plant tot en met 2041 een bedrag van 18 miljard euro in voor onderhoud en aanleg van infrastructuur. Er zal onder andere 2,3 miljard euro gaan naar een nieuw gemaal bij IJmuiden, 1 miljard naar de A27 bij Houten-Hooipolder, 400 miljoen euro extra naar het Zuidasdok-project bij Amsterdam, 123 miljoen euro naar nieuwe",
+   "samenvatting_bron": "",
+   "url": "https://www.binnenlandsbestuur.nl/ruimte-en-milieu/ministerie-van-infrastructuur-heeft-gewikt-en-gewogen",
+   "datum": null,
+   "versie": "debe495ef344309e",
+   "extra": {},
+   "status": "nieuw",
+   "thema_treffers": {
+    "Bouwcontext": [
+     "infrastructuur"
+    ]
+   },
+   "verzameld_op": "2026-10-16T15:14:57+00:00"
   }
  ]
 }
