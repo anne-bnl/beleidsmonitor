@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-10-16T13:49:49+00:00",
+ "bijgewerkt": "2026-10-16T14:04:56+00:00",
  "items": [
   {
    "id": "9cb75086ff9a87d9",
@@ -204585,26 +204585,6 @@
    "verzameld_op": "2026-10-16T11:28:03+00:00"
   },
   {
-   "id": "b89ed0a7702b6707",
-   "bron": "Binnenlands Bestuur",
-   "categorie": "Media",
-   "methode": "web",
-   "soort": "",
-   "titel": "ruimte en milieu Plannen uitgelekt: miljarden voor bestaande infrastructuur, nieuwe projecten op lange baan",
-   "samenvatting_bron": "",
-   "url": "https://www.binnenlandsbestuur.nl/ruimte-en-milieu/miljarden-voor-bestaande-infrastructuur",
-   "datum": null,
-   "versie": "f952f9977d9e27cf",
-   "extra": {},
-   "status": "nieuw",
-   "thema_treffers": {
-    "Bouwcontext": [
-     "infrastructuur"
-    ]
-   },
-   "verzameld_op": "2026-10-16T11:28:03+00:00"
-  },
-  {
    "id": "2095bf0539838d5f",
    "bron": "Cobouw",
    "categorie": "Bouwmedia",
@@ -206659,46 +206639,6 @@
     "zaaknummer": null,
     "zaaksoort": null,
     "documentnummer": "2026D40633"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-16T13:10:11+00:00"
-  },
-  {
-   "id": "701f177b881eb72c",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Stenogram",
-   "titel": "Landbouw- en Visserijraad (informeel) d.d. 6-8 september 2026",
-   "samenvatting_bron": "None. Zaak:",
-   "url": "https://www.tweedekamer.nl/downloads/document?id=353a01a8-9359-4986-94b2-46e71357e7e7",
-   "datum": "2026-09-03",
-   "versie": "53b1167022d1a3f9",
-   "extra": {
-    "zaaknummer": null,
-    "zaaksoort": null,
-    "documentnummer": "2026D51828"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-16T13:10:11+00:00"
-  },
-  {
-   "id": "0cb8f14af4da7d87",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Stenogram",
-   "titel": "Stemmingen moties Landbouw- en Visserijraad (informeel) d.d. 6-8 september 2026",
-   "samenvatting_bron": "None. Zaak:",
-   "url": "https://www.tweedekamer.nl/downloads/document?id=cb55035e-c7fa-455d-a1d8-d1f44fe3dcf4",
-   "datum": "2026-09-03",
-   "versie": "32f29106e2eb912b",
-   "extra": {
-    "zaaknummer": null,
-    "zaaksoort": null,
-    "documentnummer": "2026D51829"
    },
    "status": "nieuw",
    "thema_treffers": {},
@@ -210903,58 +210843,6 @@
    }
   },
   {
-   "id": "a9cd19e079db36d9",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Brief regering",
-   "titel": "Beslisnota bij Kamerbrief over beleidsvoorstellen uit de Ontwerpbegroting van BZK 2027 (Hoofdstuk XII) met CW 3.1. kaders",
-   "samenvatting_bron": "None. Zaak: None Beleidsvoorstellen uit de Ontwerpbegroting van BZK 2027 (Hoofdstuk XII) met CW 3.1. kaders",
-   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z22580&did=2026D51915",
-   "datum": "2026-10-16",
-   "versie": "a7b3a15951cfebbd",
-   "extra": {
-    "zaaknummer": "2026Z22580",
-    "zaaksoort": "Brief regering",
-    "documentnummer": "2026D51915"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-16T13:49:49+00:00",
-   "document": {
-    "pagina's": 1,
-    "thema_treffers_tekst": {},
-    "fragmenten": [],
-    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0000\u0000\b\u0000]~P]MPuZ\u0001\u0000\u0000_ \u0000\u0000\u0013\u0000\u0000\u0000[Content_Types].xmlŖKN0\u0010\u0012e\u0012EB\b\u0000P^'Eq6\u0016 +0Ih@\u0015mRJMxXxy\u0002Vp\u0018\u000f\u0000\u0014\\t\u0012\u0016>nt\u001ap\u0001*7 3 !e \u0001D[I=ڔ\u0018^i d4\u0018\u0010\u0007#_z\u0003$}:֨4 2j\u0012 YuB4Ԙ\\0NVE_P1* 㮰PDU:\u0013>Y!S럨65[m AA|\u0017P$\u0001z\u0014\u0012%1D xd\u0012\u0017M}4i Tw\\kI\u0003|K7 f N\"P F/2H\u001a.\u0014ڃ P\u001aw\u0005\u0018]\u001a\u0000 []?\bu;E\u00062\bqW \u00064 \u0006+*\u0012,j np=60;\u000e ~q j|o\u0006߈ʦ=s ˗ގyCB\u0013PK\u0003\u0004\u0014\u0000\u0000\u0000\b\u0000nP]+ fW\u0000\u0000\u0000O\u0002\u0000\u0000 \u0000\u0000\u0000_rels/.relsJ\u0003A _eȽm\u0005\u0011\u0017/\u0002a&;L\u001bAZz/ !!k 9YXv=\u0018N.F {\u0019\u0016\u000f`P4\u0016`YL#m \u0019efa\u0012)M upʐk$ѰXȽȸ{?\u0019p4;o\u0012-< SvI.աd#\\=tX0xYg:|\u0010NT\u0012''ytC*J_ # y\u0012B+_\u00178\u0019#l>\u0001PK\u0003\u0004\u0014\u0000\u0000\u0000\b\u0000]~P]u\u00187\u0000\u0000ۆ\u0001\u0000\u0011\u0000\u0000\u0000word/document.xml}rV`\b\u000e\"\u000e\u0000.;3R.{/\u0013 qI! \u0002 \u0000zr/KULDVtG?$d9\u0002\u0004I\u0010\")RIՋSrq_t,Lo^)ma\u0012W|ty%e \u0007~WX_r:H)s \u0006w7n|2\u001bް0Md2\u0019!KR\u0015ɐe\u0019|Ƿ~J 7uтԿq@rx9u1 ƥ}Y Hc X\u000f \u0011\u0015y\u0013!77L0^|xl%h\u0017\u0003\u0003 a\u0000\u00190m\u0012\u0018fel\u0000\u0005\u0012d \u0007nߦ|\u0018-|hobqc]3 8IA\u0004;\u00060$\u0001\u0018Hg\u0012_Ņ-Y,\u0006n6K2\u0019$UN[.. \u0013;^\u0003 >\u0007\u0003.f4\u000f.K.)뙟o\u00012n8Ư\u00025%\u0015~+\u0016!:CX,e\u0019Ko٫Y\u0007ʔI\u0017o@ SiI~,9a 8\u0002\u000e[?a10~$\u000eI\u001a~d6L%| 5\u001b)\u0011\u0019KpnC tϤA\u001a\u0011.;\u000e֛0U\u0002b\u0014l~Ǥ$IE\u0011(x\u0018 \u00116p\u000e?v,\u0001jd$3 GOϥ d}1\u0019.\u0007`' Kg\u00036N \u0010CRe^\\nd\u0014d|\u0003\u0002\u0019]O\u0013k|3X\u0007N- a0!X\u0013NX$im\u0013\u0007bL\u0014<$$ \u0006( eƾ'%\u0005 \u0003 k,OIx_uB S6\u001a8aa׀\u0002~) rxٷ~4GlnK!l\b\u0016 |mi\u000eДK \u0010\u0007) VNn\u000e< \u0003Y\u0018.Ͽ\u0016\u0000@)MFKӶ؝ \u000fdb5 N\u0007I7hʶ\u001aey#\u0004}^U_`c; w ;+ز-\u001b#V^|mӕQq\u0016rb\u0010\u0007x\b\u0000mp|\u0003~bUV\u0012KRVzZb=; 8{ϩ\u0001'\u0013\b{/~xl7\u000e@\u0004$\u0005Pw \u000ejÉ\u0000S_6M)b'ajZ7\u0002 N^\u000e\u0000Ȋ1=m]矀ݽ\u0006JͫY \u0018FL*OFQ񠼸6(.\u001a\u0005M\u0010lsjշ xh ?F%nkTOʺ< Cܘ\u0019\u0005 g)+r\u0003\u0002뻞g\u0001'防L\u0010]Yxg#\u0007{ ɩJ0GI`﴾rf 0Y^pz{,y`vO=t.a rJ:*E5I\u000erkg\u0007iAoO9\\\u0001\\X\u0011zۓQ^b \u000f WUn uz⩊ѵ/i)L"
-   }
-  },
-  {
-   "id": "1ef6b1438f30b81c",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Bijlage",
-   "titel": "Beslisnota bij Kamerbrief Beleidskeuzes toegelicht (CW 3.1) Ontwerpbegroting BZK 2027",
-   "samenvatting_bron": "None. Zaak:",
-   "url": "https://www.tweedekamer.nl/downloads/document?id=f8cc0f2a-31a2-409d-88d1-d45559a0163e",
-   "datum": "2026-10-16",
-   "versie": "15d8cddb4766bdd3",
-   "extra": {
-    "zaaknummer": null,
-    "zaaksoort": null,
-    "documentnummer": "2026D51916"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-16T13:49:49+00:00",
-   "document": {
-    "pagina's": 2,
-    "thema_treffers_tekst": {},
-    "fragmenten": [],
-    "tekst_begin": " Aanleiding Voorstellen met nieuwe financiële gevolgen voor de rijksbegroting (€ 20 mln. of meer in enig jaar) worden onderbouwd op basis van de rijksbrede kaders “Beleidskeuzes Uitgelegd (Comptabiliteitswet (CW) 3.1)”. In de Ontwerpbegroting 2027 van Begrotingshoofdstuk VII (BZK) zijn twee voorstellen opgenomen waarvoor dit geldt. In bijgevoegde Kamerbrief is per voorstel het kader “Beleidskeuzes Uitgelegd (CW 3.1)” opgenomen. MinBZK gaat over het Gemeenschapsfonds en u beiden gaat over maatschappelijke weerbaarheid (continuïteit lokale overheid en digitale weerbaarheid). Geadviseerd besluit Beiden: u wordt gevraagd akkoord te gaan met de kamerbrief en verzending aan de Tweede Kamer. Kern In de Kamerbrief is het CW 3.1 kader opgenomen van twee voorstellen met nieuwe financiële gevolgen van € 20 miljoen of meer in enig jaar. 1. Gemeenschapsfonds (minBZK) Het Rijk werkt aan de oprichting van een Gemeenschapsfonds om de kracht van de samenleving en gemeenschappen te versterken. Hiervoor is in het Coalitieakkoord in totaal € 200 mln. beschikbaar gesteld. Deze middelen zijn toen op de Aanvullende Post geplaatst. Voor 2027 is in de ontwerpbegroting 2027 € 30 mln. aan de BZK-begroting to"
-   }
-  },
-  {
    "id": "ae96eb4eb673b188",
    "bron": "Rijksoverheid nieuws (alle ministeries)",
    "categorie": "Rijk",
@@ -211113,6 +211001,1192 @@
     ]
    },
    "verzameld_op": "2026-10-16T13:49:49+00:00"
+  },
+  {
+   "id": "a9cd19e079db36d9",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Brief regering",
+   "titel": "Beleidsvoorstellen uit de Ontwerpbegroting van BZK 2027 (Hoofdstuk XII) met CW 3.1. kaders",
+   "samenvatting_bron": "None. Zaak: None Beleidsvoorstellen uit de Ontwerpbegroting van BZK 2027 (Hoofdstuk XII) met CW 3.1. kaders",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z22580&did=2026D51915",
+   "datum": "2026-10-16",
+   "versie": "1bbc3313246efe0d",
+   "extra": {
+    "zaaknummer": "2026Z22580",
+    "zaaksoort": "Brief regering",
+    "documentnummer": "2026D51915"
+   },
+   "status": "gewijzigd",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T14:04:56+00:00",
+   "document": {
+    "pagina's": 1,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0000\u0000\b\u0000]~P]MPuZ\u0001\u0000\u0000_ \u0000\u0000\u0013\u0000\u0000\u0000[Content_Types].xmlŖKN0\u0010\u0012e\u0012EB\b\u0000P^'Eq6\u0016 +0Ih@\u0015mRJMxXxy\u0002Vp\u0018\u000f\u0000\u0014\\t\u0012\u0016>nt\u001ap\u0001*7 3 !e \u0001D[I=ڔ\u0018^i d4\u0018\u0010\u0007#_z\u0003$}:֨4 2j\u0012 YuB4Ԙ\\0NVE_P1* 㮰PDU:\u0013>Y!S럨65[m AA|\u0017P$\u0001z\u0014\u0012%1D xd\u0012\u0017M}4i Tw\\kI\u0003|K7 f N\"P F/2H\u001a.\u0014ڃ P\u001aw\u0005\u0018]\u001a\u0000 []?\bu;E\u00062\bqW \u00064 \u0006+*\u0012,j np=60;\u000e ~q j|o\u0006߈ʦ=s ˗ގyCB\u0013PK\u0003\u0004\u0014\u0000\u0000\u0000\b\u0000nP]+ fW\u0000\u0000\u0000O\u0002\u0000\u0000 \u0000\u0000\u0000_rels/.relsJ\u0003A _eȽm\u0005\u0011\u0017/\u0002a&;L\u001bAZz/ !!k 9YXv=\u0018N.F {\u0019\u0016\u000f`P4\u0016`YL#m \u0019efa\u0012)M upʐk$ѰXȽȸ{?\u0019p4;o\u0012-< SvI.աd#\\=tX0xYg:|\u0010NT\u0012''ytC*J_ # y\u0012B+_\u00178\u0019#l>\u0001PK\u0003\u0004\u0014\u0000\u0000\u0000\b\u0000]~P]u\u00187\u0000\u0000ۆ\u0001\u0000\u0011\u0000\u0000\u0000word/document.xml}rV`\b\u000e\"\u000e\u0000.;3R.{/\u0013 qI! \u0002 \u0000zr/KULDVtG?$d9\u0002\u0004I\u0010\")RIՋSrq_t,Lo^)ma\u0012W|ty%e \u0007~WX_r:H)s \u0006w7n|2\u001bް0Md2\u0019!KR\u0015ɐe\u0019|Ƿ~J 7uтԿq@rx9u1 ƥ}Y Hc X\u000f \u0011\u0015y\u0013!77L0^|xl%h\u0017\u0003\u0003 a\u0000\u00190m\u0012\u0018fel\u0000\u0005\u0012d \u0007nߦ|\u0018-|hobqc]3 8IA\u0004;\u00060$\u0001\u0018Hg\u0012_Ņ-Y,\u0006n6K2\u0019$UN[.. \u0013;^\u0003 >\u0007\u0003.f4\u000f.K.)뙟o\u00012n8Ư\u00025%\u0015~+\u0016!:CX,e\u0019Ko٫Y\u0007ʔI\u0017o@ SiI~,9a 8\u0002\u000e[?a10~$\u000eI\u001a~d6L%| 5\u001b)\u0011\u0019KpnC tϤA\u001a\u0011.;\u000e֛0U\u0002b\u0014l~Ǥ$IE\u0011(x\u0018 \u00116p\u000e?v,\u0001jd$3 GOϥ d}1\u0019.\u0007`' Kg\u00036N \u0010CRe^\\nd\u0014d|\u0003\u0002\u0019]O\u0013k|3X\u0007N- a0!X\u0013NX$im\u0013\u0007bL\u0014<$$ \u0006( eƾ'%\u0005 \u0003 k,OIx_uB S6\u001a8aa׀\u0002~) rxٷ~4GlnK!l\b\u0016 |mi\u000eДK \u0010\u0007) VNn\u000e< \u0003Y\u0018.Ͽ\u0016\u0000@)MFKӶ؝ \u000fdb5 N\u0007I7hʶ\u001aey#\u0004}^U_`c; w ;+ز-\u001b#V^|mӕQq\u0016rb\u0010\u0007x\b\u0000mp|\u0003~bUV\u0012KRVzZb=; 8{ϩ\u0001'\u0013\b{/~xl7\u000e@\u0004$\u0005Pw \u000ejÉ\u0000S_6M)b'ajZ7\u0002 N^\u000e\u0000Ȋ1=m]矀ݽ\u0006JͫY \u0018FL*OFQ񠼸6(.\u001a\u0005M\u0010lsjշ xh ?F%nkTOʺ< Cܘ\u0019\u0005 g)+r\u0003\u0002뻞g\u0001'防L\u0010]Yxg#\u0007{ ɩJ0GI`﴾rf 0Y^pz{,y`vO=t.a rJ:*E5I\u000erkg\u0007iAoO9\\\u0001\\X\u0011zۓQ^b \u000f WUn uz⩊ѵ/i)L"
+   }
+  },
+  {
+   "id": "1ef6b1438f30b81c",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Bijlage",
+   "titel": "Beslisnota bij Kamerbrief over beleidsvoorstellen uit de Ontwerpbegroting van BZK 2027 (Hoofdstuk XII) met CW 3.1. kaders",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=f8cc0f2a-31a2-409d-88d1-d45559a0163e",
+   "datum": "2026-10-16",
+   "versie": "548c1bebcc12f88a",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D51916"
+   },
+   "status": "gewijzigd",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T14:04:56+00:00",
+   "document": {
+    "pagina's": 2,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": " Aanleiding Voorstellen met nieuwe financiële gevolgen voor de rijksbegroting (€ 20 mln. of meer in enig jaar) worden onderbouwd op basis van de rijksbrede kaders “Beleidskeuzes Uitgelegd (Comptabiliteitswet (CW) 3.1)”. In de Ontwerpbegroting 2027 van Begrotingshoofdstuk VII (BZK) zijn twee voorstellen opgenomen waarvoor dit geldt. In bijgevoegde Kamerbrief is per voorstel het kader “Beleidskeuzes Uitgelegd (CW 3.1)” opgenomen. MinBZK gaat over het Gemeenschapsfonds en u beiden gaat over maatschappelijke weerbaarheid (continuïteit lokale overheid en digitale weerbaarheid). Geadviseerd besluit Beiden: u wordt gevraagd akkoord te gaan met de kamerbrief en verzending aan de Tweede Kamer. Kern In de Kamerbrief is het CW 3.1 kader opgenomen van twee voorstellen met nieuwe financiële gevolgen van € 20 miljoen of meer in enig jaar. 1. Gemeenschapsfonds (minBZK) Het Rijk werkt aan de oprichting van een Gemeenschapsfonds om de kracht van de samenleving en gemeenschappen te versterken. Hiervoor is in het Coalitieakkoord in totaal € 200 mln. beschikbaar gesteld. Deze middelen zijn toen op de Aanvullende Post geplaatst. Voor 2027 is in de ontwerpbegroting 2027 € 30 mln. aan de BZK-begroting to"
+   }
+  },
+  {
+   "id": "cfdd6719a9147515",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Brief regering",
+   "titel": "Reactie op openstaande moties en verzoeken ten aanzien van het dossier Solvinity",
+   "samenvatting_bron": "None. Zaak: None Reactie op openstaande moties en verzoeken ten aanzien van het dossier Solvinity",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z22581&did=2026D51917",
+   "datum": "2026-10-16",
+   "versie": "681d099a70459c88",
+   "extra": {
+    "zaaknummer": "2026Z22581",
+    "zaaksoort": "Brief regering",
+    "documentnummer": "2026D51917"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T14:04:56+00:00",
+   "document": {
+    "pagina's": 1,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0000\u0000\b\u0000e~P]MPuZ\u0001\u0000\u0000_ \u0000\u0000\u0013\u0000\u0000\u0000[Content_Types].xmlŖKN0\u0010\u0012e\u0012EB\b\u0000P^'Eq6\u0016 +0Ih@\u0015mRJMxXxy\u0002Vp\u0018\u000f\u0000\u0014\\t\u0012\u0016>nt\u001ap\u0001*7 3 !e \u0001D[I=ڔ\u0018^i d4\u0018\u0010\u0007#_z\u0003$}:֨4 2j\u0012 YuB4Ԙ\\0NVE_P1* 㮰PDU:\u0013>Y!S럨65[m AA|\u0017P$\u0001z\u0014\u0012%1D xd\u0012\u0017M}4i Tw\\kI\u0003|K7 f N\"P F/2H\u001a.\u0014ڃ P\u001aw\u0005\u0018]\u001a\u0000 []?\bu;E\u00062\bqW \u00064 \u0006+*\u0012,j np=60;\u000e ~q j|o\u0006߈ʦ=s ˗ގyCB\u0013PK\u0003\u0004\u0014\u0000\u0000\u0000\b\u0000VcP]+ fW\u0000\u0000\u0000O\u0002\u0000\u0000 \u0000\u0000\u0000_rels/.relsJ\u0003A _eȽm\u0005\u0011\u0017/\u0002a&;L\u001bAZz/ !!k 9YXv=\u0018N.F {\u0019\u0016\u000f`P4\u0016`YL#m \u0019efa\u0012)M upʐk$ѰXȽȸ{?\u0019p4;o\u0012-< SvI.աd#\\=tX0xYg:|\u0010NT\u0012''ytC*J_ # y\u0012B+_\u00178\u0019#l>\u0001PK\u0003\u0004\u0014\u0000\u0000\u0000\b\u0000e~P]\u000f%\u0000\u0000\u0006\u0000\u0000\u0011\u0000\u0000\u0000word/document.xml}ێHÁ 祿ӵD.=.6`\u0005%fXH$W=o,\u0005a>bd#\"\u0014%{g\u0007㪒`dd#26\u000f\u0015K ~P E\u000f\u000f\u0017ʾ̋|/#3K/O7~ \u0006B/ s EFn\u001bY'8\u000eߖ #\u0019\"w\u0011\u0004Q\u0005gV)q)\u0011W9\u0000u\u0017\u0000\u0003\u0000\bR10'\u0018\u00129\u001b\u0004'= \u0015@\u0002L V^\u0004_Iq .# |89ɟWoak Hl |NJ /e/iݝ?oТ}0?\u0018\u0004|W\u0013=\u000e(\bC\\4~fa1\u0003ܒ;ߺ۔f &\u0003<\u0013p\u0012Vf\u001b5+\u0005\u0001\u000f \u0006\u0002'\"}#{yC^nd$޲x./-D4.FDވݥ+J\\S\u001b3\u0017F\u0012BFoHQ;)6mhX9p\u000eTli\u001b\u001bͦ Lh6Uz=k\u0011'6,y3B>\u0004\u0011`f\u001b\u0004QĢ\u0010\"Kf,S1h\u0003?U] M[ꮖpR}Rv}= 5\u00072=\u0004(`SߊEBv=k%TqVT \u0015Ԫ%) i'\u0013Jq\u0004L(jȲ%\u0001e\b!;|(\u001bZ\u0007\u001b:)a M(\u0012d>P\u000e~%@5cG9\u0013s\u0006aE$\u0002 / R{s7z8jɦ-K\u0007\u0017/C6a0\u0006ģ _ׇ\u0015d+,y} E uCMѯ\u0001sS\u0016~U~L\u0002EV{#GN\u0014\u001bZ&\u000fX\u0017$ETXkʮ\u0003PK5 u\u001ad][pL\u0019up5hd,R\u0018\u0010Os}v\u0017\u0014Gڕ\u0004 hSθKۆ Kgإj_ :wvF\u0018aL\u00021%\brGs ]wdt\bgɉ^r:j \u000fS.3q\u000eܤބ:2FaA\u0002ŏ \u0002\u000e `'\b\u001aAOT\u000e B!^/ \u00000fSݸ))q'(yj| x~$G\u0016Y2\u0017;C \u0002#j\u0010J\u0019nMq\u0002 RV+\u0019{ٳwO\u0003T\u0016%9wdP\u0010l ~\u001bG)n- N{9^fŗ\u000f7旾Y!3Ox\u0004>:8S\u0014qFOK@{d;^711a~\u0014ȭC\u0005,\\-]_2}-S$\u0015+!}t mi{C\u001b ʳP^W h 늶ʲ:hE[1ܡ3w P6mh+\u0014ϲx\u0012 ~\u0001\u0001\u0015$\u000f\u0007V'7Rd%ړ3-)/d\u0011y"
+   }
+  },
+  {
+   "id": "8cbcfc8009d54574",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Bijlage",
+   "titel": "Beslisnota bij Kamerbrief met reactie op openstaande moties en verzoeken ten aanzien van het dossier Solvinity",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=d5cdb7c7-d8e0-4d87-9cc3-2e8dc368ea1d",
+   "datum": "2026-10-16",
+   "versie": "2f41a86d492e74f1",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D51918"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T14:04:56+00:00",
+   "document": {
+    "pagina's": 3,
+    "thema_treffers_tekst": {
+     "Bouwcontext": [
+      "infrastructuur"
+     ]
+    },
+    "fragmenten": [],
+    "tekst_begin": " Aanleiding In relatie tot de Solvinity casus zijn aan de staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties, in meerdere debatten door verschillende leden van de Tweede Kamer, vragen gesteld over uiteenlopende onderwerpen. Middels deze brief wordt gehoor gegeven aan de beantwoording van deze vragen. Het betreffen vragen en moties, gedaan tijdens de volgende momenten: • Plenair debat over het bericht dat het cloudbedrijf dat DigiD en MijnOverheid host, is verkocht aan een buitenlandse techgigant en over cloudmigraties naar Amerikaanse techgiganten van 11 februari jl. • Regeling van Werkzaamheden van 26 mei jl. Het concept van deze brief heeft de ambtelijke lijn bij EZK doorlopen en de staatssecretaris van EZK heeft opmerkingen gemaakt, die al zijn verwerkt. De afspraak is dat de staatssecretaris van EZK de brief nog voorgelegd krijgt voordat verzending aan de Tweede Kamer plaatsvindt. Geadviseerd besluit U wordt geadviseerd in te stemmen met bijgaande brief en deze te versturen aan de Tweede Kamer. Kern In deze brief behandelt u vragen en moties over de volgende zaken: • Bescherming Melder Logius Aangegeven wordt dat voor meldingen die onder de Wet bescherming klokkenlu"
+   }
+  },
+  {
+   "id": "ecfd2bff5a42584a",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Brief regering",
+   "titel": "Bestuursakkoord aanvullende vormen van huisvesting en contouren wetsvoorstel",
+   "samenvatting_bron": "None. Zaak: None Bestuursakkoord aanvullende vormen van huisvesting en contouren wetsvoorstel",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z22582&did=2026D51919",
+   "datum": "2026-10-16",
+   "versie": "8522e235e68bc6d0",
+   "extra": {
+    "zaaknummer": "2026Z22582",
+    "zaaksoort": "Brief regering",
+    "documentnummer": "2026D51919"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T14:04:56+00:00",
+   "document": {
+    "pagina's": 1,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0000\u0000\b\u0000~P]E!$\u0001\u0000\u0000 \u0000\u0000\u0013\u0000\u0000\u0000[Content_Types].xmlŖMn0\u0010\"h[HtR ( Y]\u0014h\u0000\u0005H&? WP#\u0000qqD\u0002֚\u001acޭʓzQ\u0016WڵrGM<_/\u0002[]Z[^$h!>J\u0005؊\u0000\u0007(N\u00173!#tTQ(ˏP閗ڲUmwQID\u000e4\u0010\u0012ک\u0003 feד:7p,+ M VX\\B &_@\u0001\u0002\u001b4]2Mo\u001a-\u0006R}dG\"/\u000fI焤챳,1\u000fA\u0002[b$\u0013å꩑7>*1\u0000tٍ%]kM=T,h7\u000ep\u0015l?l~dB x*k\u0003}]\u0000ǭi zbf9\bT\u0019\u000e\u0000f8\bS\u0001n0# \u0014 qӸw@wf\u0013`|l3op}?0 HD\u0003PK\u0003\u0004\u0014\u0000\u0000\u0000\b\u0000zP]\u0010\u0001\u0000\u0000\u0002\u0000\u0000 \u0000\u0000\u0000_rels/.relsJ\u00031\u0010\u0006W w]ED˂/0&$\u0013oo*-=xdǐjĔ-VΫZ C+ b\u0015 p\u0019ɣY[92\u0007 C(b(7=%\u000f\\iP\u0011\u0007 Sofδ2uf.65V#'8(ɐ\u0006V~Q2UB4 c0hf1Ķ`*R bHt~#\u0001\u0006)eЮ[(Sϕ&O4#v- ?5\u0007覔_ = Hj7PK\u0003\u0004\u0014\u0000\u0000\u0000\b\u0000~P]=tݍr\u0017\u0000\u0000\u0000\u0000\u0011\u0000\u0000\u0000word/document.xml]rH:q{a\u001b} |೻c 鸍(P\u00012B(\u0015_\u001a \u0018&$Y%\u0000\u0005\u0018O߬g\"BHYeV/ӈ̙HC 0 \u0001\u000fxb&W J\u001a\u000741{w\u0017iq\u0013lbI@w\u0017c)Z- ٔ `i t44'7xF-\u0014\u0012tj1\u0015=h\u0007\u0013qkZ}u\u0004!xB&e Lʫᬶ\b9G\u0011YmQrpJz4b2KpBe\u000fP~W*\"H\\-炷d;Dq-v\u0012 \u0016 xd{c|Çn̊e8 -\u0015#y?EӨ \u0011$\u0014,sLXS`YQs\u0002&\u0001\u0007\u0010XY7\b&Ө\u0005:aS\u0001\u000fIOW6HF{gɊZx\u001adE+=֗1M%L\u00077 G1\u0017 \u0001@\b\u0001A;#D\"Y\u0004, 酪& g X:ÇI Ӕ$dNc ܘ\u0001S?şs_A^pˤ H;\u0015\u0015Hud&m: \u0010\u0012\b8]8@q\u0007`F9kj&[w0Q\u000f/ \u0000 \u0019M| L\u0013&\u0018\u000f0=\\S fAO<\u0005 <\u000e\u0014\\ȣRQT潚\\[ݟTg|J\u0000 sR4]~M6Ti-\u00136h5*[]\u001a)ڭ}ivv}\u000frΑNг\u001a Zh؈&N~Hw '\u00140 &B`+c\u0016GB+\u0018Y3x\";jS +% <{yƝ5SwliVg[ ޭ7{ 1{\u0014 \u0000al\u0004Y\u0006tOCGT>\u0015DbF{|_O٬n}\u000eOф\u00177G=|&h XJx*A&\\ &! pl ( eiF\u000fM V3}?Zu?\u0013mj\u0002,HBsoPB`ȱ\u0005cgς|pW:\u001a\u001b\"\u0017NIT혞0\u0016= K\u0014\u0000rȦ\biI|#.\"-nl(d8~F .׬C\u00145m R^ײv\u0005\u0000K((s+XIcZöܥ^6ܳ8\u0016sTa \u0014CӶ-~4DAvQȬ:MZ9~bD,ٽP\u000f0\u001a7ZE1= ̧F\u0017U?aJ\u0015WG Zk\u0013R&t>?u\u0007!\u0017?x䂐W{| %!vL(e(iɶ\u0004ܰ+\u0003s 6;8(\u0010<\u00140^Ӵ[\u00158\u0017Bh 7\\k\\\b Oϋk6\"UT e7?\u0014(#]L. ,(|$;F>\bE\u0018\by3nc0{e΢b~[`U"
+   }
+  },
+  {
+   "id": "473b7422db8a9446",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Bijlage",
+   "titel": "Bestuursakkoord aanvullende vormen van huisvesting",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=be8cfb0f-d6d6-43d1-9ed5-84796c1aec57",
+   "datum": "2026-10-16",
+   "versie": "4e5b7779c294fabf",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D51920"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T14:04:56+00:00",
+   "document": {
+    "pagina's": 36,
+    "thema_treffers_tekst": {
+     "Stikstof": [
+      "stikstof"
+     ],
+     "Bouwcontext": [
+      "woningbouw",
+      "woningbouwproject",
+      "nieuwbouw",
+      "verduurzaming",
+      "onderhoud van",
+      "infrastructuur",
+      "omgevingswet"
+     ]
+    },
+    "fragmenten": [
+     {
+      "term": "stikstof",
+      "fragment": "…) benutten. Daarbij moet de schaarse ruimte in Nederland verdeeld worden over onder meer infrastructuur, industrie, natuur, maatschappelijke functies en wonen. Ook netcongestie en stikstofuitstoot beperken de beschikbaarheid van geschikte locaties.14 Het vinden van geschikte locaties vormt dan ook voor veel gemeenten een uitdaging. In de praktijk zijn bijvoorbeeld n…"
+     }
+    ],
+    "tekst_begin": "Beeldmerk Ministerie van Volkshuisvesting en Ruimtelijke Ordening Beeldmerk Ministerie van Volkshuisvesting en Ruimtelijke Ordening Beeldmerk Ministerie van Volkshuisvesting en Ruimtelijke Ordening Akkoord Aanvullende Vormen van Huisvesting Samen werken aan passende huisvesting voor een brede groep woningzoekenden 2 Colofon Het Akkoord Aanvullende Vormen van Huisvesting is gesloten door: Ministerie van Binnenlandse Zaken en Koninkrijksrelaties Ministerie van Justitie en Veiligheid VNG: Vereniging van Nederlandse Gemeenten IPO: Interprovinciaal Overleg Aedes: vereniging van woningcorporaties 3 Inhoud 1 Inleiding 4 Aanleiding 4 2 Maatschappelijke opgave en gezamenlijke ambitie 5 2.1 Maatschappelijke opgave 5 2.2 Gezamenlijke ambities 5 2.3 Definitie aanvullende vormen van huisvesting 6 2.4 Aanvullende vormen van huisvesting als onderdeel van een wooncarrière 6 2.5 Te huisvesten doelgroepen 7 3 Gezamenlijke afspraken 8 3.1 Bekende en nieuwe knelpunten aanpakken 8 3.1.1 Locaties: nieuwe vinden en (beter) benutten van bestaande 8 3.1.2 Financiële haalbaarheid van projecten 9 3.1.3 Wet- en regelgeving 9 3.1.4 Capaciteit en kennis 10 3.1.5 Nieuwe of lokaal specifieke knelpunten 10 3.2 Lan"
+   }
+  },
+  {
+   "id": "ae55e114b167e345",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Bijlage",
+   "titel": "Adviesrapport Versnellingsaanpak Huisvesting Statushouders",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=7918970d-adca-4eca-960f-0c3e33503a9f",
+   "datum": "2026-10-16",
+   "versie": "ae5a74d4bcc8e3d8",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D51921"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T14:04:56+00:00",
+   "document": {
+    "pagina's": 33,
+    "thema_treffers_tekst": {
+     "Stikstof": [
+      "stikstof"
+     ],
+     "Bouwcontext": [
+      "woningbouw",
+      "nieuwbouw",
+      "sloop",
+      "bouwproductie",
+      "gebiedsontwikkeling"
+     ]
+    },
+    "fragmenten": [
+     {
+      "term": "stikstof",
+      "fragment": "…nen waar mogelijk worden omgezet naar structurele wooncapaciteit. • ‘Provinciaal mogelijk maken’: Vaak leiden verschillende ruimtelijke claims tot impasses. Het verminderen van de stikstofdepositie en van de afhankelijkheid van arbeidsmigranten bijvoorbeeld door innovatie kan de ruimtelijke mogelijkheden voor huisvesting van aandachtsgroepen juist bespoedigen: agrar…"
+     }
+    ],
+    "tekst_begin": "Van stoelendans naar woonkans Hoe het huisvestingstekort voor statushouders, andere aandachtsgroepen en iedereen die een betaalbare woning zoekt, structureel te verkleinen In opdracht van: Ministerie van Binnenlandse Zaken en Koninkrijksrelaties Ministerie van Justitie en Veiligheid Aedes, Vereniging van Nederlandse woningcorporaties Vereniging Nederlandse Gemeenten (VNG) Van stoelendans naar woonkans Hoe het huisvestingstekort voor statushouders, andere aandachtsgroepen en iedereen die een betaalbare woning zoekt, structureel te verkleinen Adriaan Visser Ger Peeters Martijn Balster 3 | Van stoelendans naar woonkans Voorwoord Het is niet voor het eerst dat wordt nagedacht over hoe de huisvesting van statushouders op orde te krijgen. En als het thema zo gepolitiseerd blijft, is het wellicht ook niet voor het laatst. En toch: 5.000 huizen vinden voor ca. 9.000 mensen die nu in de opvang verblijven, zou in een land met een volkshuisvestelijke traditie en met 342 gemeenten toch ook niet heel ingewikkeld moeten zijn, zou je zeggen. Dat zijn slechts 15 huizen per gemeente! Veel ingewikkelder is het dat het aandeel sociale huurwoningen op het totaal aantal woningen al jaren afneemt en de "
+   }
+  },
+  {
+   "id": "eefc22c6bc7bcf35",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Bijlage",
+   "titel": "Beslisnota bij Kamerbrief over bestuursakkoord aanvullende vormen van huisvesting en contouren wetsvoorstel",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=94e71be7-e32d-459e-87b9-95a9c1d041c2",
+   "datum": "2026-10-16",
+   "versie": "48e510d0d2583851",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D51922"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T14:04:56+00:00",
+   "document": {
+    "pagina's": 2,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": " Aanleiding Middels een brief op 3 juli 2026, is de Kamer geïnformeerd over de bouwstenen voor bestuurlijke afspraken met de Vereniging van Nederlandse Gemeenten (VNG), Vereniging van woningcorporaties (Aedes) en het Interprovinciaal Overleg (IPO) over het realiseren van aanvullende vormen van huisvesting. Afgelopen zomer zijn deze bouwstenen verder uitgewerkt tot een bestuurlijk akkoord. Parallel aan de totstandkoming van het bestuurlijk akkoord is het Aanjaagteam Versnellingsaanpak Huisvesting Statushouders het land ingegaan om in gesprek te gaan met gemeenten en andere betrokken partijen. Het aanjaagteam heeft daarbij een onafhankelijke rapportage opgeleverd. Doel is om de Kamer hierover te informeren middels een brief en om het bestuurlijk akkoord en de rapportage van het Aanjaagteam als bijlage mee te sturen. Geadviseerd besluit U wordt geadviseerd akkoord te gaan met: • De verzending van de stukken aan de Tweede Kamer na een positief besluit van de Ministerraad. Kern • De stukken bestaan uit de Tweede Kamerbrief, het bestuurlijk akkoord aanvullende vormen van huisvesting en de rapportage van het Aanjaagteam. • Het akkoord is inhoudelijk eerder interdepartementaal afgestemd en"
+   }
+  },
+  {
+   "id": "fc2c7579ae05eab1",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Brief regering",
+   "titel": "Reactie op het verzoek van het lid Ergin, gedaan tijdens de Regeling van Werkzaamheden van 6 oktober 2026, over het bericht \"UWV meet met twee maten bij fraude: bi-culturele achternaam krijgt hogere boetes\"",
+   "samenvatting_bron": "None. Zaak: None Reactie op het verzoek van het lid Ergin, gedaan tijdens de Regeling van Werkzaamheden van 6 oktober 2026, over het bericht \"UWV meet met twee maten bij fraude: bi-culturele achternaam krijgt hogere boetes\"",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z22583&did=2026D51923",
+   "datum": "2026-10-16",
+   "versie": "91213ffde9106cb6",
+   "extra": {
+    "zaaknummer": "2026Z22583",
+    "zaaksoort": "Brief regering",
+    "documentnummer": "2026D51923"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T14:04:56+00:00",
+   "document": {
+    "pagina's": 1,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000~P].\u0001\u0000\u0000 \u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ŖMN0\u0010\u0012e\u0012\"!\u0000\u0004\u0017pIk\u0011Ȟp6\u0016 +0I\bU\u0004M쉒x{\\\"Z\u000fʚ,>MGq\u0004FX +`\bu7\u0005D\u0001uױٙI\u000f޺@#7\u0003ENh\u000e \u000e\u001a,7\\ 7^ oti3 UJA\u001a\u00002 mscaL6j`\u0001)ϛ\bUdJ[*D\u0000as\\ʴ q)k7J Z\u0006'\u0013`\u0015,6p\u0006鶆)w\u0003\u0010sOWCZd P& \u0004{\u001bҙnCN!O\u0006!)=%@bgt >긕r\\e \u00118FE\" b: \"EH\bVBHa0 ?nb~\u0001Ieqa Mjsvt\u0014\u0016{j- Bd[uHoEE\u0005~\u0000i*[3ޒ6p\u000eҤ}DשMΨcᚕ%)2xMGwnM\u0000\u0013^\u0000* Wbp\u0001NͤS2<㈚Y\u0011 m\u0001Υ]A_4}\u000f+\u000fM\u000eur\u0017<_ \"F5\u0005B!\u0016DMTǄ\u000e\u0005|I|\u0016jЮ N7 :cVd\u0019\u0019f4\u0018Ri>O\"\u0001̬\u0007X\u0011\u0002Ŋb\u0015XvfHZ\u001bTLUB\u0019ی\u0014 8כL\u001bUiÙQ>D| 3ʸ\u0018eNيPkK6zFzl;3 3 954~XQsl\u0001\u0010\u00194,SYw\u0006RL %C<$y4Xi4Xw3 Y q&x7~gG&9׌s\u0000[siw{\u0014°ƿR\u0014\u0006a@ds\"W!\u00004\u000e4Ј\u0016O1A\u0003+0x`?)\u000f=LR ~hM2\u0015\u0003 \u00050sX\bl9\u0006 I\u0015\u0005 YLp7 ΢\u0010 \u0007]l͆4J]cnæKv8^z ;nbП'9\u0013Kt\u000eKS/K#3{)}kdm\u001aS6~\u0003pfX5,2#\u0007ZdEC#T\u0006~\b,\u0003Կ\u0011\u0015\u0000vm/`n 1\u0012 #Eh\u0017Om% A\u0010KH\u00194 !\u0004rȳH,\u0014 FE$ \u001aC\u0011S d͒%F\u0010fU(\u0003@\u0018Bb!# Ra ㍝p %s\u0006jjC\u0002T;A\" IR<"
+   }
+  },
+  {
+   "id": "8123ceba885f1914",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Bijlage",
+   "titel": "Beslisnota bij Kamerbrief met reactie op het verzoek van het lid Ergin, gedaan tijdens de Regeling van Werkzaamheden van 6 oktober 2026, over het bericht \"UWV meet met twee maten bij fraude: bi-culturele achternaam krijgt hogere boetes\"",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=ba836c29-f67a-44a0-814f-bb5b41e0ad8f",
+   "datum": "2026-10-16",
+   "versie": "6910709c4336dfe6",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D51924"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T14:04:56+00:00",
+   "document": {
+    "pagina's": 2,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": " Overzicht van opmerkingen bij Beslisnota - Oplegnota kamerbrief Pagina: 1 Nummer: 1 Auteur: Vijlbrief, J.A. Onderwerp: Free Hand Datum: Onbepaald"
+   }
+  },
+  {
+   "id": "0cb8f14af4da7d87",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Stenogram",
+   "titel": "Stemmingen moties Landbouw- en Visserijraad (informeel) d.d. 6-8 september 2026",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=cb55035e-c7fa-455d-a1d8-d1f44fe3dcf4",
+   "datum": "2026-09-03",
+   "versie": "854b2ea9341bb947",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D51829"
+   },
+   "status": "gewijzigd",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T14:04:56+00:00"
+  },
+  {
+   "id": "701f177b881eb72c",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Stenogram",
+   "titel": "Landbouw- en Visserijraad (informeel) d.d. 6-8 september 2026",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=353a01a8-9359-4986-94b2-46e71357e7e7",
+   "datum": "2026-09-03",
+   "versie": "365b0aa67523077d",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D51828"
+   },
+   "status": "gewijzigd",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T14:04:56+00:00"
+  },
+  {
+   "id": "5d0882e80c33709c",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Antwoord schriftelijke vragen",
+   "titel": "Antwoord op vragen van het lid Den Hollander over het ontbreken van maatschappelijke organisaties onder het Convenant toekomstbestendige gewasbescherming",
+   "samenvatting_bron": "None. Zaak: None Het ontbreken van maatschappelijke organisaties onder het Convenant toekomstbestendige gewasbescherming",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z16686&did=2026D40582",
+   "datum": "2026-09-02",
+   "versie": "1cc4d56c9e33b509",
+   "extra": {
+    "zaaknummer": "2026Z16686",
+    "zaaksoort": "Schriftelijke vragen",
+    "documentnummer": "2026D40582"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T14:04:56+00:00",
+   "document": {
+    "pagina's": 4,
+    "thema_treffers_tekst": {
+     "Natuurherstel en gebiedsbescherming": [
+      "natura 2000",
+      "landschap"
+     ],
+     "Waterkwaliteit": [
+      "waterkwaliteit"
+     ]
+    },
+    "fragmenten": [
+     {
+      "term": "natura 2000",
+      "fragment": "…deelconvenanten, het vaststellen van concrete en afrekenbare reductiedoelen, de oprichting van de gegevensautoriteit en de ontwikkeling van landelijke kaders voor waterkwaliteit, Natura 2000-gebieden en gevoelige functies? Antwoord 13 Het ontbreken van de maatschappelijke ondertekenaars doet niets af aan de gestelde deadlines in het hoofdlijnenconvenant. Deze afsprake…"
+     },
+     {
+      "term": "landschap",
+      "fragment": "…om het convenant te ondertekenen en welke hebben uiteindelijk van ondertekening afgezien? Antwoord 2 Dat klopt. De betrokken maatschappelijke organisaties waren Natuur & Milieu en LandschappenNL. Beide partijen waren uitgenodigd het convenant te ondertekenen en hebben hiervan afgezien. Ik betreur het dat beide partijen na het voorleggen van het onderhandelingsakkoord…"
+     },
+     {
+      "term": "waterkwaliteit",
+      "fragment": "…hen dankbaar ben. Vraag 6 Deelt u de mening dat het onverantwoord zou zijn om het convenant stop te zetten, nu daarmee ook afspraken over reductie van milieubelasting, innovatie, waterkwaliteit, natuur, leefomgeving en een landelijk uniform beleidskader zouden worden vertraagd of verloren zouden gaan? Antwoord 6 Ik zie geen aanleiding om het convenantstraject stop te zet…"
+     }
+    ],
+    "tekst_begin": "Tweede Kamer der Staten-Generaal 2 Vergaderjaar 2025–2026 Aanhangsel van de Handelingen Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden 2920 Vragen van het lid Den Hollander (VVD) aan de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur over het ontbreken van maatschappelijke organisaties onder het Convenant toekomstbestendige gewasbescherming (ingezonden 5 augustus 2026). Antwoord van Staatssecretaris Erkens (Landbouw, Visserij, Voedselzekerheid en Natuur) (ontvangen 2 september 2026). Vraag 1 Bent u bekend met de brief die AARDige Buren, Urgenda, Parkinson Vereniging, Vogelbescherming Nederland, Caring Doctors, Greenpeace, Pesticide Action Network Netherlands, Meten=Weten, De Vlinderstichting en de Bijenstichting aan u hebben gestuurd, waarin wordt gesteld dat het Convenant toekomstbestendige gewasbescherming zou zijn «geklapt»? Antwoord 1 Ik ben bekend met deze brief. Vraag 2 Klopt het dat het hoofdlijnenconvenant is ondertekend door drie overheden, vier sectorpartijen en één ketenpartij, maar door geen enkele maatschappe- lijke organisatie? Welke maatschappelijke organisaties waren betrokken bij de totstandkoming van h"
+   }
+  },
+  {
+   "id": "d25cc2355d4596bf",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Bijlage",
+   "titel": "Beslisnota bij antwoord op vragen van het lid Den Hollander over het ontbreken van maatschappelijke organisaties onder het Convenant toekomstbestendige gewasbescherming",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=f6648803-d4e9-4d8e-84c7-a67f6eff463d",
+   "datum": "2026-09-02",
+   "versie": "1effa8fd58f5c76b",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D40583"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T14:04:56+00:00",
+   "document": {
+    "pagina's": 1,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": " Aan de Staatssecretaris van Landbouw, Visserij, Voedselzekerheid en Natuur TER BESLISSING Beslisnota Kamervragen VVD over convenant toekomstbestendige gewasbescherming Pagina 1 van 1 Directoraat-generaal Agro Auteur TER BESLISSING Datum aangemaakt 25 augustus 2026 Kenmerk DGA / 108113110 Kopie aan Bijlage(n) Parafenroute Aanleiding Op 5 augustus jl. zijn door het lid den Hollander (VVD) Kamervragen gesteld over het ontbreken van maatschappelijke organisaties onder het Convenant toekomstbestendige gewasbescherming. Geadviseerd besluit U kunt de brief aan de Tweede Kamer met de beantwoording ondertekenen. Kernpunten • De Kamervragen gaan over het in de zomer afgesloten hoofdlijnenconvenant toekomstbestendige gewasbescherming en het ontbreken van maatschappelijke organisaties onder de tekenende partijen. "
+   }
+  },
+  {
+   "id": "86bce8c43145fd94",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Antwoord schriftelijke vragen",
+   "titel": "Antwoord op vragen van de leden Van Brenk en Struijs over berichtgeving omtrent de gevolgen van hitte voor ouderen",
+   "samenvatting_bron": "None. Zaak: None Berichtgeving omtrent de gevolgen van hitte voor ouderen",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z16609&did=2026D40575",
+   "datum": "2026-09-02",
+   "versie": "0d210333e7936b47",
+   "extra": {
+    "zaaknummer": "2026Z16609",
+    "zaaksoort": "Schriftelijke vragen",
+    "documentnummer": "2026D40575"
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Klimaatadaptatie": [
+     "hitte"
+    ]
+   },
+   "verzameld_op": "2026-10-16T14:04:56+00:00",
+   "document": {
+    "pagina's": 3,
+    "thema_treffers_tekst": {
+     "Klimaatadaptatie": [
+      "klimaatadaptatie",
+      "hittestress",
+      "hitte"
+     ],
+     "Bouwcontext": [
+      "woningbouw",
+      "verduurzaming",
+      "isolatie"
+     ]
+    },
+    "fragmenten": [
+     {
+      "term": "klimaatadaptatie",
+      "fragment": "…de gevolgen van een hittegolf voor thuiswonende ouderen te verbeteren, zowel voor de ouderen zelf als voor hun omgeving? Antwoord 8 In de Hitte aanpak 2025 en de ontwerp-Nationale Klimaatadaptatiestrategie ’26 beschrijft het kabinet welke maatregelen het wil nemen om in samenwer- king met onder andere gemeenten, woningbouwverenigingen en GGD’en, Nederland beter voor te bere…"
+     },
+     {
+      "term": "hittestress",
+      "fragment": "…met Aedes stevig in op het isoleren van corporatiewoningen en is doorlopend met Aedes in gesprek over de verduurzamingsopgave. Daarbij is ook volop aandacht voor het tegengaan van hittestress. Vraag 10 Hebben gemeenten inzicht in waar kwetsbare groepen wonen, zodat zij hen in geval van hittegolven koele plekken kunnen aanbieden? Antwoord 10 Het is mij niet bekend in ho…"
+     },
+     {
+      "term": "hitte",
+      "fragment": "…e regering gegeven antwoorden 2919 Vragen van de leden Van Brenk en Struijs (beiden 50PLUS) aan de Minister van Langdurige Zorg en Sport over berichtgeving omtrent de gevolgen van hitte voor ouderen (ingezonden 31 juli 2026). Antwoord van Minister Sterk (Langdurige Zorg, Jeugd en Sport) (ontvangen 2 september 2026). Zie ook Aanhangsel Handelingen, vergaderjaar 20…"
+     }
+    ],
+    "tekst_begin": "Tweede Kamer der Staten-Generaal 2 Vergaderjaar 2025–2026 Aanhangsel van de Handelingen Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden 2919 Vragen van de leden Van Brenk en Struijs (beiden 50PLUS) aan de Minister van Langdurige Zorg en Sport over berichtgeving omtrent de gevolgen van hitte voor ouderen (ingezonden 31 juli 2026). Antwoord van Minister Sterk (Langdurige Zorg, Jeugd en Sport) (ontvangen 2 september 2026). Zie ook Aanhangsel Handelingen, vergaderjaar 2025–2026, nr. 2722. Vraag 1 Bent u bekend met bovenstaande berichtgeving? 1 Antwoord 1 Ja. Vraag 2 Hoe oordeelt u over het bericht dat tijdens de vorige hittegolf ca. 900 mensen meer overleden dan gemiddeld, met name 80-plussers? Antwoord 2 Het overlijden van mensen gaat allereerst om het verdriet voor familie en vrienden, ongeacht de oorzaak. Bij eerdere hittegolven hebben we gezien dat er sprake is van oversterfte. Dat benadrukt dat hitte een reëel gezondheidsri- sico is en dat aandacht voor dit onderwerp gerechtvaardigd is. Vraag 3 Hoe oordeelt u over de stelling dat er een wettelijke verplichting op het plaatsen van airco’s in verpleeghuizen zou moeten komen, omdat de meest k"
+   }
+  },
+  {
+   "id": "e5c842dac45e877c",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Bijlage",
+   "titel": "Beslisnota bij antwoord op vragen van de leden Van Brenk en Struijs over berichtgeving omtrent de gevolgen van hitte voor ouderen",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=e9b102b6-c372-4c30-9c45-278c40076625",
+   "datum": "2026-09-02",
+   "versie": "66b17f353b39d592",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D40576"
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Klimaatadaptatie": [
+     "hitte"
+    ]
+   },
+   "verzameld_op": "2026-10-16T14:04:56+00:00",
+   "document": {
+    "pagina's": 2,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": " "
+   }
+  },
+  {
+   "id": "f1941f5f9407ea5d",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Brief regering",
+   "titel": "Actualisatie van het Landelijk Crisisplan Hoogwater en Overstroming (LCP-HO)",
+   "samenvatting_bron": "None. Zaak: None Actualisatie van het Landelijk Crisisplan Hoogwater en Overstroming (LCP-HO)",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z22584&did=2026D51926",
+   "datum": "2026-10-16",
+   "versie": "d074f1422d9e96ab",
+   "extra": {
+    "zaaknummer": "2026Z22584",
+    "zaaksoort": "Brief regering",
+    "documentnummer": "2026D51926"
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Klimaatadaptatie": [
+     "overstroming",
+     "hoogwater"
+    ]
+   },
+   "verzameld_op": "2026-10-16T14:04:56+00:00",
+   "document": {
+    "pagina's": 1,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0014P]\u0018Z\u0001\u0000\u0000_ \u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ŖKN@\u0010by\u000e F$,\u0005 Z +\u0011@ tEH\b M\u0017 ,2]66U}u<׶7ś&@\bFK [^M6P\u0005+! q{\u0011M݄\u0017o^ k\u0013,; P^V>o\u0012;}\u0016\u00125EWQ/\u0012#K\u000fOYS$z0\u000e\u000eG\"VAqg02')'i\u0003)Щ k\u0004\bP\u0003\u000fl h\u0002\u0003C\u0001ڝ:#\u0018\u0001`\u0011p , (:66 fru!\u0012aہVOx\u0001#ON\u0017{\u0010YE9\\V;!\u0007\u0012( \u0010aʕ~\u0000\u0016\u0000Thj~\u0015͸x\u0001PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u0000<]/\u0001\u0000\u0000s\u0003\u0000\u0000 \u0000\b\u0002_rels/.rels \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+   }
+  },
+  {
+   "id": "d1a33218f015e4a3",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Bijlage",
+   "titel": "Landelijk Crisisplan Hoogwater en Overstromingen",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=54f4d573-00c7-4211-9f6e-b86223001373",
+   "datum": "2026-10-16",
+   "versie": "4da65c3ee4d6e513",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D51927"
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Klimaatadaptatie": [
+     "overstroming",
+     "hoogwater"
+    ]
+   },
+   "verzameld_op": "2026-10-16T14:04:56+00:00",
+   "document": {
+    "pagina's": 78,
+    "thema_treffers_tekst": {
+     "Natuurherstel en gebiedsbescherming": [
+      "ecologisch",
+      "landschap"
+     ],
+     "Waterkwaliteit": [
+      "waterkwaliteit",
+      "oppervlaktewater",
+      "lozing",
+      "waterschap",
+      "waterbeheer",
+      "drinkwater"
+     ],
+     "Klimaatadaptatie": [
+      "hitte",
+      "wateroverlast",
+      "droogte",
+      "overstroming",
+      "waterberging",
+      "hoogwater"
+     ],
+     "Bouwcontext": [
+      "infrastructuur",
+      "rijkswaterstaat",
+      "omgevingsvergunning",
+      "omgevingsplan",
+      "omgevingswet",
+      "projectbesluit"
+     ]
+    },
+    "fragmenten": [
+     {
+      "term": "ecologisch",
+      "fragment": "…ebben een aanzienlijke maatschappelijke impact, zowel op korte als lange termijn. Die maatschappelijke impact vindt plaats op sociaal/ psychosociaal, economisch, infrastructuur en ecologisch gebied (Zie bijlage 6 Gevolgen en maatregelen uitval vitale processen).32 Om die impact op nucleaire installaties te verkleinen hebben vergunninghouders van de nucleaire installat…"
+     },
+     {
+      "term": "landschap",
+      "fragment": "…n door zeer snelle waterstijgingen en hoge stroomsnelheden (ﬂash ﬂoods). In Zuid-Limburg ontstaat wateroverlast doordat beeksystemen buiten hun oevers treden. Door de aard van het landschap (Heuvelland) reageert het beeksysteem snel en zijn waarschuwingstijden erg kort. Het waterschap heeft bergingsgebieden ingezet om water zo veel mogelijk op te vangen. Het is echte…"
+     },
+     {
+      "term": "waterkwaliteit",
+      "fragment": "…wikkelt de rijkswegen, -vaarwegen en -wateren. RWS is in Nederland de waterbeheerder van de grotere wateren (rivieren, meren, Noordzee en Waddenzee) en is verantwoordelijk voor de waterkwaliteit van deze wateren. Kerntaken in relatie tot de rijkswateren zijn: • RWS beschermt (samen met andere waterbeheerders) Nederland tegen hoogwater en (dreigende) overstromingen; • De r…"
+     },
+     {
+      "term": "oppervlaktewater",
+      "fragment": "…ikel 19.16 van de Omgevingswet als het waterschapsbestuur niet of niet voldoende optreedt bij gevaar voor waterstaatswerken.17 Daarnaast is GS ook in enkele gevallen beheerder van oppervlaktewaterlichamen en waterkeringen (havens, vaarwegbeheer). Nationale Reddingsvloot De Nationale Reddingsvloot (NRV) bestaat uit eenheden van Reddingsbrigade Nederland en veiligheidsregio’s…"
+     }
+    ],
+    "tekst_begin": " Landelijk Crisisplan Hoogwater en Overstromingen 3 Bijlage 9 Relaties met andere plannen ................................................. 70 Bijlage 10 Evaluatie, opleiden, trainen en oefenen ............................... 72 Bijlage 11 Deﬁnities ............................................................................. 73 Bijlage 12 Afkortingenlijst .................................................................... 76 ¶ Landelijk Crisisplan Hoogwater en Overstromingen 4 1. Inleiding Grote delen van Nederland zijn kwetsbaar voor overstromingen. De ligging onder zeeniveau en de aanwezigheid van grote rivieren, in combinatie met de toenemende opgave om wateroverlast door extreme regen te beheersen, vormen een structurele uitdaging. Door klimaatverandering neemt de kans op extreme regen toe.1 Hoewel er veel maatregelen genomen zijn (en nog genomen worden) om Nederland veilig en leefbaar te houden is een overstroming nooit volledig uit te sluiten. 1.1. Doel en doelgroep Het Landelijk Crisisplan Hoogwater en Overstromingen (LCP HO) draagt bij aan een eﬀectieve crisisbeheersing tijdens de dreiging op, of het feitelijk voordoen van hoogwater en/of overstroming in Europees Nederlan"
+   }
+  },
+  {
+   "id": "3d0380a7f8557a79",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Bijlage",
+   "titel": "Koepelnotitie risico en crisiscommunicatie bij Hoogwater en Overstromingen",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=444790e5-8a4a-4188-bdbe-7fa824d92771",
+   "datum": "2026-10-16",
+   "versie": "c3e5b5402c3264f3",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D51928"
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Klimaatadaptatie": [
+     "overstroming",
+     "hoogwater"
+    ]
+   },
+   "verzameld_op": "2026-10-16T14:04:56+00:00",
+   "document": {
+    "pagina's": 21,
+    "thema_treffers_tekst": {
+     "Waterkwaliteit": [
+      "waterkwaliteit",
+      "oppervlaktewater",
+      "waterschap",
+      "waterbeheer",
+      "drinkwater"
+     ],
+     "Klimaatadaptatie": [
+      "klimaatadaptatie",
+      "hitte",
+      "wateroverlast",
+      "droogte",
+      "overstroming",
+      "hoogwater"
+     ],
+     "Bouwcontext": [
+      "infrastructuur",
+      "rijkswaterstaat",
+      "vergunningverlening"
+     ]
+    },
+    "fragmenten": [
+     {
+      "term": "waterkwaliteit",
+      "fragment": "…geïnteresseerden vinden hier getalsmatige informatie en korte toelichtende teksten over de actuele toestand en de verwachtingen met betrekking tot ‘waterveiligheid’, ‘droogte’ en ‘waterkwaliteit’. Op momenten dat sprake is van een bijzondere situatie wordt extra duiding gegeven.1 Het onderdeel Waterveiligheid (hoogwater) betreft de grote wateren in Nederland. Dat zijn de…"
+     },
+     {
+      "term": "oppervlaktewater",
+      "fragment": "…n beschermen ons land tegen het water uit de zee, grote wateren en rivieren. Zonder deze maatregelen zou 60% van Nederland regelmatig overstromen. Watersystemen zoals riolering en oppervlaktewater zorgen ervoor dat regenwater gecontroleerd wordt afgevoerd. De gevolgen van grootschalige wateroverlast en overstromingen kunnen groot zijn. Daarom is goed voorbereid zijn en wete…"
+     },
+     {
+      "term": "waterschap",
+      "fragment": "…eigen plannen ter voorbereiding en uitvoering op de risico -en crisiscommunicatie. Deze koepelnotitie is tot stand gekomen samen met vertegenwoordigers van gemeenten, provincies, waterschappen, veiligheidsregio’s, Watermanagementcentrum Nederland (WMCN), Rijkswaterstaat, Koninklijk Nederlands Meteorologisch Instituut (KNMI), ministerie van Landbouw, Visserij, Voedsel…"
+     },
+     {
+      "term": "waterbeheer",
+      "fragment": "…en van het Nederlandse watersysteem en bewaakt het landelijk overzicht. Bij een verwachte hoogwaterdreiging informeert, waarschuwt en adviseert het WMCN de landelijke en regionale waterbeheerders, crisispartners en ministeries en coördineert het zo nodig onderlinge acties. • Landelijke Coördinatiecommissie Overstromingsdreiging: In geval van hoogwater of een (dreigende…"
+     }
+    ],
+    "tekst_begin": " Koepelnotitie Risico- en crisiscommunicatie bij Hoogwater en Overstromingen 3 Inleiding Een groot deel van Nederland ligt onder de zeespiegel. En er stromen door ons land grote rivieren naar de zee. Die lage ligging en rivieren en meren maken ons land kwetsbaar bij hoogwater voor overstromingen. Daar komt bij dat Nederland steeds vaker te maken heeft met extreme weersomstandigheden. Zoals extreme regen die voor grote wateroverlast kan zorgen in álle delen van Nederland. Dit komt onder andere door de verandering van het klimaat. Duinen, dammen, dijken en andere waterkeringen beschermen ons land tegen het water uit de zee, grote wateren en rivieren. Zonder deze maatregelen zou 60% van Nederland regelmatig overstromen. Watersystemen zoals riolering en oppervlaktewater zorgen ervoor dat regenwater gecontroleerd wordt afgevoerd. De gevolgen van grootschalige wateroverlast en overstromingen kunnen groot zijn. Daarom is goed voorbereid zijn en weten wat te doen essentieel op het moment dat het misgaat. De koepelnotitie Risico- en crisiscommunicatie bij Hoogwater en Overstromingen hoort bij het Landelijk Crisisplan Hoogwater en Overstromingen (LCP HO). Zowel deze koepelnotitie als het LCP"
+   }
+  },
+  {
+   "id": "d789003ebdaa453a",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Bijlage",
+   "titel": "Beslisnota bij Kamerbrief over actualisatie van het Landelijk Crisisplan Hoogwater en Overstroming (LCP-HO)",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=eb706ee6-4bb2-45fe-8b1a-65dd5ec13772",
+   "datum": "2026-10-16",
+   "versie": "3a05da8dc10a3e99",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D51929"
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Klimaatadaptatie": [
+     "overstroming",
+     "hoogwater"
+    ]
+   },
+   "verzameld_op": "2026-10-16T14:04:56+00:00",
+   "document": {
+    "pagina's": 3,
+    "thema_treffers_tekst": {
+     "Waterkwaliteit": [
+      "waterschap"
+     ],
+     "Klimaatadaptatie": [
+      "wateroverlast",
+      "overstroming",
+      "hoogwater"
+     ],
+     "Bouwcontext": [
+      "rijkswaterstaat"
+     ]
+    },
+    "fragmenten": [
+     {
+      "term": "waterschap",
+      "fragment": "…er coördinatie van het DCC-IenW in samenspraak met de partners van de Samenwerking Management Watercrises en Overstroming (SMWO): JenV, LVVN/KGG, DEF, veiligheidsregio’s, Unie van Waterschappen. Het doel van het LCP-HO (bijlage 1) en bijbehorende koepelnotitie risico- en crisiscommunicatie (bijlage 2) is het bijdragen aan een effectieve crisisbeheersing tijdens de dre…"
+     },
+     {
+      "term": "wateroverlast",
+      "fragment": "…van het geactualiseerde LCP HO in de eigen plannen. - T.o.v. het vorige LCP-HO (2021) is in de nieuwe versie, gezien de verwachting van frequentere extreme neerslag, het onderwerp wateroverlast toegevoegd. - Eveneens is voor beter afgestemde risico- en crisiscommunicatie tussen de verschillende partners een ‘koepelnotitie’ toegevoegd (standaard bij alle LCP’s die nu word…"
+     },
+     {
+      "term": "overstroming",
+      "fragment": "…14-9-2026 Bijlage(n) 1. LCP-HO 2. Koepelnotitie 3+4. Concept aanbieding CDINIEV/RDINEV 5. Kamerbief aanbieding LCP-HO Pagina 1 van 3 Vaststellen Landelijke Crisisplan Hoogwater en Overstroming (LCP-HO) in MR via CDNIEV/RDINEV Aanleiding Het Landelijk Crisisplan Hoogwater en Overstroming (LCP-HO) is geëvalueerd (conform 5 jaarlijkse termijn) en naar aanleiding daarvan op…"
+     },
+     {
+      "term": "hoogwater",
+      "fragment": "…eslistermijn 14-9-2026 Bijlage(n) 1. LCP-HO 2. Koepelnotitie 3+4. Concept aanbieding CDINIEV/RDINEV 5. Kamerbief aanbieding LCP-HO Pagina 1 van 3 Vaststellen Landelijke Crisisplan Hoogwater en Overstroming (LCP-HO) in MR via CDNIEV/RDINEV Aanleiding Het Landelijk Crisisplan Hoogwater en Overstroming (LCP-HO) is geëvalueerd (conform 5 jaarlijkse termijn) en naar aanle…"
+     }
+    ],
+    "tekst_begin": " Aan Minister TER BESLISSING Datum 31 augustus 2026 Onze referentie IENW/BSK-2026/137052 Opgesteld door Directoraat Generaal Water en Bodem Directie Waterveiligheid, Rivieren en Zee Afdeling Waterveiligheid Beslistermijn 14-9-2026 Bijlage(n) 1. LCP-HO 2. Koepelnotitie 3+4. Concept aanbieding CDINIEV/RDINEV 5. Kamerbief aanbieding LCP-HO Pagina 1 van 3 Vaststellen Landelijke Crisisplan Hoogwater en Overstroming (LCP-HO) in MR via CDNIEV/RDINEV Aanleiding Het Landelijk Crisisplan Hoogwater en Overstroming (LCP-HO) is geëvalueerd (conform 5 jaarlijkse termijn) en naar aanleiding daarvan op een aantal punten geactualiseerd en uitgebreid. Dit is gebeurd onder coördinatie van het DCC-IenW in samenspraak met de partners van de Samenwerking Management Watercrises en Overstroming (SMWO): JenV, LVVN/KGG, DEF, veiligheidsregio’s, Unie van Waterschappen. Het doel van het LCP-HO (bijlage 1) en bijbehorende koepelnotitie risico- en crisiscommunicatie (bijlage 2) is het bijdragen aan een effectieve crisisbeheersing tijdens de dreiging op of een feitelijke overstroming in Europees Nederland. Het LCP-HO wordt conform de reguliere procedure voor LCP’s behandeld in de Commissie en Raad voor Defensie "
+   }
+  },
+  {
+   "id": "5c7ebd2f6cba583a",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Schriftelijke vragen",
+   "titel": "De gezinshereniging van een verdachte met 114 politieregistraties",
+   "samenvatting_bron": "None. Zaak: None De gezinshereniging van een verdachte met 114 politieregistraties",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z18386&did=2026D42098",
+   "datum": "2026-09-09",
+   "versie": "483c2f810f13cba3",
+   "extra": {
+    "zaaknummer": "2026Z18386",
+    "zaaksoort": "Schriftelijke vragen",
+    "documentnummer": "2026D42098"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T14:04:56+00:00",
+   "document": {
+    "pagina's": 3,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "Tweede Kamer der Staten-Generaal 2 Vergaderjaar 2025–2026 Vragen gesteld door de leden der Kamer 2026Z18386 Vragen van de leden Ceulemans en Boomsma (beiden JA21) aan de Ministers van Asiel en Migratie en van Justitie en Veiligheid over de gezinshereniging van een verdachte met 114 politieregistraties (ingezonden 9 september 2026). Vraag 1 Bent u bekend met de berichtgeving over de 18-jarige Syrische verdachte van een gewelddadige woningoverval in Amsterdam-Oost, die sinds zijn komst naar Nederland op veertienjarige leeftijd volgens het Openbaar Ministerie en de berichtgeving 114 politieregistraties heeft opgebouwd, en wiens ouders en broertjes desondanks naar Nederland zouden mogen komen in het kader van gezinshereniging?1 Vraag 2 Klopt het dat de rechtbank overwoog dat de «samenleving er beroerd van zou zijn» als de hechtenis van deze persoon zou worden geschorst? Vraag 3 Klopt het dat deze verdachte rechtmatig verblijf in Nederland heeft? Zo ja, op grond van welke verblijfstitel, sinds wanneer beschikt hij daarover en op welke datum is deze verblijfstitel voor het laatst door de Immigratie- en Naturalisatiedienst (IND) beoordeeld of verlengd? Vraag 4 Klopt het dat op naam van de"
+   }
+  },
+  {
+   "id": "20fa39d83a03d2d1",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Mededeling (uitstel antwoord)",
+   "titel": "Uitstel beantwoording vragen van de leden Ceulemans en Boomsma over de gezinshereniging van een verdachte met 114 politieregistraties",
+   "samenvatting_bron": "None. Zaak: None De gezinshereniging van een verdachte met 114 politieregistraties",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z18386&did=2026D47512",
+   "datum": "2026-09-30",
+   "versie": "325c99233de40c67",
+   "extra": {
+    "zaaknummer": "2026Z18386",
+    "zaaksoort": "Schriftelijke vragen",
+    "documentnummer": "2026D47512"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T14:04:56+00:00"
+  },
+  {
+   "id": "3fdb07f667931e7d",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Antwoord schriftelijke vragen",
+   "titel": "Antwoord op vragen van de leden Ceulemans en Boomsma over de gezinshereniging van een verdachte met 114 politieregistraties",
+   "samenvatting_bron": "None. Zaak: None De gezinshereniging van een verdachte met 114 politieregistraties",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z18386&did=2026D51925",
+   "datum": "2026-10-16",
+   "versie": "7ab5aba09857fb6f",
+   "extra": {
+    "zaaknummer": "2026Z18386",
+    "zaaksoort": "Schriftelijke vragen",
+    "documentnummer": "2026D51925"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T14:04:56+00:00",
+   "document": {
+    "pagina's": 1,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u0000gs(/\u0001\u0000\u0000( \u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Ėj0\u0010EѶJR(ɢe\u001bh\u00014MmIHw ;$6ML6\u0006yf32u\u0007Kp>3:f\u0002ҨLc5} YQh%r!f\u001bl<\u0019N7\u0016|@,EO{B!|d,h$\u0015\u0002i -\u0007\u0003F#h ` $bcו\u0013\u0007gsXb&3)| JX\u0013\"4\u0012\u0018?H(#\u0001u\u0007e p. +\u0014WF. N i$/լ3\u0012\u0017y\u0014\";G}x/m\u0003\"\u0015taVngg.~7\u001aIAmK7\u0000:SnPwP \u000f/7+\u000eoɯtwo=Y\u000e]8\u001bM P=\u001229qz:? euH [p$}vP \u0014\u0003l~\u0000\u0000\u0000\u0003\u0000PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u0000 \u001a\u0000\u0000\u0000N\u0002\u0000\u0000 \u0000\b\u0002_rels/.rels \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+   }
+  },
+  {
+   "id": "6b2f75d6072a96eb",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Convocatie commissieactiviteit",
+   "titel": "Convocatie voortzetting commissiedebat Klimaatbeleid gebouwde omgeving",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=1996c468-a0cf-4841-bef5-61549753ec0c",
+   "datum": "2026-10-16",
+   "versie": "10a397054038ed9d",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D51825"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T14:04:56+00:00"
+  },
+  {
+   "id": "0c4edf44d4c5fb7b",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Nota n.a.v. het (nader/tweede nader/enz.) verslag",
+   "titel": "36984-(R2222) Nota naar aanleiding van het verslag inzake Intrekking van de Rijkswet van 10 februari 2017, houdende wijziging van de Rijkswet op het Nederlanderschap in verband met het intrekken van het Nederlanderschap in het belang van de nationale veiligheid (Stb. 2017, 52) en tot wijziging van de Wet op de inlichtingen- en veiligheidsdiensten 2017",
+   "samenvatting_bron": "None. Zaak: None 36984-(R2222) Nota naar aanleiding van het verslag inzake Intrekking van de Rijkswet van 10 februari 2017, houdende wijziging van de Rijkswet op het Nederlanderschap in verband met het intrekken van het Nederlanderschap in het belang van de nationale veiligheid (Stb. 2017, 52) en tot wijziging van de Wet op de inlichtingen- en veiligheidsdiensten 2017",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z22585&did=2026D51930",
+   "datum": "2026-10-16",
+   "versie": "c8347d9df7206a0e",
+   "extra": {
+    "zaaknummer": "2026Z22585",
+    "zaaksoort": "Nota n.a.v. het (nader/tweede nader/enz.) verslag",
+    "documentnummer": "2026D51930"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T14:04:56+00:00",
+   "document": {
+    "pagina's": 1,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0011P]@\u0003{\u0001\u0000\u0000\u0007\u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000MN0\u0010\u0012y[%nY v\u0001l\u0012\\'Eb[?gc\u0002\u0010*MEMd i>>mYDkA[I2f\u0011\u0018i6Uwl> ZMHY9\u000f2R:0Tɬ/\u0005ҫ_q'X\u0001\u0019o\u0006`\u0007M !\u0013UӖ> JpR ڨ_)>!!e\u0013r\u001aXďF4?\u0013\u000e\u0017: \u0015D Y7+J&},\u0012:}漕\u0010\u0002 qY$]\u0014ڌzALU.$u?E]\u0001\b\u0019H!\b \u001bX\u000eü$\u0016!.\u0000\u0006883 \u0014\u0011Zb\u0010 \u0000 \u0014\u0002@[S \u0006hEcs2Z\u0017޺@c21ݺHxB\u0002u,7w PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u0000 \u001a\u0000\u0000\u0000N\u0002\u0000\u0000 \u0000\b\u0002_rels/.rels \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+   }
+  },
+  {
+   "id": "7fc241118433f0a9",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Bijlage",
+   "titel": "Aanbiedingsbrief",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=400a45cc-a312-429b-8e6f-5a734e976422",
+   "datum": "2026-10-16",
+   "versie": "7526584ffbd93f09",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D51931"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T14:04:56+00:00",
+   "document": {
+    "pagina's": 1,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0011P]o`\u0001\u0000\u0000\b\u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ŖKN0\u0010\u0012e\u001a] X\u0000[\u0004\u0017pIc\u0011?dO_gc\u0002P\u0011m`\u0013) M7V4z \u000f~ Nz1d#j~ 1核O\u0005M8ő^݂Y\u0005aR\u00114'GiCuՋ8zʨq,UQ hL9R8\u0000\u0012RV=>Pét2a/|sR@4\u000e66N0aҥ\"ir\b2B/ݬ3)xO(.M\u0010D/ IOX) + \u001b\u001a@~` ]p &69/\u0014\u0002@QMvetk$J\u0013Ӭ笺HJM$rSVi͝I1RW\u0015hb*c^bv \u0019%L*r`\u0010 L\u0014D/\u0000 )9EYQ:\u0001\u0017\u0013s\u00197s/#Sw\u0019:%N)?MpQ\u0002\u0006WBL\\9ϛ\u0013Kҧ4K+0bXZ<_`\u0011Hu܊G\u0013<3\u00171Ϭ\b(oYL:ym: S \u0002R F<7k\u0019Q\u0014U]w/`Br6όvM\u0018\u000e!cg&\u0012< \u001aI 1XgkI\u000e\u0019|P|kz%\u0003O '\u00007\u0003\u0017\u0019ftnI\u0007Uq;N\u001a8\u0019\u0003ěQ\bjv\u0016ﱪX8\\\u001b#S2\u0012V%F\u0012 ILD}& 4\u0003\u0018\u0015W)6偖vhٻb\u00046+}<&NGu!${\"(_\u0004\u0015\b\u0004 5UAmQHDCo\u0002D%M` \u001950&\u0016cBbL \u0010{R2lq\u0016X[Xo~ d\u0017cHRlYp~H \u0017 ZZ̰ǰ\u0019.0uo\u000f8X {־x>%|a{\u001b2p\u000ez\u0011ҵ6J\u0016AiW\\nq\u0017r--Rp|^ N@ ) uϦRJ9 п v\u0004V\u000e\u001a,:[8k9\u0010l|-t 8 <\u000f,3*k\u000fu~F2X\u0005#ZrYcG\u0006%i03ykj;0t=%vSg\u000fγ!,t])8 3&ηn{vh\u0005|<]tzv%L^3&͏TI\u000fOş92h= ۞qtacoD{\u0019Z˝Ի\u0016 i\bεܱRG \u0016!G,zұJӥG5\u0019ߙ]-"
+   }
+  },
+  {
+   "id": "739f66edc312a397",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Bijlage",
+   "titel": "Beslisnota bij de Nota naar aanleiding van het verslag inzake Intrekking van de Rijkswet van 10 februari 2017, houdende wijziging van de Rijkswet op het Nederlanderschap in verband met het intrekken van het Nederlanderschap in het belang van de nationale veiligheid (Stb. 2017, 52) en tot wijziging van de Wet op de inlichtingen- en veiligheidsdiensten 2017 (Kamerstuk 36984-(R2222))",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=6171a709-a684-4322-8c22-3ae944a71bfb",
+   "datum": "2026-10-16",
+   "versie": "7dcd9c6088b3cb1c",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D51932"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T14:04:56+00:00",
+   "document": {
+    "pagina's": 3,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": " Minister van Justitie en Veiligheid Nota n.a.v. verslag wetsvoorstel permanentmaking intrekking Nederlanderschap Directie Wetgeving en Juridische Zaken Sector Staats- en bestuursrecht Turfmarkt 147 2511 DP Den Haag Postbus 20301 2500 EH Den Haag Kenmerk 8109769 Datum 12 oktober 2026 Pagina 1 van 3 1. Aanleiding De VKC Justitie en Veiligheid heeft op 2 oktober 2026 verslag uitgebracht over het wetsvoorstel tot permanentmaking bevoegdheid intrekking Nederlanderschap. De nota naar aanleiding van het verslag is gereed voor indiening. 2. Geadviseerd besluit Het ondertekenen en daarna indienen bij de Tweede Kamer van de nota naar aanleiding van het verslag en de bijbehorende aanbiedingsbrief (bijlagen 1 en 2). 3. Kernpunten Inbreng is geleverd door D66, VVD, PVV, CDA, BBB, SGP en de ChristenUnie. De beantwoording in de nota naar aanleiding van het verslag volgt de lijn van de memorie van toelichting en het nader rapport. Er zijn vragen gesteld over nut en noodzaak van de permanentmaking, de wijze waarop de bevoegdheid in te praktijk wordt toegepast, de lijst met organisaties die als terroristisch zijn aangemerkt en over mogelijke alternatieve maatregelen ter bescherming van de nationale"
+   }
+  },
+  {
+   "id": "8f9c6584af9b581b",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Brief regering",
+   "titel": "Afschrift reactiebrief aan Centraal Dialoog Bonaire ten aanzien van energiesysteem",
+   "samenvatting_bron": "None. Zaak: None Afschrift reactiebrief aan Centraal Dialoog Bonaire ten aanzien van energiesysteem",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z22586&did=2026D51933",
+   "datum": "2026-10-16",
+   "versie": "04cb6df581300b60",
+   "extra": {
+    "zaaknummer": "2026Z22586",
+    "zaaksoort": "Brief regering",
+    "documentnummer": "2026D51933"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T14:04:56+00:00",
+   "document": {
+    "pagina's": 1,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0016P]Kz;\u0001\u0000\u0000T \u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ŖKN@\u0010by\u000e,F#\u0005\u0002i H\u0005*Ik #\u0015l'\u0006 bcɮn[\u000fggw\u00167 ~^ WӲ@/2~5/7'_˳>b.y&BdF\u0007 \u0011=WtH\u000eoJD`d:\"d&T{7԰T\\66UY}uԼ47^IBi Fk$\u0010ōW&[MO^᥈bN7/\u0019\u0015$ mHJ 7>{HFbb \u0012sSq*\u000e?\u0005\u001bÓt\u0014-#\u0003\u0015c\u0010l\u0019nq{4'$:\u00048κ\u0002\u001a bϰFP\u000f\u001a\u000f;Q\u0000Z;p;0\u0002 Мy Kc l))׏ ͫzB<;\u0016\u001bzK|p]${xXOj ?@\u0001\u000eK^\u0001\u0014n\\I |z[ch\u0016\u0001PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u0000eG \u0001\u0000\u0000\u0002\u0000\u0000 \u0000\b\u0002_rels/.rels \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+   }
+  },
+  {
+   "id": "832b31b4d612af23",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Bijlage",
+   "titel": "Beslisnota bij Kamerbrief over afschrift reactiebrief aan Centraal Dialoog Bonaire ten aanzien van energiesysteem",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=d76a2adf-023a-40e0-bd3a-5ac195a88fc6",
+   "datum": "2026-10-16",
+   "versie": "63bec7a3e18c9b2b",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D51936"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T14:04:56+00:00",
+   "document": {
+    "pagina's": 1,
+    "thema_treffers_tekst": {
+     "Bouwcontext": [
+      "verduurzaming"
+     ]
+    },
+    "fragmenten": [],
+    "tekst_begin": " Aan de Minister van Klimaat en Groene Groei TER BESLISSING Afschrift voor TK-commissie KR reactiebrief aan Centraal Dialoog Bonaire t.a.v. stroomstoringen op Bonaire Pagina 1 van 1 Directoraat-generaal Bedrijfsleven & Innovatie Directie Regio en Ruimtelijke Economie Auteur Datum aangemaakt 13 oktober 2026 Kenmerk EZK_DGBI_RRE / 108671911 Bijlage(n) 3 Ontvangen BPZ Parafenroute Aanleiding Op 6 oktober 2026 is een herinnering voor het verzoek van de vaste commissie voor Koninkrijksrelaties ontvangen om een afschrift te krijgen van de reactie namens MKGG op de brieven van de Centraal Dialoog Bonaire over het energiesysteem op Bonaire. Het initiële verzoek dateert van 16 januari 2026. Met bijgaande Kamerbrief, inclusief verzending van de reactiebrief, voldoet u aan het verzoek van de commissie. Geadviseerd besluit U kunt bijgevoegde Kamerbrief ondertekenen en daarmee instemmen met verzending van het afschrift aan de TK-commissie Koninkrijksrelaties. Kernpunten • In december 2025 zijn er door de Centraal Dialoog Bonaire twee brieven aan MKGG en MEZ gestuurd. In de brieven worden zorgen geuit over de stijging van de energieprijzen per 1 januari 2026, over (de gevolgen van) stroomstoring"
+   }
+  },
+  {
+   "id": "ac3d0b4ee159e241",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Bijlage",
+   "titel": "Brief aan Centraal Dialoog Bonaire Zorgen Centraal Dialoog Bonaire energietarieven en vo",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=424b408d-24af-4c05-a970-5ed18dcf4daf",
+   "datum": "2026-10-16",
+   "versie": "03c65e3e23d024ee",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D51934"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T14:04:56+00:00",
+   "document": {
+    "pagina's": 2,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": " "
+   }
+  },
+  {
+   "id": "de6692b554f6a9d1",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Bijlage",
+   "titel": "Brief aan gezaghebber Soliano - Terugkoppeling werkbezoek Bonaire",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=12afc293-97ad-4575-a7ec-7317942391a0",
+   "datum": "2026-10-16",
+   "versie": "60959d801920cacb",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D51935"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T14:04:56+00:00",
+   "document": {
+    "pagina's": 3,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": " "
+   }
+  },
+  {
+   "id": "409715df521e1df4",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Antwoord schriftelijke vragen",
+   "titel": "Antwoord op vragen van het lid Dobbe over het bericht dat mensenrechtenorganisaties oordelen dat de dood van de Libanese journalist Amal Khalil een Israëlische oorlogsmisdrijf is",
+   "samenvatting_bron": "None. Zaak: None Het bericht dat mensenrechtenorganisaties oordelen dat de dood van de Libanese journalist Amal Khalil een Israëlische oorlogsmisdaad is.",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z16773&did=2026D40651",
+   "datum": "2026-09-03",
+   "versie": "6d8f432756b1fc07",
+   "extra": {
+    "zaaknummer": "2026Z16773",
+    "zaaksoort": "Schriftelijke vragen",
+    "documentnummer": "2026D40651"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T14:04:56+00:00",
+   "document": {
+    "pagina's": 3,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "Tweede Kamer der Staten-Generaal 2 Vergaderjaar 2025–2026 Aanhangsel van de Handelingen Vragen gesteld door de leden der Kamer, met de daarop door de regering gegeven antwoorden 2922 Vragen van het lid Dobbe (SP) aan de Minister van Buitenlandse Zaken over het bericht dat mensenrechtenorganisaties oordelen dat de dood van de Libanese journalist Amal Khalil een Israëlische oorlogsmisdaad is (ingezonden 7 augustus 2026). Antwoord van Minister Berendsen (Buitenlandse Zaken) (ontvangen 3 september 2026). Vraag 1 Wat is uw reactie op het onderzoek van mensenrechtenorganisaties Human Rights Watch, Amnesty International en het onderzoeksplatform Legal Agenda naar de Israëlische aanval op 22 april op het zuiden van Libanon, waarbij de Libanese journalist Amal Khalil werd gedood?1 Antwoord 1 De resultaten van het onderzoek van de genoemde mensenrechtenorganisa- ties baren het kabinet zorgen. Het feit is dat te veel burgers, onder wie journalisten, omkomen in Libanon. Dit moet stoppen. Veiligheid van journalisten in de breedste zin van het woord is en blijft één van de prioritei- ten binnen het Nederlandse mensenrechtenbeleid. Journalisten zijn, in hun hoedanigheid als burgers, beschermd ond"
+   }
+  },
+  {
+   "id": "b79e2cbf013d65a1",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Bijlage",
+   "titel": "Beslisnota bij antwoord op vragen van het lid Dobbe over het bericht dat mensenrechtenorganisaties oordelen dat de dood van de Libanese journalist Amal Khalil een Israëlische oorlogsmisdrijf is",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=78bb61a7-1ea6-43c7-85cb-6667853a497d",
+   "datum": "2026-09-03",
+   "versie": "7a18f3409661c3dc",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D40652"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T14:04:56+00:00",
+   "document": {
+    "pagina's": 1,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "m Ministerie van Buitenlandse Zaken TER BESLISSING Datum 28 augustus 2026 Onze referentie BZ2630951 Aan Van M Bescherming persoonlijke levenssfeer Via Kopie aan Afgestemd met R Opgesteld door Bescherming persoonlijke levenssfeer Bescherming persoonlijke levenssfeer Uiterlijk bij 30 augustus 2026 Binnengekomen op 7 augustus 2026 nota Vragen van het lid Dobbe SP over het bericht dat de dood van de Libanese journalist Amal Khalil een Israelische oorlogsmisdrijf is Aanleiding Vragen van het lid Dobbe SP aan de minister van Buitenlandse Zaken over het bericht dat mensenrechtenorganisaties oordelen dat de dood van de Libanese journalist Amal Khalil een Israelisch oorlogsmisdrijf is Geadviseerd besluit Uw akkoord met bijgevoegde beantwoording en verzending hiervan Kernpunten • In vraag 1 wordt verwezen naar een onderzoek van de mensenrechtenorganisaties Human Rights Watch Amnesty International en het onderzoeksplatform Legal Agenda Zij stellen dat de Israelische aanval in april op het zuiden van Libanon moet worden gezien als een oorlogsmisdrijf Bij deze aanval kwam de Libanese journalist Amal Khalil om het leven • In de beantwoording van vraag 1 geeft u aan dat u zich ernstig zorgen maak"
+   }
+  },
+  {
+   "id": "324b458fa79796c9",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Antwoord schriftelijke vragen",
+   "titel": "Antwoord op vragen van het lid Van Houwelingen over escalatiegevaar in Oekraïne",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=f63f3236-7308-4d9d-a984-e2a39d5f3a8c",
+   "datum": "2026-10-16",
+   "versie": "37c2cd11ff410736",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D51938"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T14:04:56+00:00",
+   "document": {
+    "pagina's": 1,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u0000gs(/\u0001\u0000\u0000( \u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Ėj0\u0010EѶJR(ɢe\u001bh\u00014MmIHw ;$6ML6\u0006yf32u\u0007Kp>3:f\u0002ҨLc5} YQh%r!f\u001bl<\u0019N7\u0016|@,EO{B!|d,h$\u0015\u0002i -\u0007\u0003F#h ` $bcו\u0013\u0007gsXb&3)| JX\u0013\"4\u0012\u0018?H(#\u0001u\u0007e p. +\u0014WF. N i$/լ3\u0012\u0017y\u0014\";G}x/m\u0003\"\u0015taVngg.~7\u001aIAmK7\u0000:SnPwP \u000f/7+\u000eoɯtwo=Y\u000e]8\u001bM P=\u001229qz:? euH [p$}vP \u0014\u0003l~\u0000\u0000\u0000\u0003\u0000PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u0000 \u001a\u0000\u0000\u0000N\u0002\u0000\u0000 \u0000\b\u0002_rels/.rels \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+   }
+  },
+  {
+   "id": "f0e9bbedcb9dde19",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Bijlage",
+   "titel": "Beslisnota bij Beantwoording vragen van het lid Van Houwelingen (FVD) over escalatiegevaar in Oekraïne",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=d7362e73-7db8-42b5-abc9-105d0aa78e79",
+   "datum": "2026-10-16",
+   "versie": "e5837cadb8390a9d",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D51939"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T14:04:56+00:00",
+   "document": {
+    "pagina's": 1,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "m Ministerie van Buitenlandse Zaken TER BESLISSING Datum 28 September 2026 Onze referentie BZ2632136 Aan Van M Via Bescherming persoonlijke levenssfeerKopie aan Afgestemd met Opgesteld door Bescherming persoonlijke levenssfeer Binnengekomen op 22 September 2026 nota Vragen van het lid Van Houwelingen FVD aan M over escalatiegevaar in Oekraine Aanleiding Kamervragen van FVD over de situatie in Oekraine Geadviseerd besluit Uw akkoord om de bijgevoegde antwoorden op Kamervragen van FVD over de situatie in Oekraine te versturen Kernpunten 23 September] zijn er door FVD Kamervragen gesteld aan u over de situatie in Oekraine De vragen gaan over Nord Stream kwalificaties rond de oorlog zoals proxy oorlog en false flag en draagviak in Oekraine en Europa voor de oorlog Met het oog op een zorgvuldige afstemming en volledige beantwoording zijn de Kamervragen niet binnen de gebruikelijke termijn beantwoord Op 9 oktober jl is een uitstelbrief verstuurd aan de voorzitter van de Tweede Kamer ONGERUBRICEERD GEEN MERKING Pagina 1 van 1 00001 7751751"
+   }
+  },
+  {
+   "id": "e910b0645733d38a",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Brief regering",
+   "titel": "Publicatie besluit Woo-verzoek over schenking van bussen aan Oekraïne",
+   "samenvatting_bron": "None. Zaak: None Publicatie besluit Woo-verzoek over schenking van bussen aan Oekraïne",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z22587&did=2026D51940",
+   "datum": "2026-10-16",
+   "versie": "958af86837a6a682",
+   "extra": {
+    "zaaknummer": "2026Z22587",
+    "zaaksoort": "Brief regering",
+    "documentnummer": "2026D51940"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T14:04:56+00:00",
+   "document": {
+    "pagina's": 1,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000P]o`\u0001\u0000\u0000\b\u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ŖKN0\u0010\u0012e\u001a] X\u0000[\u0004\u0017pIc\u0011?dO_gc\u0002P\u0011m`\u0013) M7V4z \u000f~ Nz1d#j~ 1核O\u0005M8ő^݂Y\u0005aR\u00114'GiCuՋ8zʨq,UQ hL9R8\u0000\u0012RV=>Pét2a/|sR@4\u000e66N0aҥ\"ir\b2B/ݬ3)xO(.M\u0010D/ IOX) mu3 YP$4\u0015\b\u0000i>d`%D6R ɾH{\u00078h \u0013\"/u}\u0001pFD4H\u0001S\u001a \u0005\u001aTKHl$, 6\u0014\u0006Q-*Jи߲P\"E#خ\u0012RZM4\u0006;4_EY[ Ki0j / ăឩvy\u001b>׾KJDD\u0012}T]$\b.|i:=O\u0003\u0000V@\u0018U3\u0014 ̖%\u0015ٖv^x Az \u0015Y~2O+\u0004e8Ǡ\u0011\u0001\u0004J\u000f*\u0005\u0005UYAQ\u0019Hցl&,| mFЊ?\u0007xzG\u0017\b6F\u0019\u0001\u00124'n\u0014m!\u0000)g5_u|go\u001bp]9Y .?ʆxg$\u0000d政\u001b\u0015(\u0006|U`X~yW! kg(1~ 8I?ZS\u0019v\u0018KI'V.D\" q\u0002\bZ\\ދ\u0007\u00101x˹J(H&M\u0006K\u0017s0\u0019\u0001 >5'o{KGuaGX\u0012%HsB(A:'E\u001a\u0005@\\̛jC}zrUD9K\u0004N:\u001a;\u0010΃>f\b(\u0011;rD\u001b5X\u0006-9K?ʽN Iは!g \u0011P+ `\u0003!k+\u0003*=ǲ\u0018\u0011M;F0\u0012A} /\u001a/x\u00030rC \u0014)Iņ]\u0014ujO0\u0004M!Z\u00134 \u0000D\u0005'~i}đ\u0000iLӓbp *߫'\u0016ù7z!dT &Hy٥+\u0015 .(S \u0005eǈyl)nMԉ~\u0006<\u0007CB->m:^\u000fX\u0014b@d 4n 4˲C|\"DP} \u0007%[μ\u001a`魪8 9gj [2Ә\u0014aDʊb\u0013\u0006M ׍[\u0019Sә>Om\u0014 %UU(aCXCۺ?Nt4"
+   }
+  },
+  {
+   "id": "0a39f2d514fd8e55",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Bijlage",
+   "titel": "Beslisnota bij Kamerbrief over publicatie besluit Woo-verzoek over schenking van bussen aan Oekraïne",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=53243919-b780-4d38-bb6c-548461b5ba44",
+   "datum": "2026-10-16",
+   "versie": "6cf92a7280f2d9af",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D51941"
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T14:04:56+00:00",
+   "document": {
+    "pagina's": 1,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": " Staatssecretaris van Justitie en Veiligheid Aanbiedingsbrief Tweede Kamer WOO-besluit schenking bussen Oekraïne Directoraat-Generaal Straffen en Beschermen Directie Sanctie- en Slachtofferbeleid Sancties Intramuraal Turfmarkt 147 2511 DP Den Haag Postbus 20301 2500 EH Den Haag www.rijksoverheid.nl/jenv Datum 16 oktober 2026 Onze referentie 8127978 Bijlage(n) 1 Pagina 1 van 1 Bijlage(n) 1. Aanbiedingsbrief TK WOO-besluit schenking bussen Oekraïne 1. Aanleiding In de beantwoording van Kamervragen van het lid Van Houwelingen is toegezegd het WOO-besluit dat van gelijke strekking is met de Kamer te delen.1 2. Geadviseerd besluit U wordt geadviseerd de link naar de publicatie van het WOO-besluit te delen met de Kamer, begeleid door bijgevoegde aanbiedingsbrief. 3. Kernpunten Het lid Van Houwelingen heeft Kamervragen gesteld over de schenking van bussen aan Oekraïne en verzocht om openbaarmaking van communicatie hieromtrent. Op 13 mei 2026 is een verzoek op grond van de Wet Open Overheid (WOO) van gelijke strekking ingediend. Bij dit verzoek is er om openbaarmaking van dezelfde documenten verzocht. 4. Toelichting 4.1. Politieke context Met deze aanbiedingsbrief wordt invulling gegeven a"
+   }
+  },
+  {
+   "id": "b89ed0a7702b6707",
+   "bron": "Binnenlands Bestuur",
+   "categorie": "Media",
+   "methode": "web",
+   "soort": "",
+   "titel": "ruimte en milieu Plannen uitgelekt: miljarden voor bestaande infrastructuur, nieuwe projecten op lange baan Het kabinet reserveert 16 miljard euro voor onderhoud en vernieuwing van infrastructuur. 29 andere projecten worden uitgesteld.",
+   "samenvatting_bron": "",
+   "url": "https://www.binnenlandsbestuur.nl/ruimte-en-milieu/miljarden-voor-bestaande-infrastructuur",
+   "datum": null,
+   "versie": "0708d0878f5983c9",
+   "extra": {},
+   "status": "gewijzigd",
+   "thema_treffers": {
+    "Bouwcontext": [
+     "infrastructuur"
+    ]
+   },
+   "verzameld_op": "2026-10-16T14:04:56+00:00"
   }
  ]
 }
