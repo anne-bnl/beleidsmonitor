@@ -1153,6 +1153,12 @@ def main():
     save_json(STATE_FILE, state)
 
     print(json.dumps(run, ensure_ascii=False, indent=1))
+    # Indicatoren voor de voorpagina: één keer per maand
+    try:
+        import indicatoren
+        indicatoren.run()
+    except Exception as e:
+        print(f"Indicatoren mislukt: {type(e).__name__}: {e}")
     # Mislukt alleen als vrijwel alles faalt (dan is er iets mis met de omgeving)
     if run["bronnen_gelukt"] < max(1, len(status) // 4):
         sys.exit(1)

@@ -1,0 +1,18 @@
+# Bronnen voor de indicatoren op de voorpagina van het dashboard.
+# Deze worden één keer per maand opgehaald (de rest van de monitor draait dagelijks).
+#
+# cbs_tabellen : open-datatabellen van CBS StatLine (tabelnummer en omschrijving)
+# cbs_zoeken   : zoekwoorden om in de CBS-catalogus naar (nieuwere) tabellen te zoeken
+# knmi_station : KNMI-station voor de klimaatreeks (260 = De Bilt)
+
+dagen_tussen_updates: 28
+
+cbs_tabellen:
+  - {id: "37212", naam: Dagvlinders}
+  - {id: "84498NED", naam: Broedvogels}
+  - {id: "37701", naam: Vleermuizen}
+  - {id: "83673NED", naam: Bouwvergunningen nieuwbouwwoningen, alleen_nederland: true}
+
+cbs_zoeken: ["Living Planet", "vlinder", "vleermuis", "broedvogel", "libel", "bijen"]
+
+knmi_station: 260
