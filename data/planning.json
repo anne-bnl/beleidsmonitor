@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-10-16T04:46:03+00:00",
+ "bijgewerkt": "2026-10-16T11:28:03+00:00",
  "items": [
   {
    "id": "caceafbf103d73f9",
@@ -32,7 +32,7 @@
    "wat": "Verzoek Kisteman (VVD) om CD Slagvaardige overheid en regeldruk van 28/10 te verplaatsen",
    "datum": "2026-10-16",
    "tijd": "12:00",
-   "status": "Gepland",
+   "status": "Uitgevoerd",
    "commissie": "vaste commissie voor Binnenlandse Zaken",
    "commissie_afk": "BiZa",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07697",
@@ -174,22 +174,6 @@
    "bouw": true
   },
   {
-   "id": "dfc162a883aaa902",
-   "bron": "Tweede Kamer",
-   "soort": "Plenair debat (tweeminutendebat)",
-   "wat": "Tweeminutendebat Wijziging van het Besluit algemene leefomgeving inzake gedragscodes (33118-344)",
-   "datum": "2026-10-26",
-   "tijd": "",
-   "status": "Gepland",
-   "commissie": "TK",
-   "commissie_afk": "TK",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/plenaire_vergaderingen/details/activiteit?id=2026A07366",
-   "themas": [
-    "Soortenbescherming"
-   ],
-   "kerncommissie": false
-  },
-  {
    "id": "078b8e06e3ee1988",
    "bron": "Tweede Kamer",
    "soort": "Notaoverleg",
@@ -258,20 +242,6 @@
    "kerncommissie": false
   },
   {
-   "id": "a16879315c1b5743",
-   "bron": "Tweede Kamer",
-   "soort": "Commissiedebat",
-   "wat": "Slagvaardige overheid en regeldruk",
-   "datum": "2026-10-28",
-   "tijd": "10:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Binnenlandse Zaken",
-   "commissie_afk": "BiZa",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A01369",
-   "themas": [],
-   "kerncommissie": false
-  },
-  {
    "id": "2151c2949beff7f5",
    "bron": "Tweede Kamer",
    "soort": "Technische briefing",
@@ -284,6 +254,20 @@
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04335",
    "themas": [],
    "kerncommissie": true
+  },
+  {
+   "id": "5246fbf47bb84d9f",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Slagvaardige overheid en regeldruk (verplaatst naar 1 december 2026)",
+   "datum": "2026-10-28",
+   "tijd": "10:00",
+   "status": "Verplaatst",
+   "commissie": "vaste commissie voor Binnenlandse Zaken",
+   "commissie_afk": "BiZa",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A01369",
+   "themas": [],
+   "kerncommissie": false
   },
   {
    "id": "a3b01e8df49d368f",
@@ -416,6 +400,20 @@
    "commissie": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
    "commissie_afk": "LVVN",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04332",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "7bb01807fab90111",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Klimaatbeleid gebouwde omgeving - voortzetting",
+   "datum": "2026-10-29",
+   "tijd": "10:30",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Volkshuisvesting en Ruimtelijke Ordening",
+   "commissie_afk": "VRO",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07641",
    "themas": [],
    "kerncommissie": true
   },
@@ -748,6 +746,20 @@
    "commissie": "IenW",
    "themas": [],
    "bouw": false
+  },
+  {
+   "id": "8e57ce597b306edb",
+   "bron": "Tweede Kamer",
+   "soort": "Technische briefing",
+   "wat": "Update wetenschappelijk factsheet Toekomst verduurzaming luchtvaart ",
+   "datum": "2026-11-03",
+   "tijd": "16:30",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A03042",
+   "themas": [],
+   "kerncommissie": true
   },
   {
    "id": "c6eba191bf96863e",
@@ -1480,6 +1492,20 @@
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05439",
    "themas": [],
    "kerncommissie": true
+  },
+  {
+   "id": "a16879315c1b5743",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Slagvaardige overheid en regeldruk ",
+   "datum": "2026-12-01",
+   "tijd": "17:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Binnenlandse Zaken",
+   "commissie_afk": "BiZa",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07735",
+   "themas": [],
+   "kerncommissie": false
   },
   {
    "id": "33287fdc236e0a9f",
