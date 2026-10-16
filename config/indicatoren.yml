@@ -11,7 +11,7 @@ dagen_tussen_updates: 28
 # die cijfers komen daarom uit de publicaties van CBS en de Zoogdiervereniging.
 cbs_tabellen:
   - {id: "84498NED", naam: Broedvogels}
-  - {id: "83668NED", naam: Bouwvergunningen woonruimten, alleen_nederland: true}
+  - {id: "83671NED", naam: Bouwvergunningen woonruimten, alleen_nederland: true}
 
 cbs_zoeken: ["Living Planet", "Vlinders", "Vleermuizen", "broedvogels", "Bouwvergunningen woonruimten"]
 
