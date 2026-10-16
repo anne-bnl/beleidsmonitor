@@ -15,4 +15,9 @@ cbs_tabellen:
 
 cbs_zoeken: ["Living Planet", "Vlinders", "Vleermuizen", "broedvogels", "Bouwvergunningen woonruimten"]
 
+# Cijfertabellen achter grafieken van het Compendium voor de Leefomgeving (PBL)
+pbl_infographics:
+  - {id: "1578_001g_clo_06_nl", naam: Zoetwatervissen}
+  - {id: "1584_001g_clo_04_nl", naam: Zeevissen}
+
 knmi_station: 260

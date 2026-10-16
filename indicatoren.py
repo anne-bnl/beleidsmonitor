@@ -141,6 +141,48 @@ def knmi_jaarreeks(station):
     return reeks
 
 
+PBL = "https://data.pbl.nl/api/embed/v2/infographics/downloads/{id}.xlsx"
+
+
+def xlsx_rijen(inhoud):
+    """Leest alle werkbladen van een xlsx-bestand met alleen de standaardbibliotheek."""
+    import re
+    import xml.etree.ElementTree as ET
+    z = zipfile.ZipFile(io.BytesIO(inhoud))
+    ns = {"m": "http://schemas.openxmlformats.org/spreadsheetml/2006/main"}
+    gedeeld = []
+    if "xl/sharedStrings.xml" in z.namelist():
+        for si in ET.fromstring(z.read("xl/sharedStrings.xml")).findall("m:si", ns):
+            gedeeld.append("".join(t.text or "" for t in si.iter("{%s}t" % ns["m"])))
+    bladen = {}
+    for naam in sorted(n for n in z.namelist() if re.match(r"xl/worksheets/sheet\d+\.xml$", n)):
+        rijen = []
+        for row in ET.fromstring(z.read(naam)).iter("{%s}row" % ns["m"]):
+            rij = {}
+            for c in row.findall("m:c", ns):
+                ref = re.match(r"([A-Z]+)", c.get("r", "")).group(1)
+                v = c.find("m:v", ns)
+                if v is None:
+                    is_ = c.find("m:is", ns)
+                    rij[ref] = "".join(t.text or "" for t in is_.iter("{%s}t" % ns["m"])) if is_ is not None else None
+                    continue
+                if c.get("t") == "s":
+                    rij[ref] = gedeeld[int(v.text)]
+                else:
+                    try:
+                        rij[ref] = float(v.text)
+                    except (TypeError, ValueError):
+                        rij[ref] = v.text
+            rijen.append(rij)
+        bladen[naam.split("/")[-1]] = rijen[:400]
+    return bladen
+
+
+def pbl_infographic(ig):
+    r = haal(PBL.format(id=ig["id"]))
+    return {"naam": ig["naam"], "id": ig["id"], "bladen": xlsx_rijen(r.content)}
+
+
 def archief_per_maand():
     """Telt per maand de stukken in het archief van de monitor, per thema en per soort bron."""
     maanden = {}
@@ -188,6 +230,13 @@ def run(force=False):
         except Exception as e:
             uit["status"][t["naam"]] = f"fout: {type(e).__name__}: {str(e)[:200]}"
     uit["cbs_catalogus"] = cbs_zoek(cfg.get("cbs_zoeken", []))
+    uit["pbl"] = {}
+    for ig in cfg.get("pbl_infographics", []):
+        try:
+            uit["pbl"][ig["id"]] = pbl_infographic(ig)
+            uit["status"][ig["naam"]] = "ok"
+        except Exception as e:
+            uit["status"][ig["naam"]] = f"fout: {type(e).__name__}: {str(e)[:200]}"
     try:
         uit["knmi"] = knmi_jaarreeks(cfg.get("knmi_station", 260))
         uit["status"]["KNMI"] = f"ok ({len(uit['knmi'])} jaren)"
