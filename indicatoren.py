@@ -64,6 +64,8 @@ def cbs_tabel(cfg):
     uit["dimensies"] = dims
     # De ODataApi geeft maximaal 10.000 rijen en kent geen $skip; bij meer rijen volgt een vervolglink.
     params = {"$format": "json"}
+    if cfg.get("filter"):
+        filt = f"({filt}) and ({cfg['filter']})" if filt else cfg["filter"]
     if filt:
         params["$filter"] = filt
     try:
