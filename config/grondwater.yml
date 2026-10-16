@@ -1,0 +1,22 @@
+# Gebieden voor de grondwaterindicator (Rijksdriehoekscoördinaten, middelpunt).
+# Rond elk punt wordt een vierkant van 6 bij 6 km doorzocht op ondiepe BRO-peilbuizen.
+# type: hoog = hoge zandgronden (vrij afwaterend), laag = laag Nederland (peilbeheerst)
+
+max_filterdiepte_m: 5        # alleen filters tot 5 m onder maaiveld (ondiep grondwater)
+min_zomers: 15               # een buis telt mee bij minstens 15 gemeten zomers
+max_buizen_per_gebied: 25
+halve_breedte_m: 3000
+
+gebieden:
+  - {naam: Veluwe, x: 190000, y: 470000, type: hoog}
+  - {naam: Utrechtse Heuvelrug, x: 155000, y: 452000, type: hoog}
+  - {naam: Twente, x: 255000, y: 472000, type: hoog}
+  - {naam: Achterhoek, x: 243000, y: 443000, type: hoog}
+  - {naam: Drenthe, x: 233000, y: 555000, type: hoog}
+  - {naam: Oost-Brabant, x: 165000, y: 390000, type: hoog}
+  - {naam: Noord-Limburg, x: 205000, y: 380000, type: hoog}
+  - {naam: Friesland, x: 190000, y: 570000, type: laag}
+  - {naam: Noord-Holland, x: 115000, y: 515000, type: laag}
+  - {naam: Groene Hart, x: 110000, y: 450000, type: laag}
+  - {naam: Zeeland, x: 50000, y: 390000, type: laag}
+  - {naam: Flevoland, x: 160000, y: 500000, type: laag}

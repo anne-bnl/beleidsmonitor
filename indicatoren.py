@@ -225,7 +225,8 @@ def archief_per_maand():
 def run(force=False):
     cfg_tekst = (ROOT / "config" / "indicatoren.yml").read_text(encoding="utf-8")
     cfg = yaml.safe_load(cfg_tekst)
-    cfg_hash = hashlib.sha1(cfg_tekst.encode("utf-8")).hexdigest()[:12]
+    gw = ROOT / "config" / "grondwater.yml"
+    cfg_hash = hashlib.sha1((cfg_tekst + (gw.read_text(encoding="utf-8") if gw.exists() else "")).encode("utf-8")).hexdigest()[:12]
     nu = dt.datetime.now(dt.timezone.utc)
     if UIT.exists() and not force and os.environ.get("INDICATOREN", "").lower() != "ja":
         try:
@@ -258,6 +259,12 @@ def run(force=False):
         uit["status"]["KNMI"] = f"ok ({len(uit['knmi'])} jaren)"
     except Exception as e:
         uit["status"]["KNMI"] = f"fout: {type(e).__name__}: {str(e)[:200]}"
+    try:
+        import grondwater
+        grondwater.run()
+        uit["status"]["Grondwater (BRO)"] = "ok"
+    except Exception as e:
+        uit["status"]["Grondwater (BRO)"] = f"fout: {type(e).__name__}: {str(e)[:200]}"
     try:
         uit["monitor_per_maand"] = archief_per_maand()
     except Exception as e:
