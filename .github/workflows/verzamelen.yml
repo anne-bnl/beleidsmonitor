@@ -15,12 +15,13 @@ concurrency:
 
 jobs:
   verzamelen:
-    runs-on: ubuntu-latest
+    # Vastgezet op Ubuntu 24.04, zodat de overstap van GitHub naar Ubuntu 26 de browseronderdelen niet breekt
+    runs-on: ubuntu-24.04
     timeout-minutes: 60
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
           cache: pip
