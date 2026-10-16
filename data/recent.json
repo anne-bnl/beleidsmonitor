@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-10-16T11:37:36+00:00",
+ "bijgewerkt": "2026-10-16T11:54:46+00:00",
  "items": [
   {
    "id": "9cb75086ff9a87d9",
@@ -57222,46 +57222,6 @@
     "zaaknummer": null,
     "zaaksoort": null,
     "documentnummer": "2026D34609"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-13T17:51:15+00:00"
-  },
-  {
-   "id": "3cb4f27666a79128",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Amendement",
-   "titel": "Amendement van het lid Van Baarle over middelen voor de verdere totstandkoming van het Nationaal Monument Srebrenica Genocide ’95",
-   "samenvatting_bron": "Vaststelling van de begrotingsstaten van het Ministerie van Defensie (X) voor het jaar 2027. Zaak: Vaststelling van de begrotingsstaten van het Ministerie van Defensie (X) voor het jaar 2027 Amendement van het lid Van Baarle over middelen voor de verdere totstandkoming van het Nationaal Monument Srebrenica Genocide ’95",
-   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z21132&did=2026D48793",
-   "datum": "2026-10-05",
-   "versie": "480068ba666080b8",
-   "extra": {
-    "zaaknummer": "2026Z21132",
-    "zaaksoort": "Amendement",
-    "documentnummer": "2026D48793"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-13T17:51:15+00:00"
-  },
-  {
-   "id": "29d4f5ae273ccb29",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Amendement",
-   "titel": "Amendement van het lid Dobbe over een dekking uit het wervingsbudget van defensie om in te zetten voor de werving van zorgpersoneel",
-   "samenvatting_bron": "Vaststelling van de begrotingsstaten van het Ministerie van Defensie (X) voor het jaar 2027. Zaak: Vaststelling van de begrotingsstaten van het Ministerie van Defensie (X) voor het jaar 2027 Amendement van het lid Dobbe over een dekking uit het wervingsbudget van defensie om in te zetten voor de werving van zorgpersoneel",
-   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z21176&did=2026D48902",
-   "datum": "2026-10-06",
-   "versie": "e3535a872c3b5873",
-   "extra": {
-    "zaaknummer": "2026Z21176",
-    "zaaksoort": "Amendement",
-    "documentnummer": "2026D48902"
    },
    "status": "nieuw",
    "thema_treffers": {},
@@ -184127,32 +184087,6 @@
    }
   },
   {
-   "id": "275280e6acb70fdf",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Verslag (initiatief)wetsvoorstel (nader)",
-   "titel": "Verslag (blanco)",
-   "samenvatting_bron": "Goedkeuring van het op 4 december 2025 te Wenen tot stand gekomen Aanvullend Protocol bij de Overeenkomst tussen het Koninkrijk der Nederlanden en het Internationaal Atoomenergieagentschap inzake de toepassing van waarborgen met betrekking tot de Nederlandse Antillen in verband met het Verdrag inzake de niet-verspreiding van kernwapens en Aanvullend Protocol I bij het Verdrag tot verbod van kernwapens in Latijns-Amerika (Trb. 2026, 21 en Trb. 2026, 94) en de op 4 december 2025 te Wenen tot stand gekomen Briefwisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en het Internationaal Atoomenergieagentschap (IAEA) inzake de wijziging van Protocol I bij de Overeenkomst tussen het Koninkrijk der Nederlanden en het IAEA inzake de toepassing van waarborgen met betrekking tot de Nederlandse Antillen in verband met het Verdrag inzake de niet-verspreiding van kernwapens en Aanvullend Protocol I bij het Verdrag tot verbod van kernwapens in Latijns-Amerika (Trb. 2026, 20 en Trb. 2026, 93) . Zaak: Goedkeuring van het op 4 december 2025 te Wenen tot stand gekomen Aanvullend Protocol bij de Overeenkomst tussen het Koninkrijk der Nederlanden en het Internationaal Atoomenergieagentschap inzake de toepassing van waarborgen met betrekking tot de Nederlandse Antillen in verband met het Verdrag inzake de niet-verspreiding van kernwapens en Aanvullend Protocol I bij het Verdrag tot verbod van kernwapens in Latijns-Amerika (Trb. 2026, 21 en Trb. 2026, 94) en de op 4 december 2025 te",
-   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z17741&did=2026D51603",
-   "datum": "2026-10-15",
-   "versie": "053b6423441212ee",
-   "extra": {
-    "zaaknummer": "2026Z17741",
-    "zaaksoort": "Wetgeving",
-    "documentnummer": "2026D51603"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-16T04:46:03+00:00",
-   "document": {
-    "pagina's": 1,
-    "thema_treffers_tekst": {},
-    "fragmenten": [],
-    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000JxO]\u0000o\\a\u0001\u0000\u0000 \u0006\u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000MN0\u0010\u0012y\u0012,\u0010BM\u0000P^u&dOs6\u0016 +0I\b\u0000m7y}V4 od\u0005!*gs6\u0006,\u0001+]\"g\u0015-GƜ-\u0011 Q.9\u000f& F \u0005B\u0005Kg\u0011,Xg\u0001JQiL 7\u0006Б%fLx\u0014Hs7J#dl4q|\"\u0001KAD37>M\u0004U@2\u0015\u0001!\u0019_Pʐ5;s+K%i>8 1\u0015\u001bu\u0013#-b+3@7[Dj\u000fD]r5_.VKx31p ]t u\u0000sxr&(|\u0012q\u0002) C@uH>P\u0002?e\u0015љm!:o\u0013PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u0000U~\u0005\u0000\u0000\u0000\u0002\u0000\u0000 \u0000\b\u0002_rels/.rels \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
-   }
-  },
-  {
    "id": "f79dcc7a966f5cd5",
    "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
    "categorie": "Parlement",
@@ -184176,32 +184110,6 @@
     "thema_treffers_tekst": {},
     "fragmenten": [],
     "tekst_begin": " "
-   }
-  },
-  {
-   "id": "b7d4ac0314f3931c",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Verslag (initiatief)wetsvoorstel (nader)",
-   "titel": "37005 Verslag inzake Regels over de uitvoering van nucleaire waarborgverdragen in de openbare lichamen Bonaire, Sint Eustatius en Saba (Uitvoeringswet nucleaire waarborgverdragen BES)",
-   "samenvatting_bron": "Regels over de uitvoering van nucleaire waarborgverdragen in de openbare lichamen Bonaire, Sint Eustatius en Saba (Uitvoeringswet nucleaire waarborgverdragen BES). Zaak: Regels over de uitvoering van nucleaire waarborgverdragen in de openbare lichamen Bonaire, Sint Eustatius en Saba (Uitvoeringswet nucleaire waarborgverdragen BES) Regels over de uitvoering van nucleaire waarborgverdragen in de openbare lichamen Bonaire, Sint Eustatius en Saba (Uitvoeringswet nucleaire waarborgverdragen BES)",
-   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z17738&did=2026D51605",
-   "datum": "2026-10-15",
-   "versie": "3a51ef76f5b1b5ea",
-   "extra": {
-    "zaaknummer": "2026Z17738",
-    "zaaksoort": "Wetgeving",
-    "documentnummer": "2026D51605"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-16T04:46:03+00:00",
-   "document": {
-    "pagina's": 1,
-    "thema_treffers_tekst": {},
-    "fragmenten": [],
-    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0000\u0000\b\u0000xO]m@\u0001\u0000\u0000\u0006\u0000\u0000\u0013\u0000\u0000\u0000[Content_Types].xmlN@\u0010_[C\u00170PP/L< ,)4)S\u000e慏+8m\u001a\u0014\u0004n3L??åV |ȭIX/\bin +0\\?^9\b\u0011\u0019<\u0019h\u0011bP%^ W?N71\u0005~^qi \u000e lпL\u0014 %} T`mX\u0012&S\u0014Hu>7/JgMIYY\u00055oET? \u001b SF\u0017֧<$wlIj,K7筄\u0010舵\u0016h b =\u0001O'iS\u0004\\)\bP\u0007DR#ڹ=\u0002&gü=IFౘ(8}ƺ=\u0005:;:HeI#o]1f\u000ecr\u001a$y =!)`,\u0002Z}49\u0004(R? \u0007=2 7JХEUz|#y\u0019|\u0001PK\u0003\u0004\u0014\u0000\u0000\u0000\b\u0000\u0000\u0000!\u0000<]/\u0001\u0000\u0000s\u0003\u0000\u0000 \u0000\u0000\u0000_rels/.relsJ\u00031\u0010\u0005!供Hw{#BAAd}1 n2!I}{Ң+ڋ^f7'd6_}\u000flɧY\u0019ZIJ۶o䎳\u0010*b\u0018b\u000f1 N %btB\u0004١C: y\u00031 }+ \u000fhQ\u0014y~+o\u000f^ Q?^v9N#SAuͰmG\u000eڳt1:h3SeR ]V>\u0018eu\u000084u|X9iKRHE27F\u001b ƻ2 lb\u0017N\u0012W2#Q\u00184($hIŊ\u0011\u000ea\u0011pe\u0010\u0011L9@\u0004J X\u0007׌$&r,&\u0018\u0016D\u0014\u0002'\u0012 =PK\u0005]f<\u0007<_hdk\"Zi[XuOkg\u001bvbw8tk0A KD\u0006p\u0016PHӘd Y,Ɖdk$YL5 7מY50ޯxhV y.3l߯N|\u0017Iڞ FỒnCIer8\u0000}dH\u000e\u0017=uLCɻo\u000f:\u001a\u0012G\u00077: hwnGL͎,?{={׎tu˴v$$+>Kc $28a XZ\u0011YŹR2q=S\u0007f\u0005\u001b4H3 \u0012\u0007X d &P\u0019P :E ѵA/ǄF]. }G1gLGόi\u001b|uLe1=pnu )\u0007ó =' MB_ɘcJk,1y55q,\u000e6sUEFzV.\u0011!e12 όqBN\b'aFПxA+4! \u000e]\\\u0007\u0010,\u00041\u0012ad:|9\u000f]x&Ȅ\u0004m\u0006@dk[5ݱ`uvn\u0011\u001a%y|'M\u0013:Bzcڜȋ]\u0010 \u0001bE3FL\u0017%L8I$'J }\u0005D sMs Q\u0015,\u0007})T>\u0016\bXT~41 !\u0013\u0013P\bOC& \b'\u0013\u0018\u00115\u0010 \u0010\u000eJ\u0005.PITZFH\u000fYo]ncKsN\b.rQ\\X\u00168-LU7}röԏ+5G ;\u0015>\u0016^OU \u0003n\u0010`\bjrO5 =vFx/a4CNg؏08Kj !\u0007ҕi\u000e\u0015\u0018=3/Um{m6كM7k\u0016$\u0010m%p7t:o5́kh*U9sZFb\u001bkJzwh%\u001bxl\u0019^ \u001a{v~Mr2?tF8\u0013Nu\u0001\u0018GjZK\u0011`9̗z{Cr5S7g =Sh\u001ay> ιi `b\u0006@#\bI[m\u0004Wo {4\u0005kzm\u0011Gv%\"aQB\u0018zq dEE^b4YY\u0007 v2y\u00032\u0001EG6%0$Ir \u0011\bOp\u0018\u0018tNB5kHe ,\u0014\u0012 qh'`rTu*Ͳ8 1됅tBI{,4{ƚ6\\.+NH\u0016>eF&|Iu6 1\u0006R R\u00110\u0006eI l8 \u0018\u001a\u0019\u0016Us\u0007\u0005l:EVX\u0015`d#5Ut\"J\u0005bj-B9{6L\"UG \u001a%4YpP6\"\u0002 I\u0016S׎5\u001a\u0001\u0004p\"h\u001b3#kD\u0000*Y*#6E ^ ˚\u001a\u0010\u0001\u0013h$\u0012h\u0005"
    }
   },
   {
@@ -186261,32 +186169,6 @@
    }
   },
   {
-   "id": "2e429b0c2e457b79",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Brief commissie",
-   "titel": "Brief van de tijdelijke commissie Grondrechten en Constitutionele toetsing over een advies over het wetsvoorstel Intrekking van de Rijkswet van 10 februari 2017, houdende wijziging van de Rijkswet op het Nederlanderschap in verband met het intrekken van het Nederlanderschap in het belang van de nationale veiligheid (Stb. 2017, 52) en tot wijziging van de Wet op de inlichtingen- en veiligheidsdiens",
-   "samenvatting_bron": "Intrekking van de Rijkswet van 10 februari 2017, houdende wijziging van de Rijkswet op het Nederlanderschap in verband met het intrekken van het Nederlanderschap in het belang van de nationale veiligheid (Stb. 2017, 52) en tot wijziging van de Wet op de inlichtingen- en veiligheidsdiensten 2017. Zaak: Intrekking van de Rijkswet van 10 februari 2017, houdende wijziging van de Rijkswet op het Nederlanderschap in verband met het intrekken van het Nederlanderschap in het belang van de nationale veiligheid (Stb. 2017, 52) en tot wijziging van de Wet op de inlichtingen- en veiligheidsdiensten 2017 Brief van de tijdelijke commissie Grondrechten en Constitutionele toetsing over een advies over het wetsvoorstel Intrekking van de Rijkswet van 10 februari 2017, houdende wijziging van de Rijkswet op het Nederlanderschap in verband met het intrekken van het Nederlanderschap in het belang van de nationale veiligheid (Stb. 2017, 52) en tot wijziging van de Wet op de inlichtingen- en veiligheidsdiensten 2017",
-   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z22450&did=2026D51641",
-   "datum": "2026-10-15",
-   "versie": "22d9233252a291c2",
-   "extra": {
-    "zaaknummer": "2026Z22450",
-    "zaaksoort": "Brief van lid/fractie/commissie",
-    "documentnummer": "2026D51641"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-16T04:46:03+00:00",
-   "document": {
-    "pagina's": 1,
-    "thema_treffers_tekst": {},
-    "fragmenten": [],
-    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000jO]\u0010#\u0001\u0000\u0000\u0007\u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000KN0\u0010\u0012y\u0012\u0017\u0016\b>\u0016\u0002\u0004\u0017pI\u001bIH\\ɣ\u0001\u0014J6~Oxlt\u0010 g'0\u001b\u0004t +1OOl:~x\u0010\u0013jq(`D̜\u0007K\u0005#nÂ{! \u0002ht̥\b\u0016S \u001b z\u0000\u0003^SY1N\u0018q Q8f Z hK \u0017/}C6R]tIUbv\u0003<:;]U)^=8n/i6\u0018\u0000^Ǉ0V>'Y0\"V^8u\u0018 |%\u0003\u0001[Y * ,/6K̅%\u0016qO%Z*7&Hc>sf,p\\|\u0012_'ɜw y?X8\u00184q8uy\u0000ߛw\u0002d%<{-ߵ،7\u000e#g ?s Aq\u0011\u0001-}9~G \u0001mP]x\u000fP\u0001F0\"x1\u0007{\u000fv{\u000e 7\u0011xb0N3 \u0012W I\u001a\u000e\u0005Tm%jykus-K/[wiZy\u000fvew;V3 D\u0000׫nkZV{}YZe\\u^q]` c6-\u0017϶K5i5\u0003ˆv_'ǝγLϗW/WŇwnnoo_>}x\u000ew|կpӇϷ7#֛f５ۥ}\\\\U\"/z [LE7rW39gHbfRe0uN\u0004c]$5uu~y[%2랞_;'Eepr:>.*q^g\u0015꥞`;Я`k\u0005%gɾ<ۏ\bM;G`ʾelԸ%^XУe}z\u0014Z,ȕwN8I>W]QlWb`\u001b5gIW{sg\u0010H\u0012_0pc\u000en0\b\bo\u0010+): L4)X8`Ps\u0005wWgX0w&`Z \u0014N\b?s\u0018p\u00161xמ\u0018M-\u0004 Ѿ \u000eVf\u0012ٖ_`0L1c >\u0001a\u000eAO|c p>\u0018l;GU\u0000U|!9H5[\u0010qd\u0004Xx\u000e PE\u000fsf`k;&7\" äx\u0000yN|bB>r DHI49iĠg\u001a\u00050G4L \u0012'I\u0014|\u0007 <\u000f_\u0015/~ e>r62[\u001b4\u0003d\u00112p\u0007[\u0010Q\u000e S\u0007$Sz\u0011\u000ev\u0000e-*YHB \\\" "
-   }
-  },
-  {
    "id": "e3d5bb43e5b1999d",
    "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
    "categorie": "Parlement",
@@ -186414,32 +186296,6 @@
     "thema_treffers_tekst": {},
     "fragmenten": [],
     "tekst_begin": "Education at a Glance 2026 O ECD Indicators Education at a Glance 2 026 OECD INDICATORS This work is issued under the responsibility of the Secretary‑General of the OECD, and does not necessarily reflect the official views of OECD Member countries. This document, as well as any data and map included herein, are without prejudice to the status of or sovereignty over any territory, to the delimitation of international frontiers and boundaries and to the name of any territory, city or area. The statistical data for Israel are supplied by and under the responsibility of the relevant Israeli authorities. The use of such data by the OECD is without prejudice to the status of the Golan Heights, East Jerusalem and Israeli settlements in the West Bank under the terms of international law. Note by the Republic of Türkiye The information in this document with reference to “Cyprus” relates to the southern part of the Island. There is no single authority representing both Turkish and Greek Cypriot people on the Island. Türkiye recognises the Turkish Republic of Northern Cyprus (TRNC). Until a lasting and equitable solution is found within the context of the United Nations, Türkiye shall preserv"
-   }
-  },
-  {
-   "id": "45e2a9c782141511",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Brief commissie",
-   "titel": "Brief van de tijdelijke commissie Grondrechten en Constitutionele toetsing over een advies over het wetsvoorstel Wijziging van de Wet op het primair onderwijs, de Wet op de expertisecentra, de Wet voortgezet onderwijs 2020, de Wet primair onderwijs BES en de Wet medezeggenschapop scholen in verband met de invoering van de mogelijkheid voor het funderend onderwijs bijzondere verplichtingen te verbi",
-   "samenvatting_bron": "Wijziging van de Wet op het primair onderwijs, de Wet op de expertisecentra, de Wet voortgezet onderwijs 2020, de Wet primair onderwijs BES en de Wet medezeggenschapop scholen in verband met de invoering van de mogelijkheid voor het funderend onderwijs bijzondere verplichtingen te verbinden aan aanvullende bekostiging bij bijzondere ontwikkelingen (gerichte bekostiging). Zaak: Wijziging van de Wet op het primair onderwijs, de Wet op de expertisecentra, de Wet voortgezet onderwijs 2020, de Wet primair onderwijs BES en de Wet medezeggenschapop scholen in verband met de invoering van de mogelijkheid voor het funderend onderwijs bijzondere verplichtingen te verbinden aan aanvullende bekostiging bij bijzondere ontwikkelingen (gerichte bekostiging) Wijziging van de Wet op het primair onderwijs, de Wet op de expertisecentra, de Wet voortgezet onderwijs 2020, de Wet primair onderwijs BES en de Wet medezeggenschap op scholen in verband met de invoering van de mogelijkheid voor het funderend onderwijs bijzondere verplichtingen te verbinden aan aanvullende bekostiging bij bijzondere ontwikkelingen (gerichte bekostiging)",
-   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z15282&did=2026D51649",
-   "datum": "2026-10-15",
-   "versie": "da75e621d6ccf8d5",
-   "extra": {
-    "zaaknummer": "2026Z15282",
-    "zaaksoort": "Wetgeving",
-    "documentnummer": "2026D51649"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-16T04:46:03+00:00",
-   "document": {
-    "pagina's": 1,
-    "thema_treffers_tekst": {},
-    "fragmenten": [],
-    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000O]\u0010#\u0001\u0000\u0000\u0007\u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000KN0\u0010\u0012y\u0012\u0017\u0016\b>\u0016\u0002\u0004\u0017pI\u001bIH\\ɣ\u0001\u0014J6~Oxlt\u0010 g'0\u001b\u0004t +1OOl:~x\u0010\u0013jq(`D̜\u0007K\u0005#nÂ{! \u0002ht̥\b\u0016S \u001b ;;0ͻ*sǯ_jBv\u0010Q8H,w \u001a Ff&`\u0016;WjM풗hp뵋B\u0016ۭ\u0015V\u0013o҅7MO\"\u000f\u001agr+2 @g\\QX6Nu\u001b\u0007bwc;ʴsl |uiޫN\u0003N[5g\u0000\u0015\u0018l\\nq\"#0- :-2j0q۔#o6\u000f&EkvSy|\u0001Tdיc\u0000'\u0006onFJE? `\u0007z\u0002 o\u0001 xf=N\u000fY\u000e*}\u0013o\u0006TH[ywxc.N}e.xӥ iO{B$\"\u001571\u000fON/.*圮_v.7)\u00121\u0011CbK\u0010~# p :ǧ)Nj;[r\b}h G \u0005z.Ϥ*3J6\bT\u0004̼\u000fr}R8#Eg9j.ӧ'2ၙ\biTt-\u00144֢8|G 3\u0015\u0006#OSh ћ1ht@\u000f].Yu:yQ7\u000f\\dnoȼ\u0015J`\u00142ɝwc\u000f \u0017\u0014xx~vy־<_Xޝ\u001bw~nlo^^\u0018q.>C\u0015m{ӛ=xc\u0001h)b_k<\u0000\u0012A&\u0007\u0019ޝ)#y\u000fW=gHh$c\"?T\bO\u00041}0 _\b♒3Hd\u0018|%a f8ŏIxj FO$6`CC𙜮\u000f!迳i\b=\u000fDe9O\u001b46\u00032\u000f&\u0013>5;Aw^\u0017F;4 w v|w \u000e|u|ݻ:霻|~ pʅ,&uv^&3!agBN`>N 9q'\"ZU\u0001zD\u0001v=|UG@볣|N/'\u00176_wPxuk F'ȡջxFy\\*ɛ7,xյ~z./7zyͿʻO7?\\y?|/W < >/7 ?\\\b/}\u000fEg^J5r̹bSy{xq7[O>翅ҨQ=\u0005KѾiwC\u0007nM:O\u0017Y{|vQEi˗Y>>"
    }
   },
   {
@@ -199026,32 +198882,6 @@
    }
   },
   {
-   "id": "35b8a7f7468569f3",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Verslag (initiatief)wetsvoorstel (nader)",
-   "titel": "Verslag",
-   "samenvatting_bron": "Wijziging van de Kaderwet overige JenV-subsidies in verband met het creëren van een wettelijke grondslag voor het verstrekken van specifieke uitkeringen en bijzondere uitkeringen. Zaak: Wijziging van de Kaderwet overige JenV-subsidies in verband met het creëren van een wettelijke grondslag voor het verstrekken van specifieke uitkeringen en bijzondere uitkeringen Wijziging van de Kaderwet overige JenV-subsidies in verband met het creëren van een wettelijke grondslag voor het verstrekken van specifieke uitkeringen en bijzondere uitkeringen",
-   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z18763&did=2026D51814",
-   "datum": "2026-10-16",
-   "versie": "b85ef23219c074ed",
-   "extra": {
-    "zaaknummer": "2026Z18763",
-    "zaaksoort": "Wetgeving",
-    "documentnummer": "2026D51814"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-16T11:28:03+00:00",
-   "document": {
-    "pagina's": 1,
-    "thema_treffers_tekst": {},
-    "fragmenten": [],
-    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000jP]ق\u0017y\u0001\u0000\u0000 \b\u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000KN0\u0010\u0012y\u001a\u0017\u0016\b>\u0016\u0002\u0004\u0017pI\u001bIH\\ɣ\u0001\u0014J6~#m26:YASvY\u0002V:UŔN|6yx\u0010\u0013jqʖ(`DL\u0007K\u0005#^Â{! \u0002x|̥\b\u0016GXy rQjL.s #KΚƊ5e{]HT+QF-!%e\u0013\u0007\u0012\u0011Q~$4P(HD\u001ba?r4$MlH+7 \u0018iF]ň \u0006 t)\"h ݁\u000f\u0018\"Aܟ b|1O;\u0010\u001bY\u0000\u0006 vm\u0012\u0010\u000e\u0003]\u0002\u0010Pd\u001aZ@:y?f+ZJ=%{\bXv$W\b5@\u001a.ˈol~A\u0006\u0014JW\"\u0003}isC\u0006R +O$\u0007PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u0000<]/\u0001\u0000\u0000s\u0003\u0000\u0000 \u0000\b\u0002_rels/.rels \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
-   }
-  },
-  {
    "id": "50501904a4bc4f33",
    "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
    "categorie": "Parlement",
@@ -206529,26 +206359,6 @@
    }
   },
   {
-   "id": "230fd758299e9f07",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Agenda plenaire vergadering",
-   "titel": "Langetermijnagenda inclusief stemmingslijst week 44",
-   "samenvatting_bron": "None. Zaak:",
-   "url": "https://www.tweedekamer.nl/downloads/document?id=39557120-0f45-4308-91c1-6cf07abc407a",
-   "datum": "2026-10-16",
-   "versie": "b7b18c347ebabe73",
-   "extra": {
-    "zaaknummer": null,
-    "zaaksoort": null,
-    "documentnummer": "2026D51817"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-16T11:37:36+00:00"
-  },
-  {
    "id": "a15dc15fbd3e24cd",
    "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
    "categorie": "Parlement",
@@ -207354,6 +207164,228 @@
     ]
    },
    "verzameld_op": "2026-10-16T11:37:36+00:00"
+  },
+  {
+   "id": "45e2a9c782141511",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Brief commissie",
+   "titel": "Brief van de tijdelijke commissie Grondrechten en Constitutionele toetsing over een advies over het wetsvoorstel Wijziging van de Wet op het primair onderwijs, de Wet op de expertisecentra, de Wet voortgezet onderwijs 2020, de Wet primair onderwijs BES en de Wet medezeggenschapop scholen in verband met de invoering van de mogelijkheid voor het funderend onderwijs bijzondere verplichtingen te verbi",
+   "samenvatting_bron": "Wijziging van de Wet op het primair onderwijs, de Wet op de expertisecentra, de Wet voortgezet onderwijs 2020, de Wet primair onderwijs BES en de Wet medezeggenschapop scholen in verband met de invoering van de mogelijkheid voor het funderend onderwijs bijzondere verplichtingen te verbinden aan aanvullende bekostiging bij bijzondere ontwikkelingen (gerichte bekostiging). Zaak: Wijziging van de Wet op het primair onderwijs, de Wet op de expertisecentra, de Wet voortgezet onderwijs 2020, de Wet primair onderwijs BES en de Wet medezeggenschapop scholen in verband met de invoering van de mogelijkheid voor het funderend onderwijs bijzondere verplichtingen te verbinden aan aanvullende bekostiging bij bijzondere ontwikkelingen (gerichte bekostiging) Wijziging van de Wet op het primair onderwijs, de Wet op de expertisecentra, de Wet voortgezet onderwijs 2020, de Wet primair onderwijs BES en de Wet medezeggenschap op scholen in verband met de invoering van de mogelijkheid voor het funderend onderwijs bijzondere verplichtingen te verbinden aan aanvullende bekostiging bij bijzondere ontwikkelingen (gerichte bekostiging)",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z15282&did=2026D51649",
+   "datum": "2026-10-15",
+   "versie": "8268a4572d4c5654",
+   "extra": {
+    "zaaknummer": "2026Z15282",
+    "zaaksoort": "Wetgeving",
+    "documentnummer": "2026D51649"
+   },
+   "status": "gewijzigd",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T11:54:46+00:00",
+   "document": {
+    "pagina's": 1,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000lP]\u0010#\u0001\u0000\u0000\u0007\u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000KN0\u0010\u0012y\u0012\u0017\u0016\b>\u0016\u0002\u0004\u0017pI\u001bIH\\ɣ\u0001\u0014J6~Oxlt\u0010 g'0\u001b\u0004t +1OOl:~x\u0010\u0013jq(`D̜\u0007K\u0005#nÂ{! \u0002ht̥\b\u0016S \u001b ;;0ͻ*sǯ_jBv\u0010Q8H,w \u001a Ff&`\u0016;WjM풗hp뵋B\u0016ۭ\u0015V\u0013o҅7MO\"\u000f\u001agr+2 @g\\QX6Nu\u001b\u0007bwc;ʴsl |uiޫN\u0003N[5g\u0000\u0015\u0018l\\nq\"#0- :-2j0q۔#o6\u000f&EkvSy|\u0001Tdיc\u0000'\u0006onFJE? `\u0007z\u0002 o\u0001 xf=N\u000fY\u000e*}\u0013o\u0006TH[ywxc.N}e.xӥ iO{B$\"\u001571\u000fON/.*圮_v.7)\u00121\u0011CbK\u0010~# p :ǧ)Nj;[r\b}h G \u0005z.Ϥ*3J6\bT\u0004̼\u000fr}R8#Eg9j.ӧ'2ၙ\biTt-\u00144֢8|G 3\u0015\u0006#OSh ћ1ht@\u000f].Yu:yQ7\u000f\\dnoȼ\u0015J`\u00142ɝwc\u000f \u0017\u0014xx~vy־<_Xޝ\u001bw~nlo^^\u0018q.>C\u0015m{ӛ=xc\u0001h)b_k<\u0000\u0012A&\u0007\u0019ޝ)#y\u000fW=gHh$c\"?T\bO\u00041}0 _\b♒3Hd\u0018|%a f8ŏIxj FO$6`CC𙜮\u000f!迳i\b=\u000fDe9O\u001b46\u00032\u000f&\u0013>5;Aw^\u0017F;4 w v|w \u000e|u|ݻ:霻|~ pʅ,&uv^&3!agBN`>N 9q'\"ZU\u0001zD\u0001v=|UG@볣|N/'\u00176_wPxuk F'ȡջxFy\\*ɛ7,xյ~z./7zyͿʻO7?\\y?|/W < >/7 ?\\\b/}\u000fEg^J5r̹bSy{xq7[O>翅ҨQ=\u0005KѾiwC\u0007nM:O\u0017Y{|vQEi˗Y>"
+   }
+  },
+  {
+   "id": "b7d4ac0314f3931c",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Verslag (initiatief)wetsvoorstel (nader)",
+   "titel": "37005 Verslag inzake Regels over de uitvoering van nucleaire waarborgverdragen in de openbare lichamen Bonaire, Sint Eustatius en Saba (Uitvoeringswet nucleaire waarborgverdragen BES)",
+   "samenvatting_bron": "Regels over de uitvoering van nucleaire waarborgverdragen in de openbare lichamen Bonaire, Sint Eustatius en Saba (Uitvoeringswet nucleaire waarborgverdragen BES). Zaak: Regels over de uitvoering van nucleaire waarborgverdragen in de openbare lichamen Bonaire, Sint Eustatius en Saba (Uitvoeringswet nucleaire waarborgverdragen BES) Regels over de uitvoering van nucleaire waarborgverdragen in de openbare lichamen Bonaire, Sint Eustatius en Saba (Uitvoeringswet nucleaire waarborgverdragen BES)",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z17738&did=2026D51605",
+   "datum": "2026-10-15",
+   "versie": "e5bc2779cf8f3e64",
+   "extra": {
+    "zaaknummer": "2026Z17738",
+    "zaaksoort": "Wetgeving",
+    "documentnummer": "2026D51605"
+   },
+   "status": "gewijzigd",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T11:54:46+00:00",
+   "document": {
+    "pagina's": 1,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0000\u0000\b\u0000lP]m@\u0001\u0000\u0000\u0006\u0000\u0000\u0013\u0000\u0000\u0000[Content_Types].xmlN@\u0010_[C\u00170PP/L< ,)4)S\u000e慏+8m\u001a\u0014\u0004n3L??åV |ȭIX/\bin +0\\?^9\b\u0011\u0019<\u0019h\u0011bP%^ W?N71\u0005~^qi \u000e lпL\u0014 %} T`mX\u0012&S\u0014Hu>7/JgMIYY\u00055oET? \u001b SF\u0017֧<$wlIj,K7筄\u0010舵\u0016h b =\u0001O'iS\u0004\\)\bP\u0007DR#ڹ=\u0002&gü=IFౘ(8}ƺ=\u0005:;:HeI#o]1f\u000ecr\u001a$y =!)`,\u0002Z}49\u0004(R? \u0007=2 7JХEUz|#y\u0019|\u0001PK\u0003\u0004\u0014\u0000\u0000\u0000\b\u0000\u0000\u0000!\u0000<]/\u0001\u0000\u0000s\u0003\u0000\u0000 \u0000\u0000\u0000_rels/.relsJ\u00031\u0010\u0005!供Hw{#BAAd}1 n2!I}{Ң+ڋ^f7'd6_}\u000flɧY\u0019ZIJ۶o䎳\u0010*b\u0018b\u000f1 N %btB\u0004١C: y\u00031 }+ \u000fhQ\u0014y~+o\u000f^ Q?^v9N#SAuͰmG\u000eڳt1:h3SeR ]V>\u0018eu\u000084u|X9iKRHE27F\u001b ƻ2 lb\u0017N\u0012W2#Q\u00184($hIŊ\u0011\u000ea\u0011pe\u0010\u0011L9@\u0004J X\u0007׌$&r,&\u0018\u0016D\u0014\u0002'\u0012 =PK\u0005]f<\u0007<_hdk\"Zi[XuOkg\u001bvbw8tk0A KD\u0006p\u0016PHӘd Y,Ɖdk$YL5 7מY50ޯxhV y.3l߯N|\u0017Iڞ FỒnCIer8\u0000}dH\u000e\u0017=uLCɻo\u000f:\u001a\u0012G\u00077: hwnGL͎,?{={׎tu˴v$$+>Kc $28a XZ\u0011YŹR2q=S\u0007f\u0005\u001b4H3 \u0012\u0007X d &P\u0019P :E ѵA/ǄF]. }G1gLGόi\u001b|uLe1=pnu )\u0007ó =' MB_ɘcJk,1y55q,\u000e6sUEFzV.\u0011!e12 όqBN\b'aFПxA+4! \u000e]\\\u0007\u0010,\u00041\u0012ad:|9\u000f]x&Ȅ\u0004m\u0006@dk[5ݱ`uvn\u0011\u001a%y|'M\u0013:Bzcڜȋ]\u0010 \u0001bE3FL\u0017%L8I$'J }\u0005D sMs Q\u0015,\u0007})T>\u0016\bXT~41 !\u0013\u0013P\bOC& \b'\u0013\u0018\u00115\u0010 \u0010\u000eJ\u0005.PITZFH\u000fYo]ncKsN\b.rQ\\X\u00168-LU7}röԏ+5G ;\u0015>\u0016^OU \u0003n\u0010`\bjrO5 =vFx/a4CNg؏08Kj !\u0007ҕi\u000e\u0015\u0018=3/Um{m6كM7k\u0016$\u0010m%p7t:o5́kh*U9sZFb\u001bkJzwh%\u001bxl\u0019^ \u001a{v~Mr2?tF8\u0013Nu\u0001\u0018GjZK\u0011`9̗z{Cr5S7g =Sh\u001ay> ιi `b\u0006@#\bI[m\u0004Wo {4\u0005kzm\u0011Gv%\"aQB\u0018zq dEE^b4YY\u0007 v2y\u00032\u0001EG6%0$Ir \u0011\bOp\u0018\u0018tNB5kHe ,\u0014\u0012 qh'`rTu*Ͳ8 1됅tBI{,4{ƚ6\\.+NH\u0016>eF&|Iu6 1\u0006R R\u00110\u0006eI l8 \u0018\u001a\u0019\u0016Us\u0007\u0005l:EVX\u0015`d#5Ut\"J\u0005bj-B9{6L\"UG \u001a%4YpP6\"\u0002 I\u0016S׎5\u001a\u0001\u0004p\"h\u001b3#kD\u0000*Y*#6E ^ ˚\u001a\u0010\u0001\u0013h$\u0012h\u0005"
+   }
+  },
+  {
+   "id": "230fd758299e9f07",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Agenda plenaire vergadering",
+   "titel": "Langetermijnagenda inclusief stemmingslijst week 44",
+   "samenvatting_bron": "None. Zaak:",
+   "url": "https://www.tweedekamer.nl/downloads/document?id=39557120-0f45-4308-91c1-6cf07abc407a",
+   "datum": "2026-10-16",
+   "versie": "30d6cda82e10f8af",
+   "extra": {
+    "zaaknummer": null,
+    "zaaksoort": null,
+    "documentnummer": "2026D51817"
+   },
+   "status": "gewijzigd",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T11:54:46+00:00"
+  },
+  {
+   "id": "275280e6acb70fdf",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Verslag (initiatief)wetsvoorstel (nader)",
+   "titel": "Verslag (blanco)",
+   "samenvatting_bron": "Goedkeuring van het op 4 december 2025 te Wenen tot stand gekomen Aanvullend Protocol bij de Overeenkomst tussen het Koninkrijk der Nederlanden en het Internationaal Atoomenergieagentschap inzake de toepassing van waarborgen met betrekking tot de Nederlandse Antillen in verband met het Verdrag inzake de niet-verspreiding van kernwapens en Aanvullend Protocol I bij het Verdrag tot verbod van kernwapens in Latijns-Amerika (Trb. 2026, 21 en Trb. 2026, 94) en de op 4 december 2025 te Wenen tot stand gekomen Briefwisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en het Internationaal Atoomenergieagentschap (IAEA) inzake de wijziging van Protocol I bij de Overeenkomst tussen het Koninkrijk der Nederlanden en het IAEA inzake de toepassing van waarborgen met betrekking tot de Nederlandse Antillen in verband met het Verdrag inzake de niet-verspreiding van kernwapens en Aanvullend Protocol I bij het Verdrag tot verbod van kernwapens in Latijns-Amerika (Trb. 2026, 20 en Trb. 2026, 93) . Zaak: Goedkeuring van het op 4 december 2025 te Wenen tot stand gekomen Aanvullend Protocol bij de Overeenkomst tussen het Koninkrijk der Nederlanden en het Internationaal Atoomenergieagentschap inzake de toepassing van waarborgen met betrekking tot de Nederlandse Antillen in verband met het Verdrag inzake de niet-verspreiding van kernwapens en Aanvullend Protocol I bij het Verdrag tot verbod van kernwapens in Latijns-Amerika (Trb. 2026, 21 en Trb. 2026, 94) en de op 4 december 2025 te",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z17741&did=2026D51603",
+   "datum": "2026-10-15",
+   "versie": "23854db8076851a5",
+   "extra": {
+    "zaaknummer": "2026Z17741",
+    "zaaksoort": "Wetgeving",
+    "documentnummer": "2026D51603"
+   },
+   "status": "gewijzigd",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T11:54:46+00:00",
+   "document": {
+    "pagina's": 1,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000[mP]a>m\u0001\u0000\u0000S\u0006\u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Mn0\u0010\u0012y\u0012C\u0017UU\u0011XݶH\u0002ƙGu# $\u0010U\b\b-̼qpE\u0004 5)\u001b$}\u00166Sf\u0012GAՄ-\u0010#A.@X\u0007*Z 9wB~9~Kk\u0010 Xy\u0019rQ\u0016\u0018q\u0013 :gSWELJ ?(P=pPR d{h\u0016+!e\u0013\u0016ʅ 5 KG\u0013v7:>2&Wg<$MN y$y+!\u0004z/Hڊ\u0016:ALgIz}ֺ\"ঀp}|@$-\b + y7INS1+ u7\u0005\u000e:\u00189I\u0013o]1nTFvQu|zm$y_ iP&p\u0012%uK֧-\u0001g1I\u0004\u0002$.R5\u0011\"*JOHӘel,N}\u0016+l<>Q\u0016\u0007jjr,\u0003j}q*\u0002\u0017X\u0002?\\%v0t} \b ء݇2\u000e\u0015= ( u ҆!㐌HS|YJ\u0012\u0018 3 c\u0001M *1Yz\u0002)\u0016tD#*n\u0001S+\u0018L\u0011 \u001a!6\u0011 %f\u0001Ba :? ]D\u001a \u0001\u000eS]S2^PK$72a3P\u0001$g\u0005w}ߐ^Ѱ fG@5\u0013uLv\u0005<>rW͡nz}sWhJֳj۵~+q\u001bp\u0001] ʻ,\u0007,\u0014\u0000iL20\u0005d1N$[\u001376ن e&MU=\u0017\u0004<_x\u000fqժsh4֮\\xSA؞k9)]54\u000f:\u0015Sd\u0019,I֠3P]}ʽmǵ/Ty<$e\"Ix\u0007-Tעn_{>* .ETj\u0011*cB6^yBl-O+]A\u001ag\"$ Q ϥT\\ s^sw \u0011Je}9D$20Ձm⪵t\u0019P6\u0017Ԁw K`W)7X\u000f ˡoC4 P\u0013 8[dL ʸ\u0019g>r\"Q\u0018uk(Ǥ%#G \u00138YF`UoF\u0005I;$ Ј߀%9\u000f&v\u000e19~ȴ]\u0010926·wgvv{\u0007gR\u0018'Q\\Hhi\"v,CLN,E\u0002m6\u0007e\u00049z=E_I./\u0019f8R`#؟䓖-7X0' ʕ5g"
+   }
+  },
+  {
+   "id": "35b8a7f7468569f3",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Verslag (initiatief)wetsvoorstel (nader)",
+   "titel": "Verslag",
+   "samenvatting_bron": "Wijziging van de Kaderwet overige JenV-subsidies in verband met het creëren van een wettelijke grondslag voor het verstrekken van specifieke uitkeringen en bijzondere uitkeringen. Zaak: Wijziging van de Kaderwet overige JenV-subsidies in verband met het creëren van een wettelijke grondslag voor het verstrekken van specifieke uitkeringen en bijzondere uitkeringen Wijziging van de Kaderwet overige JenV-subsidies in verband met het creëren van een wettelijke grondslag voor het verstrekken van specifieke uitkeringen en bijzondere uitkeringen",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z18763&did=2026D51814",
+   "datum": "2026-10-16",
+   "versie": "7853f07b4cf9e93c",
+   "extra": {
+    "zaaknummer": "2026Z18763",
+    "zaaksoort": "Wetgeving",
+    "documentnummer": "2026D51814"
+   },
+   "status": "gewijzigd",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T11:54:46+00:00",
+   "document": {
+    "pagina's": 1,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000xmP]ق\u0017y\u0001\u0000\u0000 \b\u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000KN0\u0010\u0012y\u001a\u0017\u0016\b>\u0016\u0002\u0004\u0017pI\u001bIH\\ɣ\u0001\u0014J6~#m26:YASvY\u0002V:UŔN|6yx\u0010\u0013jqʖ(`DL\u0007K\u0005#^Â{! \u0002x|̥\b\u0016GXy rQjL.s #KΚƊ5e{]HT+QF-!%e\u0013\u0007\u0012\u0011Q~$4P(HD\u001ba?r4$MlH+7 \u0018iF]ň \u0006 t)\"h ݁\u000f\u0018\"Aܟ b|1O;\u0010\u001bY\u0000\u0006 vm\u0012\u0010\u000e\u0003]\u0002\u0010Pd\u001aZ@:y?f+ZJ=%{\bXv$W\b5@\u001a.ˈol~A\u0006\u0014JW\"\u0003}isC\u0006R +O$\u0007PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u0000<]/\u0001\u0000\u0000s\u0003\u0000\u0000 \u0000\b\u0002_rels/.rels \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+   }
+  },
+  {
+   "id": "2e429b0c2e457b79",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Brief commissie",
+   "titel": "Brief van de tijdelijke commissie Grondrechten en Constitutionele toetsing over een advies over het wetsvoorstel Intrekking van de Rijkswet van 10 februari 2017, houdende wijziging van de Rijkswet op het Nederlanderschap in verband met het intrekken van het Nederlanderschap in het belang van de nationale veiligheid (Stb. 2017, 52) en tot wijziging van de Wet op de inlichtingen- en veiligheidsdiens",
+   "samenvatting_bron": "Intrekking van de Rijkswet van 10 februari 2017, houdende wijziging van de Rijkswet op het Nederlanderschap in verband met het intrekken van het Nederlanderschap in het belang van de nationale veiligheid (Stb. 2017, 52) en tot wijziging van de Wet op de inlichtingen- en veiligheidsdiensten 2017. Zaak: Intrekking van de Rijkswet van 10 februari 2017, houdende wijziging van de Rijkswet op het Nederlanderschap in verband met het intrekken van het Nederlanderschap in het belang van de nationale veiligheid (Stb. 2017, 52) en tot wijziging van de Wet op de inlichtingen- en veiligheidsdiensten 2017 Brief van de tijdelijke commissie Grondrechten en Constitutionele toetsing over een advies over het wetsvoorstel Intrekking van de Rijkswet van 10 februari 2017, houdende wijziging van de Rijkswet op het Nederlanderschap in verband met het intrekken van het Nederlanderschap in het belang van de nationale veiligheid (Stb. 2017, 52) en tot wijziging van de Wet op de inlichtingen- en veiligheidsdiensten 2017",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z22450&did=2026D51641",
+   "datum": "2026-10-15",
+   "versie": "4eb61a0f4f04d344",
+   "extra": {
+    "zaaknummer": "2026Z22450",
+    "zaaksoort": "Brief van lid/fractie/commissie",
+    "documentnummer": "2026D51641"
+   },
+   "status": "gewijzigd",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T11:54:46+00:00",
+   "document": {
+    "pagina's": 1,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000mP]\u0010#\u0001\u0000\u0000\u0007\u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000KN0\u0010\u0012y\u0012\u0017\u0016\b>\u0016\u0002\u0004\u0017pI\u001bIH\\ɣ\u0001\u0014J6~Oxlt\u0010 g'0\u001b\u0004t +1OOl:~x\u0010\u0013jq(`D̜\u0007K\u0005#nÂ{! \u0002ht̥\b\u0016S \u001b z\u0000\u0003^SY1N\u0018q Q8f Z hK \u0017/}C6R]tIUbv\u0003<:;]U)^=8n/i6\u0018\u0000^Ǉ0V>'Y0\"V^8u\u0018 |%\u0003\u0001[Y * ,/6K̅%\u0016qO%Z*7&Hc>sf,p\\|\u0012_'ɜw y?X8\u00184q8uy\u0000ߛw\u0002d%<{-ߵ،7\u000e#g ?s Aq\u0011\u0001-}9~G \u0001mP]x\u000fP\u0001F0\"x1\u0007{\u000fv{\u000e 7\u0011xb0N3 \u0012W I\u001a\u000e\u0005Tm%jykus-K/[wiZy\u000fvew;V3 D\u0000׫nkZV{}YZe\\u^q]` c6-\u0017϶K5i5\u0003ˆv_'ǝγLϗW/WŇwnnoo_>}x\u000ew|կpӇϷ7#֛f５ۥ}\\\\U\"/z [LE7rW39gHbfRe0uN\u0004c]$5uu~y[%2랞_;'Eepr:>.*q^g\u0015꥞`;Я`k\u0005%gɾ<ۏ\bM;G`ʾelԸ%^XУe}z\u0014Z,ȕwN8I>W]QlWb`\u001b5gIW{sg\u0010H\u0012_0pc\u000en0\b\bo\u0010+): L4)X8`Ps\u0005wWgX0w&`Z \u0014N\b?s\u0018p\u00161xמ\u0018M-\u0004 Ѿ \u000eVf\u0012ٖ_`0L1c >\u0001a\u000eAO|c p>\u0018l;GU\u0000U|!9H5[\u0010qd\u0004Xx\u000e PE\u000fsf`k;&7\" äx\u0000yN|bB>r DHI49iĠg\u001a\u00050G4L \u0012'I\u0014|\u0007 <\u000f_\u0015/~ e>r62[\u001b4\u0003d\u00112p\u0007[\u0010Q\u000e S\u0007$Sz\u0011\u000ev\u0000e-*YHB \\\" "
+   }
+  },
+  {
+   "id": "3cb4f27666a79128",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Amendement",
+   "titel": "Amendement van het lid Van Baarle over middelen voor de verdere totstandkoming van het Nationaal Monument Srebrenica Genocide ’95",
+   "samenvatting_bron": "Vaststelling van de begrotingsstaten van het Ministerie van Defensie (X) voor het jaar 2027. Zaak: Vaststelling van de begrotingsstaten van het Ministerie van Defensie (X) voor het jaar 2027 Amendement van het lid Van Baarle over middelen voor de verdere totstandkoming van het Nationaal Monument Srebrenica Genocide ’95",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z21132&did=2026D48793",
+   "datum": "2026-10-05",
+   "versie": "cf96b97839b141f6",
+   "extra": {
+    "zaaknummer": "2026Z21132",
+    "zaaksoort": "Amendement",
+    "documentnummer": "2026D48793"
+   },
+   "status": "gewijzigd",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T11:54:46+00:00",
+   "document": {
+    "pagina's": 2,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "Tweede Kamer der Staten-Generaal 2 Vergaderjaar 2026–2027 37 020 X Vaststelling van de begrotingsstaten van het Ministerie van Defensie (X) voor het jaar 2027 Nr. 44 AMENDEMENT VAN HET LID VAN BAARLE Ontvangen 5 oktober 2026 De ondergetekende stelt het volgende amendement voor: De departementale begrotingsstaat wordt als volgt gewijzigd: I In artikel 9 Algemeen worden het verplichtingenbedrag en het uitgavenbedrag verhoogd met € 150 (x € 1.000). II In artikel 12 Nog onverdeeld worden het verplichtingenbedrag en het uitgavenbedrag verlaagd met € 150 (x € 1.000). Toelichting Met dit amendement wordt € 150.000 uit artikel 12 Nog onverdeeld overgeheveld naar artikel 9 Algemeen en beschikbaar gesteld voor de verdere totstandkoming van het Nationaal Monument Srebrenica Genocide »95 op het Churchillplein in Den Haag, tegenover het voormalige Joegoslaviëtribunaal. De aanvullende € 150.000 kan worden ingezet voor de verdere voorbereiding en realisatie van het monument, waaronder de ontwerp- wedstrijd, de verdere uitwerking van het ontwerp en andere noodzakelijke voorbereidingskosten. Daarbij kan een bijdrage worden verstrekt aan de stichting Nationaal Monument Srebrenica Genocide »95, die b"
+   }
+  },
+  {
+   "id": "29d4f5ae273ccb29",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Amendement",
+   "titel": "Amendement van het lid Dobbe over een dekking uit het wervingsbudget van defensie om in te zetten voor de werving van zorgpersoneel",
+   "samenvatting_bron": "Vaststelling van de begrotingsstaten van het Ministerie van Defensie (X) voor het jaar 2027. Zaak: Vaststelling van de begrotingsstaten van het Ministerie van Defensie (X) voor het jaar 2027 Amendement van het lid Dobbe over een dekking uit het wervingsbudget van defensie om in te zetten voor de werving van zorgpersoneel",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z21176&did=2026D48902",
+   "datum": "2026-10-06",
+   "versie": "2be8b56b8ab09bc6",
+   "extra": {
+    "zaaknummer": "2026Z21176",
+    "zaaksoort": "Amendement",
+    "documentnummer": "2026D48902"
+   },
+   "status": "gewijzigd",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-16T11:54:46+00:00",
+   "document": {
+    "pagina's": 2,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "Tweede Kamer der Staten-Generaal 2 Vergaderjaar 2026–2027 37 020 X Vaststelling van de begrotingsstaten van het Ministerie van Defensie (X) voor het jaar 2027 Nr. 45 AMENDEMENT VAN HET LID DOBBE Ontvangen 6 oktober 2026 De ondergetekende stelt het volgende amendement voor: De departementale begrotingsstaat wordt als volgt gewijzigd: I In artikel 2 Koninklijke Marine worden het verplichtingenbedrag en het uitgavenbedrag verlaagd met € 143 (x € 1.000). II In artikel 3 Koninklijke Landmacht worden het verplichtingen- bedrag en het uitgavenbedrag verlaagd met € 143 (x € 1.000). III In artikel 4 Koninklijke Luchtmacht worden het verplichtingen- bedrag en het uitgavenbedrag verlaagd met € 143 (x € 1.000). IV In artikel 5 Koninklijke Marechaussee worden het verplichtingen- bedrag en het uitgavenbedrag verlaagd met € 143 (x € 1.000). V In artikel 7 Commando Materieel en IT worden het verplichtingen- bedrag en het uitgavenbedrag verlaagd met € 142 (x € 1.000). VI In artikel 8 Defensie Ondersteuningscommando worden het verplichtingenbedrag en het uitgavenbedrag verlaagd met € 143 (x € 1.000). kst-37020-X-45 ISSN 0921 - 7371 ’s-Gravenhage 2026 Tweede Kamer, vergaderjaar 2026–2027, 37 020 X, n"
+   }
+  },
+  {
+   "id": "bb1b819d235b4c23",
+   "bron": "Binnenlands Bestuur",
+   "categorie": "Media",
+   "methode": "web",
+   "soort": "",
+   "titel": "kennispartners Bodemenergie krijgt een grotere rol. Is uw kennis klaar voor de praktijk? Van ondergronds ruimtegebruik tot vergunningverlening en handhaving.",
+   "samenvatting_bron": "",
+   "url": "https://www.binnenlandsbestuur.nl/ruimte-en-milieu/branchevereniging-bodemenergie/grotere-rol-bodemenergie-is-uw-kennis-klaar-voor-praktijk",
+   "datum": null,
+   "versie": "c75b5884223735bb",
+   "extra": {},
+   "status": "nieuw",
+   "thema_treffers": {
+    "Bouwcontext": [
+     "vergunningverlening"
+    ]
+   },
+   "verzameld_op": "2026-10-16T11:54:46+00:00"
   }
  ]
 }

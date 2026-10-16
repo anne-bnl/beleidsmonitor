@@ -1,6 +1,6 @@
 {
  "run": {
-  "run_op": "2026-10-16T11:37:36+00:00",
+  "run_op": "2026-10-16T11:54:46+00:00",
   "bronnen_totaal": 90,
   "bronnen_gelukt": 82,
   "bronnen_mislukt": [],
@@ -14,115 +14,63 @@
    "ICLEI Europe",
    "Mobilisation for the Environment (MOB)"
   ],
-  "documenten_gelezen": 12,
+  "documenten_gelezen": 7,
   "documenten_mislukt": [],
   "achterstand_documenten": 0,
   "vervallen_uit_oude_rij": 0,
-  "doorgelaten": 31
+  "doorgelaten": 9
  },
  "items": [
   {
-   "id": "7287f871a8ef134a",
+   "id": "45e2a9c782141511",
    "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
    "categorie": "Parlement",
    "methode": "api_tk_documenten",
-   "soort": "Motie",
-   "titel": "Motie van het lid Van Oosterhout over een bindend Europees uitfaseerpad met einddatum voor fossielebrandstofsubsidies als onderdeel van het post-2030-kader",
-   "samenvatting_bron": "Raad voor Vervoer, Telecommunicatie en Energie. Zaak: Raad voor Vervoer, Telecommunicatie en Energie Motie van het lid Van Oosterhout over een bindend Europees uitfaseerpad met einddatum voor fossielebrandstofsubsidies als onderdeel van het post-2030-kader",
-   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z22363&did=2026D51448",
+   "soort": "Brief commissie",
+   "titel": "Brief van de tijdelijke commissie Grondrechten en Constitutionele toetsing over een advies over het wetsvoorstel Wijziging van de Wet op het primair onderwijs, de Wet op de expertisecentra, de Wet voortgezet onderwijs 2020, de Wet primair onderwijs BES en de Wet medezeggenschapop scholen in verband met de invoering van de mogelijkheid voor het funderend onderwijs bijzondere verplichtingen te verbi",
+   "samenvatting_bron": "Wijziging van de Wet op het primair onderwijs, de Wet op de expertisecentra, de Wet voortgezet onderwijs 2020, de Wet primair onderwijs BES en de Wet medezeggenschapop scholen in verband met de invoering van de mogelijkheid voor het funderend onderwijs bijzondere verplichtingen te verbinden aan aanvullende bekostiging bij bijzondere ontwikkelingen (gerichte bekostiging). Zaak: Wijziging van de Wet op het primair onderwijs, de Wet op de expertisecentra, de Wet voortgezet onderwijs 2020, de Wet primair onderwijs BES en de Wet medezeggenschapop scholen in verband met de invoering van de mogelijkheid voor het funderend onderwijs bijzondere verplichtingen te verbinden aan aanvullende bekostiging bij bijzondere ontwikkelingen (gerichte bekostiging) Wijziging van de Wet op het primair onderwijs, de Wet op de expertisecentra, de Wet voortgezet onderwijs 2020, de Wet primair onderwijs BES en de Wet medezeggenschap op scholen in verband met de invoering van de mogelijkheid voor het funderend onderwijs bijzondere verplichtingen te verbinden aan aanvullende bekostiging bij bijzondere ontwikkelingen (gerichte bekostiging)",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z15282&did=2026D51649",
    "datum": "2026-10-15",
-   "versie": "124232802924d2a3",
+   "versie": "8268a4572d4c5654",
    "extra": {
-    "zaaknummer": "2026Z22363",
-    "zaaksoort": "Motie",
-    "documentnummer": "2026D51448"
+    "zaaknummer": "2026Z15282",
+    "zaaksoort": "Wetgeving",
+    "documentnummer": "2026D51649"
    },
    "status": "gewijzigd",
    "thema_treffers": {},
-   "verzameld_op": "2026-10-16T11:37:36+00:00",
+   "verzameld_op": "2026-10-16T11:54:46+00:00",
    "document": {
     "pagina's": 1,
     "thema_treffers_tekst": {},
     "fragmenten": [],
-    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000kP] !\u0016r\u0001\u0000\u0000J\u0007\u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000MN0\u0010\u0012e[%.,\u0010BmY\u0000 $~*\u0005\\{ZO\u0014Xp$$i B\u0014J6I4y{y !&8?(y\u0006Nx|/Q\u0015dt e8_ \u0013ƒX\u0001 U#9 \\<9 \u0010 \u0016Xy9(4]q\u0013 VYWEsm++l(I_T<\u0004\u0005GG'\u0015kuOZ\u0006]D]6\u0015My\u001bn=(biIZ쳅+\u0005l[^@J^)7\u0015˵\u001bt$|6 ! \u0010I\u0007ڹ fwa|2&Qޣ XwS=AλL\"@ X[wS 1h\u0007{6?fR4h1? ]b#\u0007;$O\b~  . ;E5 930N \u0018l[ R뢩<>\"Yg\u0003PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u00006j=\u0001\u0000\u0000\u0003\u0004\u0000\u0000 \u0000\b\u0002_rels/.rels \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000lP]\u0010#\u0001\u0000\u0000\u0007\u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000KN0\u0010\u0012y\u0012\u0017\u0016\b>\u0016\u0002\u0004\u0017pI\u001bIH\\ɣ\u0001\u0014J6~Oxlt\u0010 g'0\u001b\u0004t +1OOl:~x\u0010\u0013jq(`D̜\u0007K\u0005#nÂ{! \u0002ht̥\b\u0016S \u001b ;;0ͻ*sǯ_jBv\u0010Q8H,w \u001a Ff&`\u0016;WjM풗hp뵋B\u0016ۭ\u0015V\u0013o҅7MO\"\u000f\u001agr+2 @g\\QX6Nu\u001b\u0007bwc;ʴsl |uiޫN\u0003N[5g\u0000\u0015\u0018l\\nq\"#0- :-2j0q۔#o6\u000f&EkvSy|\u0001Tdיc\u0000'\u0006onFJE? `\u0007z\u0002 o\u0001 xf=N\u000fY\u000e*}\u0013o\u0006TH[ywxc.N}e.xӥ iO{B$\"\u001571\u000fON/.*圮_v.7)\u00121\u0011CbK\u0010~# p :ǧ)Nj;[r\b}h G \u0005z.Ϥ*3J6\bT\u0004̼\u000fr}R8#Eg9j.ӧ'2ၙ\biTt-\u00144֢8|G 3\u0015\u0006#OSh ћ1ht@\u000f].Yu:yQ7\u000f\\dnoȼ\u0015J`\u00142ɝwc\u000f \u0017\u0014xx~vy־<_Xޝ\u001bw~nlo^^\u0018q.>C\u0015m{ӛ=xc\u0001h)b_k<\u0000\u0012A&\u0007\u0019ޝ)#y\u000fW=gHh$c\"?T\bO\u00041}0 _\b♒3Hd\u0018|%a f8ŏIxj FO$6`CC𙜮\u000f!迳i\b=\u000fDe9O\u001b46\u00032\u000f&\u0013>5;Aw^\u0017F;4 w v|w \u000e|u|ݻ:霻|~ pʅ,&uv^&3!agBN`>N 9q'\"ZU\u0001zD\u0001v=|UG@볣|N/'\u00176_wPxuk F'ȡջxFy\\*ɛ7,xյ~z./7zyͿʻO7?\\y?|/W < >/7 ?\\\b/}\u000fEg^J5r̹bSy{xq7[O>翅ҨQ=\u0005KѾiwC\u0007nM:O\u0017Y{|vQEi˗Y>"
    }
   },
   {
-   "id": "7cc970bd749bed55",
+   "id": "b7d4ac0314f3931c",
    "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
    "categorie": "Parlement",
    "methode": "api_tk_documenten",
-   "soort": "Motie",
-   "titel": "Motie van het lid Van den Berg over niet akkoord gaan met een Europees bindend elektrificatiedoel",
-   "samenvatting_bron": "Raad voor Vervoer, Telecommunicatie en Energie. Zaak: Raad voor Vervoer, Telecommunicatie en Energie Motie van het lid Van den Berg over niet akkoord gaan met een Europees bindend elektrificatiedoel",
-   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z22364&did=2026D51449",
+   "soort": "Verslag (initiatief)wetsvoorstel (nader)",
+   "titel": "37005 Verslag inzake Regels over de uitvoering van nucleaire waarborgverdragen in de openbare lichamen Bonaire, Sint Eustatius en Saba (Uitvoeringswet nucleaire waarborgverdragen BES)",
+   "samenvatting_bron": "Regels over de uitvoering van nucleaire waarborgverdragen in de openbare lichamen Bonaire, Sint Eustatius en Saba (Uitvoeringswet nucleaire waarborgverdragen BES). Zaak: Regels over de uitvoering van nucleaire waarborgverdragen in de openbare lichamen Bonaire, Sint Eustatius en Saba (Uitvoeringswet nucleaire waarborgverdragen BES) Regels over de uitvoering van nucleaire waarborgverdragen in de openbare lichamen Bonaire, Sint Eustatius en Saba (Uitvoeringswet nucleaire waarborgverdragen BES)",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z17738&did=2026D51605",
    "datum": "2026-10-15",
-   "versie": "3746c99695fc25f1",
+   "versie": "e5bc2779cf8f3e64",
    "extra": {
-    "zaaknummer": "2026Z22364",
-    "zaaksoort": "Motie",
-    "documentnummer": "2026D51449"
+    "zaaknummer": "2026Z17738",
+    "zaaksoort": "Wetgeving",
+    "documentnummer": "2026D51605"
    },
    "status": "gewijzigd",
    "thema_treffers": {},
-   "verzameld_op": "2026-10-16T11:37:36+00:00",
+   "verzameld_op": "2026-10-16T11:54:46+00:00",
    "document": {
     "pagina's": 1,
     "thema_treffers_tekst": {},
     "fragmenten": [],
-    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000kP]P%tt\u0001\u0000\u0000\u0006\u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000MN0\u0010\u0012y[%nY v\u0001l\u0012\\u&E#{ҟH\\IFjB&R2<&_ F\u0017 |P֤l Y\u0004FLEJ;6߶\u000eBD&l9\u000fr Z:0Tɭ\u0002/\u0013], \\Z`0ʃMƏiCX9 **eJWM\\WQ\" s\u0002W&;@wX )랰T. TD]:\u0017 BS\u001b_[R49s湒+7筄\u0010^t\u0015-\u0019t\u0004\u0016\u0010 \u0010I\u0007ιa 0~w֢ǅ\u0014` ΗL\"ż>&@c :\u00068qJsqD \u0017?4f$@\u0000C\u0011} L8/·2 $b#!ِFID\u000fCUJW0\u001a\u0014y8rEb ` f<1 Z@\u0001@ U\u000e2R5 !\u001a~\u0018҆3\u000eCRבÐ:u\u0018Қ;e\u000eN #2!\u001b\u000f3ř\u0000.0O4O\u0002S1Z\u0018\u0007H$Fu\b\u0019F0\u0019I\u0016 z\u0019֍M7\u0015CӒcY &TZ\u001b2 =Ҽ$E\u0017 CI 2ۥY\u000e\u0006{Rm[hk3\u0001.Kkw#B5%D7\bsd\u0013 \u0005\u0005P\u0000L\u0016-` 9%NғV-$\u0002a,\u0000ӽ T!7r\u0002V\u0019x \\k 9r8\u0019\bZDm\u0001vFd? S`b| Q?1:-hqh!!\u0002\u0015c+8a'\u0010 \u0010\u00103Əx\u0000M\u0017WH(*\u0016 ǒҦD\u000ehJESNaqU;\u0005\u0004 d\u000f |G9Y2 >yIL ZOgYԐ\u001aBk\u000f=-LCo:NlrUW\u0018`F)\u0003ƟQ~\u00037$%\u0011ͲiD'\u0004 \u0004X\u0001$djoAx::%S9Pm\u0018*~B~?JL_wu׵<\u001bZډy'௚鹶kXw\u00196 ho 8?\u0004npieYjhm Xve}8\u0006} mG}\u0002*\u000e|u噩\u0018c/\u00151)9Ic\u0000u@9# j\u0019]2\u0002Tz\\J\u0011ҝ\u0000]5\u001b\u0017o_[\u0019hqbމyo.2 1\u000fP peTH aӂ\u000e]&_4\u0003_S\\w _\u0012\u0011Q"
-   }
-  },
-  {
-   "id": "0df7014d961871e4",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Motie",
-   "titel": "Motie van het lid Van den Berg over ETS2 betrekken bij de lopende herziening van het Europese emissiehandelssysteem",
-   "samenvatting_bron": "Raad voor Vervoer, Telecommunicatie en Energie. Zaak: Raad voor Vervoer, Telecommunicatie en Energie Motie van het lid Van den Berg over ETS2 betrekken bij de lopende herziening van het Europese emissiehandelssysteem",
-   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z22365&did=2026D51450",
-   "datum": "2026-10-15",
-   "versie": "12be142695875019",
-   "extra": {
-    "zaaknummer": "2026Z22365",
-    "zaaksoort": "Motie",
-    "documentnummer": "2026D51450"
-   },
-   "status": "gewijzigd",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-16T11:37:36+00:00",
-   "document": {
-    "pagina's": 1,
-    "thema_treffers_tekst": {},
-    "fragmenten": [],
-    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000kP]P%tt\u0001\u0000\u0000\u0006\u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000MN0\u0010\u0012y[%nY v\u0001l\u0012\\u&E#{ҟH\\IFjB&R2<&_ F\u0017 |P֤l Y\u0004FLEJ;6߶\u000eBD&l9\u000fr Z:0Tɭ\u0002/\u0013], \\Z`0ʃMƏiCX9 **eJWM\\WQ\" s\u0002W&;@wX )랰T. TD]:\u0017 BS\u001b_[R49s湒+7筄\u0010^t\u0015-\u0019t\u0004\u0016\u0010 \u0010I\u0007ιa 0~w֢ǅ\u0014` ΗL\"ż>&@c ftOXSOz\u0012#\u001a'SoʇgVO*8cҜ|= \u000f1\u0019ɹ\u0004\u0000yq0>ƜO\"\u001a \u0017 $bC1Y\u000eID\u000f}\u0005ɨ<0\u001a yi~XJ\u0019IA4/ɤ\u000eپhps܀oS}Z&w&Wf\u0001v\u0011]VoGQ\u0007k E\u0017\u0011\u0016l$`\u0004:K5sʕ;:\u0006@Y\u00010\"1X4\u0018Vяf\u00168IGZ58Fs8 3\u0007\u0010OwPF\u000eq\u0010簊\u001a\u001bE[\u0018\u0017EaGG js\u0000Kit7IvS\u0002>es6\u000e#gF\u0019Zr\u0018ڗ~w{@d,Iq0c<\u0001OE_F9exD@_ \u0018(\u0016* TJjƏԘ]*G$\\bO$\u0003\u001a?# ;O m=8O\u00131~=_WqAB<+::\u0018\u00066%IDS \u0003O9\u0015VLp\u0004XFJɐx@9Y2\u001ay\u0017IL:+F\u0018_\u0013\\3y$Ma6t֙Q̆ e<7wͣ \u0013 +\u0015}(e^Uyӣ4/\u0014/\u0017&/m{ ю,\b\u0000R \\?bu嚢+s &gp\u001b&Yx66Md(aL\u0005P&k\u0013\u0017\u0010S \u00177 \u0017DDM\u0018)\b'\u000f*\u001atw| $?zgZoSƹ .ޙ.>75\u0005|]\u0010KxogUX]E ?nu N/E\"Q\u00023#яU{Ƨ;Z\u0019T$\u000elK5U\u0013\u00196ږ~bD8ד4xi[?7Ί3q~dgqKm[.\u0019W6v fq1m?o2 lZ)D["
-   }
-  },
-  {
-   "id": "f5071a63d18994ad",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Motie",
-   "titel": "Motie van het lid Klos over inzicht geven in de verwachte ontwikkeling van de nettarieven en het aandeel daarvan in de energierekening van huishoudens en bedrijven",
-   "samenvatting_bron": "Raad voor Vervoer, Telecommunicatie en Energie. Zaak: Raad voor Vervoer, Telecommunicatie en Energie Motie van het lid Klos over inzicht geven in de verwachte ontwikkeling van de nettarieven en het aandeel daarvan in de energierekening van huishoudens en bedrijven",
-   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z22367&did=2026D51451",
-   "datum": "2026-10-15",
-   "versie": "01adf64ff3e3e3d4",
-   "extra": {
-    "zaaknummer": "2026Z22367",
-    "zaaksoort": "Motie",
-    "documentnummer": "2026D51451"
-   },
-   "status": "gewijzigd",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-16T11:37:36+00:00",
-   "document": {
-    "pagina's": 1,
-    "thema_treffers_tekst": {},
-    "fragmenten": [],
-    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0001lP]!<\u0001\u0000\u0000]\u0007\u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000MN0\u0010\u0012y\u0012,\u0010BM\u0000P .:\"=Xp$$i#TM&R2<&ߟ_Z\u0017\u0012|P֤l X\u0004FLyJ{6\u00197\u000eBD&l 8\u000fr\u0001Z:0Tɭ\u0002Ϲ\u0013Ć\u000e\u0006w\\Z`0ʃGOyMX9 **eJWu\\WA\"쩄s\u0002Η&CX )랰P.Pñt4a'|yA4\u0015 _6>㙕&ir\u0000s%Wn[ !н\"i+Z(s bJ=\u0003O듴\u0014\u00017\u0005#4g\u0003\") :w3`\u001b/nZ4\u0016ֺ\u0002L\u0013IP\u0015$\u0014H\u0014bdΝֳwRtd\u0007 UǰHPm ?2\u001776y \u0000PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u0000t@\u000e\u0001\u0000\u0000q\u0003\u0000\u0000 \u0000\b\u0002_rels/.rels \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0000\u0000\b\u0000lP]m@\u0001\u0000\u0000\u0006\u0000\u0000\u0013\u0000\u0000\u0000[Content_Types].xmlN@\u0010_[C\u00170PP/L< ,)4)S\u000e慏+8m\u001a\u0014\u0004n3L??åV |ȭIX/\bin +0\\?^9\b\u0011\u0019<\u0019h\u0011bP%^ W?N71\u0005~^qi \u000e lпL\u0014 %} T`mX\u0012&S\u0014Hu>7/JgMIYY\u00055oET? \u001b SF\u0017֧<$wlIj,K7筄\u0010舵\u0016h b =\u0001O'iS\u0004\\)\bP\u0007DR#ڹ=\u0002&gü=IFౘ(8}ƺ=\u0005:;:HeI#o]1f\u000ecr\u001a$y =!)`,\u0002Z}49\u0004(R? \u0007=2 7JХEUz|#y\u0019|\u0001PK\u0003\u0004\u0014\u0000\u0000\u0000\b\u0000\u0000\u0000!\u0000<]/\u0001\u0000\u0000s\u0003\u0000\u0000 \u0000\u0000\u0000_rels/.relsJ\u00031\u0010\u0005!供Hw{#BAAd}1 n2!I}{Ң+ڋ^f7'd6_}\u000flɧY\u0019ZIJ۶o䎳\u0010*b\u0018b\u000f1 N %btB\u0004١C: y\u00031 }+ \u000fhQ\u0014y~+o\u000f^ Q?^v9N#SAuͰmG\u000eڳt1:h3SeR ]V>\u0018eu\u000084u|X9iKRHE27F\u001b ƻ2 lb\u0017N\u0012W2#Q\u00184($hIŊ\u0011\u000ea\u0011pe\u0010\u0011L9@\u0004J X\u0007׌$&r,&\u0018\u0016D\u0014\u0002'\u0012 =PK\u0005]f<\u0007<_hdk\"Zi[XuOkg\u001bvbw8tk0A KD\u0006p\u0016PHӘd Y,Ɖdk$YL5 7מY50ޯxhV y.3l߯N|\u0017Iڞ FỒnCIer8\u0000}dH\u000e\u0017=uLCɻo\u000f:\u001a\u0012G\u00077: hwnGL͎,?{={׎tu˴v$$+>Kc $28a XZ\u0011YŹR2q=S\u0007f\u0005\u001b4H3 \u0012\u0007X d &P\u0019P :E ѵA/ǄF]. }G1gLGόi\u001b|uLe1=pnu )\u0007ó =' MB_ɘcJk,1y55q,\u000e6sUEFzV.\u0011!e12 όqBN\b'aFПxA+4! \u000e]\\\u0007\u0010,\u00041\u0012ad:|9\u000f]x&Ȅ\u0004m\u0006@dk[5ݱ`uvn\u0011\u001a%y|'M\u0013:Bzcڜȋ]\u0010 \u0001bE3FL\u0017%L8I$'J }\u0005D sMs Q\u0015,\u0007})T>\u0016\bXT~41 !\u0013\u0013P\bOC& \b'\u0013\u0018\u00115\u0010 \u0010\u000eJ\u0005.PITZFH\u000fYo]ncKsN\b.rQ\\X\u00168-LU7}röԏ+5G ;\u0015>\u0016^OU \u0003n\u0010`\bjrO5 =vFx/a4CNg؏08Kj !\u0007ҕi\u000e\u0015\u0018=3/Um{m6كM7k\u0016$\u0010m%p7t:o5́kh*U9sZFb\u001bkJzwh%\u001bxl\u0019^ \u001a{v~Mr2?tF8\u0013Nu\u0001\u0018GjZK\u0011`9̗z{Cr5S7g =Sh\u001ay> ιi `b\u0006@#\bI[m\u0004Wo {4\u0005kzm\u0011Gv%\"aQB\u0018zq dEE^b4YY\u0007 v2y\u00032\u0001EG6%0$Ir \u0011\bOp\u0018\u0018tNB5kHe ,\u0014\u0012 qh'`rTu*Ͳ8 1됅tBI{,4{ƚ6\\.+NH\u0016>eF&|Iu6 1\u0006R R\u00110\u0006eI l8 \u0018\u001a\u0019\u0016Us\u0007\u0005l:EVX\u0015`d#5Ut\"J\u0005bj-B9{6L\"UG \u001a%4YpP6\"\u0002 I\u0016S׎5\u001a\u0001\u0004p\"h\u001b3#kD\u0000*Y*#6E ^ ˚\u001a\u0010\u0001\u0013h$\u0012h\u0005"
    }
   },
   {
@@ -135,822 +83,165 @@
    "samenvatting_bron": "None. Zaak:",
    "url": "https://www.tweedekamer.nl/downloads/document?id=39557120-0f45-4308-91c1-6cf07abc407a",
    "datum": "2026-10-16",
-   "versie": "b7b18c347ebabe73",
+   "versie": "30d6cda82e10f8af",
    "extra": {
     "zaaknummer": null,
     "zaaksoort": null,
     "documentnummer": "2026D51817"
    },
-   "status": "nieuw",
+   "status": "gewijzigd",
    "thema_treffers": {},
-   "verzameld_op": "2026-10-16T11:37:36+00:00"
+   "verzameld_op": "2026-10-16T11:54:46+00:00"
   },
   {
-   "id": "a15dc15fbd3e24cd",
+   "id": "275280e6acb70fdf",
    "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
    "categorie": "Parlement",
    "methode": "api_tk_documenten",
-   "soort": "Verslag van een wetgevingsoverleg",
-   "titel": "Verslag van een wetgevingsoverleg, gehouden op 7 september 2026, over Wetsvoorstel Wet proactieve dienstverlening SZW (kamerstuk 36 799)",
-   "samenvatting_bron": "Wijziging van de Wet structuur uitvoeringsorganisatie werk en inkomen in verband met het bevorderen van proactieve dienstverlening door het UWV, de SVB en gemeenten (Wet proactieve dienstverlening SZW) . Zaak: Wijziging van de Wet structuur uitvoeringsorganisatie werk en inkomen in verband met het bevorderen van proactieve dienstverlening door het UWV, de SVB en gemeenten (Wet proactieve dienstverlening SZW) Verslag van een wetgevingsoverleg, gehouden op 7 september 2026, over Wetsvoorstel Wet proactieve dienstverlening SZW (kamerstuk 36 799)",
-   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z22456&did=2026D51655",
+   "soort": "Verslag (initiatief)wetsvoorstel (nader)",
+   "titel": "Verslag (blanco)",
+   "samenvatting_bron": "Goedkeuring van het op 4 december 2025 te Wenen tot stand gekomen Aanvullend Protocol bij de Overeenkomst tussen het Koninkrijk der Nederlanden en het Internationaal Atoomenergieagentschap inzake de toepassing van waarborgen met betrekking tot de Nederlandse Antillen in verband met het Verdrag inzake de niet-verspreiding van kernwapens en Aanvullend Protocol I bij het Verdrag tot verbod van kernwapens in Latijns-Amerika (Trb. 2026, 21 en Trb. 2026, 94) en de op 4 december 2025 te Wenen tot stand gekomen Briefwisseling houdende een verdrag tussen het Koninkrijk der Nederlanden en het Internationaal Atoomenergieagentschap (IAEA) inzake de wijziging van Protocol I bij de Overeenkomst tussen het Koninkrijk der Nederlanden en het IAEA inzake de toepassing van waarborgen met betrekking tot de Nederlandse Antillen in verband met het Verdrag inzake de niet-verspreiding van kernwapens en Aanvullend Protocol I bij het Verdrag tot verbod van kernwapens in Latijns-Amerika (Trb. 2026, 20 en Trb. 2026, 93) . Zaak: Goedkeuring van het op 4 december 2025 te Wenen tot stand gekomen Aanvullend Protocol bij de Overeenkomst tussen het Koninkrijk der Nederlanden en het Internationaal Atoomenergieagentschap inzake de toepassing van waarborgen met betrekking tot de Nederlandse Antillen in verband met het Verdrag inzake de niet-verspreiding van kernwapens en Aanvullend Protocol I bij het Verdrag tot verbod van kernwapens in Latijns-Amerika (Trb. 2026, 21 en Trb. 2026, 94) en de op 4 december 2025 te",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z17741&did=2026D51603",
    "datum": "2026-10-15",
-   "versie": "c4db96aad8146514",
+   "versie": "23854db8076851a5",
    "extra": {
-    "zaaknummer": "2026Z22456",
-    "zaaksoort": "Overig",
-    "documentnummer": "2026D51655"
+    "zaaknummer": "2026Z17741",
+    "zaaksoort": "Wetgeving",
+    "documentnummer": "2026D51603"
    },
    "status": "gewijzigd",
    "thema_treffers": {},
-   "verzameld_op": "2026-10-16T11:37:36+00:00",
+   "verzameld_op": "2026-10-16T11:54:46+00:00",
    "document": {
     "pagina's": 1,
     "thema_treffers_tekst": {},
     "fragmenten": [],
-    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000llP]\u0014\u0001\u0000\u0000c \u0000\u0000\u0013\u0000\u0001[Content_Types].xml \u0001(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ŖMN0\u0010\u0012e\u0012\"!\u0000\u0004\u0017pIc\u0011Ȟr6\u0016 +0IHP!6R;2SG~}-6f 8\u0002#Tf=K̒x=8\b\u00110sDwX\u00109h RP%^s~ \u0017O| l:3a \u0004+x1\u0005F7[\u0005UWEc+6+lC\u0011s\u0012 6F~CK>RR=!W.PO\u0011uǄVxGJBt=rMmzɤ\u0015&i\u000eReJ@ܜ\u0002B\"*+s Y\"Ót\u0014`H\u0010s?C\u000e\\?= P*_\u00150Q޺@\u0014\u000fBQ\u0013wQ$ \u001b\u0004pQ\u0006zfW:\u000fPK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u0000t@\u0011\u0001\u0000\u0000q\u0003\u0000\u0000 \u0000\u0001_rels/.rels \u0001(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000[mP]a>m\u0001\u0000\u0000S\u0006\u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Mn0\u0010\u0012y\u0012C\u0017UU\u0011XݶH\u0002ƙGu# $\u0010U\b\b-̼qpE\u0004 5)\u001b$}\u00166Sf\u0012GAՄ-\u0010#A.@X\u0007*Z 9wB~9~Kk\u0010 Xy\u0019rQ\u0016\u0018q\u0013 :gSWELJ ?(P=pPR d{h\u0016+!e\u0013\u0016ʅ 5 KG\u0013v7:>2&Wg<$MN y$y+!\u0004z/Hڊ\u0016:ALgIz}ֺ\"ঀp}|@$-\b + y7INS1+ u7\u0005\u000e:\u00189I\u0013o]1nTFvQu|zm$y_ iP&p\u0012%uK֧-\u0001g1I\u0004\u0002$.R5\u0011\"*JOHӘel,N}\u0016+l<>Q\u0016\u0007jjr,\u0003j}q*\u0002\u0017X\u0002?\\%v0t} \b ء݇2\u000e\u0015= ( u ҆!㐌HS|YJ\u0012\u0018 3 c\u0001M *1Yz\u0002)\u0016tD#*n\u0001S+\u0018L\u0011 \u001a!6\u0011 %f\u0001Ba :? ]D\u001a \u0001\u000eS]S2^PK$72a3P\u0001$g\u0005w}ߐ^Ѱ fG@5\u0013uLv\u0005<>rW͡nz}sWhJֳj۵~+q\u001bp\u0001] ʻ,\u0007,\u0014\u0000iL20\u0005d1N$[\u001376ن e&MU=\u0017\u0004<_x\u000fqժsh4֮\\xSA؞k9)]54\u000f:\u0015Sd\u0019,I֠3P]}ʽmǵ/Ty<$e\"Ix\u0007-Tעn_{>* .ETj\u0011*cB6^yBl-O+]A\u001ag\"$ Q ϥT\\ s^sw \u0011Je}9D$20Ձm⪵t\u0019P6\u0017Ԁw K`W)7X\u000f ˡoC4 P\u0013 8[dL ʸ\u0019g>r\"Q\u0018uk(Ǥ%#G \u00138YF`UoF\u0005I;$ Ј߀%9\u000f&v\u000e19~ȴ]\u0010926·wgvv{\u0007gR\u0018'Q\\Hhi\"v,CLN,E\u0002m6\u0007e\u00049z=E_I./\u0019f8R`#؟䓖-7X0' ʕ5g"
    }
   },
   {
-   "id": "d77986387f206d5e",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Motie",
-   "titel": "Motie van het lid Van Baarle over niet meegaan in het verschaffen van immuniteit voor staatsburgers van de VS of het deprioritiseren van onderzoek naar handelen van de VS",
-   "samenvatting_bron": "Het Internationaal Strafhof. Zaak: Het Internationaal Strafhof Motie van het lid Van Baarle over niet meegaan in het verschaffen van immuniteit voor staatsburgers van de VS of het deprioritiseren van onderzoek naar handelen van de VS",
-   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z21739&did=2026D50000",
-   "datum": "2026-10-08",
-   "versie": "571d3744052b68ec",
-   "extra": {
-    "zaaknummer": "2026Z21739",
-    "zaaksoort": "Motie",
-    "documentnummer": "2026D50000"
-   },
-   "status": "gewijzigd",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-16T11:37:36+00:00",
-   "document": {
-    "pagina's": 1,
-    "thema_treffers_tekst": {},
-    "fragmenten": [],
-    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000lP]P%tt\u0001\u0000\u0000\u0006\u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000MN0\u0010\u0012y[%nY v\u0001l\u0012\\u&E#{ҟH\\IFjB&R2<&_ F\u0017 |P֤l Y\u0004FLEJ;6߶\u000eBD&l9\u000fr Z:0Tɭ\u0002/\u0013], \\Z`0ʃMƏiCX9 **eJWM\\WQ\" s\u0002W&;@wX )랰T. TD]:\u0017 BS\u001b_[R49s湒+7筄\u0010^t\u0015-\u0019t\u0004\u0016\u0010 \u0010I\u0007ιa 0~w֢ǅ\u0014` ΗL\"ż>&@c qhAcH! ( Qy3\u001a<=bPÅۡE ?Ac\u0001 )f<1A=ց=`\u000e e Tk@^@ \u001a Ru$s?$u \u000fi͝u\u00079昲\u0014sda,\u00009}\u000508{C\"h\"j39LiD\u00125jP(Лegu\u000fm{!Yվ>-H]Н=$<)xӖm_O,ֆ$G\u00158ogt_49m@ 7)1M\u0006&oIͯ0\u0007FviRI\u0019QF[XS@-\u0011aF\u0014 sC3 Hú \u0012BY^ 2Cxdf 2ŅK{u^B ő8\u0011@*UU!-kH*\u0014]Y\u0000o09۰Ȋl4͒\u0015薉27 %^4Õ~ $\u00116X(ە(2eNSt1%|B X:\u001b\u001449BFDZlD3^@-\\18%tIkL5u wJ\u0018G mӍ\u0010\u001aa+ bhI mi \u0017DDf\u0019)\b{$\u000f*jzg;w\u0005ג \\3EuTyoun\u000fLyߛq.%fz\u0010ϪڑE]pz-\u0012 \u0004) [g|j5RI \u0017! 7\bqo$捿4ush5?S_\u0016K?#*m\\,\u0015iŨ\\SS\u0003`-)ņHsG\u00048%\u0011;ZK+HTTw֨ v5ߌ\u0014n[nl~6)[ rv{tdɥW.:l-mj\u0004*[VZx6E#Ԑm\b ӬO赸[\u0015x~]^۫^Wֆ&fTԵQvs\"\bF♆mt \u0015UE:\\uNySlhVp5j"
-   }
-  },
-  {
-   "id": "889945978d04dde0",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Brief regering",
-   "titel": "Eerste Wijziging Nationaal Programma Ruimte voor Defensie (NPRD)",
-   "samenvatting_bron": "None. Zaak: None Eerste Wijziging Nationaal Programma Ruimte voor Defensie (NPRD)",
-   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z22552&did=2026D51818",
-   "datum": "2026-10-16",
-   "versie": "79f1c9b33dcae0e0",
-   "extra": {
-    "zaaknummer": "2026Z22552",
-    "zaaksoort": "Brief regering",
-    "documentnummer": "2026D51818"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-16T11:37:36+00:00",
-   "document": {
-    "pagina's": 1,
-    "thema_treffers_tekst": {},
-    "fragmenten": [],
-    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u00007\u0001\u0000\u0000 \u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000̗N0\u0010 \"߮\u001a\u0017VB+Ԕ]\u0004$\u0007pIj?So \bM\u0004 &R9|cG3|1:{\u0010\u0005;,\u0003[:l]\u000fף,(\u0014Y(\u0012\"8<,=Č6\u0016l/8 `ir\bPs/GQ\u0003?\u001by,\u0011&\u000f6J,4fW/!fٟ.E\u0015LOVE\u0000 IZ\u0002i?YkfIsO*ؑFv\u0007u4AID\u001ba? t2oU*'7 \\ 1*\u0019#F(a\u0017f\u0006\u0007i;!\".5\u00134H!\u0000Ν\b0 y'H ZCFk \u0001V\u000eİqD\u0010N\u000fO\u0018?;Z~ZAo{\u000ff~ y\u0007='f\u001a X[wB(+vMV#Z ߾ZoDEF: Cs'ue/*N\u0003mo\u000eI==\u0004T_6? 3\u0004%3\u0001\u0000\u0000\u0003\u0000PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u0000 \u001a\u0000\u0000\u0000N\u0002\u0000\u0000 \u0000\b\u0002_rels/.rels \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
-   }
-  },
-  {
-   "id": "b936f4f47c663c50",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Bijlage",
-   "titel": "Eerste Wijziging Nationaal Programma Ruimte voor Defensie (NPRD)",
-   "samenvatting_bron": "None. Zaak:",
-   "url": "https://www.tweedekamer.nl/downloads/document?id=931cdf40-4a53-4ccb-81e5-d3917f05baea",
-   "datum": "2026-10-16",
-   "versie": "659cecb67c54282d",
-   "extra": {
-    "zaaknummer": null,
-    "zaaksoort": null,
-    "documentnummer": "2026D51819"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-16T11:37:36+00:00",
-   "document": {
-    "pagina's": 152,
-    "thema_treffers_tekst": {
-     "Natuurherstel en gebiedsbescherming": [
-      "natuurherstel",
-      "natura 2000",
-      "vogelrichtlijn",
-      "natuurnetwerk",
-      "NNN",
-      "biodiversiteit",
-      "ecologisch",
-      "natuurgebied",
-      "natuurwaarden",
-      "landschap",
-      "natuurcompensatie",
-      "instandhoudingsdoel"
-     ],
-     "Soortenbescherming": [
-      "beschermde dier",
-      "vleermuis",
-      "broedseizoen"
-     ],
-     "Stikstof": [
-      "stikstof",
-      "intern salderen",
-      "extern salderen",
-      "salderen",
-      "stikstofruimte",
-      "natuurvergunning",
-      "additionaliteit"
-     ],
-     "Waterkwaliteit": [
-      "waterkwaliteit",
-      "KRW",
-      "kaderrichtlijn water",
-      "grondwater",
-      "oppervlaktewater",
-      "waterschap",
-      "bodemkwaliteit",
-      "verdroging"
-     ],
-     "Klimaatadaptatie": [
-      "wateroverlast",
-      "overstroming",
-      "sponswerking"
-     ],
-     "Bouwcontext": [
-      "woningbouw",
-      "nieuwbouw",
-      "renovatie",
-      "verduurzaming",
-      "infrastructuur",
-      "infraproject",
-      "MIRT",
-      "omgevingsvergunning",
-      "omgevingsplan",
-      "bestemmingsplan",
-      "omgevingswet",
-      "projectbesluit"
-     ]
-    },
-    "fragmenten": [
-     {
-      "term": "natuurherstel",
-      "fragment": "…fensie op haar eigen terreinen ook een bijdrage aan het oplossen van stikstofproblematiek. Om de stikstofproblematiek op te lossen is enerzijds emissiereductie nodig en anderzijds natuurherstel. Defensie kan een bijdrage leveren aan de natuurherstelopgave met herstelmaatregelen op eigen terrein. Omdat natuur goed samen gaat met defensieterreinen kan de natuur robuuster w…"
-     },
-     {
-      "term": "natura 2000",
-      "fragment": "…zones, wordt gebruik gemaakt van drones voor precisielandbouw en landbouwinnovatie. Ook in de nieuwe situatie blijven die mogelijkheden bestaan. • De locatie ligt direct naast een Natura 2000-gebied (Vogelrichtlijngebied). Vanwege de aard en het ruimte beslag van de behoefte is de impact echter als beperkt ingeschat. Er is geen sprake van grootschalige verlichting en d…"
-     },
-     {
-      "term": "vogelrichtlijn",
-      "fragment": "…gemaakt van drones voor precisielandbouw en landbouwinnovatie. Ook in de nieuwe situatie blijven die mogelijkheden bestaan. • De locatie ligt direct naast een Natura 2000-gebied (Vogelrichtlijngebied). Vanwege de aard en het ruimte beslag van de behoefte is de impact echter als beperkt ingeschat. Er is geen sprake van grootschalige verlichting en de intensiteit van activ…"
-     },
-     {
-      "term": "natuurnetwerk",
-      "fragment": "…goed samen gaat met defensieterreinen kan de natuur robuuster worden gemaakt door bij de uitbreiding van Defensie ook te kijken naar combinaties met en in natuur. Met name in het Natuurnetwerk Nederland (NNN) gaat een militaire bestemming goed samen met natuur. In lijn met de motie-Nordkamp/Heite8 voert Defensie dan ook uitvoerige gesprekken met natuurorganisaties. Zo z…"
-     }
-    ],
-    "tekst_begin": " NPRD Ruimte voor vrede, veiligheid en bescherming 2 Colofon Postadres: Postbus 20701 2500 ES ‘S-GRAVENHAGE Aantal pagina’s: 151 Datum: 16-10-2026 Ver siebeheer Datum Omschrijving 19-12-2025 Nationaal Programma Ruimte voor Defensie (NPRD) 16-10-2026 Eerste wijziging NPRD NPRD Ruimte voor vrede, veiligheid en bescherming 3 Inhoudsopgave Ruimte voor vrede, veiligheid en bescherming 5 Voorwoord 5 1 Leeswijzer 6 2 Aanpassingen 7 2.1 Van ontwerp naar definitief NPRD 7 2.2 Van definitief NPRD naar eerste wijziging NPRD 7 3 Waarom een Nationaal Programma Ruimte voor Defensie? 8 3.1 De krijgsmacht en zijn ruimtebehoefte 8 3.2 Niet alles kan in het buitenland 9 3.3 Actief op het eigen grondgebied 11 4 Doel, uitgangspunten en positionering van het NPRD 12 4.1 Doel van het NPRD: voldoende ruimte voor de krijgsmacht 12 4.2 Uitgangspunten 12 4.3 NPRD binnen het nationale ruimtelijke beleid 12 4.4 Juridische context 13 4.5 Monitoring en actualisatie 14 5 Participatie 15 5.1 Snel en zorgvuldig 15 5.2 Proces tot ontwerpprogramma 15 5.3 Participatie na het uitbrengen van het ontwerpprogramma 17 5.4 Vaststelling programma NPRD en uitvoering 17 5.5 Extra zienswijzeprocedure voor 9 behoeften met aanvu"
-   }
-  },
-  {
-   "id": "8c7bbe650a9a0922",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Bijlage",
-   "titel": "Nota van Antwoord ontwerpbesluit 9 specifieke behoeften",
-   "samenvatting_bron": "None. Zaak:",
-   "url": "https://www.tweedekamer.nl/downloads/document?id=a7a045c7-9b2a-41ec-b936-69891bc51077",
-   "datum": "2026-10-16",
-   "versie": "c7b89008603be6ae",
-   "extra": {
-    "zaaknummer": null,
-    "zaaksoort": null,
-    "documentnummer": "2026D51820"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-16T11:37:36+00:00",
-   "document": {
-    "pagina's": 143,
-    "thema_treffers_tekst": {
-     "Natuurherstel en gebiedsbescherming": [
-      "natura 2000",
-      "biodiversiteit",
-      "ecologisch",
-      "natuurgebied",
-      "natuurwaarden"
-     ],
-     "Soortenbescherming": [
-      "beschermde soort"
-     ],
-     "Stikstof": [
-      "stikstof"
-     ],
-     "Waterkwaliteit": [
-      "waterkwaliteit"
-     ],
-     "Klimaatadaptatie": [
-      "waterberging"
-     ],
-     "Bouwcontext": [
-      "infrastructuur",
-      "omgevingsvergunning",
-      "omgevingsplan",
-      "omgevingswet",
-      "projectbesluit",
-      "vergunningverlening"
-     ]
-    },
-    "fragmenten": [
-     {
-      "term": "natura 2000",
-      "fragment": "…aardedaling van eigendommen en de gevolgen voor de continuïteit van bedrijven. Ook wordt aandacht gevraagd voor natuur, biodiversiteit en landbouw, waaronder mogelijke effecten op Natura 2000-gebieden, vogels, gehouden dieren en agrarische bedrijfsvoering, evenals voor duidelijke afspraken over compensatie, schadeafhandeling en eventuele mitigerende maatregelen. 3.1.4…"
-     },
-     {
-      "term": "biodiversiteit",
-      "fragment": "…rwerving, de positie van woningen binnen geluidscontouren, waardedaling van eigendommen en de gevolgen voor de continuïteit van bedrijven. Ook wordt aandacht gevraagd voor natuur, biodiversiteit en landbouw, waaronder mogelijke effecten op Natura 2000-gebieden, vogels, gehouden dieren en agrarische bedrijfsvoering, evenals voor duidelijke afspraken over compensatie, schad…"
-     },
-     {
-      "term": "ecologisch",
-      "fragment": "…swijzen gewezen op de ligging van het ISK binnen en nabij kwetsbare natuurgebieden. Indieners vragen aandacht voor de effecten op Natura 2000-gebieden, beschermde soorten, stilte, ecologische verbindingen en verstoring van leefgebieden. Ook wordt verzocht om aanvullend onderzoek, monitoring en duidelijke randvoorwaarden voor eventuele bijsturing wanneer negatieve effe…"
-     },
-     {
-      "term": "natuurgebied",
-      "fragment": "…effecten en de relatie met andere maatschappelijke en ruimtelijke opgaven. Er worden vragen gesteld over de omvang van het gebruik en de wijze waarop de gevolgen voor omwonenden, natuurgebieden en andere functies zijn afgewogen. Ook wordt regelmatig gewezen op de samenhang met andere defensieactiviteiten en de mogelijke cumulatie van effecten. Daarnaast wordt in versch…"
-     }
-    ],
-    "tekst_begin": " Nota van Antwoord Ontwerpbesluit 9 specifieke behoeften Nationaal Programma Ruimte voor Defensie Datum 16-10-2026 Status definitief Nota van Antwoord ontwerpbesluit 9 specifieke behoeften NPRD | 16-10-2026 Pagina 2 van 143 Colofon Auteur Ministerie van Defensie Locatie Den Haag - Plein-Kalvermarktc. Kalvermarkt 32 's-Gravenhage Postadres Postbus 20701 2500 ES 'S-GRAVENHAGE MPC 58B Redactie Bij de redactionele totstandkoming van dit document is gebruikgemaakt van kunstmatige intelligentie (AI), ter ondersteuning van taalcontrole, leesbaarheid, consistentie en eenduidig taalgebruik. AI is niet gebruikt voor inhoudelijke beleidsafwegingen of besluitvorming. De inhoud en beleidsafwegingen zijn opgesteld en beoordeeld onder verantwoordelijkheid van het Ministerie van Defensie. Het gebruik van AI vindt plaats in lijn met de Richtlijn inzet AI Overheidscommunicatie van de Rijksoverheid. Nota van Antwoord ontwerpbesluit 9 specifieke behoeften NPRD | 16-10-2026 Pagina 3 van 143 Inhoudsopgave 1 Inleiding en leeswijzer—5 2 Overzicht van ontvangen zienswijzen—6 3 Hoofdlijnen uit de ontvangen zienswijzen—9 3.1 Samenvatting van de zienswijzen op de 9 specifieke behoeften—9 3.1.1 Algemene ziensw"
-   }
-  },
-  {
-   "id": "d94c0932eae674ea",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Bijlage",
-   "titel": "Addendum planMER NPRD",
-   "samenvatting_bron": "None. Zaak:",
-   "url": "https://www.tweedekamer.nl/downloads/document?id=63de2b1d-085e-46b2-8d09-c4b2875054e5",
-   "datum": "2026-10-16",
-   "versie": "5c9caffbb7845ed0",
-   "extra": {
-    "zaaknummer": null,
-    "zaaksoort": null,
-    "documentnummer": "2026D51821"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-16T11:37:36+00:00",
-   "document": {
-    "pagina's": 107,
-    "thema_treffers_tekst": {
-     "Klimaatadaptatie": [
-      "klimaatadaptatie"
-     ]
-    },
-    "fragmenten": [
-     {
-      "term": "klimaatadaptatie",
-      "fragment": "…innovatieve oplossingen op het g ebied van data, sensoring en IT. Hiermee dragen wij bij aan de ontwikkeling van infra, woonwijken of waterwerken. Maar ook aan vraagstukken rondom klimaatadaptatie, energietransitie en de vervangingsopgave. Van onderzoek tot ontwerp, van realisatie tot b eheer: voor elke opgave brengen wij de juiste kennis aan tafel. Wij denken kritisch mee…"
-     }
-    ],
-    "tekst_begin": " Copyright © Niets uit deze uitgave mag worden verveelvoudigd en/of openbaar worden gemaakt door middel van druk, fotokopie, elektronisch of op welke wijze dan ook, zonder schriftelijke toestemming van de auteurs. De informatie die in dit rapport is opgenomen is uits luitend bestemd voor geadresseerde(n) en kan persoonlijke of vertrouwelijke informatie bevatten. Gebruik van deze informatie, door anderen dan de geadresseerde(n) en gebruik door hen die niet gerechtigd zijn van deze informatie kennis te nemen, is niet toegestaan. De informatie is uitsluitend bestemd om te worden gebruikt door de geadresseerde, voor het doel waarvoor dit rapport is vervaardigd. Indien u niet de geadresseerde bent of niet gerechtigd bent tot kennisneming, is openbaarmaking, vermenigvuldigi ng, verspreiding en/of verstrekking van deze informatie aan derden niet toegestaan, tenzij na schriftelijke toestemming door Antea Group en wordt u verzocht de gegevens te verwijderen en direct een melding te maken bij security@anteagroup.nl. Derden, zij d ie niet geadresseerd zijn, kunnen geen rechten aan dit rapport ontlenen, tenzij na schriftelijke toestemming door Antea Group. www.anteagroup.nl Over Antea Group An"
-   }
-  },
-  {
-   "id": "dc7f426b679619be",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Bijlage",
-   "titel": "Beslisnota bij Kamerbrief over eerste Wijziging Nationaal Programma Ruimte voor Defensie (NPRD)",
-   "samenvatting_bron": "None. Zaak:",
-   "url": "https://www.tweedekamer.nl/downloads/document?id=de887d6a-66d0-4e02-9bae-34a3f45e55ad",
-   "datum": "2026-10-16",
-   "versie": "640f2a611ca3f84d",
-   "extra": {
-    "zaaknummer": null,
-    "zaaksoort": null,
-    "documentnummer": "2026D51822"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-16T11:37:36+00:00",
-   "document": {
-    "pagina's": 2,
-    "thema_treffers_tekst": {},
-    "fragmenten": [],
-    "tekst_begin": " Pagina 1 van 2 Aanleiding Op 5 oktober moeten de Eerste Wijziging NPRD en de Nota van Antwoord worden aangeboden voor behandeling in de Raad voor de Fysieke Leefomgeving (RFL) en aansluitend de Ministerraad (MR). Geadviseerd besluit U wordt geadviseerd in te stemmen met het aanbieden van de Eerste Wijziging NPRD, inclusief defi- nitieve vaststelling van de laatste negen specifieke behoeften, aan te bieden aan de RFL voor behan- deling op 13 oktober. Dit in aanloop naar behandeling in de MR (16 oktober). Kernpunten Op 19 december 2025 heeft het kabinet een besluit genomen over het definitieve NPRD en is de Tweede Kamer hierover geïnformeerd. Hiermee is tevens voor negen specifieke behoeften een ontwerp-voorkeursalternatief aangewezen. In de Eerste Wijziging NPRD worden de locaties ook voor deze negen behoeften definitief vastgesteld via een kabinetsbesluit. In de periode van 19 januari tot 2 maart 2026 konden zienswijzen worden ingediend op de negen specifieke behoeften. De reacties van burgers, medeoverheden en overige belanghebbenden zijn beantwoord in de Nota van Antwoord. Op basis van de ontvangen zienswijzen zijn bij drie van de negen behoeften defensiebehoeften aanpassingen g"
-   }
-  },
-  {
-   "id": "42efd729e11c79cc",
+   "id": "35b8a7f7468569f3",
    "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
    "categorie": "Parlement",
    "methode": "api_tk_documenten",
    "soort": "Verslag (initiatief)wetsvoorstel (nader)",
    "titel": "Verslag",
-   "samenvatting_bron": "Wijziging van het Wetboek van Strafrecht, het Wetboek van Strafvordering, het Wetboek van Strafrecht BES en het Wetboek van Strafvordering BES in verband met de strafbaarstelling van het verheerlijken van terrorisme en het in het openbaar betuigen van steun aan terroristische organisaties (strafbaarstelling verheerlijken van terrorisme en openbare steunbetuiging aan terroristische organisaties). Zaak: Wijziging van het Wetboek van Strafrecht, het Wetboek van Strafvordering, het Wetboek van Strafrecht BES en het Wetboek van Strafvordering BES in verband met de strafbaarstelling van het verheerlijken van terrorisme en het in het openbaar betuigen van steun aan terroristische organisaties (strafbaarstelling verheerlijken van terrorisme en openbare steunbetuiging aan terroristische organisaties) Wijziging van het Wetboek van Strafrecht, het Wetboek van Strafvordering, het Wetboek van Strafrecht BES en het Wetboek van Strafvordering BES in verband met de strafbaarstelling van het verheerlijken van terrorisme en het in het openbaar betuigen van steun aan terroristische organisaties (strafbaarstelling verheerlijken van terrorisme en openbare steunbetuiging aan terroristische organisaties)",
-   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z14587&did=2026D51805",
+   "samenvatting_bron": "Wijziging van de Kaderwet overige JenV-subsidies in verband met het creëren van een wettelijke grondslag voor het verstrekken van specifieke uitkeringen en bijzondere uitkeringen. Zaak: Wijziging van de Kaderwet overige JenV-subsidies in verband met het creëren van een wettelijke grondslag voor het verstrekken van specifieke uitkeringen en bijzondere uitkeringen Wijziging van de Kaderwet overige JenV-subsidies in verband met het creëren van een wettelijke grondslag voor het verstrekken van specifieke uitkeringen en bijzondere uitkeringen",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z18763&did=2026D51814",
    "datum": "2026-10-16",
-   "versie": "f64ae5a8c3830568",
+   "versie": "7853f07b4cf9e93c",
    "extra": {
-    "zaaknummer": "2026Z14587",
+    "zaaknummer": "2026Z18763",
     "zaaksoort": "Wetgeving",
-    "documentnummer": "2026D51805"
+    "documentnummer": "2026D51814"
    },
    "status": "gewijzigd",
    "thema_treffers": {},
-   "verzameld_op": "2026-10-16T11:37:36+00:00",
+   "verzameld_op": "2026-10-16T11:54:46+00:00",
    "document": {
     "pagina's": 1,
     "thema_treffers_tekst": {},
     "fragmenten": [],
-    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000lP]ق\u0017y\u0001\u0000\u0000 \b\u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000KN0\u0010\u0012y\u001a\u0017\u0016\b>\u0016\u0002\u0004\u0017pI\u001bIH\\ɣ\u0001\u0014J6~#m26:YASvY\u0002V:UŔN|6yx\u0010\u0013jqʖ(`DL\u0007K\u0005#^Â{! \u0002x|̥\b\u0016GXy rQjL.s #KΚƊ5e{]HT+QF-!%e\u0013\u0007\u0012\u0011Q~$4P(HD\u001ba?r4$MlH+7 \u0018iF]ň \u0006 t)\"h ݁\u000f\u0018\"Aܟ b|1O;\u0010\u001bY\u0000\u0006 vm\u0012\u0010\u000e\u0003]\u0002\u0010Pd\u001aZ@:y?f+ZJ=%{\bXv$W\b5@\u001a.ˈol~A\u0006\u0014JW\"\u0003}isC\u0006R +O$\u0007PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u0000<]/\u0001\u0000\u0000s\u0003\u0000\u0000 \u0000\b\u0002_rels/.rels \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000xmP]ق\u0017y\u0001\u0000\u0000 \b\u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000KN0\u0010\u0012y\u001a\u0017\u0016\b>\u0016\u0002\u0004\u0017pI\u001bIH\\ɣ\u0001\u0014J6~#m26:YASvY\u0002V:UŔN|6yx\u0010\u0013jqʖ(`DL\u0007K\u0005#^Â{! \u0002x|̥\b\u0016GXy rQjL.s #KΚƊ5e{]HT+QF-!%e\u0013\u0007\u0012\u0011Q~$4P(HD\u001ba?r4$MlH+7 \u0018iF]ň \u0006 t)\"h ݁\u000f\u0018\"Aܟ b|1O;\u0010\u001bY\u0000\u0006 vm\u0012\u0010\u000e\u0003]\u0002\u0010Pd\u001aZ@:y?f+ZJ=%{\bXv$W\b5@\u001a.ˈol~A\u0006\u0014JW\"\u0003}isC\u0006R +O$\u0007PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u0000<]/\u0001\u0000\u0000s\u0003\u0000\u0000 \u0000\b\u0002_rels/.rels \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
    }
   },
   {
-   "id": "fe6f94430998b2a1",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (review)",
-   "titel": "Water Quality in Drainage and Irrigation Channels of Agricultural Landscapes: A Narrative Review with Bibliometric Analysis",
-   "samenvatting_bron": "Drainage ditches, irrigation canals and multifunctional channels are pervasive features of agricultural landscapes and often represent the only remaining aquatic habitats where natural wetlands have disappeared. This narrative review synthesises evidence on surface-water quality in open channels that are purpose-built or strongly modified by humans, excluding closed subsurface drainage and large navigational canals. The evidence base comprises 36 peer-reviewed studies, predominantly from temperate Europe and North America, complemented by a keyword co-occurrence analysis of 851 Scopus-indexed publications, in which channel-specific terms formed peripheral nodes within five clusters defined by broader themes. The reviewed studies show that hydrological regime, residence time, sediment characteristics and vegetation regulate nitrogen, phosphorus, sediment and pesticide dynamics, so that the same channel may act as a pollution source, transport pathway or biogeochemical buffer. Permanent removal is largely confined to nitrogen via denitrification, whereas phosphorus and sediment retention is predominantly reversible. Evidence for irrigation-dominated, semi-arid and tropical systems, greenhouse gas trade-offs and network-scale functioning remains limited. On this basis, the review proposes a channel typology and candidate functional indicators of water-quality performance as conceptual proposals requiring empirical validation, and discusses them in relation to the Water Framework",
-   "url": "https://doi.org/10.3390/agriculture16202236",
+   "id": "2e429b0c2e457b79",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Brief commissie",
+   "titel": "Brief van de tijdelijke commissie Grondrechten en Constitutionele toetsing over een advies over het wetsvoorstel Intrekking van de Rijkswet van 10 februari 2017, houdende wijziging van de Rijkswet op het Nederlanderschap in verband met het intrekken van het Nederlanderschap in het belang van de nationale veiligheid (Stb. 2017, 52) en tot wijziging van de Wet op de inlichtingen- en veiligheidsdiens",
+   "samenvatting_bron": "Intrekking van de Rijkswet van 10 februari 2017, houdende wijziging van de Rijkswet op het Nederlanderschap in verband met het intrekken van het Nederlanderschap in het belang van de nationale veiligheid (Stb. 2017, 52) en tot wijziging van de Wet op de inlichtingen- en veiligheidsdiensten 2017. Zaak: Intrekking van de Rijkswet van 10 februari 2017, houdende wijziging van de Rijkswet op het Nederlanderschap in verband met het intrekken van het Nederlanderschap in het belang van de nationale veiligheid (Stb. 2017, 52) en tot wijziging van de Wet op de inlichtingen- en veiligheidsdiensten 2017 Brief van de tijdelijke commissie Grondrechten en Constitutionele toetsing over een advies over het wetsvoorstel Intrekking van de Rijkswet van 10 februari 2017, houdende wijziging van de Rijkswet op het Nederlanderschap in verband met het intrekken van het Nederlanderschap in het belang van de nationale veiligheid (Stb. 2017, 52) en tot wijziging van de Wet op de inlichtingen- en veiligheidsdiensten 2017",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z22450&did=2026D51641",
    "datum": "2026-10-15",
-   "versie": "49d36a16f41f3e33",
+   "versie": "4eb61a0f4f04d344",
    "extra": {
-    "tijdschrift": "Agriculture",
-    "instellingen": [
-     "University of Aveiro",
-     "University of Life Sciences in Lublin"
-    ],
-    "zoekvraag": "\"Nature Restoration Law\" OR \"Nature Restoration Regulation\" OR \"Habitats Directive\"",
-    "thema_hint": "Natuurherstel",
-    "open_access": true
+    "zaaknummer": "2026Z22450",
+    "zaaksoort": "Brief van lid/fractie/commissie",
+    "documentnummer": "2026D51641"
    },
-   "status": "nieuw",
-   "thema_treffers": {
-    "Stikstof": [
-     "nitrogen"
-    ]
-   },
-   "verzameld_op": "2026-10-16T11:37:36+00:00"
-  },
-  {
-   "id": "6da270058925c3bf",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "Decade-long data highlight medium-sized, fast-flowing cold-water streams as important recruitment habitats for European river and brook lampreys",
-   "samenvatting_bron": "European river lamprey Lampetra fluviatilis is a migratory (anadromous) species, spawning in freshwater rivers where it co-occurs with its non-migratory paired species, European brook lamprey L. planeri . Both species are listed under Annex II of the EU Habitats Directive, requiring habitat protection and sustainable management across their distribution ranges. Yet, both species have experienced declines and spatial drivers of larval recruitment remain poorly quantified. Lamprey larvae are known to occupy low-velocity depositional microhabitats, but how these requirements scale across river networks remains unclear. Here, we analysed size-structured populations of lamprey larvae across 177 sites in 32 Latvian rivers using data collected between 2014 and 2025. Higher proportions of smaller larvae, likely corresponding to the youngest age classes, were associated with river reaches of medium-size and small catchment area, moderate and high riverbed gradient and colder temperature. In contrast, larger individuals dominated low-gradient, warm river sections with large catchment area. These findings suggest that the observed longitudinal recruitment pattern may be driven by downstream larval dispersal across river networks and highlight small- and medium-sized, relatively fast-flowing cold-water reaches as important recruitment habitats. However, recruitment potential in these important habitats may be reduced by anthropogenic pressures, particularly migration barriers and channel",
-   "url": "https://doi.org/10.1038/s41598-026-75795-4",
-   "datum": "2026-10-14",
-   "versie": "8193d8ce3a97f96a",
-   "extra": {
-    "tijdschrift": "Scientific Reports",
-    "instellingen": [
-     "Institute of Food Safety, Animal Health and Environment “BIOR”"
-    ],
-    "zoekvraag": "\"Nature Restoration Law\" OR \"Nature Restoration Regulation\" OR \"Habitats Directive\"",
-    "thema_hint": "Natuurherstel",
-    "open_access": true
-   },
-   "status": "nieuw",
-   "thema_treffers": {
-    "Natuurherstel en gebiedsbescherming": [
-     "habitats directive"
-    ]
-   },
-   "verzameld_op": "2026-10-16T11:37:36+00:00"
-  },
-  {
-   "id": "875ce2fd512f9f3e",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "The courtyard benefits framework: ecological, microclimatic and social contributions to health and well-being",
-   "samenvatting_bron": "Urban densification, climate change, and unequal access to green space have intensified the need for small-scale green infrastructure to support health and well-being. Courtyards are common across many urban and architectural traditions, yet their contributions are often examined separately through architectural, microclimatic, ecological, or social lenses. This scoping review asks: how do urban courtyards contribute to the health and well-being of cities, and how can this evidence inform sustainable and inclusive urban planning? Following the PRISMA-ScR framework, we identified peer-reviewed studies via Web of Science and Scopus and screened them against predefined inclusion and exclusion criteria. We included and analysed 84 studies thematically. The evidence shows that courtyards contribute to thermal regulation, improved air quality, biodiversity support, social interaction, cultural continuity, and restorative experiences. The most frequent themes were environmental benefits, courtyard typology, thermal comfort, energy performance, green infrastructure, and well-being and health-related outcomes. However, the literature remains dominated by architectural and thermal performance studies, with limited integration of urban planning, equity, public health and well-being, and policy perspectives. In response, this paper proposes the Courtyard Benefits Framework, which conceptualises courtyards as small-scale urban green infrastructure that can connect ecological, microclimati",
-   "url": "https://doi.org/10.1080/23748834.2026.2739164",
-   "datum": "2026-10-15",
-   "versie": "2cad77a6c0e244c4",
-   "extra": {
-    "tijdschrift": "Cities & Health",
-    "instellingen": [
-     "University of Córdoba"
-    ],
-    "zoekvraag": "(\"urban biodiversity\" OR \"urban green space\" OR \"green infrastructure\") AND (housing OR \"urban development\" OR \"urban planning\" OR building)",
-    "thema_hint": "Natuurherstel",
-    "open_access": false
-   },
-   "status": "nieuw",
-   "thema_treffers": {
-    "Natuurherstel en gebiedsbescherming": [
-     "biodiversity"
-    ]
-   },
-   "verzameld_op": "2026-10-16T11:37:36+00:00"
-  },
-  {
-   "id": "83244300db804c3f",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "A Multicriteria Framework for Evaluating Urban Morphology and Spatial Quality Using Landscape Units and Fuzzy-DEMATEL: Evidence from Maringá, Brazil",
-   "samenvatting_bron": "Urban morphology strongly affects spatial quality and residents’ quality of life, yet many assessments rely on aggregated indicators and overlook causal links between street-scale attributes. This study proposes a multicriteria framework that combines Landscape Units (LUs) with Fuzzy DEMATEL to evaluate urban morphology and spatial quality. It integrates visual, spatial, and qualitative dimensions through three descriptor families—Green Areas System, Urban Furniture, and Urban Systems—and 12 descriptors. Five LUs in Maringá (southern Brazil) were selected to represent distinct urban fabrics and development stages. Expert judgments were used to weight families and descriptors and to score each LU. Urban Systems emerged as the most influential family, while Buildings, Road System, and General Tree Planting were identified as key drivers of spatial quality. Clear differences appeared across LUs: LU2, aligned with Garden City principles, achieved the highest score, whereas LU5, a peripheral neighborhood with fragmented vegetation and narrow streets, scored the lowest. Overall, higher spatial quality depends on integrating robust urban systems, well-structured green infrastructure, and adequate public-space amenities. The framework is transparent and replicable, supporting morphology-sensitive urban planning and decision-making.",
-   "url": "https://doi.org/10.3390/urbansci10100593",
-   "datum": "2026-10-15",
-   "versie": "ae1406e5d75353f1",
-   "extra": {
-    "tijdschrift": "Urban Science",
-    "instellingen": [
-     "Hospital Regional de Presidente Prudente",
-     "Universidade Estadual de Maringá",
-     "Universidade Regional de Blumenau",
-     "Universidade Tecnológica Federal do Paraná"
-    ],
-    "zoekvraag": "(\"urban biodiversity\" OR \"urban green space\" OR \"green infrastructure\") AND (housing OR \"urban development\" OR \"urban planning\" OR building)",
-    "thema_hint": "Natuurherstel",
-    "open_access": true
-   },
-   "status": "nieuw",
+   "status": "gewijzigd",
    "thema_treffers": {},
-   "verzameld_op": "2026-10-16T11:37:36+00:00"
+   "verzameld_op": "2026-10-16T11:54:46+00:00",
+   "document": {
+    "pagina's": 1,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000mP]\u0010#\u0001\u0000\u0000\u0007\u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000KN0\u0010\u0012y\u0012\u0017\u0016\b>\u0016\u0002\u0004\u0017pI\u001bIH\\ɣ\u0001\u0014J6~Oxlt\u0010 g'0\u001b\u0004t +1OOl:~x\u0010\u0013jq(`D̜\u0007K\u0005#nÂ{! \u0002ht̥\b\u0016S \u001b z\u0000\u0003^SY1N\u0018q Q8f Z hK \u0017/}C6R]tIUbv\u0003<:;]U)^=8n/i6\u0018\u0000^Ǉ0V>'Y0\"V^8u\u0018 |%\u0003\u0001[Y * ,/6K̅%\u0016qO%Z*7&Hc>sf,p\\|\u0012_'ɜw y?X8\u00184q8uy\u0000ߛw\u0002d%<{-ߵ،7\u000e#g ?s Aq\u0011\u0001-}9~G \u0001mP]x\u000fP\u0001F0\"x1\u0007{\u000fv{\u000e 7\u0011xb0N3 \u0012W I\u001a\u000e\u0005Tm%jykus-K/[wiZy\u000fvew;V3 D\u0000׫nkZV{}YZe\\u^q]` c6-\u0017϶K5i5\u0003ˆv_'ǝγLϗW/WŇwnnoo_>}x\u000ew|կpӇϷ7#֛f５ۥ}\\\\U\"/z [LE7rW39gHbfRe0uN\u0004c]$5uu~y[%2랞_;'Eepr:>.*q^g\u0015꥞`;Я`k\u0005%gɾ<ۏ\bM;G`ʾelԸ%^XУe}z\u0014Z,ȕwN8I>W]QlWb`\u001b5gIW{sg\u0010H\u0012_0pc\u000en0\b\bo\u0010+): L4)X8`Ps\u0005wWgX0w&`Z \u0014N\b?s\u0018p\u00161xמ\u0018M-\u0004 Ѿ \u000eVf\u0012ٖ_`0L1c >\u0001a\u000eAO|c p>\u0018l;GU\u0000U|!9H5[\u0010qd\u0004Xx\u000e PE\u000fsf`k;&7\" äx\u0000yN|bB>r DHI49iĠg\u001a\u00050G4L \u0012'I\u0014|\u0007 <\u000f_\u0015/~ e>r62[\u001b4\u0003d\u00112p\u0007[\u0010Q\u000e S\u0007$Sz\u0011\u000ev\u0000e-*YHB \\\" "
+   }
   },
   {
-   "id": "e9280bce8f562caa",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "Urban Butterfly Pollinator Biodiversity in Zoological Gardens of the Southwest USA",
-   "samenvatting_bron": "Urbanization and climate change are exerting increasing pressure on biodiversity, particularly in rapidly growing cities of the southwestern United States. While urban development is generally associated with reduced species richness, responses among insect pollinators, including butterflies, are highly variable and shaped by habitat availability, resource distribution, and landscape structure. Concurrently, increasing aridity and extreme heat events linked to climate change pose additional risks to ectothermic organisms such as butterflies. Urban green spaces can function as hotspots, yet the role of zoological gardens in supporting local pollinator biodiversity remains poorly understood. Here, we use community science data from eButterfly and iNaturalist to compare butterfly species richness and diversity within zoos to those of their surrounding urban landscapes across five southwestern USA cities. Contrary to previous work comparing botanical gardens, we found that zoos consistently exhibited low to moderate species richness and diversity relative to comparable areas within their respective cities, falling well below our predetermined hotspot thresholds. We conclude that while zoological gardens, unlike botanical gardens, may not currently function as localized biodiversity hotspots within their urban matrix in these arid environments, they support functional urban pollinator communities. Thus, the current and future local conservation value of zoos could be substantially",
-   "url": "https://doi.org/10.3390/jzbg7040046",
-   "datum": "2026-10-15",
-   "versie": "f959eb4d99006558",
+   "id": "3cb4f27666a79128",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Amendement",
+   "titel": "Amendement van het lid Van Baarle over middelen voor de verdere totstandkoming van het Nationaal Monument Srebrenica Genocide ’95",
+   "samenvatting_bron": "Vaststelling van de begrotingsstaten van het Ministerie van Defensie (X) voor het jaar 2027. Zaak: Vaststelling van de begrotingsstaten van het Ministerie van Defensie (X) voor het jaar 2027 Amendement van het lid Van Baarle over middelen voor de verdere totstandkoming van het Nationaal Monument Srebrenica Genocide ’95",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z21132&did=2026D48793",
+   "datum": "2026-10-05",
+   "versie": "cf96b97839b141f6",
    "extra": {
-    "tijdschrift": "Journal of Zoological and Botanical Gardens",
-    "instellingen": [
-     "University of Arizona"
-    ],
-    "zoekvraag": "(\"urban biodiversity\" OR \"urban green space\" OR \"green infrastructure\") AND (housing OR \"urban development\" OR \"urban planning\" OR building)",
-    "thema_hint": "Natuurherstel",
-    "open_access": true
+    "zaaknummer": "2026Z21132",
+    "zaaksoort": "Amendement",
+    "documentnummer": "2026D48793"
    },
-   "status": "nieuw",
-   "thema_treffers": {
-    "Natuurherstel en gebiedsbescherming": [
-     "biodiversity"
-    ]
-   },
-   "verzameld_op": "2026-10-16T11:37:36+00:00"
-  },
-  {
-   "id": "34d72f32dfcb5a0f",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "Urban Lakeside Land Use Evolution Analysis and Landscape Ecology Research: A Case Study of Nanhu Lake in Hongshan District, Wuhan",
-   "samenvatting_bron": "The urban lakeside landscape, as an important component of the urban ecosystem, its ecological design not only showcases the civilized style of the city, but also carries many important ecological functions. These functions are not only reflected in the pollution discharge and flood prevention of urban rivers, but also play an indispensable role in beautifying urban landscapes, improving environmental benefits, and ensuring the ecological and sustainable development of urban lakeside landscapes. The urban lakeside landscape is still a treasure trove of urban biodiversity. Rich aquatic and terrestrial organisms have found ideal habitats here, jointly building a vibrant ecological network. This not only provides citizens with opportunities to have close contact with nature, but also enhances the ecological resilience of the city, enabling it to maintain a stable ecosystem in the face of various environmental challenges. As an important lakeside area in Wuhan, South Lake's landscape environment is of great significance for enhancing the city's image and promoting leisure activities for residents. This article is based on the research of Wuhan Nanhu Ecological Landscape Park, following the principles and basic technologies of ecological landscape design. Starting from the ecological architecture aspect based on the environmental problems of Nanhu, specific environmental planning is made according to the characteristics of the lakeside landscape, providing a basis for the planning",
-   "url": "https://doi.org/10.54097/0mqa2d02",
-   "datum": "2026-10-14",
-   "versie": "f4c87628be4061f8",
-   "extra": {
-    "tijdschrift": "Highlights in Art and Design",
-    "instellingen": [
-     "Wuhan Textile University"
-    ],
-    "zoekvraag": "(\"urban biodiversity\" OR \"urban green space\" OR \"green infrastructure\") AND (housing OR \"urban development\" OR \"urban planning\" OR building)",
-    "thema_hint": "Natuurherstel",
-    "open_access": true
-   },
-   "status": "nieuw",
-   "thema_treffers": {
-    "Natuurherstel en gebiedsbescherming": [
-     "biodiversity"
-    ]
-   },
-   "verzameld_op": "2026-10-16T11:37:36+00:00"
-  },
-  {
-   "id": "18824f958a1c8029",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "Human-Ecosystem Coupling Mechanisms and Data-Driven Spatial Optimization in Urban Green Infrastructure",
-   "samenvatting_bron": "High-density urban construction continuously alters land cover, hydrothermal cycles, and habitat patterns, significantly impacting residents' well-being through heat exposure, air quality variations, activity opportunities, and nature contact. Urban green infrastructure, relying on vegetation, water bodies, and soil processes to buffer built-up environmental stressors, serves as a crucial link between ecological resilience, public health, and spatial governance. From a socio-ecological coupling perspective, this paper outlines the complex interaction chain between built-up environmental pressures, ecological process responses, resident exposure, and governance feedback, systematically analyzing the synergy, trade-offs, and equity differences of multifunctional services. Based on this framework, it discusses the advanced integration of remote sensing, street view imagery, spatial machine learning, multi-objective optimization, and urban digital twins in state identification, priority area determination, scheme generation, and dynamic feedback. Existing evidence suggests that green infrastructure performance is jointly shaped by ecological structure, urban morphology, population activity, and governance conditions. Ultimately, spatial optimization for high-density cities requires a fundamental shift from static green volume assessment to dynamic decision-making that comprehensively combines ecological processes, actual exposure, equitable allocation, and long-term feedback mech",
-   "url": "https://doi.org/10.70088/hdj8js70",
-   "datum": "2026-10-14",
-   "versie": "21466a11abb27845",
-   "extra": {
-    "tijdschrift": "GBP Proceedings Series",
-    "instellingen": [
-     "United World College Changshu China"
-    ],
-    "zoekvraag": "(\"urban biodiversity\" OR \"urban green space\" OR \"green infrastructure\") AND (housing OR \"urban development\" OR \"urban planning\" OR building)",
-    "thema_hint": "Natuurherstel",
-    "open_access": true
-   },
-   "status": "nieuw",
+   "status": "gewijzigd",
    "thema_treffers": {},
-   "verzameld_op": "2026-10-16T11:37:36+00:00"
+   "verzameld_op": "2026-10-16T11:54:46+00:00",
+   "document": {
+    "pagina's": 2,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "Tweede Kamer der Staten-Generaal 2 Vergaderjaar 2026–2027 37 020 X Vaststelling van de begrotingsstaten van het Ministerie van Defensie (X) voor het jaar 2027 Nr. 44 AMENDEMENT VAN HET LID VAN BAARLE Ontvangen 5 oktober 2026 De ondergetekende stelt het volgende amendement voor: De departementale begrotingsstaat wordt als volgt gewijzigd: I In artikel 9 Algemeen worden het verplichtingenbedrag en het uitgavenbedrag verhoogd met € 150 (x € 1.000). II In artikel 12 Nog onverdeeld worden het verplichtingenbedrag en het uitgavenbedrag verlaagd met € 150 (x € 1.000). Toelichting Met dit amendement wordt € 150.000 uit artikel 12 Nog onverdeeld overgeheveld naar artikel 9 Algemeen en beschikbaar gesteld voor de verdere totstandkoming van het Nationaal Monument Srebrenica Genocide »95 op het Churchillplein in Den Haag, tegenover het voormalige Joegoslaviëtribunaal. De aanvullende € 150.000 kan worden ingezet voor de verdere voorbereiding en realisatie van het monument, waaronder de ontwerp- wedstrijd, de verdere uitwerking van het ontwerp en andere noodzakelijke voorbereidingskosten. Daarbij kan een bijdrage worden verstrekt aan de stichting Nationaal Monument Srebrenica Genocide »95, die b"
+   }
   },
   {
-   "id": "2048709b55d49e41",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (book-chapter)",
-   "titel": "Introduction",
-   "samenvatting_bron": "This book examines the socioeconomic and environmental dynamics of the Amazon, one of the world’s most vital ecological regions. It highlights how traditional Indigenous and local communities are increasingly threatened by large-scale resource extraction, agricultural expansion, mining, and infrastructure projects. These activities have intensified deforestation, habitat fragmentation, and social conflicts while sustaining economic dependence on global commodity markets. The text underscores the region’s heterogeneity, noting that development pressures vary significantly across countries and subregions. It also emphasizes the need for state regulation, regional cooperation, and alternative models such as community-based forest management and agroforestry. Nevertheless, this book only provides limited coverage of economic development in the Amazon region; further in-depth research is needed to gain a more comprehensive understanding of its socioeconomic conditions.",
-   "url": "https://doi.org/10.4324/9781003781639-1",
-   "datum": "2026-10-15",
-   "versie": "fde8185c0fdd051b",
+   "id": "29d4f5ae273ccb29",
+   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_documenten",
+   "soort": "Amendement",
+   "titel": "Amendement van het lid Dobbe over een dekking uit het wervingsbudget van defensie om in te zetten voor de werving van zorgpersoneel",
+   "samenvatting_bron": "Vaststelling van de begrotingsstaten van het Ministerie van Defensie (X) voor het jaar 2027. Zaak: Vaststelling van de begrotingsstaten van het Ministerie van Defensie (X) voor het jaar 2027 Amendement van het lid Dobbe over een dekking uit het wervingsbudget van defensie om in te zetten voor de werving van zorgpersoneel",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z21176&did=2026D48902",
+   "datum": "2026-10-06",
+   "versie": "2be8b56b8ab09bc6",
    "extra": {
-    "tijdschrift": "Routledge eBooks",
-    "instellingen": [],
-    "zoekvraag": "(\"wildlife crossing\" OR \"wildlife crossings\" OR \"road ecology\" OR \"roadkill\" OR \"habitat fragmentation\") AND (road OR roads OR railway OR infrastructure)",
-    "thema_hint": "Soortenbescherming",
-    "open_access": false
+    "zaaknummer": "2026Z21176",
+    "zaaksoort": "Amendement",
+    "documentnummer": "2026D48902"
    },
-   "status": "nieuw",
+   "status": "gewijzigd",
    "thema_treffers": {},
-   "verzameld_op": "2026-10-16T11:37:36+00:00"
+   "verzameld_op": "2026-10-16T11:54:46+00:00",
+   "document": {
+    "pagina's": 2,
+    "thema_treffers_tekst": {},
+    "fragmenten": [],
+    "tekst_begin": "Tweede Kamer der Staten-Generaal 2 Vergaderjaar 2026–2027 37 020 X Vaststelling van de begrotingsstaten van het Ministerie van Defensie (X) voor het jaar 2027 Nr. 45 AMENDEMENT VAN HET LID DOBBE Ontvangen 6 oktober 2026 De ondergetekende stelt het volgende amendement voor: De departementale begrotingsstaat wordt als volgt gewijzigd: I In artikel 2 Koninklijke Marine worden het verplichtingenbedrag en het uitgavenbedrag verlaagd met € 143 (x € 1.000). II In artikel 3 Koninklijke Landmacht worden het verplichtingen- bedrag en het uitgavenbedrag verlaagd met € 143 (x € 1.000). III In artikel 4 Koninklijke Luchtmacht worden het verplichtingen- bedrag en het uitgavenbedrag verlaagd met € 143 (x € 1.000). IV In artikel 5 Koninklijke Marechaussee worden het verplichtingen- bedrag en het uitgavenbedrag verlaagd met € 143 (x € 1.000). V In artikel 7 Commando Materieel en IT worden het verplichtingen- bedrag en het uitgavenbedrag verlaagd met € 142 (x € 1.000). VI In artikel 8 Defensie Ondersteuningscommando worden het verplichtingenbedrag en het uitgavenbedrag verlaagd met € 143 (x € 1.000). kst-37020-X-45 ISSN 0921 - 7371 ’s-Gravenhage 2026 Tweede Kamer, vergaderjaar 2026–2027, 37 020 X, n"
+   }
   },
   {
-   "id": "7deb0e66cd2f691a",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (book-chapter)",
-   "titel": "Economy, society, and environmental issues in the Peruvian Amazon",
-   "samenvatting_bron": "Peru is characterized by remarkable socio-cultural and geographical diversity, where pre-Columbian Indigenous traditions coexist with the legacy of sixteenth-century Spanish colonization, resulting in a multilingual landscape where Spanish coexists with official languages such as Quechua and Aymara, alongside numerous Indigenous languages. Geographically, Peru is divided into three major natural regions: coast, highlands, and rainforest, with the Amazon rainforest accounting for approximately 11% of its territory, making it one of the world’s richest countries in vascular plant diversity and the third most biodiverse in South America after Brazil and Colombia. This chapter analyses the gradual integration of the Peruvian Amazon into the national economy through successive waves of resource extraction, rubber, timber, gold, oil, and gas, alongside agricultural colonization, examining how infrastructure expansion, neoliberal reforms, and commodity booms have driven deforestation, habitat fragmentation, and socio-environmental conflicts. Representative cases include the Bagua conflict, illegal gold mining in Madre de Dios, and oil spills in Loreto, which illustrate the tensions between extractive industries and Indigenous rights. It also explores the expansion of oil palm, coffee, and cacao cultivation alongside emerging sustainable initiatives such as agroforestry systems. The chapter concludes that the Peruvian Amazon remains trapped in a primary-export model with weak state o",
-   "url": "https://doi.org/10.4324/9781003781639-3",
-   "datum": "2026-10-15",
-   "versie": "ab321e6c5582c210",
-   "extra": {
-    "tijdschrift": "Routledge eBooks",
-    "instellingen": [],
-    "zoekvraag": "(\"wildlife crossing\" OR \"wildlife crossings\" OR \"road ecology\" OR \"roadkill\" OR \"habitat fragmentation\") AND (road OR roads OR railway OR infrastructure)",
-    "thema_hint": "Soortenbescherming",
-    "open_access": false
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-16T11:37:36+00:00"
-  },
-  {
-   "id": "5e89c49ee485a162",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (report)",
-   "titel": "Updated roadmap for novel monitoring technologies",
-   "samenvatting_bron": "This report presents an updated roadmap for the routine implementation of novel technologies in biodiversity monitoring at national, subnational and transnational scales across Europe. It builds on a previous assessment conducted in 2024, drawing on an updated partner survey from 2026 and expert discussions held at the Biodiversa+ Science Fair in Barcelona in May 2025. The report covers six technology groups: bioacoustics, camera traps, environmental DNA (eDNA) and genomics, sensor networks, unmanned aerial vehicles (drones), and remote sensing. It examines deployment, the taxonomic groups and Essential Biodiversity Variables targeted, and the constraints affecting wider implementation. Seven strategic recommendations address coordination, collaboration with the private sector, shared data infrastructure, additional technical expertise, accessible reference databases, integration with established long-term monitoring, and alignment with national and international initiatives and policy requirements.",
-   "url": "https://doi.org/10.5281/zenodo.23387892",
-   "datum": "2026-10-15",
-   "versie": "ed79ae29b2e2e997",
-   "extra": {
-    "tijdschrift": "Zenodo (CERN European Organization for Nuclear Research)",
-    "instellingen": [],
-    "zoekvraag": "(\"environmental DNA\" OR eDNA) AND (monitoring OR survey OR detection)",
-    "thema_hint": "eDNA en monitoring",
-    "open_access": true
-   },
-   "status": "nieuw",
-   "thema_treffers": {
-    "Natuurherstel en gebiedsbescherming": [
-     "biodiversity"
-    ],
-    "eDNA en monitoring": [
-     "eDNA",
-     "environmental DNA"
-    ]
-   },
-   "verzameld_op": "2026-10-16T11:37:36+00:00"
-  },
-  {
-   "id": "860e4669998a2ebb",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "District-level analysis of temperature-related excess mortality in the Netherlands",
-   "samenvatting_bron": "Background: While most epidemiological studies have assessed temperature–mortality associations at broad geographical scales, recent research highlights that temperature-related mortality risks are spatially heterogeneous due to local differences in exposure, vulnerability, and adaptive capacity. The aim of this study was to assess the impact of ambient air temperature on all-cause mortality at the district level in the Netherlands. Methods: A three-stage design was applied to assess the association between daily average air temperature and mortality across 3,116 districts and two age groups (0–74, 75+) for the period 2010–2019. First, a case time series design with distributed lag nonlinear models was used to estimate temperature–mortality associations for 355 Dutch municipalities. Second, municipality-level estimates were pooled using a multivariate meta-regression with municipality-level demographic, socioeconomic, climatological, and topographical predictors. Finally, the meta-regression model was used to downscale the risk estimates to the district level and to estimate standardized excess heat- and cold-related mortality rates. Results: Heat-related excess mortality was elevated in urban areas, whereas cold-related excess mortality was more pronounced in northern and southern districts compared with areas in the center of the Netherlands. During the study period, heat was associated with an average of 346 excess deaths per year (empirical 95% confidence intervals: 44–55",
-   "url": "https://doi.org/10.1097/ee9.0000000000000534",
-   "datum": "2026-10-15",
-   "versie": "1c5df4d9ef914b68",
-   "extra": {
-    "tijdschrift": "Environmental Epidemiology",
-    "instellingen": [
-     "National Institute for Public Health and the Environment",
-     "Utrecht University",
-     "Vrije Universiteit Amsterdam"
-    ],
-    "zoekvraag": "(\"urban heat island\" OR \"heat stress\" OR \"climate adaptation\" OR \"pluvial flooding\") AND (urban OR city OR building OR \"built environment\")",
-    "thema_hint": "Klimaatadaptatie",
-    "open_access": true
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-16T11:37:36+00:00"
-  },
-  {
-   "id": "141d6d6e2860b339",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "Uncovering stakeholder preferences for urban blue-green infrastructure siting: Insights from online swing weights elicitation",
-   "samenvatting_bron": "Blue-green infrastructure (BGI) location choice requires addressing objectives across environmental, ecological, urban, governance, economic and social domains, necessitating stakeholder engagement. However, preference elicitation in BGI planning often relies on single-disciplinary or expert-driven approaches that may overlook differences in priorities across stakeholder groups. The primary aim of this study was to understand stakeholder priorities for BGI planning objectives across three BGI groups: small systems (bioretention, infiltration systems, and swales), large systems (constructed wetlands and ponds/lakes) and urban trees, while the secondary aim was to test and advance a preference elicitation procedure using an innovative online swing-weighting software within a GIS-MCDA framework. Across two case studies in Quebec, Canada, 12 stakeholders in Trois-Rivières and 20 in Montréal representing government agencies, non-profit organizations, and research services, participated in five online workshops. They provided weights on an objectives-based BGI suitability framework. Results showed broad agreement on needs-related objectives (i.e. addressing site-specific needs that can be fulfilled through BGI placement), particularly water management, climate adaptation, and heat island mitigation, across BGI groups. Greater divergence emerged for opportunity-related objectives (i.e. leveraging site-specific opportunities), such as optimal soil type and planned works, reflecting d",
-   "url": "https://doi.org/10.1016/j.cities.2026.107638",
-   "datum": "2026-10-15",
-   "versie": "a8ad6126c0096db1",
-   "extra": {
-    "tijdschrift": "Cities",
-    "instellingen": [
-     "Polytechnique Montréal",
-     "Université de Montréal",
-     "Utrecht University",
-     "ZHAW Zurich University of Applied Sciences"
-    ],
-    "zoekvraag": "(\"urban heat island\" OR \"heat stress\" OR \"climate adaptation\" OR \"pluvial flooding\") AND (urban OR city OR building OR \"built environment\")",
-    "thema_hint": "Klimaatadaptatie",
-    "open_access": true
-   },
-   "status": "nieuw",
-   "thema_treffers": {
-    "Klimaatadaptatie": [
-     "climate adaptation"
-    ]
-   },
-   "verzameld_op": "2026-10-16T11:37:36+00:00"
-  },
-  {
-   "id": "4aaa0827a6035859",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "Fuzzy Synthetic Evaluation of the Role of Algae-Based Materials for Sustainable Construction in South Africa",
-   "samenvatting_bron": "Climate change is impacting ecosystems and infrastructure worldwide, prompting the construction industry to adopt sustainable practices to reduce its carbon footprint. Nature-based Solutions (NbS), such as algae-based materials, are emerging as beneficial alternatives to traditional construction materials. However, research on these innovations in South Africa is limited. This study presents findings from a preliminary assessment of algae-based materials in the country’s construction sector. A post-positivist stance was employed, using a quantitative research design with a questionnaire survey targeting built environment experts. Data analyses were performed using frequency counts, mean item scores, the Kruskal–Wallis H-test, and Fuzzy Synthetic Evaluation (FSE). The findings show low awareness and usage of algae-based materials, with bio-carbon cement as the only widely recognized option. However, the study identifies potential applications of algae in masonry, wall finishes, and concrete for structural elements. FSE indicates that respondents perceived algae-based materials as having significant environmental, social, and economic implications for sustainable construction. Based on responses from 63 built environment professionals from one South African province, this study provides context-specific insights into the potential integration of algae-based materials in the construction sector and identifies avenues for future research on practical applications, regulatory chal",
-   "url": "https://doi.org/10.3390/su182010504",
-   "datum": "2026-10-15",
-   "versie": "fab9ff905267a32d",
-   "extra": {
-    "tijdschrift": "Sustainability",
-    "instellingen": [
-     "University of Georgia",
-     "University of Johannesburg"
-    ],
-    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
-    "thema_hint": "Klimaatadaptatie",
-    "open_access": true
-   },
-   "status": "nieuw",
-   "thema_treffers": {
-    "Bouwcontext": [
-     "construction sector"
-    ]
-   },
-   "verzameld_op": "2026-10-16T11:37:36+00:00"
-  },
-  {
-   "id": "370ca76b2ca4f3fe",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "From Adaptation to Effectiveness: A Systematic Review of Climate Adaptation Measures and their Effectiveness in Urban Areas",
-   "samenvatting_bron": "Urban climate adaptation has expanded rapidly from risk recognition and planning towards implementation, but the existence of an adaptation measure does not by itself demonstrate that climate risk has been reduced. This systematic theoretical literature review examines how urban climate adaptation measures can be assessed from two connected perspectives: applicability- whether a measure is suitable and implementable under particular risk, spatial, institutional and social conditions?and effectiveness- whether that measure produces measurable, durable and equitable changes in the risk pathway. Recent peer-reviewed evidence supported by selected authoritative reports, is synthesized across urban heat, flooding, nature-based solutions, early warning, infrastructure, planning, governance and community-based adaptation. The review distinguishes adaptation intentions, inputs, implementation, outputs, outcomes and longer-term resilience and proposes an applicability-to-effectiveness pathway: climate risk and vulnerability to adaptation option to applicability and implementation to outputs to outcomes to durable resilience. The evidence indicates that effectiveness is conditional rather than intrinsic. Recent studies also reveal a persistent evaluation problem: indicators are numerous, but many remain output-oriented, lack time-bound targets, or do not adequately capture governance, equity, maladaptation and long-term outcomes. The review therefore argues that adaptation planning sho",
-   "url": "https://doi.org/10.21275/sr261010121042",
-   "datum": "2026-10-15",
-   "versie": "79e90e7ce6361519",
-   "extra": {
-    "tijdschrift": "International Journal of Science and Research (IJSR)",
-    "instellingen": [],
-    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
-    "thema_hint": "Klimaatadaptatie",
-    "open_access": true
-   },
-   "status": "nieuw",
-   "thema_treffers": {
-    "Klimaatadaptatie": [
-     "climate adaptation"
-    ]
-   },
-   "verzameld_op": "2026-10-16T11:37:36+00:00"
-  },
-  {
-   "id": "b30efe2871cd3d7d",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "Integrating Remote Sensing, Multi-Objective Optimization, and Agent-Based Modelling for Nature-Based Flood Mitigation",
-   "samenvatting_bron": "By 2030, pluvial flooding is estimated to cause nearly $500 billion in global damage, affecting 54 million people (UNDRR, 2015) each year. By 2050, metropolitan assets worth around $158 trillion could be at risk of floods. This rising risk has sparked an increased interest in nature-based solutions (NbS), as traditional hydraulic infrastructure may lack the flexibility required to manage more complex flood hazards. This study looks into the use of a data-driven approach to identify and assess the effectiveness of upstream afforestation in preventing pluvial floods. We constructed a thorough computational framework for the Girona/Empordà region of Catalonia, Spain. This framework combines cloud-based remote sensing via Google Earth Engine, multi-criteria decision analysis (MCDA), multi-objective evolutionary optimisation via NSGA-II, and agent-based flood simulation, which is linked to a reinforcement learning agent based on Proximal Policy Optimisation. The framework functions on two stacked spatial scales. At a regional scale (20 x 20 km), it finds and selects suitable afforestation patches. At a meso scale (1 x 1 km), it simulates flood responses to various afforestation schemes. The findings illustrate the technological viability of combining different methods into a single computing process. Preliminary reinforcement-learning results indicate a directional improvement in simulated flood outcomes.",
-   "url": "https://doi.org/10.66838/sauc.6441",
-   "datum": "2026-10-15",
-   "versie": "d996b319f8b2120a",
-   "extra": {
-    "tijdschrift": "Street Art & Urban Creativity",
-    "instellingen": [
-     "Institute for Advanced Architecture of Catalonia",
-     "Twitter (United States)"
-    ],
-    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
-    "thema_hint": "Klimaatadaptatie",
-    "open_access": true
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-16T11:37:36+00:00"
-  },
-  {
-   "id": "93abd34a14680853",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "Sustainable water management in urban areas of Pakistan: challenges and future policy directions",
-   "samenvatting_bron": "Urban water management challenges in Pakistan are intensifying due to the rapid urbanization, increasing population, rising demand for limited water resources, climate change and inadequate infrastructure. The issues of water insecurity and unsustainable urban development are growing because of water scarcity, depleting groundwater reserves, poor water quality, urban flooding and lack of water governance. This review consolidates the assessment of sustainable management of urban water resources in Pakistan from various perspectives considering the challenges, lessons learnt from novel water management approaches, and the policy priority for fortifying water resilience at urban level. In this paper, a detailed review has been carried out considering the latest literature published during 2018 to 2025 including articles, reports and policy documents of national and international organizations. Four thematic areas (urban water management challenges, sustainable management approaches, international experiences and policy implications) were chosen and used in a synthesis of relevant studies from the following key academic databases. The review revealed a very complex matrix of urban water issues which can only be tackled through a sectoral approach. This paradox of urban water is caused by the urbanization which exacerbates the groundwater depletion and urban flood vulnerability. Furthermore, water security and climate resilience are further compromised by inadequate institutional",
-   "url": "https://doi.org/10.3389/frevc.2026.1779738",
-   "datum": "2026-10-15",
-   "versie": "f4218db9d50a3cc4",
-   "extra": {
-    "tijdschrift": "Frontiers in Environmental Economics",
-    "instellingen": [
-     "Government College University, Lahore",
-     "Lahore College for Women University"
-    ],
-    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
-    "thema_hint": "Klimaatadaptatie",
-    "open_access": true
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-16T11:37:36+00:00"
-  },
-  {
-   "id": "91d4f40697b10487",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "Reviving Damodar Canal: Integrating Heritage, Craft and Tourism for Sustainable Urban Regeneration in Pirojpur, Bangladesh",
-   "samenvatting_bron": "Water-based landscapes have historically shaped the morphology, economy and cultural identity of settlements in Bangladesh. The Damodar Canal in Pirojpur represents one such socio-ecological system that once functioned as a vital cultural and economic corridor. However, rapid urban transformation, environmental degradation and infrastructural neglect have led to the erosion of its historical identity and functional relevance. This study proposes a design-led framework for revitalizing the canal through the integration of cultural heritage conservation and community-based tourism development along with reviving the canal edge. Adopting a multi-scalar methodology, the research combines spatial analysis, contextual evaluation and urban design interventions at different levels. The research was conducted as part of a studio project in collaboration with the Urban and Regional Planning Department (UDD).The focus is placed on a critical 2 km stretch of the canal between the Baleshwar and Kocha rivers, chosen for its urban concentration. Key proposals include the development of a continuous heritage trail, rehabilitation of craft-based communities, riverfront activation near Baleswar river and the introduction of public amenities. Drawing upon contemporary theories of water urbanism and nature-based solutions, the study positions the canal as a dynamic cultural landscape capable of supporting environmental resilience and local economic growth. The findings demonstrate that heritage-",
-   "url": "https://doi.org/10.5281/zenodo.23386353",
-   "datum": "2026-10-15",
-   "versie": "d298edf4fa628c7c",
-   "extra": {
-    "tijdschrift": "Zenodo (CERN European Organization for Nuclear Research)",
-    "instellingen": [],
-    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
-    "thema_hint": "Klimaatadaptatie",
-    "open_access": true
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-16T11:37:36+00:00"
-  },
-  {
-   "id": "d79ec2e9beae3898",
-   "bron": "NOS Politiek",
+   "id": "bb1b819d235b4c23",
+   "bron": "Binnenlands Bestuur",
    "categorie": "Media",
-   "methode": "feed",
+   "methode": "web",
    "soort": "",
-   "titel": "Gezinnen en bedrijven bij vliegveld Lelystad moeten weg vanwege uitbreiding defensie",
-   "samenvatting_bron": "Vier boerderijen en zes bedrijven moeten verdwijnen, omdat defensie meer ruimte nodig heeft rond Lelystad Airport. De gezinnen en bedrijven waar het om gaat hebben dat vandaag te horen gekregen. \"Ik begrijp heel goed dat dit een waardeloze boodschap is\", zegt staatssecretaris Boswijk (Defensie), die later vandaag ook langsgaat bij deze mensen. Defensie gaat hen helpen om te verhuizen naar een andere plek, of betaalt een schadevergoeding. Defensie heeft volgens Boswijk de ruimte nodig, omdat de F-35-gevechtsvliegtuigen vaker moeten vliegen. \"Daardoor moet je ook meer trainen en onderhoud doen\", zegt de staatssecretaris. \"Die ondersteunende eenheden hebben fysieke ruimte nodig.\" Niet wachten op natuurvergunning Lelystad Airport wordt vanwege de doelen van defensie 240 hectare groter. 40 hectare daarvan is nodig om de start- en landingsbaan langer te maken. Het vliegveld heeft op dit moment nog geen natuurvergunning. \"Daar kunnen we niet op gaan wachten en dan dit pas gaan doen\", zegt Boswijk. \"Dan duurt het te lang.\"",
-   "url": "https://nos.nl/l/2635215",
-   "datum": "2026-10-16",
-   "versie": "af30cb1c52d89024",
+   "titel": "kennispartners Bodemenergie krijgt een grotere rol. Is uw kennis klaar voor de praktijk? Van ondergronds ruimtegebruik tot vergunningverlening en handhaving.",
+   "samenvatting_bron": "",
+   "url": "https://www.binnenlandsbestuur.nl/ruimte-en-milieu/branchevereniging-bodemenergie/grotere-rol-bodemenergie-is-uw-kennis-klaar-voor-praktijk",
+   "datum": null,
+   "versie": "c75b5884223735bb",
    "extra": {},
    "status": "nieuw",
    "thema_treffers": {
-    "Stikstof": [
-     "natuurvergunning"
+    "Bouwcontext": [
+     "vergunningverlening"
     ]
    },
-   "verzameld_op": "2026-10-16T11:37:36+00:00"
+   "verzameld_op": "2026-10-16T11:54:46+00:00"
   }
  ]
 }
