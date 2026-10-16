@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-10-16T14:04:56+00:00",
+ "bijgewerkt": "2026-10-16T14:39:24+00:00",
  "items": [
   {
    "id": "caceafbf103d73f9",
@@ -1724,6 +1724,20 @@
    "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
    "commissie_afk": "I&W",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05262",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "10cf2c3ceda75195",
+   "bron": "Tweede Kamer",
+   "soort": "Rondetafelgesprek",
+   "wat": "Een verbod op fossiele reclame",
+   "datum": "2026-12-09",
+   "tijd": "13:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Klimaat en Groene Groei",
+   "commissie_afk": "K&GG",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07634",
    "themas": [],
    "kerncommissie": true
   },
