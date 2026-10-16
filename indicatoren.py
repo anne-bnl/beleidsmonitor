@@ -119,8 +119,19 @@ def knmi_jaarreeks(station):
             continue
         v = dict(zip(kop, [x.strip() for x in regel.split(",")]))
         jaar = int(v["YYYYMMDD"][:4])
-        j = per_jaar.setdefault(jaar, {"dagen": 0, "tg": [], "rh": [], "tx25": 0, "tx30": 0})
+        j = per_jaar.setdefault(jaar, {"dagen": 0, "tg": [], "rh": [], "tx25": 0, "tx30": 0,
+                                       "rh20": 0, "rh30": 0, "tekort": 0.0, "tekort_max": 0.0, "zomer_ok": 0})
         j["dagen"] += 1
+        # Extreme neerslag en neerslagtekort (1 april tot en met 30 september, KNMI-methode: tekort niet onder nul)
+        maand = int(v["YYYYMMDD"][4:6])
+        rh = max(int(v["RH"]), 0) / 10 if v.get("RH") else None
+        if rh is not None:
+            j["rh20"] += rh >= 20
+            j["rh30"] += rh >= 30
+        if 4 <= maand <= 9 and rh is not None and v.get("EV24"):
+            j["tekort"] = max(0.0, j["tekort"] + int(v["EV24"]) / 10 - rh)
+            j["tekort_max"] = max(j["tekort_max"], j["tekort"])
+            j["zomer_ok"] += 1
         if v.get("TG"):
             j["tg"].append(int(v["TG"]) / 10)
         if v.get("RH"):
@@ -139,6 +150,9 @@ def knmi_jaarreeks(station):
             "temperatuur": round(sum(j["tg"]) / len(j["tg"]), 2) if len(j["tg"]) > 350 else None,
             "neerslag": round(sum(j["rh"])) if len(j["rh"]) > 350 else None,
             "zomerse_dagen": j["tx25"], "tropische_dagen": j["tx30"],
+            "dagen_20mm": j["rh20"] if len(j["rh"]) > 350 else None,
+            "dagen_30mm": j["rh30"] if len(j["rh"]) > 350 else None,
+            "neerslagtekort_max": round(j["tekort_max"]) if j["zomer_ok"] >= 180 else None,
         })
     return reeks
 

@@ -1,0 +1,30 @@
+# Bronnen voor de indicatoren op de voorpagina van het dashboard.
+# Deze worden één keer per maand opgehaald (de rest van de monitor draait dagelijks).
+#
+# cbs_tabellen : open-datatabellen van CBS StatLine (tabelnummer en omschrijving)
+# cbs_zoeken   : zoekwoorden om in de CBS-catalogus naar (nieuwere) tabellen te zoeken
+# knmi_station : KNMI-station voor de klimaatreeks (260 = De Bilt)
+
+dagen_tussen_updates: 28
+
+# De CBS-tabellen voor dagvlinders (37212) en vleermuizen (37701) lopen maar tot 2005-2006;
+# die cijfers komen daarom uit de publicaties van CBS en de Zoogdiervereniging.
+cbs_tabellen:
+  - {id: "84498NED", naam: Broedvogels}
+  # per gemeente; alleen de totalen van opdrachtgever en eigendom (de som is het landelijke totaal)
+  - {id: "83671NED", naam: Bouwvergunningen woonruimten, filter: "Opdrachtgever eq 'T001209' and Eigendom eq 'T001258'"}
+  - {id: "70262ned", naam: Bodemgebruik, alleen_nederland: true}
+
+cbs_zoeken: ["Living Planet", "Vlinders", "Vleermuizen", "broedvogels", "Bouwvergunningen woonruimten", "Bodemgebruik"]
+
+# Cijfertabellen achter grafieken van het Compendium voor de Leefomgeving (PBL)
+pbl_infographics:
+  - {id: "1578_001g_clo_06_nl", naam: Zoetwatervissen}
+  - {id: "1584_001g_clo_04_nl", naam: Zeevissen}
+  - {id: "0626_002g_clo_04_nl", naam: Stikstof onder KDW}
+  - {id: "0626_003g_clo_04_nl", naam: Stikstof gemiddelde overschrijding KDW}
+  - {id: "1420_001g_clo_06_nl", naam: KRW biologische kwaliteit 2024}
+  - {id: "1420_007g_clo_06_nl", naam: KRW biologische kwaliteit trend}
+
+# KNMI levert ook extreme neerslag (dagen met 20 en 30 mm of meer) en het neerslagtekort per zomer
+knmi_station: 260
