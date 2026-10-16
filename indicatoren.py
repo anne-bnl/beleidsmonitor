@@ -5,6 +5,7 @@ Draait alleen als de vorige ophaalronde langer dan 'dagen_tussen_updates' gelede
 of als de omgevingsvariabele INDICATOREN de waarde 'ja' heeft.
 """
 import datetime as dt
+import hashlib
 import io
 import json
 import os
@@ -164,19 +165,22 @@ def archief_per_maand():
 
 
 def run(force=False):
-    cfg = yaml.safe_load((ROOT / "config" / "indicatoren.yml").read_text(encoding="utf-8"))
+    cfg_tekst = (ROOT / "config" / "indicatoren.yml").read_text(encoding="utf-8")
+    cfg = yaml.safe_load(cfg_tekst)
+    cfg_hash = hashlib.sha1(cfg_tekst.encode("utf-8")).hexdigest()[:12]
     nu = dt.datetime.now(dt.timezone.utc)
     if UIT.exists() and not force and os.environ.get("INDICATOREN", "").lower() != "ja":
         try:
             oud = json.loads(UIT.read_text(encoding="utf-8"))
             vorige = dt.datetime.fromisoformat(oud["opgehaald"])
             mislukt = any(str(v).startswith("fout") for v in oud.get("status", {}).values())
-            if (nu - vorige).days < cfg.get("dagen_tussen_updates", 28) and not mislukt:
+            gewijzigd = oud.get("config") != cfg_hash  # na een wijziging in de instellingen meteen opnieuw ophalen
+            if (nu - vorige).days < cfg.get("dagen_tussen_updates", 28) and not mislukt and not gewijzigd:
                 print(f"Indicatoren: overgeslagen, laatst opgehaald {vorige.date()}")
                 return None
         except Exception:
             pass
-    uit = {"opgehaald": nu.isoformat(timespec="seconds"), "status": {}, "cbs": {}, "knmi": None}
+    uit = {"opgehaald": nu.isoformat(timespec="seconds"), "config": cfg_hash, "status": {}, "cbs": {}, "knmi": None}
     for t in cfg.get("cbs_tabellen", []):
         try:
             uit["cbs"][t["id"]] = cbs_tabel(t)

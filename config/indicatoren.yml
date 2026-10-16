@@ -7,12 +7,12 @@
 
 dagen_tussen_updates: 28
 
+# De CBS-tabellen voor dagvlinders (37212) en vleermuizen (37701) lopen maar tot 2005-2006;
+# die cijfers komen daarom uit de publicaties van CBS en de Zoogdiervereniging.
 cbs_tabellen:
-  - {id: "37212", naam: Dagvlinders}
   - {id: "84498NED", naam: Broedvogels}
-  - {id: "37701", naam: Vleermuizen}
-  - {id: "83673NED", naam: Bouwvergunningen nieuwbouwwoningen, alleen_nederland: true}
+  - {id: "83668NED", naam: Bouwvergunningen woonruimten, alleen_nederland: true}
 
-cbs_zoeken: ["Living Planet", "vlinder", "vleermuis", "broedvogel", "libel", "bijen"]
+cbs_zoeken: ["Living Planet", "Vlinders", "Vleermuizen", "broedvogels", "Bouwvergunningen woonruimten"]
 
 knmi_station: 260
