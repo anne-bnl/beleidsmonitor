@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-10-16T11:54:46+00:00",
+ "bijgewerkt": "2026-10-16T13:10:11+00:00",
  "items": [
   {
    "id": "caceafbf103d73f9",
@@ -1604,6 +1604,18 @@
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05263",
    "themas": [],
    "kerncommissie": true
+  },
+  {
+   "id": "75cfa239230f2888",
+   "bron": "Internetconsultatie",
+   "soort": "Consultatie",
+   "wat": "Wijzigingsregeling vrijstelling digitale koopzegels",
+   "datum": "2026-12-04",
+   "start": "2026-10-16",
+   "url": "https://www.internetconsultatie.nl/vrijstellingdigitalekoopzegels",
+   "commissie": "Fin",
+   "themas": [],
+   "bouw": false
   },
   {
    "id": "e0c3c725fcd560cd",
