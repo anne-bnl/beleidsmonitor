@@ -19,6 +19,7 @@ ROOT = Path(__file__).parent
 DATA = ROOT / "data"
 UIT = DATA / "indicatoren_ruw.json"
 CBS = "https://opendata.cbs.nl/ODataApi/OData"
+FEED = "https://opendata.cbs.nl/ODataFeed/OData"
 CATALOGUS = "https://opendata.cbs.nl/ODataCatalog/Tables"
 KNMI = "https://cdn.knmi.nl/knmi/map/page/klimatologie/gegevens/daggegevens/etmgeg_{st}.zip"
 
@@ -60,16 +61,29 @@ def cbs_tabel(cfg):
                 if nl:
                     filt = f"{p['Key']} eq '{nl[0]}'"
     uit["dimensies"] = dims
-    rijen, skip = [], 0
-    while True:
-        params = {"$top": 5000, "$skip": skip}
-        if filt:
-            params["$filter"] = filt
-        deel = haal(f"{CBS}/{tid}/TypedDataSet", params=params).json()["value"]
-        rijen += deel
-        if len(deel) < 5000 or len(rijen) >= 60000:
-            break
-        skip += 5000
+    # De ODataApi geeft maximaal 10.000 rijen en kent geen $skip; bij meer rijen volgt een vervolglink.
+    params = {"$format": "json"}
+    if filt:
+        params["$filter"] = filt
+    try:
+        r = haal(f"{CBS}/{tid}/TypedDataSet", params=params).json()
+        rijen = r.get("value", [])
+        volgende = r.get("odata.nextLink")
+        while volgende and len(rijen) < 60000:
+            r = haal(volgende).json()
+            rijen += r.get("value", [])
+            volgende = r.get("odata.nextLink")
+    except requests.HTTPError:
+        # Terugval: de ODataFeed ondersteunt wel bladeren met $skip
+        rijen, skip = [], 0
+        while len(rijen) < 60000:
+            r = haal(f"{FEED}/{tid}/TypedDataSet", params={**params, "$top": 5000, "$skip": skip}).json()
+            deel = r.get("value", [])
+            rijen += deel
+            if len(deel) < 5000:
+                break
+            skip += 5000
+        uit["via"] = "ODataFeed"
     uit["rijen"] = rijen
     uit["aantal_rijen"] = len(rijen)
     return uit
@@ -154,8 +168,10 @@ def run(force=False):
     nu = dt.datetime.now(dt.timezone.utc)
     if UIT.exists() and not force and os.environ.get("INDICATOREN", "").lower() != "ja":
         try:
-            vorige = dt.datetime.fromisoformat(json.loads(UIT.read_text(encoding="utf-8"))["opgehaald"])
-            if (nu - vorige).days < cfg.get("dagen_tussen_updates", 28):
+            oud = json.loads(UIT.read_text(encoding="utf-8"))
+            vorige = dt.datetime.fromisoformat(oud["opgehaald"])
+            mislukt = any(str(v).startswith("fout") for v in oud.get("status", {}).values())
+            if (nu - vorige).days < cfg.get("dagen_tussen_updates", 28) and not mislukt:
                 print(f"Indicatoren: overgeslagen, laatst opgehaald {vorige.date()}")
                 return None
         except Exception:
