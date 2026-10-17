@@ -1,44 +1,6 @@
 {
- "bijgewerkt": "2026-10-16T15:14:57+00:00",
+ "bijgewerkt": "2026-10-17T04:44:31+00:00",
  "items": [
-  {
-   "id": "caceafbf103d73f9",
-   "bron": "Internetconsultatie",
-   "soort": "Consultatie",
-   "wat": "Regeling periodieke audits en toezicht politiegegevens buitengewoon opsporingsambtenaren",
-   "datum": "2026-10-16",
-   "start": "2026-09-02",
-   "url": "https://www.internetconsultatie.nl/rpatboa",
-   "commissie": "JenV",
-   "themas": [],
-   "bouw": false
-  },
-  {
-   "id": "662b2a661d685e3b",
-   "bron": "Internetconsultatie",
-   "soort": "Consultatie",
-   "wat": "Wet toekomstbestendige financiering mbo",
-   "datum": "2026-10-16",
-   "start": "2026-07-14",
-   "url": "https://www.internetconsultatie.nl/toekomstbestendigefinancieringmbo",
-   "commissie": "OCW",
-   "themas": [],
-   "bouw": false
-  },
-  {
-   "id": "74aa31a6e1b18459",
-   "bron": "Tweede Kamer",
-   "soort": "E-mailprocedure",
-   "wat": "Verzoek Kisteman (VVD) om CD Slagvaardige overheid en regeldruk van 28/10 te verplaatsen",
-   "datum": "2026-10-16",
-   "tijd": "12:00",
-   "status": "Uitgevoerd",
-   "commissie": "vaste commissie voor Binnenlandse Zaken",
-   "commissie_afk": "BiZa",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07697",
-   "themas": [],
-   "kerncommissie": false
-  },
   {
    "id": "dc81e35e6e7e9c27",
    "bron": "Internetconsultatie",
