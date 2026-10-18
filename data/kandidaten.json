@@ -1,6 +1,6 @@
 {
  "run": {
-  "run_op": "2026-10-17T04:44:31+00:00",
+  "run_op": "2026-10-18T04:44:43+00:00",
   "bronnen_totaal": 90,
   "bronnen_gelukt": 82,
   "bronnen_mislukt": [],
@@ -14,1029 +14,445 @@
    "ICLEI Europe",
    "Mobilisation for the Environment (MOB)"
   ],
-  "documenten_gelezen": 21,
+  "documenten_gelezen": 0,
   "documenten_mislukt": [],
   "achterstand_documenten": 0,
   "vervallen_uit_oude_rij": 0,
-  "doorgelaten": 41
+  "doorgelaten": 18
  },
  "items": [
   {
-   "id": "0caaa64a55238abb",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Eindtekst",
-   "titel": "36875, eindtekst",
-   "samenvatting_bron": "Uitvoering van Verordening (EU) 2024/2847 van het Europees Parlement en de Raad van 23 oktober 2024 betreffende horizontale cyberbeveiligingsvereisten voor producten met digitale elementen en tot wijziging van Verordeningen (EU) nr. 168/2013 en (EU) 2019/1020 en Richtlijn (EU) 2020/1828 (Uitvoeringswet verordening cyberweerbaarheid). Zaak: Uitvoering van Verordening (EU) 2024/2847 van het Europees Parlement en de Raad van 23 oktober 2024 betreffende horizontale cyberbeveiligingsvereisten voor producten met digitale elementen en tot wijziging van Verordeningen (EU) nr. 168/2013 en (EU) 2019/1020 en Richtlijn (EU) 2020/1828 (Uitvoeringswet verordening cyberweerbaarheid) Uitvoering van Verordening (EU) 2024/2847 van het Europees Parlement en de Raad van 23 oktober 2024 betreffende horizontale cyberbeveiligingsvereisten voor producten met digitale elementen en tot wijziging van Verordeningen (EU) nr. 168/2013 en (EU) 2019/1020 en Richtlijn (EU) 2020/1828 (Uitvoeringswet verordening cyberweerbaarheid)",
-   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2025Z22654&did=2026D45280",
-   "datum": "2026-09-10",
-   "versie": "7f32a40da48a9db0",
-   "extra": {
-    "zaaknummer": "2025Z22654",
-    "zaaksoort": "Wetgeving",
-    "documentnummer": "2026D45280"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-17T04:44:31+00:00"
-  },
-  {
-   "id": "63a526566ead2cbf",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Verslag van een wetgevingsoverleg",
-   "titel": "Verslag van een wetgevingsoverleg, gehouden op 7 september 2026, over de Uitvoeringswet cyberweerbaarheid",
-   "samenvatting_bron": "Uitvoering van Verordening (EU) 2024/2847 van het Europees Parlement en de Raad van 23 oktober 2024 betreffende horizontale cyberbeveiligingsvereisten voor producten met digitale elementen en tot wijziging van Verordeningen (EU) nr. 168/2013 en (EU) 2019/1020 en Richtlijn (EU) 2020/1828 (Uitvoeringswet verordening cyberweerbaarheid). Zaak: Uitvoering van Verordening (EU) 2024/2847 van het Europees Parlement en de Raad van 23 oktober 2024 betreffende horizontale cyberbeveiligingsvereisten voor producten met digitale elementen en tot wijziging van Verordeningen (EU) nr. 168/2013 en (EU) 2019/1020 en Richtlijn (EU) 2020/1828 (Uitvoeringswet verordening cyberweerbaarheid) Uitvoering van Verordening (EU) 2024/2847 van het Europees Parlement en de Raad van 23 oktober 2024 betreffende horizontale cyberbeveiligingsvereisten voor producten met digitale elementen en tot wijziging van Verordeningen (EU) nr. 168/2013 en (EU) 2019/1020 en Richtlijn (EU) 2020/1828 (Uitvoeringswet verordening cyberweerbaarheid)",
-   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2025Z22654&did=2026D51997",
-   "datum": "2026-10-16",
-   "versie": "86d38dc583bbeef7",
-   "extra": {
-    "zaaknummer": "2025Z22654",
-    "zaaksoort": "Wetgeving",
-    "documentnummer": "2026D51997"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-17T04:44:31+00:00",
-   "document": {
-    "pagina's": 1,
-    "thema_treffers_tekst": {},
-    "fragmenten": [],
-    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u0000[\u0001\u0000\u0000\u0007\u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000j@\u0010 }\u0007Z'\u0017\u0014˹h\u0012\b$\u0003wG;{,YXn\u0004sη;;Ym0ڻB\\SS^nU?o\"K\u0004N\u000e $n?͞\u0001Sj Q\u0011R&U+\u0016q%\u0003\u0017XNJ 5 b>\u0012ֆ nI\"$ mcU\b\b rIГ:/ MN&\u001a\u0005D G-Wk\u001b,kq +LܚXݑ]\u000eK $lx7 o8`Dy\u001a4󳟐@\u0003|%\u0007W3 18W\u0006xeW4G(\u000f/\u0000\u0000\u0000\u0003\u0000PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u0000eG \u0001\u0000\u0000\u0002\u0000\u0000 \u0000\b\u0002_rels/.rels \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
-   }
-  },
-  {
-   "id": "e1e43fd730377a80",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Brief regering",
-   "titel": "Rapporten en data inzake publieke voorzieningen Caribisch Nederland",
-   "samenvatting_bron": "None. Zaak: None Rapporten en data inzake publieke voorzieningen Caribisch Nederland",
-   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z22605&did=2026D51998",
-   "datum": "2026-10-16",
-   "versie": "b9329ef0143f30d2",
-   "extra": {
-    "zaaknummer": "2026Z22605",
-    "zaaksoort": "Brief regering",
-    "documentnummer": "2026D51998"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-17T04:44:31+00:00",
-   "document": {
-    "pagina's": 1,
-    "thema_treffers_tekst": {},
-    "fragmenten": [],
-    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0000\u0000\b\u0000P]MPuZ\u0001\u0000\u0000_ \u0000\u0000\u0013\u0000\u0000\u0000[Content_Types].xmlŖKN0\u0010\u0012e\u0012EB\b\u0000P^'Eq6\u0016 +0Ih@\u0015mRJMxXxy\u0002Vp\u0018\u000f\u0000\u0014\\t\u0012\u0016>nt\u001ap\u0001*7 3 !e \u0001D[I=ڔ\u0018^i d4\u0018\u0010\u0007#_z\u0003$}:֨4 2j\u0012 YuB4Ԙ\\0NVE_P1* 㮰PDU:\u0013>Y!S럨65[m AA|\u0017P$\u0001z\u0014\u0012%1D xd\u0012\u0017M}4i Tw\\kI\u0003|K7 f N\"P F/2H\u001a.\u0014ڃ P\u001aw\u0005\u0018]\u001a\u0000 []?\bu;E\u00062\bqW \u00064 \u0006+*\u0012,j np=60;\u000e ~q j|o\u0006߈ʦ=s ˗ގyCB\u0013PK\u0003\u0004\u0014\u0000\u0000\u0000\b\u0000KP]+ fW\u0000\u0000\u0000O\u0002\u0000\u0000 \u0000\u0000\u0000_rels/.relsJ\u0003A _eȽm\u0005\u0011\u0017/\u0002a&;L\u001bAZz/ !!k 9YXv=\u0018N.F {\u0019\u0016\u000f`P4\u0016`YL#m \u0019efa\u0012)M upʐk$ѰXȽȸ{?\u0019p4;o\u0012-< SvI.աd#\\=tX0xYg:|\u0010NT\u0012''ytC*J_ # y\u0012B+_\u00178\u0019#l>\u0001PK\u0003\u0004\u0014\u0000\u0000\u0000\b\u0000P]L\u001a\u0018~\u001a\u0000\u0000\u0000\u0000\u0011\u0000\u0000\u0000word/document.xml]n#r~\u000e\u0001\u00079pH\u000e/w\u000fHZ;\u0004I\u0011#A 83̅[\u0004H \u0007ȿ<@&~TU\\(Ґ\u0014w>\u0006䰧._UW|ǟ|E\u0018I\u0015XG \u0013H92pTx|خ(=\u00157[\u0011UŉF/\u0001 :o*8 Gytf\"*y _C \u0002\bqZm \\\u0006\u0015sL\u0000wI(R\"C\" *Rhc5 ˑ8^\u0001 V>B5\u0012Q\u0004tOy0QJnS9jSHq<0\u0016?4ǝCB-\b\bkCRI5W\u000f\b5\"\u0004z@ގ҃4 \u0002\u0019Pz2%J(081$\u000e-'/s-};ZCA T\u0010M,=[j$%2l\u0010s*9\u0014%'2?NѪ\u0011$Q \\e\u0016۱\\h\u0004j ݀ae\u0007͑t6DJ\u0018,Љ6 X C&s ]]YNMF`ӊvu530 k7P! z1!\u0006bP\u0018q9 \u000e\u000f;\u0011a[֍f*\u0012G?\u0000و\u000fkVk \u0010}P9-Ns;o*ja՛ Pnxȿ\u0019ouj8WJtW!\u001a\u0017!3\u000e/.B \bzӪɛJѩEA\u0003\u0000C7\u0018M\u0014\u0018\u0019w\u0005nP\u0004y ~\u0018sj\u001aM\u0001oT1>=\u00110\u000f~$J{Q/nĊ g=@]JM\u0003sј\u00178;\u0001bk`V>Of\u0015\u0005\u0006A@t \u001bBvݴuǡx,F@LLC;) &`0*\"x\u0000raXFRL#f|<<\u0018]V\u0000&B:uJsa\u000ef\"Ggf\u0002:?q]YTǜ%CM+\u000f~ \u0010= Ԃ t\u0017`j\u0006 ck\u0012\u0007w\u000f=9;\u0013\u000f\u0005-iU4Eq(\u0004?ɗ IԷ/]o\u0011(\u0000\u001b.+'U $8_ 6= (~'\u0003\u0016D(]t/\"<6K- RS*#jǤШݥ [so[ [ٶsҲ5kĲNKDQ1mu oZmݬewj .ja|;\u0013Mf\u0000z%B)d\u0010H\u0013|*\u0002\bD7*4D\u0013 ϿLSilZ)\u0010,A>8U>mcP\u001by \u0005\u0005+\u0018Կ2Կ /EKc!ֶ\u001aӧ*\u0004\u001a\u000e:{)\"9 \"0t/\u00165bAd[\"&tI\u0011X]kU;=@\u0014G7gv)b E.T\u0014\u000fY\u0016*\u001bt\u0019냱s\u0017)ď3*\u0005xb"
-   }
-  },
-  {
-   "id": "06fab49361f38687",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Bijlage",
-   "titel": "AEF Klein Gebied Grote Opgave - Investerings- en onderhoudsopgave fysieke infrastructuur",
-   "samenvatting_bron": "None. Zaak:",
-   "url": "https://www.tweedekamer.nl/downloads/document?id=36634f07-5aff-47fb-82f8-671648b6e7f5",
-   "datum": "2026-10-16",
-   "versie": "6beb4578021c03fd",
-   "extra": {
-    "zaaknummer": null,
-    "zaaksoort": null,
-    "documentnummer": "2026D51999"
-   },
-   "status": "nieuw",
-   "thema_treffers": {
-    "Bouwcontext": [
-     "infrastructuur"
-    ]
-   },
-   "verzameld_op": "2026-10-17T04:44:31+00:00",
-   "document": {
-    "pagina's": 146,
-    "thema_treffers_tekst": {
-     "Natuurherstel en gebiedsbescherming": [
-      "landschap"
-     ],
-     "Soortenbescherming": [
-      "invasieve soort"
-     ],
-     "Waterkwaliteit": [
-      "grondwater",
-      "lozen",
-      "waterschap",
-      "waterbeheer",
-      "drinkwater"
-     ],
-     "Klimaatadaptatie": [
-      "klimaatadaptatie",
-      "klimaatadaptief",
-      "klimaatbestendig",
-      "wateroverlast",
-      "droogte",
-      "overstroming"
-     ],
-     "Bouwcontext": [
-      "nieuwbouw",
-      "renovatie",
-      "verduurzaming",
-      "sloop",
-      "onderhoud van",
-      "infrastructuur",
-      "rijkswaterstaat",
-      "aannemer"
-     ]
-    },
-    "fragmenten": [
-     {
-      "term": "landschap",
-      "fragment": "…ngewenste situatie, aangezien bij hevige regenval aardverschuivingen plaatsvinden die de 41 materialen bergafwaarts, richting de zee, transporteren met een negatieve impact op het landschap en de zeewaterkwaliteit. Tot op heden is er echter geen betere oplossing voor de verwerking van deze afvalstromen Autowrakken zijn te groot voor de balers op het eiland. Periodiek…"
-     },
-     {
-      "term": "invasieve soort",
-      "fragment": "…uit de zeehaven, maar de inkomsten die geraamd zijn in een kosten en batenanalyse in 2021 zijn lang niet voldoende om de onderhoudskosten te dekken. Daarnaast zijn er ambities om invasieve soorten die via de haven binnenkomen te bestrijden, waar ook nog geen dekking voor is. Ook het onderhoudsbudget voor de bestaande haven is niet toereikend. Op de luchthaven op Saba zijn…"
-     },
-     {
-      "term": "grondwater",
-      "fragment": "…te komen voor de verwerking van het slib uit de septic tanks. Voor het bepalen van de ambities op de langere termijn wordt momenteel onderzoek uitgevoerd naar de kwaliteit van het grondwater op Saba. Hieruit moet volgen of aanvullende maatregelen nodig zijn op het gebied van afvalwater. 3.4.3 Cultureel erfgoed Huidige situatie Er zijn in overleg met experts van het op…"
-     },
-     {
-      "term": "lozen",
-      "fragment": "…effect hebben op Caribisch Nederland. Zo zorgt de stijging van de temperatuur van het zeewater bijvoorbeeld voor een verbleking en afsterving van het koraal. Dit betekent dat het lozen van afvalwater in zee nog schadelijker wordt (voor het koraal). Dit type effecten is (in financiële zin) echter relatief klein of onzeker. In ons onderzoek hebben we ons daarom be…"
-     }
-    ],
-    "tekst_begin": " 1 Klein gebied, grote opgave De financiële opgave van de fysieke infrastructuur in Caribisch Nederland 2 Datum 13 februari 2024 Opdrachtgever Ministerie van Binnenlandse Zaken en Koninkrijksrelaties Onderzoeksteam Lisette Reuvers, Gillian Lustermans, Koen van Wijk, Michiel Ehrismann, Bart Teulings Referentie GB378/rapport Foto’s en illustraties Eigen foto adres Maliebaan 16 3581 CN Utrecht telefoon +31 30 236 30 30 website www.aef.nl 3 Managementsamenvatting Het ministerie van BZK wenste inzicht in de financiële opgave op het gebied van fysieke infrastructuur in Caribisch Nederland Een deel van de fysieke infrastructuur op de Caribisch Nederlandse eilanden Bonaire, Sint Eustatius en Saba is niet in goede staat. Daarnaast stelt de huidige bekostigingssystematiek de openbare lichamen op de eilanden niet voldoende in staat om het nodige onderhoud uit te voeren en tijdig infrastructuur te vervangen. Het ministerie van BZK heeft AEF gevraagd om onderzoek te doen naar de investerings-, onderhouds- en vervangingsopgave van de fysieke infrastructuur in Caribisch Nederland en de mate waarin daar nog geen dekking voor is. Dit inzicht kan als input dienen voor een gesprek over een deel van d"
-   }
-  },
-  {
-   "id": "607cb125755dc732",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Bijlage",
-   "titel": "ROB Advies-bekostiging-infrastructurele-opgaven-caribisch-nederland",
-   "samenvatting_bron": "None. Zaak:",
-   "url": "https://www.tweedekamer.nl/downloads/document?id=7e0b09d8-4bff-4677-a6dc-9c9274c5740c",
-   "datum": "2026-10-16",
-   "versie": "2553576d99ca0ba9",
-   "extra": {
-    "zaaknummer": null,
-    "zaaksoort": null,
-    "documentnummer": "2026D52000"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-17T04:44:31+00:00",
-   "document": {
-    "pagina's": 11,
-    "thema_treffers_tekst": {
-     "Waterkwaliteit": [
-      "waterschap",
-      "waterbeheer",
-      "drinkwater"
-     ],
-     "Bouwcontext": [
-      "renovatie",
-      "onderhoud van",
-      "infrastructuur",
-      "aannemer"
-     ]
-    },
-    "fragmenten": [
-     {
-      "term": "waterschap",
-      "fragment": "…op het onderzoek van de AEF. Het gaat daarbij met name om de volgende vragen: - Zijn er vergelijkingen te trekken met de wijze waarop Europees Nederlandse gemeenten, provincies en waterschappen worden gefinancierd? 3 In de voorjaarsnota 2024 is € 18,1 mln. toegevoegd aan het BES-fonds en is afgesproken de middelen jaarlijks te indexeren voorafgaand aan het begrotingsj…"
-     },
-     {
-      "term": "waterbeheer",
-      "fragment": "…sisvoorzieningen gaat het om voorzieningen die globaal in alle gemeenten en of provincies aanwezig zijn, zoals afvalverwerking, afvalwater, cultureel erfgoed, gebouwen, recreatie, waterbeheer en wegen. Voorzieningen als drinkwater, energie, landbouw, luchthavens, telecom en zeehavens behoren daar op het eerste gezicht niet toe. Deze laatste zijn bijzondere voorzieninge…"
-     },
-     {
-      "term": "drinkwater",
-      "fragment": "…en die globaal in alle gemeenten en of provincies aanwezig zijn, zoals afvalverwerking, afvalwater, cultureel erfgoed, gebouwen, recreatie, waterbeheer en wegen. Voorzieningen als drinkwater, energie, landbouw, luchthavens, telecom en zeehavens behoren daar op het eerste gezicht niet toe. Deze laatste zijn bijzondere voorzieningen die niet standaard tot de verantwoord…"
-     }
-    ],
-    "tekst_begin": "> Retouradres Postbus 20011 2500 EA Den Haag Ministerie van Binnenlandse Zaken en Koninkrijksrelaties T.a.v.: Staatssecretaris E. van Marum Postbus 20011 2500 EA Den Haag Datum 25 juli 2025 Betreft Advies bekostiging infrastructurele opgaven Caribisch Nederland Raad voor het Openbaar Bestuur (ROB) Korte Voorhout 7 2511 CW 2511 CW Postbus 20011 2500 EA Den Haag Nederland www.raadopenbaarbestuur.nl Raad_ROB Kenmerk 2025-0000442872 Uw kenmerk 2025-0000195141 Pagina 1 van 11 Geachte heer Van Marum, Uw voorganger heeft als staatssecretaris van Koninkrijksrelaties en Digitalisering de Raad voor het Openbaar Bestuur (ROB) advies gevraagd over de bekostiging van de investerings- en onderhoudsopgave voor de eilandelijke infrastructuur van Caribisch Nederland. Deze adviesaanvraag is een vervolg op het eerdere advies van de ROB over de inrichting van de financiële verhoudingen met Caribisch Nederland.1 Bij deze voldoet de Raad aan het verzoek van uw voorganger. Samenvatting advies De openbare lichamen moeten in staat worden gesteld om hun taken adequaat, structureel en zo zelfstandig mogelijk uit te voeren. De huidige wijze van bekostiging belet de besturen van de eilanden echter om volledige"
-   }
-  },
-  {
-   "id": "07355e13f61b173b",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Bijlage",
-   "titel": "Rapport Kosten-batenanalyse geodatafundament BES-eilanden",
-   "samenvatting_bron": "None. Zaak:",
-   "url": "https://www.tweedekamer.nl/downloads/document?id=21fa719d-1599-4084-b28e-2be89a9500ed",
-   "datum": "2026-10-16",
-   "versie": "6242b9cd80c6b387",
-   "extra": {
-    "zaaknummer": null,
-    "zaaksoort": null,
-    "documentnummer": "2026D52001"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-17T04:44:31+00:00",
-   "document": {
-    "pagina's": 37,
-    "thema_treffers_tekst": {},
-    "fragmenten": [],
-    "tekst_begin": " Inhoudsopgave Managementsamenvatting ........................................ 3 Huidige situatie ..................................................................................................3 Behoeften ...............................................................................................................3 Kosten- en batenafweging ....................................................................... 4 Kwalitatieve baten ........................................................................................... 4 HOOFDSTUK 1 Inleiding .............................................................................. 6 De context en het belang van geodata ...........................................7 1.1 Onderzoeksvragen................................................................................8 1.2 Onderzoeksmethode ..........................................................................8 1.3 Leeswijzer .....................................................................................................9 HOOFDSTUK 2 Analyse huidige situatie ............................................. 10 2.1 Huidige werkwijzen en stand v an geodatacomponenten ......................"
-   }
-  },
-  {
-   "id": "a730b6a7bb4514ba",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Bijlage",
-   "titel": "SEO Economisch Onderzoek. Actualisatie PSO Bovenwindse Eilanden",
-   "samenvatting_bron": "None. Zaak:",
-   "url": "https://www.tweedekamer.nl/downloads/document?id=158810c1-e7c8-4109-a8ee-5ec2d93c4114",
-   "datum": "2026-10-16",
-   "versie": "7425444486a05543",
-   "extra": {
-    "zaaknummer": null,
-    "zaaksoort": null,
-    "documentnummer": "2026D52002"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-17T04:44:31+00:00",
-   "document": {
-    "pagina's": 32,
-    "thema_treffers_tekst": {
-     "Bouwcontext": [
-      "infrastructuur"
-     ]
-    },
-    "fragmenten": [],
-    "tekst_begin": " ACTUALISATIE PSO BOVENWINDSE EILANDEN 2 Samenvatting Een subsidie is één van de instrumenten waarmee de overheid betaalbare bereikbaarheid voor inwoners van Saba en Sint Eustatius kan borgen. De jaarlijkse kosten liggen, afhankelijk van de specifieke invulling, tussen de € 1,5 miljoen en € 7,5 miljoen. Connectiviteit en bereikbaarheid van Saba en Sint Eustatius Het onderzoek van SEO Economisch Onderzoek (hierna: “SEO”) uit 2023 concludeert dat de specifieke marktomstandigheden op de luchtvaartverbindingen tussen Saba-Sint Maarten en Sint Eustatius-Sint Maarten een valide reden zijn voor overheidsingrijpen. Het gaat om dunne routes en voor de inwoners van Saba en Sint Eustatius om een noodzakelijke verbinding met Sint Maarten. Deze bevinding geldt nog steeds. Het ministerie van Infrastructuur & Waterstaat (hierna: “IenW”) heeft aan SEO gevraagd om de verwachte effecten en kosten van verschillende beleidsinstrumenten door te rekenen op basis van de meest recente beschikbare data. Deze update betreft nieuwe marktgegevens, nieuwe scenario’s met naar type reizigers gedifferentieerde beleidsinstrumenten en een daaraan aangepast economisch model. Toename in aanbod, prijzen en kosten In 2"
-   }
-  },
-  {
-   "id": "1cad6f0a3fbe83a4",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Bijlage",
-   "titel": "TNO. Opties voor klimaatneutrale energievoorziening in Caribisch Nederland",
-   "samenvatting_bron": "None. Zaak:",
-   "url": "https://www.tweedekamer.nl/downloads/document?id=3faed2bc-0a70-4bc3-9360-3936e812c152",
-   "datum": "2026-10-16",
-   "versie": "ca2dc924e393c520",
-   "extra": {
-    "zaaknummer": null,
-    "zaaksoort": null,
-    "documentnummer": "2026D52003"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-17T04:44:31+00:00",
-   "document": {
-    "pagina's": 60,
-    "thema_treffers_tekst": {
-     "Stikstof": [
-      "NOx"
-     ],
-     "Waterkwaliteit": [
-      "waterkwaliteit",
-      "oppervlaktewater",
-      "drinkwater"
-     ],
-     "Bouwcontext": [
-      "verduurzaming",
-      "infrastructuur",
-      "vergunningverlening"
-     ]
-    },
-    "fragmenten": [
-     {
-      "term": "NOx",
-      "fragment": "…e elektriciteitsmix leidt de overstap naar EV’s tot een daling van CO2-emissies, minder afhankelijkheid van brandstofimport, en vermindering van de lokale uitstoot van fijnstof en NOx, Aanschafkosten en acceptatie van EV’s als geschikte toepassing op de eilanden zijn de grootste barrières. De groei in elektriciteitsvraag door EV’s is naar verwachting beperkt; n…"
-     },
-     {
-      "term": "waterkwaliteit",
-      "fragment": "…energie opgewekt door de zonnesystemen (Verlaan Consulting, 2021). De bevolking van St. Eustatius groeit met ongeveer 1% per jaar, zelfs tijdens de Covid-pandemie. Onlangs is een waterkwaliteits- en vraagrapport opgesteld waarin sterk wordt geadviseerd om de elektriciteitsproductiecapaciteit uit te breiden, aangezien de elektriciteitsvraag met meer dan 5%17 per jaar groe…"
-     },
-     {
-      "term": "oppervlaktewater",
-      "fragment": "…al-energie-centrale, verbranding of vergisting van organisch afval mogelijk te maken (Schelleman en van Weijsten, 2016). 2.2.1.4 OTEC OTEC benut temperatuurverschillen tussen warm oppervlaktewater en koud diep oceaanwater om elektriciteit op te wekken. Het warme oppervlaktewater wordt gebruikt om een werkvloeistof te verdampen, waarmee een turbine aangedreven wordt om elekt…"
-     },
-     {
-      "term": "drinkwater",
-      "fragment": "…W aan generatoren zijn uit 2007. In april 2020 is er gestopt met de levering van brandstoffen op Bonaire via de olieoverslagterminal “BOPEC”. Om problemen met de elektriciteit- en drinkwaterproductie te voorkomen zijn er noodmaatregelen getroffen om de aanvoer van brandstoffen naar de elektriciteitscentrale te garanderen. Met BBT kan er gezocht worden naar een structu…"
-     }
-    ],
-    "tekst_begin": " Radarweg 60 1043 NT Amsterdam www.tno.nl T +31 88 866 50 10 TNO-rapport TNO 2021 R11513 Opties voor klimaatneutrale energievoorziening in Caribisch Nederland Datum 10 januari 2022 Auteur(s) Sam Lamboo en Silvana Gamboa Palacios Aantal pagina's 60 (incl. bijlagen) Opdrachtgever Ministerie van Economische Zaken en Klimaat Projectnaam Input up de routekaarten voor klimaat neutrale energievoorziening Caribisch Nederland Projectnummer 060.47791 Alle rechten voorbehouden. Niets uit deze uitgave mag worden vermenigvuldigd en/of openbaar gemaakt door middel van druk, fotokopie, microfilm of op welke andere wijze dan ook, zonder voorafgaande toestemming van TNO. Indien dit rapport in opdracht werd uitgebracht, wordt voor de rechten en verplichtingen van opdrachtgever en opdrachtnemer verwezen naar de Algemene Voorwaarden voor opdrachten aan TNO, dan wel de betreffende terzake tussen de partijen gesloten overeenkomst. Het ter inzage geven van het TNO-rapport aan direct belanghebbenden is toegestaan. © 2021 TNO TNO-rapport | TNO 2021 R11513 2 / 60 Samenvatting Dit rapport is het resultaat van onderzoek voor het ministerie van Economische Zaken en Klimaat ter ondersteuning van het maken van r"
-   }
-  },
-  {
-   "id": "78eeea58976b4514",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Bijlage",
-   "titel": "EBA - Digitale infrastructuur Caribisch Nederland",
-   "samenvatting_bron": "None. Zaak:",
-   "url": "https://www.tweedekamer.nl/downloads/document?id=5d41c4b0-5a31-4eeb-af47-13f60d174504",
-   "datum": "2026-10-16",
-   "versie": "ec47316cc61a8b17",
-   "extra": {
-    "zaaknummer": null,
-    "zaaksoort": null,
-    "documentnummer": "2026D52004"
-   },
-   "status": "nieuw",
-   "thema_treffers": {
-    "Bouwcontext": [
-     "infrastructuur"
-    ]
-   },
-   "verzameld_op": "2026-10-17T04:44:31+00:00",
-   "document": {
-    "pagina's": 96,
-    "thema_treffers_tekst": {
-     "Bouwcontext": [
-      "infrastructuur"
-     ]
-    },
-    "fragmenten": [],
-    "tekst_begin": "Economisch Bureau Amsterdam economisch -bureau.nl 1 I* * Eindrapport Martijn Mak, Tom Smits en Koert van Buiren 23-10-2023 Digitale Infrastructuur Caribisch Nederland Economisch Bureau Amsterdam economisch-bureau.nl 2 Digitale infrastructuur Caribisch Nederland Eindrapport Auteurs: Tom Smits, Martijn Mak en Koert van Buiren Amsterdam, Economisch Bureau Amsterdam, oktober 2023 Herengracht 514, 1017 CC Amsterdam In opdracht van: Economisch Bureau Amsterdam staat voor een integrale aanpak: gedegen economische analyses, doelgerichte oplossingen en effectieve implementatie. Economisch Bureau Amsterdam helpt organisaties bij het nemen en implementeren van beslissingen. Met onderzoek, advies en interim-opdrachten. Economisch Bureau Amsterdam streeft ernaar een verantwoordelijk bedrijf te zijn dat een maatschappelijke bijdrage levert. Dat doen we door sponsoring van maatschappelijke en sociale activiteiten, door CO2-compensatie en door het delen van kennis en informatie. Zie onze data-tool Caribbean Analytics and Statistics. Economisch Bureau Amsterdam economisch -bureau.nl 3 Samenvatting De digitale infrastructuur in C aribisch Nederland is sinds 2010 verbeterd, maar er blijven uitdaginge"
-   }
-  },
-  {
-   "id": "550cc959927d1991",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Bijlage",
-   "titel": "Pioneer. Research into Data Subsea Cables Enabling Caribbean Netherlands digitally",
-   "samenvatting_bron": "None. Zaak:",
-   "url": "https://www.tweedekamer.nl/downloads/document?id=010a5df2-80e1-48a5-83bc-6c862af3780c",
-   "datum": "2026-10-16",
-   "versie": "e388acbfedcbb854",
-   "extra": {
-    "zaaknummer": null,
-    "zaaksoort": null,
-    "documentnummer": "2026D52005"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-17T04:44:31+00:00",
-   "document": {
-    "pagina's": 76,
-    "thema_treffers_tekst": {},
-    "fragmenten": [],
-    "tekst_begin": "/0 /0 /1 /i255 /3 /4 /5 /6 /7 /i255 /8 /9 /7 /6 /6 /9 /10 /i255 /11/9 /12 /i255/13 /14 /15 /15 /16 /17 /i255/19/15/20 /15 /21 /22 /23 /17 /i255/24/25/i255 /26 /27 /26 /28 /26 /i255 /29 /30 /31 /i255 /32 /i255 /33 /34 /i255 /35 /27 /36 /i255 /28 /37 /27 /i255 /28 /38 /26 /37 /39/39/39/40/41 /42 /15 /23 /22 /22 /16 /43 /15 /23 /44 /45 /14 /46 /42 /23 /47 /40 /43 /15/48/i255/32 /i255 /42 /23 /49 /15/50/41/42 /15 /23 /22 /22 /16 /43 /15 /23 /44 /45 /14 /46 /42 /23 /47 /40 /43 /15 /48 /51 /52/53/54/55 /i255 /57 /i255 /54 /58 /59 /58 /60 /61 /i255 /62 /63 /64 /i255 /65 /66 /65 /67 /68 /69 /70 /69 /71 /72 /73 /74 /i255 /76 /77 /78 /79 /i255/80/71/78 /71 /i255 /81 /82 /83 /70 /69 /71 /i255 /84 /71 /83 /85 /69 /70 /86 /87 /77 /71 /83 /85 /76 /77 /88 /i255 /84 /71 /72 /76 /83 /83 /69 /71 /77 /i255/89/69/78 /74 /69 /72 /85 /71 /77 /90 /70 /i255 /90 /76 /88 /76 /78 /71 /85 /85 /91 /80/82/78 /73 /74 /i255/92/76/77 /76 /70 /78 /72 /91 /i255 /79 /93 /i255 /87 /73 /79 /77 /79/94/76/73 /i255 /95 /93 /93 /71 /76 /72 /70 /0 /1 /2 /3 /4 /2 /3 /5 /6/7/7/8/9 /10 /i255/12 /13 /14 /15 /16 /14 /15 /i255/17/16/18 /19 /20 /16 /9 /10 /i255 /8 /14 /21 /i255/17/16/7/8/14 /21 /i255/22/20/16 /9 /20 /19 /16/23/i25"
-   }
-  },
-  {
-   "id": "175350546035ccf7",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Bijlage",
-   "titel": "Beslisnota bij Kamerbrief over rapporten en data inzake publieke voorzieningen Caribisch Nederland",
-   "samenvatting_bron": "None. Zaak:",
-   "url": "https://www.tweedekamer.nl/downloads/document?id=5f1f6490-4a5d-40cc-9d9b-5e24b39ff214",
-   "datum": "2026-10-16",
-   "versie": "a4fa6a66afde45ff",
-   "extra": {
-    "zaaknummer": null,
-    "zaaksoort": null,
-    "documentnummer": "2026D52006"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-17T04:44:31+00:00",
-   "document": {
-    "pagina's": 2,
-    "thema_treffers_tekst": {
-     "Waterkwaliteit": [
-      "drinkwater"
-     ],
-     "Bouwcontext": [
-      "infrastructuur"
-     ]
-    },
-    "fragmenten": [
-     {
-      "term": "drinkwater",
-      "fragment": "…ieke voorzieningen in Caribisch Nederland: o Onderhoud, vervanging en investeringen van infrastructuur; o Geodatafundament; o Bereikbaarheid (veerverbinding en luchtverbinding); o Drinkwater o Elektriciteit; o Telecom; Aan Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties Van Directoraat-generaal Koninkrijksrelaties TER BESLUITVORMING Nota actief openbaar…"
-     }
-    ],
-    "tekst_begin": " Aanleiding Tijdens de begrotingsbehandeling Koninkrijksrelaties van 7 en 8 oktober jl. heeft het lid Tseggai (PRO) een motie ingediend waarin het kabinet verzocht wordt om in kaart te brengen welke publieke voorzieningen de komende jaren in Caribisch Nederland structureel verbetering behoeven en hiervoor inzichtelijk te maken hoe dit te financieren. Tijdens dit debat heeft u uw lezing van de motie toegelicht en daarmee de strekking van de motie ingekaderd. U heeft aangegeven dat de motie de appreciatie ‘oordeel Kamer’ kan krijgen als de motie begrepen mag worden als een verzoek tot het zo snel mogelijk informeren van de Kamer op basis van rapporten en data waar het kabinet reeds tot haar beschikking heeft. De motie is hiermee versmald tot een informatieverzoek. Het verzoek om publieke voorzieningen die structureel verbetering behoeven “in elk geval niet uit de middelen voor bestaanszekerheid te halen” blijft buiten beschouwing. Geadviseerd besluit • Instemmen met het spoedig verzenden van deze Kamerbrief en bijbehorende bijlagen (zie bijlagen) aan de Tweede Kamer. Kern • Het dictum van de motie vraagt om in kaart te brengen welke publieke voorzieningen de komende jaren in Caribisc"
-   }
-  },
-  {
-   "id": "4029654ecafb6231",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Brief regering",
-   "titel": "Uitstel toezending BNC-fiches over ‘European Innovation Act’ en Regulatory Sandboxes’",
-   "samenvatting_bron": "None. Zaak: None Uitstel toezending BNC-fiches over ‘European Innovation Act’ en Regulatory Sandboxes’",
-   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z22606&did=2026D52007",
-   "datum": "2026-10-16",
-   "versie": "922f983906e4511c",
-   "extra": {
-    "zaaknummer": "2026Z22606",
-    "zaaksoort": "Brief regering",
-    "documentnummer": "2026D52007"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-17T04:44:31+00:00",
-   "document": {
-    "pagina's": 1,
-    "thema_treffers_tekst": {
-     "Soortenbescherming": [
-      "Wnb"
-     ]
-    },
-    "fragmenten": [
-     {
-      "term": "Wnb",
-      "fragment": "…/g_7T \u0013NYK V Xlm\"䯒:@xf*:\u001bO%X?ɞ~!yZBmpW5VQ B2\u0004lSP\u001bd VԹfQ >+\u0019?@3L ۉ ͕\u0017Cž\u000e *N @ R5\u0005}e䬚\u0001ES;5c;n`\u00177T5\u0002\\C:zޙ#\u0018 5w%C\u0011yڟ\u001a[S2\u0006P26ôt+\u0007VO{Mb>sU\u0018\u0019\u000eS1d\u000f}$%tW\u0012SR);A\u000f\u0018\u0007\u0010s3dd)\u0016*\u00146\u0011M䦲Ya\u00115Gп7-Wnb \u0007ݵ5~H9+ 1<9FŘф L)byQإ{3z\u0012=¹ nnk\u0004Vky ȝYc =M\u0001\u0004B.W\u0012t.\u001awj #2[=\u0004˓z h/TvOiӆY\u0018k_[.z10{hj쭚S4j|Ō9\u0004= b\u0019s q\u0016a r\u00037ڋ2 PǜW \u0017c\u0004|2G> *'LIG͔ փ 1brw l>8*6 \u001a\u000eXZ\u0011p\\ƿ7jE9i)J \u0018Yc Bp]Jg=nșQ 0[gikb^{f\u0015\b…"
-     }
-    ],
-    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u0000\u0007I\u0001\u0000\u0000 \u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000Ėj@\u0010 }\u0007EZ'\u0017\u0014˹hR('P\u0001ڑ-\u0013;kɢ\u0004\u0012Eo\u00049\u001bFb5\u0019=a)f\"C[9u)~-? D\u0016 \u0002,bQ-޾/ cj\u001bK! \u0006 y\\]0@|\u001bC\u001b(ogrRNC,XVS- Zdھ\u0014U$.O\u0015yR&=?\b x ɪ\u0017 \u0005+\u000f=q\u001b$N\u0017\u0010\u001a#\u0004\u000e J*Wm +6'8]]7\u0015惫0FެE_1#Y\u000e5+ >Ho=\b\u0011i1^ G\"\u0016L\u00019\u000f\" Ak 4 &ھJ[\u0004{93'_Nte {\u001053tv]_\u001bb\u0002Ú1is~6yF\u0003)\u000f^Ȳ5SBD٣XG\u0013 +t(\u0016\u0007o\u0006lj fꂳ\u0004 \u0012\bI\u0001G>t> C0\\|(3\u0017\u0002~i\u0017\u000eك\u0015hC J\u0014O\b\u0011?i>\u0000\u0000\u0000\u0003\u0000PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000P]j s\u0006\u0000\u0000 \u0000\u0000\u0011\u0000\u0000\u0000word/document.xmlYn8\u0010\u0015O]m\\ز\u0006EAþ\u0012-H$OP\u0017_snn\u0010\u001293 ٺ:\u0001Y>F2M:fLJۨr\u0006ҤqDCoM\u0005hc®ƒ\u0014\"x$j5Z\u0016\u0006<\u0000pCh0\u001aC 7٭ph˴jp5\u000epN3f *0\u000eķHF\u001a iJ\u0016K<|\u0017qֲ\u00104\u0016b\u0015` \u000f\u0017ۘ8Ҝ5m,~^\u00136hyhbmPw\"˟g gPп\u0019\u0017xE\b2\u0010 @U \u000fTe\u0015j\u00075nGet\"U\u0012; V}fhC \u0019}B;fpU#2E\"wf ϰv\u0004q0F\\jԲ=K ֈ{P3p. ¹R\u0012&_Q^h'1\u001a\u0006I ]ϛ\u0003\u0001;b=%bJ$\u0011 T (\u0016(\"h)8X -m5Y\u0004W A\\$! -1SB\u00031\u00184\u0010\u00041J$RH\"Xh1# \u0006\\ү\u0015 Z\u0005,\u0005\u0015X\u000f8%\u0002-R\\eEĝ2V2+\u0012\u00135$\u0005!?\u0010eh\u000e\u001a L\u0003\u001b"
-   }
-  },
-  {
-   "id": "11d5e61d8732b3c3",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Brief regering",
-   "titel": "Tussentijdse informatie inzake de renovatie van het Binnenhof en daaraan gerelateerde projecten",
-   "samenvatting_bron": "None. Zaak: None Tussentijdse informatie inzake de renovatie van het Binnenhof en daaraan gerelateerde projecten",
-   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z22607&did=2026D52009",
-   "datum": "2026-10-16",
-   "versie": "43daee0717f6945a",
-   "extra": {
-    "zaaknummer": "2026Z22607",
-    "zaaksoort": "Brief regering",
-    "documentnummer": "2026D52009"
-   },
-   "status": "nieuw",
-   "thema_treffers": {
-    "Bouwcontext": [
-     "renovatie"
-    ]
-   },
-   "verzameld_op": "2026-10-17T04:44:31+00:00",
-   "document": {
-    "pagina's": 1,
-    "thema_treffers_tekst": {},
-    "fragmenten": [],
-    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0000\u0000\b\u0000P]\u0006Cb\u0001\u0000\u0000\b\u0000\u0000\u0013\u0000\u0000\u0000[Content_Types].xmlŖMn0\u0010V$ ɢ\\1\u0003X?M~E+tVQ\u0012H\u0013 \u0012y} s<][\\ \u0003\u0003Te\u001aK{:\u00197\u001aF~~ Ĳ \u0004 (#[\u0012M;M\u0006;t ]J\u000f2~\u0016׸\\jcWFE>\u0017Z'{%\u0006rZQu\u000eX\u0003\u0015\u0019\u0006\u001b\u000eET [+\u000e\u0018\u00195 l#b3%(\b\u0001UI\u0019G!P\u0012BI\u0014C h\u00048R g1ꮑ+eb\u0000 \u0019XOæ\"( F\"H\u001a.\u0014ʁ\u0019P\u001aw\u0005\u0018]\u001bz\u0000\u0019и#\u0002p\u0004\u0001p\u0004]\u0001d!\u0016`Psyƺsh/\u000fu69AP;ZC}=l3Wxm\u001b\u0012RL\u0001PK\u0003\u0004\u0014\u0000\u0000\u0000\b\u0000̊P]+ fW\u0000\u0000\u0000O\u0002\u0000\u0000 \u0000\u0000\u0000_rels/.relsJ\u0003A _eȽm\u0005\u0011\u0017/\u0002a&;L\u001bAZz/ !!k 9YXv=\u0018N.F {\u0019\u0016\u000f`P4\u0016`YL#m \u0019efa\u0012)M upʐk$ѰXȽȸ{?\u0019p4;o\u0012-< SvI.աd#\\=tX0xYg:|\u0010NT\u0012''ytC*J_ # y\u0012B+_\u00178\u0019#l>\u0001PK\u0003\u0004\u0014\u0000\u0000\u0000\b\u0000P]\u0007\\z\u0011\u0000\u0000AC\u0000\u0000\u0011\u0000\u0000\u0000word/document.xml\\kȑJZ1P%!RaZ3\u0005Ӎ 0Rb\u0012$Ȥԭ_{=!|=#2IzS^\u0003 U\u0012\u0019\u0019\"\"?k\u0014 K3.\u000f-m\b\u0017qsE2Ic\"f ZX/\u0016ybI@lŇJ\u0016+\u0016Ѭ E*2텈:b يXiT,Xic\u001aoh*-6t /#ngd_4̻8~wJz\u0007!2OIwr; \b\u0001W'Q:\u0011.:u\u0001\u0018\\4\u0012~MNDu<\u0003J>!߀d\u00048^\u001a\u0014$+^\u0017KOF\\ʤp[ub'e! lœR/W%5!6QتlhK3f\u0013l~a(Ԝ_h\u001a ,$7pxfIDy?])l%\u0001\u0000;\b\u0014s. \u0013%\u000eY dL-6 sR'{j1jzO+{֗\u0015M %D \u0016)1!\u0002n@0Έ\"6i ~3,d Dd;\b*i2Xvmg,{s\u0013}2 5٤U|#Д\u0013޴g\\W SOg G\u0016MK\u001a\u0015F\u0015ڗ, *IY k & \u000fK;J\u0015YLDBVL\u0011c\u0016Ē[LxL6\" \u0019 h ɏ 8+\u0007Ƅ⋘Cg! |ȎXl-H&l( :} 0Bi׾ZLWL5\u001bu\u00153Ch!S@@J7^*1XHa {3bY\u0016\\\u0006l#\u00181\u0002!}\u0016u~\u0015)\u0006gB \u0019|/B\u00034Y@iHP\u0002)84ۗl\u0002\u00155y(\u0016\u0010nT\"\u0014\u0001\u0006FY\u0013l}S\u0018[ʋ|7FkQ\u0000\u0007ħ\u0012\u0004jNk\u0015补\u0001\u0014G\u0012 NkN\bE\"\u0010{V\"\u0002W \u0018 &H !'|*@\\ 1\u0005Mޛ v&ck|-y/a?u 8$ܝ98ˉ `~X;ᨃ5 hsh#7 \u0014X:#8\u0000dPF\u0011\u0005!\u001ab*_h|\u0017uH%,I\u0002?ӀemvmK\u0017+> \u0016 cQFI.U)\u0018\u001b\u0007 ޖ;\u0001B\u000e.\u0007\u000e\u0019\bӏ \u0003e-yL\u0005?\u0001#d\\ʐW|7nY bJ3yG5\u0002V\u000e:6\u001a9/G}\u0006l\u0002 U7\u001at!m)D\u0019\u0018 \u0002g&T!ƀ deP\u001bg\u0006xw\u001b P4\u001ag H|\u0007jJd\u000eS=VTnݱ!զ-\u0012M!ir\u00104 \u0019V\u0017DEw\u0004'QuM\u00198\u0019nikz]; i,g7 F\u0011K"
-   }
-  },
-  {
-   "id": "00ea3bddd2a6a4ce",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Bijlage",
-   "titel": "Beslisnota bij Kamerbrief over tussentijdse informatie inzake de renovatie van het Binnenhof en daaraan gerelateerde projecten",
-   "samenvatting_bron": "None. Zaak:",
-   "url": "https://www.tweedekamer.nl/downloads/document?id=59fb9f7a-da34-4cfc-8c79-00eb1e9d2897",
-   "datum": "2026-10-16",
-   "versie": "5ead83b3b5d50aff",
-   "extra": {
-    "zaaknummer": null,
-    "zaaksoort": null,
-    "documentnummer": "2026D52010"
-   },
-   "status": "nieuw",
-   "thema_treffers": {
-    "Bouwcontext": [
-     "renovatie"
-    ]
-   },
-   "verzameld_op": "2026-10-17T04:44:31+00:00",
-   "document": {
-    "pagina's": 2,
-    "thema_treffers_tekst": {
-     "Bouwcontext": [
-      "renovatie"
-     ]
-    },
-    "fragmenten": [],
-    "tekst_begin": " Aan M VRO Van dgVBR TER ONDERTEKENING Nota actief openbaar Ja Ons zaakkenmerk Datum 14 oktober 2026 Samengewerkt met Bijlage(n) 2 Pagina 1 van 2 Verzending Tussentijdse Brief Binnenhof Renovatie Aanleiding Met bijgevoegde brief informeert u de Eerste Kamer en Tweede Kamer tussentijds over het programma Binnenhof Renovatie. Geadviseerd besluit Instemmen met de tussentijdse brief en verzending naar de Eerste en Tweede Kamer. Kernpunten In de Kamerbrief deelt u de volgende onderwerpen met beide Kamers: • Bouwrente • Nieuwspoort • Maatregelen commissiezalen • Verzoek Presidium Informatie die niet openbaar gemaakt kan worden Motivering In de openbaar gemaakte versie van deze nota zijn alle persoonsgegevens van ambtenaren geanonimiseerd. Geef aan welke uitzonderingsgronden van toepassing zijn en waarom. Een standaardzin over persoonsgegevens is al opgenomen. Pagina 2 van 2 Datum 14 oktober 2026 De meest voorkomende uitzonderingsgronden zijn: • Bescherming van de persoonlijke levenssfeer. • Lopende onderhandelingen. • Eenheid van kabinetsbeleid. Bekijk voor meer informatie over actieve openbaarmaking en de toepassing van uitzonderingsgronden het instructiemateriaal op Rijksportaal. Klik "
-   }
-  },
-  {
-   "id": "c300cd8e3ab7444f",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Brief regering",
-   "titel": "Reactie op verzoek commissie over opvolging motie van het lid Van der Lee c.s. over een instructie tot een tabel van de hoofddoelen en hoofdresultaten in het jaarverslag (Kamerstuk 36740-7)",
-   "samenvatting_bron": "None. Zaak: None Reactie op verzoek commissie over opvolging motie van het lid Van der Lee c.s. over een instructie tot een tabel van de hoofddoelen en hoofdresultaten in het jaarverslag (Kamerstuk 36740-7)",
-   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z22608&did=2026D52011",
-   "datum": "2026-10-16",
-   "versie": "ff0ff236b9f08b3b",
-   "extra": {
-    "zaaknummer": "2026Z22608",
-    "zaaksoort": "Brief regering",
-    "documentnummer": "2026D52011"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-17T04:44:31+00:00",
-   "document": {
-    "pagina's": 1,
-    "thema_treffers_tekst": {},
-    "fragmenten": [],
-    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000ȋP]7\u0001\u0000\u0000a \u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ŖN@\u0010_pm`\u0007cL\u0007M\u0005C`y|\u0005\u0007h1-B\u00023v\u0016|Ϯ7^\u0007eM\u00168\u0002#Tf\u0015e|==:\b\u0011\u0005b,\u00024\u000fu`[9ҭ_13_\u0001;N/\u0006`G {Hm+\u0001vs \bEiW\\I/\u0012 zP\u0012E\u0015[}a\u0002PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u0000U~\u0005\u0000\u0000\u0000\u0002\u0000\u0000 \u0000\b\u0002_rels/.rels \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
-   }
-  },
-  {
-   "id": "d2a339718dbaf6f2",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Bijlage",
-   "titel": "Beslisnota bij Kamerbrief met reactie op verzoek commissie over opvolging motie van het lid Van der Lee c.s. over een instructie tot een tabel van de hoofddoelen en hoofdresultaten in het jaarverslag (Kamerstuk 36740-7)",
-   "samenvatting_bron": "None. Zaak:",
-   "url": "https://www.tweedekamer.nl/downloads/document?id=380c8c5c-54f1-464d-90a6-9415fa50599d",
-   "datum": "2026-10-16",
-   "versie": "185f20f753a66913",
-   "extra": {
-    "zaaknummer": null,
-    "zaaksoort": null,
-    "documentnummer": "2026D52012"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-17T04:44:31+00:00",
-   "document": {
-    "pagina's": 1,
-    "thema_treffers_tekst": {},
-    "fragmenten": [],
-    "tekst_begin": " TER BESLUITVORMING Aan: MOCW, SOE Reactie op verzoek opvolging motie van der Lee over formuleren concrete en meetbare hoofddoelen van kabinetsbeleid in de begroting 2027 Pagina 1 van 1 Aanleiding U ontvangt deze nota nu omdat op 8 oktober 2026 de Vaste Commissie voor Onderwijs, Cultuur en Wetenschap (OCW) heeft verzocht om de hoofddoelen van het kabinetsbeleid voor OCW concreet en meetbaar te formuleren en de Kamer daar schriftelijk voorafgaand aan de begrotingsbehandeling d.d. 27 oktober 2026 over te informeren. Beslispunten Graag verzoeken wij, na uw akkoord, om de Kamerbrief te ondertekenen. Kernpunten • In de Beleidsagenda 2027 van OCW worden per beleidsprioriteit en per sub-thema doelstellingen geformuleerd. Echter oordeelt de Kamer, mede op basis van de aandachtspuntenbrief van de Algemene Rekenkamer, dat deze formulering onvoldoende concreet en meetbaar is. Hierdoor concludeert de Kamer dat er gedeeltelijk aan de motie gevolg is gegeven. • Een betere aansluiting bij de informatiebehoefte van de Kamer vergt zorgvuldige uitwerking. Er is onvoldoende tijd om voor de begrotingsbehandeling van OCW een accurate uitwerking te geven aan de gevraagde hoofddoelen van OCW. • Voorberei"
-   }
-  },
-  {
-   "id": "15181b0966777dca",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Brief regering",
-   "titel": "Verslag Raad Algemene Zaken van 13 oktober 2026",
-   "samenvatting_bron": "None. Zaak: None Verslag Raad Algemene Zaken van 13 oktober 2026",
-   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z22609&did=2026D52013",
-   "datum": "2026-10-16",
-   "versie": "521c0b0505d192cc",
-   "extra": {
-    "zaaknummer": "2026Z22609",
-    "zaaksoort": "Brief regering",
-    "documentnummer": "2026D52013"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-17T04:44:31+00:00",
-   "document": {
-    "pagina's": 1,
-    "thema_treffers_tekst": {},
-    "fragmenten": [],
-    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000EP].\u0001\u0000\u0000 \u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ŖMN0\u0010\u0012e\u0012\"!\u0000\u0004\u0017pIk\u0011Ȟp6\u0016 +0I\bU\u0004M쉒x{\\\"Z\u000fʚ,>MGq\u0004FX +`\bu7\u0005D\u0001uױٙI\u000f޺@#7\u0003ENh\u000e qZ e hQ\\Sɑ#{ sa\u001a]\"K\u0014F\u000eZs\u000fhD=\u0018+Xw\u0003,$=4 s0du \u0000\u001bZf\u0017e\u000fFMu\u0003\u001a_\u0005\u0002U :ҙ^Gu$Kr#u)\u00068Oh \u0017\u0011P\u0015 a͒\u001b\u0000'X <\u0002ӘV\u0018\u0015&D6\u0019L\u0011'4IE᰼E(oj{%}QؗEmA~ps dV]a.\u0013K5]\u00104`I ki\u0018T%\u0007P3s44>˹BeiM-H8 R\u0012A\u00047\u0003_嚖s͞ɧ\u0002X ԥl\u0010Ú ,O8=7Jp\u000em\u000e<+N\u0016:1-\u0000ɆŮtBX)$\u0018ZWX\u0000)P*E,\u00025ͤÜ6Ǩ5\u0005(x4a١=5 \u000f{AckT$ļ\u00068 !r\u0017O~\u0005ބ\b\u0000\u0019@\u0012P\u0005*V\u0015\u0007UӎD*j0\u0004\u0017p\u0014%/K0mZY>ZS\u000fgT-\u000f\u000f\u0014N0\"\u0002?3gb[)R=(B]#n )q.~0)VW *k2@L\u0015 1H cvW|1ד3n7Fņ6\u0012Ķ(C\u0001?>8F;'\u0014`LЧ[R/Ңɴ\u0011JbtKr\u0013ų(o^10[0xCӄP8|W ߠ\u0013tT1`%\u0007xIx_3Yy@Im%Ę=\u0010Tp`惆]\u001byEqA̿{SmO< Fԭ\u000f%@WQJ<}>ڐV3؝?/,-\u0016R֖c\u0017\u0005(b1Ka!ʘq\bnMH?M\u0000e#J\u001ah5z\u001b\u0015\u0015TIϬ3qyGsyG_ ˴ Q2m\\L\u000e)uU\u0001Ő\u0015^;tG\u0000+\u0016&iBhd\\x>CL>f\u0007L6}0F!G\u0011E97&jgN ީb\u001b`~\u0000g峡p)9|FQ\u000f\u0007k[iPXVLV|,) FHd c ;/qR7J"
-   }
-  },
-  {
-   "id": "e3133bd9f14f7b75",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Bijlage",
-   "titel": "Verslag Raad Algemene Zaken 26 januari 2026",
-   "samenvatting_bron": "None. Zaak:",
-   "url": "https://www.tweedekamer.nl/downloads/document?id=b3b52657-79bb-4cc0-9dd1-87d161810e2c",
-   "datum": "2026-10-16",
-   "versie": "5939c3e6a9633afd",
-   "extra": {
-    "zaaknummer": null,
-    "zaaksoort": null,
-    "documentnummer": "2026D52014"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-17T04:44:31+00:00",
-   "document": {
-    "pagina's": 1,
-    "thema_treffers_tekst": {},
-    "fragmenten": [],
-    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000EP]2\u0001\u0000\u0000. \u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000ŖKN0\u0010\u0012y\u0012EB\b\u0000P .ړ6\"~Ȟq6\u0016 +0i\b\u0004ڨH(dh >d֌X?\b*3\u0011+0od<|8\b\u00110b Dwy \"$ցHj\u0016HG?N71\u0007>n\u0006`\u0006\u001b\u000f \u0015E^W *\u001a1\\I\u0014K~;*9apE ,\u0007-_ )ДW+,4&u\u000e4$VB\bb'uD\\5BSIjf \u0011*\u0016H\u0015]\u0010씛\u0019V0{ x3Ij-\u001a] n\u0000:+73,@(#Tm\u0001\u0006\u0003(\u0007I\u0007*\u0000 t-@թK\u0003# C1ˡ t3\u0005z\u0000q+sԓR޺@ EY ӕ x\u001a~9%i|C(w\u0015\u0005\bh!w_PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0000\u0000!\u0000U~\u0005\u0000\u0000\u0000\u0002\u0000\u0000 \u0000\b\u0002_rels/.rels \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
-   }
-  },
-  {
-   "id": "6e9557aa87fc16a3",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Bijlage",
-   "titel": "Beslisnota bij Kamerbrief inzake verslag Raad Algemene Zaken van 13 oktober 2026",
-   "samenvatting_bron": "None. Zaak:",
-   "url": "https://www.tweedekamer.nl/downloads/document?id=5ed8f08f-97d3-4bca-9194-9d34e07e0201",
-   "datum": "2026-10-16",
-   "versie": "014edd24e5692562",
-   "extra": {
-    "zaaknummer": null,
-    "zaaksoort": null,
-    "documentnummer": "2026D52015"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-17T04:44:31+00:00",
-   "document": {
-    "pagina's": 1,
-    "thema_treffers_tekst": {},
-    "fragmenten": [],
-    "tekst_begin": "m Ministerie van Buitenlandse Zaken TER BESLISSING Datum 15 oktober 2026 Aan Van M Onze referentie BZ2632987 Via Bescherming persoonlijke levenssfeer Kopie aan Afgestemd met Qpqesteld door Bescherming persoonlijke levenssfeei Uiterlijk bij 16 oktober 2026 Plandatum Deadline Kamer 20 oktober 2026 nota Verslag Raad Algemene Zaken 13 oktober 2026 Aanleiding De Raad Algemene Zaken vond plaats op dinsdag 13 oktober Geadviseerd besluit Uw akkoord op de inhoud van het verslag en uw ondertekening van de aanbiedingsbrieven aan de voorzitters van de Eerste en Tweede Kamer Kernpunten Geagendeerd waren onderstaande onderwerpen Het Meerjarig Financieel Kader MFK De voorbereiding van de Europese Raad ER van 15 en 16 oktober EU uitbreiding en interne hervormingen Rechtsstaat van Hongarije en de artikel 7 procedure Burgerparticipatie en maatschappelijke weerbaarheid Omnibussen Tevens informeert het kabinet de Kamer via deze brief over de Intergouvernementele Conferenties IGCs die warden gehouden met Montenegro Albania Oekrame en Moldavia Toelichting n v t Informatie die niet openbaar gemaakt kan worden n v t ONGERUBRICEERD GEEN MERKING Pagina 1 van 1 00001 7751761"
-   }
-  },
-  {
-   "id": "13fe8059a31e59f7",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Schriftelijke vragen",
-   "titel": "Het rapport 'Achter de façade - Strategische normalisering vanuit de rechts-extremistische beweging'",
-   "samenvatting_bron": "None. Zaak: None Het rapport 'Achter de façade - Strategische normalisering vanuit de rechts-extremistische beweging'",
-   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z20023&did=2026D46261",
-   "datum": "2026-09-25",
-   "versie": "8593970e59d25104",
-   "extra": {
-    "zaaknummer": "2026Z20023",
-    "zaaksoort": "Schriftelijke vragen",
-    "documentnummer": "2026D46261"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-17T04:44:31+00:00",
-   "document": {
-    "pagina's": 3,
-    "thema_treffers_tekst": {},
-    "fragmenten": [],
-    "tekst_begin": "Tweede Kamer der Staten-Generaal 2 Vergaderjaar 2026–2027 Vragen gesteld door de leden der Kamer 2026Z20023 Vragen van het lid Al Biyati (FVD) aan de Ministers van Justitie en Veiligheid en van Binnenlandse Zaken en Koninkrijksrelaties over het rapport «Achter de façade – Strategische normalisering vanuit de rechts-extremistische beweging» (ingezonden 25 september 2026). Vraag 1 Bent u bekend met het rapport «Achter de façade» van de Algemene Inlichtingen- en Veiligheidsdienst (AIVD) en de Nationaal Coördinator Terrorismebestrijding en Veiligheid (NCTV) van september 2026? Vraag 2 Wie geeft opdracht tot het schrijven van rapporten zoals «Achter de façade»? Vraag 3 Hoe verklaart u de titel van dit rapport geschreven door de AIVD en NCTV? Vraag 4 Erkent u dat het onwenselijk is wanneer inlichtingendiensten oordelen over het gedachtegoed van democratisch gekozen politieke partijen? Vraag 5 Op welke wijze heeft de Commissie van Toezicht op de Inlichtingen- en Veiligheidsdiensten toezicht gehouden op de activiteiten van de AIVD die aan dit rapport ten grondslag liggen? Vraag 6 Wat is precies het onderscheid tussen «uiterst rechts» en «rechts- extremistisch» en «extreemrechts»? Vraag 7 W"
-   }
-  },
-  {
-   "id": "5980bef67e18c4fe",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Mededeling (uitstel antwoord)",
-   "titel": "Uitstel beantwoording vragen van het lid Al Biyati over het rapport \"Achter de façade – Strategische normalisering vanuit de rechts-extremistische beweging\"",
-   "samenvatting_bron": "None. Zaak: None Het rapport 'Achter de façade - Strategische normalisering vanuit de rechts-extremistische beweging'",
-   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z20023&did=2026D51996",
-   "datum": "2026-10-16",
-   "versie": "ba28482dfe2de20d",
-   "extra": {
-    "zaaknummer": "2026Z20023",
-    "zaaksoort": "Schriftelijke vragen",
-    "documentnummer": "2026D51996"
-   },
-   "status": "gewijzigd",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-17T04:44:31+00:00"
-  },
-  {
-   "id": "5dd251ca4b08cd1b",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Mededeling (uitstel antwoord)",
-   "titel": "Uitstel beantwoording vragen van het lid Moinat over de continuïteit van de jeugdbescherming in Brabant",
-   "samenvatting_bron": "None. Zaak: None De continuïteit van de jeugdbescherming in Brabant",
-   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z20025&did=2026D52008",
-   "datum": "2026-10-16",
-   "versie": "b9a3efefc1130b17",
-   "extra": {
-    "zaaknummer": "2026Z20025",
-    "zaaksoort": "Schriftelijke vragen",
-    "documentnummer": "2026D52008"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-17T04:44:31+00:00"
-  },
-  {
-   "id": "f215a40f780c0cd5",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Schriftelijke vragen",
-   "titel": "De continuïteit van de jeugdbescherming in Brabant",
-   "samenvatting_bron": "None. Zaak: None De continuïteit van de jeugdbescherming in Brabant",
-   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z20025&did=2026D46264",
-   "datum": "2026-09-25",
-   "versie": "5a9a92c4aa35edea",
-   "extra": {
-    "zaaknummer": "2026Z20025",
-    "zaaksoort": "Schriftelijke vragen",
-    "documentnummer": "2026D46264"
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-17T04:44:31+00:00",
-   "document": {
-    "pagina's": 2,
-    "thema_treffers_tekst": {},
-    "fragmenten": [],
-    "tekst_begin": "Tweede Kamer der Staten-Generaal 2 Vergaderjaar 2026–2027 Vragen gesteld door de leden der Kamer 2026Z20025 Vragen van het lid Moinat (Groep Markuszower) aan de Minister van Langdurige Zorg, Jeugd en Sport over de continuïteit van de jeugdbescherming in Brabant (ingezonden 25 september 2026). Vraag 1 Bent u bekend met het bericht «Kinderbescherming in Brabant onder hoogspanning door ruzie over geld: onzeker hoe het na de jaarwisseling verder moet»?1 Vraag 2 Klopt het dat de onderhandelingen tussen de vijf Brabantse jeugdhulpregio’s en Jeugdbescherming Brabant, de William Schrikker Stichting en het Leger des Heils Jeugdbescherming & Reclassering over de contractering vanaf 1 januari 2027 zijn vastgelopen? Vraag 3 Sinds wanneer bent u op de hoogte van deze situatie en wanneer is uw ministerie hierover voor het eerst geïnformeerd? Vraag 4 Hoeveel kinderen in Brabant ontvangen momenteel jeugdbescherming via deze gecertificeerde instellingen en voor hoeveel van deze kinderen loopt de hulp na 1 januari 2027 door? Vraag 5 Kunt u garanderen dat geen enkel kind vanaf 1 januari 2027 zonder noodzake- lijke jeugdbescherming of begeleiding komt te zitten als gevolg van het vastlopen van deze on"
-   }
-  },
-  {
-   "id": "d77986387f206d5e",
-   "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_documenten",
-   "soort": "Motie",
-   "titel": "Motie van het lid Van Baarle over niet meegaan in het verschaffen van immuniteit voor staatsburgers van de VS of het deprioritiseren van onderzoek naar handelen van de VS",
-   "samenvatting_bron": "Het Internationaal Strafhof. Zaak: Het Internationaal Strafhof Motie van het lid Van Baarle over niet meegaan in het verschaffen van immuniteit voor staatsburgers van de VS of het deprioritiseren van onderzoek naar handelen van de VS",
-   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z21739&did=2026D50000",
-   "datum": "2026-10-08",
-   "versie": "e2fd06c2e22662d6",
-   "extra": {
-    "zaaknummer": "2026Z21739",
-    "zaaksoort": "Motie",
-    "documentnummer": "2026D50000"
-   },
-   "status": "gewijzigd",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-17T04:44:31+00:00",
-   "document": {
-    "pagina's": 1,
-    "thema_treffers_tekst": {},
-    "fragmenten": [],
-    "tekst_begin": "PK\u0003\u0004\u0014\u0000\u0006\u0000\b\u0000\u0002P]P%tt\u0001\u0000\u0000\u0006\u0000\u0000\u0013\u0000\b\u0002[Content_Types].xml \u0004\u0002(\u0000\u0002\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000MN0\u0010\u0012y[%nY v\u0001l\u0012\\u&E#{ҟH\\IFjB&R2<&_ F\u0017 |P֤l Y\u0004FLEJ;6߶\u000eBD&l9\u000fr Z:0Tɭ\u0002/\u0013], \\Z`0ʃMƏiCX9 **eJWM\\WQ\" s\u0002W&;@wX )랰T. TD]:\u0017 BS\u001b_[R49s湒+7筄\u0010^t\u0015-\u0019t\u0004\u0016\u0010 \u0010I\u0007ιa 0~w֢ǅ\u0014` ΗL\"ż>&@c qhAcH! ( Qy3\u001a<=bPÅۡE ?Ac\u0001 )f<1A=ց=`\u000e e Tk@^@ \u001a Ru$s?$u \u000fi͝u\u00079昲\u0014sda,\u00009}\u000508{C\"h\"j39LiD\u00125jP(Лegu\u000fm{!Yվ>-H]Н=$<)xӖm_O,ֆ$G\u00158ogt_49m@ 7)1M\u0006&oIͯ0\u0007FviRI\u0019QF[XS@-\u0011aF\u0014 sC3 Hú \u0012BY^ 2Cxdf 2ŅK{u^B ő8\u0011@*UU!-kH*\u0014]Y\u0000o09۰Ȋl4͒\u0015薉27 %^4Õ~ $\u00116X(ە(2eNSt1%|B X:\u001b\u001449BFDZlD3^@-\\18%tIkL5u wJ\u0018G mӍ\u0010\u001aa+ bhI mi \u0017DDf\u0019)\b{$\u000f*jzg;w\u0005ג \\3EuTyoun\u000fLyߛq.%fz\u0010ϪڑE]pz-\u0012 \u0004) [g|j5RI \u0017! 7\bqo$捿4ush5?S_\u0016K?#*m\\,\u0015iŨ\\SS\u0003`-)ņHsG\u00048%\u0011;ZK+HTTw֨ v5ߌ\u0014n[nl~6)[ rv{tdɥW.:l-mj\u0004*[VZx6E#Ԑm\b ӬO赸[\u0015x~]^۫^Wֆ&fTԵQvs\"\bF♆mt \u0015UE:\\uNySlhVp5j"
-   }
-  },
-  {
-   "id": "f8e0058687a9f45d",
-   "bron": "Tweede Kamer (besluiten en stemmingen)",
-   "categorie": "Parlement",
-   "methode": "api_tk_besluiten",
-   "soort": "Besluit/stemming",
-   "titel": "Brief regering: Startschot van de Nationale Investeringsinstelling",
-   "samenvatting_bron": "Inbreng geleverd.",
-   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z20072",
-   "datum": "2026-10-16",
-   "versie": "c0db998d070dfe9a",
-   "extra": {
-    "zaaknummer": "2026Z20072",
-    "zaaksoort": "Brief regering",
-    "besluit": "Inbreng geleverd.",
-    "fracties_voor": [],
-    "fracties_tegen": []
-   },
-   "status": "gewijzigd",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-17T04:44:31+00:00"
-  },
-  {
-   "id": "ff79f3e9e68a1f7c",
-   "bron": "Rijksoverheid nieuws (alle ministeries)",
-   "categorie": "Rijk",
-   "methode": "feed",
-   "soort": "",
-   "titel": "€ 355 miljoen voor bereikbaarheid bijna 30.000 nieuwe woningen",
-   "samenvatting_bron": "Het kabinet stelt € 355 miljoen beschikbaar voor de bereikbaarheid van de 4 nationaal grootschalige woningbouwgebieden die in 2025 werden aangewezen. Het gaat om Alkmaar, Apeldoorn, Helmond en Hengelo/Enschede. In deze gebieden komen in totaal...",
-   "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/10/16/355-miljoen-voor-bereikbaarheid-bijna-30.000-nieuwe-woningen",
-   "datum": "2026-10-16",
-   "versie": "9a97e063278a8d13",
-   "extra": {},
-   "status": "nieuw",
-   "thema_treffers": {
-    "Bouwcontext": [
-     "woningbouw"
-    ]
-   },
-   "verzameld_op": "2026-10-17T04:44:31+00:00"
-  },
-  {
-   "id": "626c7856420d94ce",
-   "bron": "Rijksoverheid nieuws over woningbouw",
-   "categorie": "Rijk",
-   "methode": "feed",
-   "soort": "",
-   "titel": "€ 355 miljoen voor bereikbaarheid bijna 30.000 nieuwe woningen",
-   "samenvatting_bron": "Het kabinet stelt € 355 miljoen beschikbaar voor de bereikbaarheid van de 4 nationaal grootschalige woningbouwgebieden die in 2025 werden aangewezen. Het gaat om Alkmaar, Apeldoorn, Helmond en Hengelo/Enschede. In deze gebieden komen in totaal...",
-   "url": "https://www.rijksoverheid.nl/actueel/nieuws/2026/10/16/355-miljoen-voor-bereikbaarheid-bijna-30.000-nieuwe-woningen",
-   "datum": "2026-10-16",
-   "versie": "9a97e063278a8d13",
-   "extra": {},
-   "status": "nieuw",
-   "thema_treffers": {
-    "Bouwcontext": [
-     "woningbouw"
-    ]
-   },
-   "verzameld_op": "2026-10-17T04:44:31+00:00"
-  },
-  {
-   "id": "a255e646ae97bb79",
-   "bron": "IPO",
-   "categorie": "Koepels",
-   "methode": "web",
-   "soort": "",
-   "titel": "Lees meer over Prioriteren infrastructuur belangrijke stap, maar extra geld blijft nodig",
-   "samenvatting_bron": "",
-   "url": "https://www.ipo.nl/actueel/prioriteren-infrastructuur-belangrijke-stap-maar-extra-geld-blijft-nodig/",
-   "datum": null,
-   "versie": "956ec844bb73a2ba",
-   "extra": {},
-   "status": "nieuw",
-   "thema_treffers": {
-    "Bouwcontext": [
-     "infrastructuur"
-    ]
-   },
-   "verzameld_op": "2026-10-17T04:44:31+00:00"
-  },
-  {
-   "id": "2d574ea6e81b5c64",
-   "bron": "IPO",
-   "categorie": "Koepels",
-   "methode": "web",
-   "soort": "",
-   "titel": "Lees meer over Rijk, provincies, gemeenten en woningcorporaties zetten in op nieuwe woonvormen",
-   "samenvatting_bron": "",
-   "url": "https://www.ipo.nl/actueel/rijk-provincies-gemeenten-en-woningcorporaties-zetten-in-op-versnelling-nieuwe-woonvormen/",
-   "datum": null,
-   "versie": "ea7c49a132b59f58",
-   "extra": {},
-   "status": "gewijzigd",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-17T04:44:31+00:00"
-  },
-  {
-   "id": "7bc10c4960eed50b",
-   "bron": "VNG",
-   "categorie": "Koepels",
-   "methode": "web",
-   "soort": "",
-   "titel": "Breng gevolgen van geschrapte infraprojecten in kaart",
-   "samenvatting_bron": "",
-   "url": "https://vng.nl/nieuws/breng-gevolgen-van-geschrapte-infraprojecten-in-kaart",
-   "datum": null,
-   "versie": "9c1ed9937b3400e0",
-   "extra": {},
-   "status": "nieuw",
-   "thema_treffers": {
-    "Bouwcontext": [
-     "infraproject"
-    ]
-   },
-   "verzameld_op": "2026-10-17T04:44:31+00:00"
-  },
-  {
-   "id": "5004468a28822849",
+   "id": "9f222f7363facc9f",
    "bron": "Raad van State en rechtspraak (uitspraken)",
    "categorie": "Rechtspraak",
    "methode": "api_rechtspraak",
    "soort": "Uitspraak",
-   "titel": "ECLI:NL:RVS:2026:4867, Raad van State, 19-08-2026, 202306911/1/R2",
-   "samenvatting_bron": "Bij besluit van 16 januari 2023 heeft het college van burgemeester en wethouders van Breda aan Sintels B.V. een omgevingsvergunning verleend voor het gebruiken van een terrein voor het organiseren van dressuur- en/of springwedstrijden in de periode van 31 maart tot 1 oktober op de locatie Rijsbergseweg 590 in Breda. Sintels exploiteert een manage met een paarden- en ponyfokkerij en wil hippisch...",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:4867",
-   "datum": "2026-10-16",
-   "versie": "8c5fde93dc626b65",
+   "titel": "ECLI:NL:RVS:2026:1379, Raad van State, 11-03-2026, 202006510/13/R3",
+   "samenvatting_bron": "Bij uitspraak onderscheidenlijk tussenuitspraak van 30 april 2025, ECLI:NL:RVS:2025:1971, heeft de Afdeling de minister van Infrastructuur en Waterstaat opgedragen om binnen 26 weken na verzending van die uitspraak de daarin genoemde gebreken in het op 17 november 2020 vastgestelde tracébesluit \"A27/A12 Ring Utrecht 2020\" (TB2020) en het op 13 juli 2022 vastgestelde tracébesluit \"A27/A12 Ring U...",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1379",
+   "datum": "2026-10-17",
+   "versie": "597e862b0fe2ead8",
    "extra": {
-    "ecli": "ECLI:NL:RVS:2026:4867",
+    "ecli": "ECLI:NL:RVS:2026:1379",
     "raad_van_state": true
    },
    "status": "nieuw",
    "thema_treffers": {
     "Bouwcontext": [
-     "omgevingsvergunning"
+     "infrastructuur",
+     "tracébesluit"
     ]
    },
-   "verzameld_op": "2026-10-17T04:44:31+00:00"
+   "verzameld_op": "2026-10-18T04:44:43+00:00"
   },
   {
-   "id": "e2a253f3b642b25f",
-   "bron": "Provincie Noord-Brabant",
-   "categorie": "Provincies",
-   "methode": "web",
-   "soort": "",
-   "titel": "Aangekondigd investeringspakket Rijk maakt verdere investeringen in infrastructuur Brainportregio mogelijk",
-   "samenvatting_bron": "",
-   "url": "https://www.brabant.nl/actueel/nieuws/aangekondigd-investeringspakket-rijk-brainportregio/",
-   "datum": null,
-   "versie": "f6098979ffb5972f",
-   "extra": {},
+   "id": "a782bba01d391fee",
+   "bron": "Raad van State en rechtspraak (uitspraken)",
+   "categorie": "Rechtspraak",
+   "methode": "api_rechtspraak",
+   "soort": "Uitspraak",
+   "titel": "ECLI:NL:RBOVE:2026:3610, Rechtbank Overijssel, 25-06-2026, ak_24_3893",
+   "samenvatting_bron": "Positieve weigering natuurvergunning. Uit de uitspraken van de Afdeling van 18 december 2024 volgt dat intern salderen in de voortoets niet is toegestaan, zodat het bestreden besluit op een onjuiste grondslag berust. De rechtsgevolgen van het bestreden besluit kunnen niet in stand worden gelaten, omdat de aangevraagde activiteit ten opzichte van de activiteit waarvoor de maatschap een natuurver...",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2026:3610",
+   "datum": "2026-10-17",
+   "versie": "df87d9b4c9f6dd9f",
+   "extra": {
+    "ecli": "ECLI:NL:RBOVE:2026:3610",
+    "raad_van_state": false
+   },
    "status": "nieuw",
    "thema_treffers": {
-    "Bouwcontext": [
-     "infrastructuur"
+    "Stikstof": [
+     "intern salderen",
+     "salderen",
+     "voortoets",
+     "natuurvergunning"
     ]
    },
-   "verzameld_op": "2026-10-17T04:44:31+00:00"
+   "verzameld_op": "2026-10-18T04:44:43+00:00"
   },
   {
-   "id": "1681c9166857cf6d",
-   "bron": "Provincie Noord-Holland",
-   "categorie": "Provincies",
-   "methode": "web",
-   "soort": "",
-   "titel": "Van het gemaal IJmuiden tot de Houtribdijk: Rijk investeert in onderhoud en uitbreiding Noord-Hollandse infrastructuur",
-   "samenvatting_bron": "",
-   "url": "https://www.noord-holland.nl/Actueel/Archief/2026/Oktober_2026/Van_het_gemaal_IJmuiden_tot_de_Houtribdijk_Rijk_investeert_in_onderhoud_en_uitbreiding_Noord_Hollandse_infrastructuur",
-   "datum": null,
-   "versie": "025153c562f55cc1",
-   "extra": {},
-   "status": "gewijzigd",
-   "thema_treffers": {
-    "Bouwcontext": [
-     "infrastructuur"
-    ]
-   },
-   "verzameld_op": "2026-10-17T04:44:31+00:00"
-  },
-  {
-   "id": "4793dfe13ff3e31c",
-   "bron": "NOS Binnenland",
-   "categorie": "Media",
-   "methode": "feed",
-   "soort": "",
-   "titel": "Frustratie en teleurstelling na bekendmaking infrastructuurplannen kabinet",
-   "samenvatting_bron": "Vanuit verschillende hoeken van het land klinken frustratie en teleurstelling na de bekendmaking van de plannen van het kabinet voor onderhoud en vernieuwing van verouderde bruggen, wegen, sluizen en andere infrastructuur. Vandaag maakten minister Karremans en staatssecretaris Bertram bekend dat er in totaal 18 miljard euro voor wordt uitgetrokken. Een groot deel van dat bedrag wordt weggehaald bij geplande projecten die daarmee uitgesteld worden. Onder meer de verbreding van het sluiscomplex Kornwerderzand in Friesland gaat niet door en de bereikbaarheid van Ameland wordt voorlopig ook niet aangepakt. \"Buitengewoon teleurstellend\", noemt waarnemend burgemeester Tytsy Willemsma van Ameland dat. Ze zegt dat er \"al ruim tien jaar\" wordt aangetoond dat die veerverbinding niet duurzaam is. In 2008 had het Rijk zelf aangedrongen op de verbreding van de sluis bij Kornwerderzand, maar ook dat gaat voorlopig niet door. Sijbrand de Vries, directeur van De Vries Scheepsbouw, bouwt superjachten en wacht al jaren op een bredere sluis. Hij noemt het \"een hard gelag\". \"Dit dossier ligt al zo lang op tafel.\" Dit zijn een aantal projecten waar wel (en niet) geld voor is uitgetrokken: Elders in het land klinkt ook teleurstelling. In Brabant bijvoorbeeld is het verbeteren van de N65 tussen Den Bosch en Tilburg op de lange baan geschoven. \"Het is al de zesde keer in amper drie jaar\", zegt gedeputeerde Stijn Smeulders tegen persbureau ANP. Er was 81 miljoen euro voor de N65 gereserveerd, \"een be",
-   "url": "https://nos.nl/l/2635287",
+   "id": "2c2d0cdbbf8a22f3",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "Economic Trade and Atmospheric Transport in Shaping China’s Nitrogen Deposition Patterns",
+   "samenvatting_bron": "Abstract Atmospheric nitrogen deposition in China is driven not only by local emissions but also by global economic demand and transboundary atmospheric transport. Unraveling these dual influences is critical for effective environmental governance. Here, we integrate an economic-emission analysis with a high-resolution atmospheric chemical transport model to quantify, for the first time, the distinct roles of domestic consumption, international trade, and atmospheric transport in shaping China’s nitrogen deposition patterns. We find that domestic consumption is the dominant contributor, responsible for 67.6% of the total deposition, involving a substantial interprovincial transfer of emissions from affluent coastal provinces to less developed inland regions. International trade attributes 7.8% of China’s deposition to foreign consumption, primarily driven by demand from the USA and Western Europe. In contrast, trans-national atmospheric transport directly accounts for 12.8%, with a disproportionately high impact on ecologically sensitive western China. Natural sources contribute the remaining 11.8%. Our results reveal a complex web of drivers extending beyond China’s borders. Mitigating nitrogen deposition, therefore, requires moving beyond local emission controls to embrace consumption-based accountability and enhanced international cooperation on both trade and atmospheric pollution to protect vulnerable ecosystems.",
+   "url": "https://doi.org/10.1021/acs.est.6c07734",
    "datum": "2026-10-16",
-   "versie": "94661088c95060f8",
-   "extra": {},
-   "status": "nieuw",
-   "thema_treffers": {
-    "Bouwcontext": [
-     "infrastructuur"
-    ]
-   },
-   "verzameld_op": "2026-10-17T04:44:31+00:00"
-  },
-  {
-   "id": "b248984c18c368ae",
-   "bron": "NOS Binnenland",
-   "categorie": "Media",
-   "methode": "feed",
-   "soort": "",
-   "titel": "16/10 in Nieuwsuur: Tussentijdse verkiezingen in VS • Miljarden naar infrastructuur • Overlast door straatpredikers",
-   "samenvatting_bron": "Tussentijdse verkiezingen VS Over drie weken zijn de tussentijdse verkiezingen in de Verenigde Staten. Daarbij wordt onder meer gestemd over alle zetels in het Huis van Afgevaardigden en een deel van de Senaat. De uitslag bepaalt hoeveel steun Trump de rest van zijn presidentschap in het Congres kan verwachten. Inmiddels zijn er al miljoenen dollars in de campagne rondgepompt. Enkel Elon Musk stak al zo'n 366 miljoen dollar in de tussentijdse verkiezingen. Amerika-kenner Kenneth Manusama schuift aan in onze studio om het over de midterms te hebben. Miljarden naar onderhoud infrastructuur Het kabinet trekt 18 miljard euro uit aan het onderhoud van infrastructuur. Een groot deel van dat bedrag wordt weggehaald bij geplande projecten waarvoor al geld was gereserveerd. Die projecten gaan dus op de lange baan. In totaal gaat het om 175 wegen, sluizen, bruggen, viaducten en tunnels die worden vernieuwd of onderhouden. Overlast door straatpredikers Het aantal straatpredikers neemt in meerdere gemeenten toe, en daarmee ook de overlast. Maar straatpredikers aanpakken is bijna onmogelijk zonder grondrechten aan te tasten. En voor predikers is inhouden ook lastig, want hoe bereik je anders zo veel mogelijk mensen?",
-   "url": "https://nos.nl/l/2635216",
-   "datum": "2026-10-16",
-   "versie": "d2d78985e503fd1e",
-   "extra": {},
-   "status": "gewijzigd",
-   "thema_treffers": {
-    "Bouwcontext": [
-     "onderhoud van",
-     "infrastructuur"
-    ]
-   },
-   "verzameld_op": "2026-10-17T04:44:31+00:00"
-  },
-  {
-   "id": "f3228db9a5af80ed",
-   "bron": "NU.nl Algemeen",
-   "categorie": "Media",
-   "methode": "feed",
-   "soort": "",
-   "titel": "Vaarroute Ameland blijft door kabinetsplan alleen open door 'dagelijks baggeren'",
-   "samenvatting_bron": "Een project om de verbinding van en naar Ameland te verbeteren is een van de 29 infrastructuurprojecten waar het kabinet een streep door haalt. Een vaargeul die telkens volloopt met slib, zorgt al jaren voor intensief onderhoud en vertragingen op de vaarroute.",
-   "url": "https://www.nu.nl/binnenland/6413436/vaarroute-ameland-blijft-door-kabinetsplan-alleen-open-door-dagelijks-baggeren.html",
-   "datum": "2026-10-16",
-   "versie": "e268c60da2dde369",
-   "extra": {},
-   "status": "nieuw",
-   "thema_treffers": {
-    "Waterkwaliteit": [
-     "bagger"
+   "versie": "1604eb8bbcebe55d",
+   "extra": {
+    "tijdschrift": "Environmental Science & Technology",
+    "instellingen": [
+     "China Agricultural University",
+     "Chinese Academy for Environmental Planning",
+     "Ocean University of China",
+     "University College London"
     ],
-    "Bouwcontext": [
-     "infrastructuur"
+    "zoekvraag": "ammonia OR \"nitrogen deposition\" OR (\"critical load\" AND nitrogen)",
+    "thema_hint": "Stikstof",
+    "open_access": false
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Stikstof": [
+     "nitrogen"
     ]
    },
-   "verzameld_op": "2026-10-17T04:44:31+00:00"
+   "verzameld_op": "2026-10-18T04:44:43+00:00"
   },
   {
-   "id": "27c4ec144aecb7ed",
-   "bron": "NU.nl Algemeen",
-   "categorie": "Media",
-   "methode": "feed",
-   "soort": "",
-   "titel": "Streep door 29 'droomprojecten', cruciaal onderhoud wegen en bruggen gaat voor",
-   "samenvatting_bron": "De \"pijnlijke keuzes\" waarover de bewindslieden op Infrastructuur en Waterstaat het de afgelopen maanden hadden, hebben een gezicht gekregen. Om essentieel onderhoud en vervanging te kunnen betalen, gaat voorlopig een streep door in totaal 29 nieuwe projecten.",
-   "url": "https://www.nu.nl/politiek/6413400/streep-door-29-droomprojecten-cruciaal-onderhoud-wegen-en-bruggen-gaat-voor.html",
+   "id": "901a4ae60a74859a",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "Exploring the value of thematic urban ecosystem accounts in Western Balkan countries to inform urban greening actions",
+   "samenvatting_bron": "Urban ecological health is increasingly prioritised in Europe, as reflected in the EU Biodiversity Strategy 2030, the Nature Restoration Regulation, and the amended Regulation on Environmental-Economic Accounts. Translating these commitments into effective greening policy and planning actions that halt and reverse urban ecological degradation requires standardised, spatially explicit indicators. This study explores the utility of the System of Environmental-Economic Accounting–Ecosystem Accounting (SEEA-EA) framework for developing thematic urban ecosystem accounts as integrated metrics to inform urban greening in the Western Balkans. We constructed pilot accounts for the Western Balkans for 2018, with particular focus on Horizon-funded CROSS-REIS countries, where local accounts were also developed for representative municipalities (Kranj, Rijeka, Niš, Podgorica, Tirana) for 2018 and 2021. Accounts include ecosystem extent, four condition indicators (imperviousness, green space, tree cover, PM 10 concentration), and the ecosystem service air filtration, estimated via PM 10 deposition onto vegetation. Results were benchmarked nationally against EU-EFTA countries and the UK and locally against pilot Italian municipalities of the National Biodiversity Future Center. Western Balkan urban ecosystems fall within the European range but display a more homogeneous profile, confirmed by permutation tests and largely explained by shared climate and urban classes. The accounts support qu",
+   "url": "https://doi.org/10.1016/j.ecolind.2026.115647",
    "datum": "2026-10-16",
-   "versie": "2ed7bdbfaa132687",
+   "versie": "69775aedbd03fad9",
+   "extra": {
+    "tijdschrift": "Ecological Indicators",
+    "instellingen": [
+     "Polis University",
+     "Politecnico di Milano",
+     "University of Ljubljana",
+     "University of Rijeka"
+    ],
+    "zoekvraag": "\"Nature Restoration Law\" OR \"Nature Restoration Regulation\" OR \"Habitats Directive\"",
+    "thema_hint": "Natuurherstel",
+    "open_access": true
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "nature restoration",
+     "biodiversity"
+    ]
+   },
+   "verzameld_op": "2026-10-18T04:44:43+00:00"
+  },
+  {
+   "id": "4c9012d75eca2ecf",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "Ambition without alignment: Pollinators in the EU Nature Restoration Law",
+   "samenvatting_bron": "Abstract Pollinators are essential for life on Earth. They enable the reproduction of most flowering plants and support biodiversity as well as food systems. However, their numbers are in great decline. Research finds a continuing decrease in pollinating insects each year. This article reviews whether EU Law is fit to address this challenge. First, this paper analyses the norms in the EU Nature Restoration Law (NRL) and the Delegated Regulation, finding that the NRL demands wide‐scale system change to comply with the targets set out. Second, it reviews what legal instruments and policies hold back these promises. Examples are the EU Pesticide Laws, EU climate laws, EU norms on light pollution, rules on Invasive Alien Species and, most pressingly, the proposed EU Multiannual Financial Framework (MFF) budget. In the end, this paper concludes that the EU also has a responsibility to support the implementation of the NRL beyond interpretation manuals and soft guidance. It must fund, streamline and revise its own architecture, strengthening many existing EU laws to ensure coherence.",
+   "url": "https://doi.org/10.1111/reel.70088",
+   "datum": "2026-10-15",
+   "versie": "74e49fce4c955570",
+   "extra": {
+    "tijdschrift": "Review of European Comparative & International Environmental Law",
+    "instellingen": [
+     "European University Institute"
+    ],
+    "zoekvraag": "\"Nature Restoration Law\" OR \"Nature Restoration Regulation\" OR \"Habitats Directive\"",
+    "thema_hint": "Natuurherstel",
+    "open_access": true
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "nature restoration",
+     "biodiversity"
+    ]
+   },
+   "verzameld_op": "2026-10-18T04:44:43+00:00"
+  },
+  {
+   "id": "2a7354df2d9477c5",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (review)",
+   "titel": "Microclimate Control for Outdoor Thermal Comfort in Apartment Residential Green Spaces: A Systematic Review of Climate-Responsive Design Strategies and Assessment Methods",
+   "samenvatting_bron": "Urban overheating is an increasingly prevalent threat to the liveability and thermal comfort of outdoor spaces in residential apartment areas. While urban green spaces can regulate microclimates and mitigate heat, there remains a lack of evidence on how design interventions can integrate environmental performance with human comfort. Following PRISMA guidelines, this systematic review synthesises 22 peer-reviewed studies from Web of Science and Scopus (2015–2025), selected from an initial set of 187 records. The review reveals that existing studies primarily quantify environmental parameters such as temperature, humidity and wind speed while inadequately addressing multifactor interactions and subjective comfort responses. To address this gap, the review proposes an integrated framework that links environmental metrics, human perceptual data, and climate-responsive design strategies. The findings further reveal that vegetation configuration, shading, surface materials, and spatial layout are key design levers, although their effectiveness varies across climate zones. Notably, this review offers a novel contribution by systematically identifying the interplay between objective microclimatic variables and subjective human comfort responses—an interaction largely overlooked in prior apartment-green-space research. Unlike earlier studies focusing on single-factor optimisation, the proposed framework provides a transferable, multi-dimensional approach that bridges design practice,",
+   "url": "https://doi.org/10.3390/urbansci10100602",
+   "datum": "2026-10-16",
+   "versie": "3ef50db92af5020b",
+   "extra": {
+    "tijdschrift": "Urban Science",
+    "instellingen": [
+     "National University of Malaysia"
+    ],
+    "zoekvraag": "(\"urban biodiversity\" OR \"urban green space\" OR \"green infrastructure\") AND (housing OR \"urban development\" OR \"urban planning\" OR building)",
+    "thema_hint": "Natuurherstel",
+    "open_access": true
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-18T04:44:43+00:00"
+  },
+  {
+   "id": "fd6342449974f580",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "ADVANCING ESG THROUGH GREEN INFRASTRUCTURE SOLUTIONS IN RESOURCE-CONSTRAINED MALAWIAN CITIES: AN EXPLORATORY QUALITATIVE STUDY",
+   "samenvatting_bron": "Malawi’s urban areas are increasingly vulnerable to climate-related disasters, including flooding, landslides, and extreme winds, while conventional infrastructure struggles under these pressures dueto outdated designs, limited maintenance, and poor climate adaptation. This study aims to examine how Environmental, Social, and Governance (ESG)-aligned green infrastructure (GI) can strengthen urban resilience in resource-constrained Malawian cities, with a focus on Blantyre and Zomba. A qualitative, exploratory study was conducted using systematic document analysis of secondary sources, with thematic analysis applied to identify patterns in climate risk, governance constraints, and lessons for context-appropriate green infrastructure strategies. Findings show that GI interventions, including urban wetlands, permeable pavements, slope vegetation, and tree planting, offer significant environmental, social, and governance benefits: they reduce flood and landslide risks, improve waterquality, support biodiversity, create green jobs, enhance public health, and foster community inclusion, while strong governance ensures sustainability through institutional accountability, integrated planning, and transparent financing. A key limitation of this study is the absence of primary stakeholder interviews, which limits direct insights into municipal implementation challenges. Future research should engage local planners and communities to validate and extend these findings. This study provid",
+   "url": "https://ojs.sabinet.co.za/index.php/index/article/view/5402",
+   "datum": "2026-10-15",
+   "versie": "8e81d51fd3ef0b74",
+   "extra": {
+    "tijdschrift": "DBSA: African Journal of Infrastructure Development",
+    "instellingen": [],
+    "zoekvraag": "(\"urban biodiversity\" OR \"urban green space\" OR \"green infrastructure\") AND (housing OR \"urban development\" OR \"urban planning\" OR building)",
+    "thema_hint": "Natuurherstel",
+    "open_access": true
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "biodiversity"
+    ],
+    "Klimaatadaptatie": [
+     "climate adaptation"
+    ]
+   },
+   "verzameld_op": "2026-10-18T04:44:43+00:00"
+  },
+  {
+   "id": "0e84da50799c20e9",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "The population and the habitats of Common Swift Apus apus in the Brussels Capital Region",
+   "samenvatting_bron": "This article presents the results of a survey of the Brussels population of Common Swift which was carried out between 2016 and 2018 under the programme \"Monitoring of the State of the Brussels Environment\" (for which Aves-Natagora has been collaborating with Bruxelles Environnement since 1992). The main objective was to improve our knowledge of the aspects of the habitat that are preferred by this population so as to improve our understanding of how the population may be preserved and its decline halted. Also a standardised protocol was developed for routine monitoring at regional level.The results have enabled the definition of the best sites for such monitoring. The densities obtained in this work are consistent with figures in the literature, suggesting that the methodology is adequate and that the figures obtained here can provide a useful basis of comparison for the future. Most of the colonies that we found were small. As regards habitat, we found that most nests were located under the cornices in non-residential areas (with mostly semi-detached buildings), located along narrow roads.",
+   "url": "https://doi.org/10.60768/aves.2020057",
+   "datum": "2026-10-16",
+   "versie": "d495bd4c2a03c71e",
+   "extra": {
+    "tijdschrift": "NATAGORA",
+    "instellingen": [],
+    "zoekvraag": "(\"Apus apus\" OR \"common swift\" OR \"house sparrow\" OR \"Passer domesticus\" OR \"bat roost\" OR \"bat roosts\" OR \"nest box\" OR \"nest boxes\") AND (building OR buildings OR renovation OR urban)",
+    "thema_hint": "Soortenbescherming",
+    "open_access": true
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-18T04:44:43+00:00"
+  },
+  {
+   "id": "0686519ee267f79d",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (preprint)",
+   "titel": "Evaluating impacts of linear transport infrastructure on wide ranging vertebrates in the Horn of Africa region",
+   "samenvatting_bron": "",
+   "url": "https://doi.org/10.21203/rs.3.rs-11008523/v1",
+   "datum": "2026-10-16",
+   "versie": "564754babc9abf46",
+   "extra": {
+    "tijdschrift": "Research Square",
+    "instellingen": [
+     "Information and Communication Technology Authority"
+    ],
+    "zoekvraag": "(\"wildlife crossing\" OR \"wildlife crossings\" OR \"road ecology\" OR \"roadkill\" OR \"habitat fragmentation\") AND (road OR roads OR railway OR infrastructure)",
+    "thema_hint": "Soortenbescherming",
+    "open_access": true
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-18T04:44:43+00:00"
+  },
+  {
+   "id": "66e9707e9cf72ba1",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "eDNA metabarcoding reveals invertebrate diversity in the blackwater pools of southeast Queensland peatlands",
+   "samenvatting_bron": "Despite harbouring a disproportionate diversity of rare and endemic species, the pyrophilic peatlands of southeast Queensland remain poorly characterized, particularly regarding their invertebrate communities. In the physically and chemically extreme blackwater pools, meiofaunal assemblages likely form critical trophic links but have never been described due to their small size and low public profile. This study used 18S environmental DNA metabarcoding to characterize invertebrate communities across three peatland sites. We detected 48 unique taxa across 10 phyla, including five invertebrate phyla previously unrecorded in these ecosystems (Cnidaria, Rotifera, Platyhelminthes, Nematoda and Gastrotricha). Metabarcoding exceeded the resolution achieved by field surveys for morphologically cryptic microcrustaceans; however, field surveys achieved better resolution for larger hexapods, demonstrating that the methods target distinct components of the invertebrate community. Key life-history traits were shared across the detected meiofaunal communities, including rapid maturation, parthenogenetic reproduction, and dormancy capabilities. These traits likely enable rapid community recovery and ecosystem stabilization following fire disturbances characteristic of pyrophilic peatlands. Collectively, these taxa occupy a crucial and previously undocumented intermediary trophic link between microbial production and higher consumers. Our findings reveal a previously unrecognized diversity o",
+   "url": "https://doi.org/10.1038/s44185-026-00159-0",
+   "datum": "2026-10-15",
+   "versie": "5f185b4606f07d9f",
+   "extra": {
+    "tijdschrift": "npj Biodiversity",
+    "instellingen": [
+     "University of the Sunshine Coast"
+    ],
+    "zoekvraag": "(\"environmental DNA\" OR eDNA) AND (monitoring OR survey OR detection)",
+    "thema_hint": "eDNA en monitoring",
+    "open_access": true
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "eDNA en monitoring": [
+     "eDNA",
+     "environmental DNA"
+    ]
+   },
+   "verzameld_op": "2026-10-18T04:44:43+00:00"
+  },
+  {
+   "id": "a2b19b488fa7d706",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "Strategic implementation of green roofs for urban pluvial flood risk reduction: A case study of Milan, Italy",
+   "samenvatting_bron": "The rise in intensity and frequency of extreme precipitation events is increasing the concern regarding pluvial floods in European cities. Urbanisation exacerbates the impacts of pluvial floods by affecting the infiltration process. Nature-based solutions, particularly Green Roofs (GRs), are promoted to mitigate these risks, as GRs can be implemented on existing buildings without requiring additional ground space. This study presents a risk-based framework to evaluate the potential of GRs in reducing pluvial flood risk in Milan by examining three implementation strategies, namely Water Depth (WD), Area (Ar), and Random Iteration (ITE). The framework integrates a hybrid hazard model, combining the empirical Curve Number method with a Cellular Automata approach using a hydrograph. The proposed hybrid approach enables us to link land-use-driven changes in flood volume to flood propagation. Extreme rainfall events with durations of 1, 6, and 24 hours were derived from ERA5. Residential building exposure data were extracted from OpenStreetMap and municipal datasets. Vulnerability was integrated within the framework using the INSYDE model, complemented by four additional vulnerability functions for sensitivity analysis. Results indicate that GRs can effectively reduce pluvial flood-induced losses, with reductions of 16-69% across different rainfall durations. However, their effectiveness declines with longer rainfall periods and higher return periods. Among the allocation strategie",
+   "url": "https://doi.org/10.1016/j.ijdrr.2026.106512",
+   "datum": "2026-10-15",
+   "versie": "0a8ea34b2ab4f77e",
+   "extra": {
+    "tijdschrift": "International Journal of Disaster Risk Reduction",
+    "instellingen": [
+     "Delft University of Technology",
+     "Istituto Universitario di Studi Superiori di Pavia"
+    ],
+    "zoekvraag": "(\"urban heat island\" OR \"heat stress\" OR \"climate adaptation\" OR \"pluvial flooding\") AND (urban OR city OR building OR \"built environment\")",
+    "thema_hint": "Klimaatadaptatie",
+    "open_access": true
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-18T04:44:43+00:00"
+  },
+  {
+   "id": "0eda6b62b164e940",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "Review article: Mountain flash floods: from hazard formation to disaster risk reduction pathways",
+   "samenvatting_bron": "Abstract. Flash floods in mountainous regions are becoming more frequent and destructive under climate warming, yet cross-regional understanding of their triggering mechanisms, cascading impacts, and governance remains fragmented. This review synthesises 1,967 studies published during 2000–2025 to establish a globally comparable baseline of mountain flash-flood research. By integrating bibliometric and topic analyses with qualitative synthesis, we reveal pronounced geographical and thematic imbalances, with research concentrated in Europe and Asia. At the same time, many high-risk mountain regions in Africa and South America remain overlooked. Across regions, flash-flood initiation and impacts are shown to be strongly state-dependent and coupled, emerging from interactions between storm intensity, duration and spatial concentration, antecedent hydrological conditions, and hillslope-channel connectivity. This coupling helps explain why fixed rainfall thresholds are difficult to generalise and highlights the need for dynamic, multi-source early-warning approaches. Comparing evidence on early warning, structural protection, and Nature-Based Solutions, the review shows that cascading processes dominate risk management challenges. We therefore propose an adaptive governance framework that links monitoring and forecasting, spatial planning, grey-green integration, and basin-scale risk sharing under non-stationary climate conditions. Overall, this synthesis consolidates fragmented e",
+   "url": "https://doi.org/10.5194/nhess-26-5073-2026",
+   "datum": "2026-10-16",
+   "versie": "ef98f068a603ffa8",
+   "extra": {
+    "tijdschrift": "Natural hazards and earth system sciences",
+    "instellingen": [
+     "Institute of Geographic Sciences and Natural Resources Research",
+     "University of Birmingham",
+     "University of Leeds",
+     "University of Nottingham",
+     "University of Nottingham Ningbo China"
+    ],
+    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
+    "thema_hint": "Klimaatadaptatie",
+    "open_access": true
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-18T04:44:43+00:00"
+  },
+  {
+   "id": "1ee2aa217fcd47f4",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "Building a safe haven to cope with climate extremes: The HuT fact sheets",
+   "samenvatting_bron": "Fact sheets Designing early warning services (Brian Golding, Carina Fearnley, Ilan Kelman) Internet of Things for Natural Hazards and Warnings (BGS, BU, Arantec, NG) Using serious games to promote risk awareness (Laurens J.N. Oostwegel, Maria Vittoria Gargiulo, Guido Rianna, Michele Calvello) Incentivizing nature-based solutions for wildfire risk reduction (JoAnne Linnerooth-Bayer, Valentina Bacciu, Francesco Lo Conti, Juliette G.C. Martin, Anna Scolobig, Xiran Dong) Advancing the use of exposure and vulnerability data in Impact-based Warnings (Joanne Robbins, Laurens Oostwegel, GFZ Helmholtz Centre for Geosciences) From Information to Engagement: Tailored Science Communication for Disaster-Resilient Communities Learning from warnings: turning evidence from past events into better warnings (Joanne Robbins, Robert Neal, Maryam Rokhideh)",
+   "url": "https://doi.org/10.5281/zenodo.23418453",
+   "datum": "2026-10-16",
+   "versie": "2c4126b442797270",
+   "extra": {
+    "tijdschrift": "Zenodo (CERN European Organization for Nuclear Research)",
+    "instellingen": [],
+    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
+    "thema_hint": "Klimaatadaptatie",
+    "open_access": true
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-18T04:44:43+00:00"
+  },
+  {
+   "id": "a595921ad3c1341f",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "AI-Based Decision-Making Framework for Climate Change-Induced Flood Risk Management and Urban Resilience",
+   "samenvatting_bron": "Climate change has intensified the frequency and severity of urban flooding, creating unprecedented challenges for municipalities worldwide. This study develops an AI-based decision-making framework that integrates machine learning, explainable artificial intelligence, and geospatial analytics to enhance urban flood risk management and resilience planning. The framework employs ensemble machine learning algorithms including Random Forest, XG Boost, and Cat Boost for flood susceptibility mapping, coupled with SHAP-based interpretability to decode model predictions and translate them into actionable policy insights at administrative scales. A city-scale digital twin component enables real-time flood impact simulation and cascading infrastructure disruption analysis, while a multi-criteria decision support module prioritizes adaptation investments based on economic risk assessment and equity considerations. The framework was validated using multi-temporal Sentinel-1 SAR data and hydrological records across diverse urban environments, demonstrating superior predictive performance with area under the receiver operating characteristic curve values exceeding 0.95 for ensemble models. Results reveal that elevation, proximity to hydrological features, and impervious surface density consistently emerge as dominant flood drivers, with their relative importance varying significantly across districts. The decision support system successfully transformed pixel-level predictions into ward-l",
+   "url": "https://doi.org/10.5281/zenodo.23412056",
+   "datum": "2026-10-16",
+   "versie": "f178b0f7cc5f89f9",
+   "extra": {
+    "tijdschrift": "Zenodo (CERN European Organization for Nuclear Research)",
+    "instellingen": [
+     "China Three Gorges University"
+    ],
+    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
+    "thema_hint": "Klimaatadaptatie",
+    "open_access": true
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-18T04:44:43+00:00"
+  },
+  {
+   "id": "64baed365d26e974",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "Beyond Average Runoff Reduction: Event-Based Assessment of Climate Adaptation Benefits and Flood Vulnerability of Blue–Green Roofs",
+   "samenvatting_bron": "Climate change increases the need for urban stormwater management systems that can maintain hydrological performance under severe rainfall conditions. Although green and blue–green roofs are widely used as nature-based solutions for runoff management, their performance is commonly evaluated using average or cumulative runoff reduction, which may not capture differences that emerge during severe events. This study applied an event-based assessment to 31 rainfall events monitored on a conventional roof (Control), a Blue–Green Roof (BGR), and a Smart Blue–Green Roof (Smart BGR). Climate Adaptation Benefit (CAB) was calculated by integrating relative runoff reduction with rainfall severity, while the additional benefit of Smart BGR was evaluated using the difference in CAB (ΔCAB). The Severity-Weighted Runoff Vulnerability Index (FVI) and Severity-Weighted Runoff Vulnerability Reduction (FVR) were used to assess runoff-related vulnerability across four rainfall severity classes. Both systems provided substantial benefits under low rainfall severity, with relatively small differences. However, Smart BGR generally showed higher CAB and positive ΔCAB than BGR, while maintaining lower FVI and greater FVR under the observed higher-severity rainfall conditions. These findings suggest that the primary value of Smart BGR lies in maintaining greater climate adaptation benefits under severe rainfall conditions. The proposed event-based framework provides a complementary approach for evalua",
+   "url": "https://doi.org/10.3390/cli14100223",
+   "datum": "2026-10-16",
+   "versie": "e50fcc6008095d46",
+   "extra": {
+    "tijdschrift": "Climate",
+    "instellingen": [
+     "Land and Housing Institute"
+    ],
+    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
+    "thema_hint": "Klimaatadaptatie",
+    "open_access": true
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Klimaatadaptatie": [
+     "climate adaptation"
+    ]
+   },
+   "verzameld_op": "2026-10-18T04:44:43+00:00"
+  },
+  {
+   "id": "b4870cfac0ca1710",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "A harmonization-based framework for cross-sensor super-resolution of Sentinel-2 imagery for coastal applications",
+   "samenvatting_bron": "High-resolution (HR) satellite imagery is essential for coastal mapping, ocean analysis, and long-term environmental monitoring; however, acquiring it is constrained by hardware limitations and high costs. Freely available low-resolution (LR) archives, such as those from Sentinel-2 (S2), offer global coverage and frequent revisits, but their 10 m native resolution is insufficient for fine-scale analysis. This study presents HARBOR (Harmonization-based Adaptive Resolution Boosting for Optical Remote sensing), an integrated harmonization-based workflow that combines established radiometric harmonization and sub-pixel convolutional super-resolution (SR) components and adapts them to four-band coastal S2–PlanetScope (PS) data. Rather than proposing a new network architecture, HARBOR addresses a gap in the way satellite SR is commonly assembled, where network optimization receives most of the attention and cross-sensor radiometric inconsistency is treated as a preprocessing detail. The workflow consists of four interconnected stages: (1) a same-day, close-time data preparation approach for temporally consistent cross-sensor learning, (2) statistical radiometric harmonization to reduce cross-sensor reflectance differences, (3) the synthetic generation of S 2 like imagery to expand limited supervised datasets, and (4) a customized Efficient Sub-Pixel Convolutional Neural Network (ESPCN) adapted for multispectral satellite imagery using a fused loss formulation. In a coastal case stu",
+   "url": "https://doi.org/10.3389/fmars.2026.1950325",
+   "datum": "2026-10-16",
+   "versie": "48fd3afeb00fefec",
+   "extra": {
+    "tijdschrift": "Frontiers in Marine Science",
+    "instellingen": [
+     "Texas A&M University"
+    ],
+    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
+    "thema_hint": "Klimaatadaptatie",
+    "open_access": true
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-18T04:44:43+00:00"
+  },
+  {
+   "id": "8192d09330b40107",
+   "bron": "Binnenlands Bestuur",
+   "categorie": "Media",
+   "methode": "web",
+   "soort": "",
+   "titel": "ruimte en milieu Ministerie van Infrastructuur heeft gewikt en gewogen Bewindslieden van Infrastructuur en Waterstaat maakten publiek welke infrastructuurprojecten volgens hen wel en niet kunnen doorgaan.",
+   "samenvatting_bron": "",
+   "url": "https://www.binnenlandsbestuur.nl/ruimte-en-milieu/ministerie-van-infrastructuur-heeft-gewikt-en-gewogen",
+   "datum": null,
+   "versie": "1894892ec2c163a9",
    "extra": {},
    "status": "gewijzigd",
    "thema_treffers": {
@@ -1044,89 +460,27 @@
      "infrastructuur"
     ]
    },
-   "verzameld_op": "2026-10-17T04:44:31+00:00"
+   "verzameld_op": "2026-10-18T04:44:43+00:00"
   },
   {
-   "id": "905740ce27b68c1b",
-   "bron": "Trouw",
+   "id": "b89ed0a7702b6707",
+   "bron": "Binnenlands Bestuur",
    "categorie": "Media",
    "methode": "web",
    "soort": "",
-   "titel": "Kabinet zet in op onderhoud van infrastructuur: ‘Knooppunten als Velperbroek moeten nodig aangepakt’",
+   "titel": "ruimte en milieu Plannen uitgelekt: miljarden voor bestaande infrastructuur, nieuwe projecten op lange baan",
    "samenvatting_bron": "",
-   "url": "https://www.trouw.nl/duurzaamheid-economie/kabinet-zet-in-op-onderhoud-van-infrastructuur-knooppunten-als-velperbroek-moeten-nodig-aangepakt~be0cc8cd/",
-   "datum": "2026-10-16",
-   "versie": "9f80f21b931868fe",
-   "extra": {},
-   "status": "nieuw",
-   "thema_treffers": {
-    "Bouwcontext": [
-     "onderhoud van",
-     "infrastructuur"
-    ]
-   },
-   "verzameld_op": "2026-10-17T04:44:31+00:00"
-  },
-  {
-   "id": "0578fa57ae96e91f",
-   "bron": "Cobouw",
-   "categorie": "Bouwmedia",
-   "methode": "web",
-   "soort": "",
-   "titel": "renovatie en onderhoud Karremans schuift met inframiljarden en vraagt cultuuromslag van de markt",
-   "samenvatting_bron": "",
-   "url": "https://www.cobouw.nl/339977/karremans-schuift-met-inframiljarden-en-vraagt-cultuuromslag-van-de-markt",
+   "url": "https://www.binnenlandsbestuur.nl/ruimte-en-milieu/miljarden-voor-bestaande-infrastructuur",
    "datum": null,
-   "versie": "417bd15370be0a58",
-   "extra": {},
-   "status": "nieuw",
-   "thema_treffers": {
-    "Bouwcontext": [
-     "renovatie"
-    ]
-   },
-   "verzameld_op": "2026-10-17T04:44:31+00:00"
-  },
-  {
-   "id": "bf39f0de6b6e4e2c",
-   "bron": "Cobouw",
-   "categorie": "Bouwmedia",
-   "methode": "web",
-   "soort": "",
-   "titel": "infra 15 okt 26 Zo neemt wegenbouwer Johan Middelkamp het betalingsgedrag in de infra op de schop Toen Johan Middelkamp in 1991 Sallandse Wegenbouw oprichtte, liep hij al snel aan tegen het betalingsgedrag van opdrachtgevers in de infratechniek. \"Ik was vaak drie, vier maanden aan het werk voordat ik geld beurde. Te zot voor woorden.\" Kon dat ook anders? Samen met jurist Meriam de Koning zocht hij",
-   "samenvatting_bron": "",
-   "url": "https://www.cobouw.nl/339894/zo-neemt-wegenbouwer-johan-middelkoop-het-betalingsgedrag-in-de-infra-op-de-schop",
-   "datum": null,
-   "versie": "8a06ef71e3fd2f03",
+   "versie": "f952f9977d9e27cf",
    "extra": {},
    "status": "gewijzigd",
    "thema_treffers": {
     "Bouwcontext": [
-     "wegenbouw"
-    ]
-   },
-   "verzameld_op": "2026-10-17T04:44:31+00:00"
-  },
-  {
-   "id": "fd4e5d7f165c4f56",
-   "bron": "Bouwend Nederland",
-   "categorie": "Bouwmedia",
-   "methode": "web",
-   "soort": "",
-   "titel": "Vrijdag 16 oktober 2026 Prioritering infra is een stap vooruit, maar het geld blijft tekortschieten Minister Karremans van Infrastructuur en Waterstaat heeft de langverwachte prioritering naar buiten gebracht waarmee de financiële middelen voor de weg-, water- en spoorinfrastructuur worden verdeeld. Het kabinet geeft daarbij voorrang aan het onderhoud van wegen, bruggen, sluizen en spoor boven de ",
-   "samenvatting_bron": "",
-   "url": "https://www.bouwendnederland.nl/nieuws/algemeen/prioritering-infra-is-een-stap-vooruit-maar-het-geld-blijft-tekortschieten",
-   "datum": null,
-   "versie": "c4d1916155b70986",
-   "extra": {},
-   "status": "nieuw",
-   "thema_treffers": {
-    "Bouwcontext": [
-     "onderhoud van",
      "infrastructuur"
     ]
    },
-   "verzameld_op": "2026-10-17T04:44:31+00:00"
+   "verzameld_op": "2026-10-18T04:44:43+00:00"
   }
  ]
 }
