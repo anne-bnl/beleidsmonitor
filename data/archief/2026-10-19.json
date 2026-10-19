@@ -1,0 +1,161 @@
+{
+ "run": {
+  "run_op": "2026-10-19T04:47:26+00:00",
+  "bronnen_totaal": 90,
+  "bronnen_gelukt": 82,
+  "bronnen_mislukt": [],
+  "bronnen_zoekcontrole": [
+   "Open Overheid (Woo-publicaties)",
+   "Unie van Waterschappen",
+   "EUR-Lex",
+   "Provincie Fryslân",
+   "Gemeente Rotterdam",
+   "Natuur & Milieu",
+   "ICLEI Europe",
+   "Mobilisation for the Environment (MOB)"
+  ],
+  "documenten_gelezen": 0,
+  "documenten_mislukt": [],
+  "achterstand_documenten": 0,
+  "vervallen_uit_oude_rij": 0,
+  "doorgelaten": 8
+ },
+ "items": [
+  {
+   "id": "f498889832c35427",
+   "bron": "Internetconsultatie",
+   "cat": "Consultaties",
+   "soort": "Internetconsultatie",
+   "titel": "Wijziging van het Besluit bewapening en uitrusting politie in verband met de toekenning van het stroomstootwapen",
+   "datum": "2026-10-19",
+   "status": "nieuw",
+   "themas": [],
+   "themas_tekst": [],
+   "bouw": false,
+   "doc_fout": false,
+   "volledige_tekst": false,
+   "url": "https://www.internetconsultatie.nl/stroomstootwapen",
+   "rubriek": "planning"
+  },
+  {
+   "id": "fb4aca79f381abb7",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "cat": "Onderzoek",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "\"Toward Interactive Green Urban Planning: Assessing the Efficiency of Urban Green Spaces and Integrating Low-Cost Smart System Solutions\"",
+   "datum": "2026-10-17",
+   "status": "nieuw",
+   "themas": [],
+   "themas_tekst": [],
+   "bouw": false,
+   "doc_fout": false,
+   "volledige_tekst": false,
+   "url": "https://doi.org/10.5281/zenodo.23428418",
+   "rubriek": "onderzoek"
+  },
+  {
+   "id": "c9590b84715bbacb",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "cat": "Onderzoek",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "Evaluating a peri-urban nature-based solution in Portugal through the IUCN Global Standard: lessons for municipal implementation",
+   "datum": "2026-10-17",
+   "status": "nieuw",
+   "themas": [],
+   "themas_tekst": [],
+   "bouw": false,
+   "doc_fout": false,
+   "volledige_tekst": false,
+   "url": "https://doi.org/10.1007/s11252-026-02147-5",
+   "rubriek": "onderzoek"
+  },
+  {
+   "id": "a6a8fb334c08a0ae",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "cat": "Onderzoek",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "Understanding public preferences for urban wildflower meadows",
+   "datum": "2026-10-17",
+   "status": "nieuw",
+   "themas": [
+    "Natuurherstel en gebiedsbescherming"
+   ],
+   "themas_tekst": [],
+   "bouw": false,
+   "doc_fout": false,
+   "volledige_tekst": false,
+   "url": "https://doi.org/10.1016/j.jenvman.2026.131156",
+   "rubriek": "onderzoek"
+  },
+  {
+   "id": "0fba6656f771db58",
+   "bron": "NU.nl Algemeen",
+   "cat": "Media",
+   "soort": "",
+   "titel": "Vrouw verdronken in Spanje na overstromingen en stortregens",
+   "datum": "2026-10-18",
+   "status": "nieuw",
+   "themas": [
+    "Klimaatadaptatie"
+   ],
+   "themas_tekst": [],
+   "bouw": false,
+   "doc_fout": false,
+   "volledige_tekst": false,
+   "url": "https://www.nu.nl/buitenland/6413590/vrouw-verdronken-in-spanje-na-overstromingen-en-stortregens.html",
+   "rubriek": "bericht"
+  },
+  {
+   "id": "05bbef95bd8cc76d",
+   "bron": "NU.nl Algemeen",
+   "cat": "Media",
+   "soort": "",
+   "titel": "Nee, konijnen zijn niet de sleutel om stikstofslot open te breken",
+   "datum": "2026-10-18",
+   "status": "nieuw",
+   "themas": [
+    "Stikstof"
+   ],
+   "themas_tekst": [],
+   "bouw": false,
+   "doc_fout": false,
+   "volledige_tekst": false,
+   "url": "https://www.nu.nl/stikstof/6413360/nee-konijnen-zijn-niet-de-sleutel-om-stikstofslot-open-te-breken.html",
+   "rubriek": "bericht"
+  },
+  {
+   "id": "2ec4eddd6c3a0cc1",
+   "bron": "Trouw",
+   "cat": "Media",
+   "soort": "",
+   "titel": "Bij de wereldtop over biodiversiteit ligt een slecht tussenrapport op tafel",
+   "datum": "2026-10-18",
+   "status": "nieuw",
+   "themas": [
+    "Natuurherstel en gebiedsbescherming"
+   ],
+   "themas_tekst": [],
+   "bouw": false,
+   "doc_fout": false,
+   "volledige_tekst": false,
+   "url": "https://www.trouw.nl/duurzaamheid-economie/bij-de-wereldtop-over-biodiversiteit-ligt-een-slecht-tussenrapport-op-tafel~bbf980c5/",
+   "rubriek": "bericht"
+  },
+  {
+   "id": "8192d09330b40107",
+   "bron": "Binnenlands Bestuur",
+   "cat": "Media",
+   "soort": "",
+   "titel": "ruimte en milieu Ministerie van Infrastructuur heeft gewikt en gewogen",
+   "datum": null,
+   "status": "gewijzigd",
+   "themas": [],
+   "themas_tekst": [],
+   "bouw": true,
+   "doc_fout": false,
+   "volledige_tekst": false,
+   "url": "https://www.binnenlandsbestuur.nl/ruimte-en-milieu/ministerie-van-infrastructuur-heeft-gewikt-en-gewogen",
+   "rubriek": "bericht"
+  }
+ ]
+}

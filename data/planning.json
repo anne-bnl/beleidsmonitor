@@ -1,18 +1,6 @@
 {
- "bijgewerkt": "2026-10-18T04:44:43+00:00",
+ "bijgewerkt": "2026-10-19T04:47:26+00:00",
  "items": [
-  {
-   "id": "dc81e35e6e7e9c27",
-   "bron": "Internetconsultatie",
-   "soort": "Consultatie",
-   "wat": "Regeling openbare jaarverantwoording WMG ivm invoerintoets",
-   "datum": "2026-10-18",
-   "start": "2026-09-07",
-   "url": "https://www.internetconsultatie.nl/invoeringstoets",
-   "commissie": "VWS",
-   "themas": [],
-   "bouw": false
-  },
   {
    "id": "ae1117af2cf7fd93",
    "bron": "Internetconsultatie",
@@ -1412,6 +1400,18 @@
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A03311",
    "themas": [],
    "kerncommissie": false
+  },
+  {
+   "id": "f498889832c35427",
+   "bron": "Internetconsultatie",
+   "soort": "Consultatie",
+   "wat": "Wijziging van het Besluit bewapening en uitrusting politie in verband met de toekenning van het stroomstootwapen",
+   "datum": "2026-11-30",
+   "start": "2026-10-19",
+   "url": "https://www.internetconsultatie.nl/stroomstootwapen",
+   "commissie": "JenV",
+   "themas": [],
+   "bouw": false
   },
   {
    "id": "53297f6e3ae96482",

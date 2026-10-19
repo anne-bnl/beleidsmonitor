@@ -1,6 +1,6 @@
 {
  "run": {
-  "run_op": "2026-10-18T04:44:43+00:00",
+  "run_op": "2026-10-19T04:47:26+00:00",
   "bronnen_totaal": 90,
   "bronnen_gelukt": 82,
   "bronnen_mislukt": [],
@@ -18,429 +18,176 @@
   "documenten_mislukt": [],
   "achterstand_documenten": 0,
   "vervallen_uit_oude_rij": 0,
-  "doorgelaten": 18
+  "doorgelaten": 8
  },
  "items": [
   {
-   "id": "9f222f7363facc9f",
-   "bron": "Raad van State en rechtspraak (uitspraken)",
-   "categorie": "Rechtspraak",
-   "methode": "api_rechtspraak",
-   "soort": "Uitspraak",
-   "titel": "ECLI:NL:RVS:2026:1379, Raad van State, 11-03-2026, 202006510/13/R3",
-   "samenvatting_bron": "Bij uitspraak onderscheidenlijk tussenuitspraak van 30 april 2025, ECLI:NL:RVS:2025:1971, heeft de Afdeling de minister van Infrastructuur en Waterstaat opgedragen om binnen 26 weken na verzending van die uitspraak de daarin genoemde gebreken in het op 17 november 2020 vastgestelde tracébesluit \"A27/A12 Ring Utrecht 2020\" (TB2020) en het op 13 juli 2022 vastgestelde tracébesluit \"A27/A12 Ring U...",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:1379",
-   "datum": "2026-10-17",
-   "versie": "597e862b0fe2ead8",
+   "id": "f498889832c35427",
+   "bron": "Internetconsultatie",
+   "categorie": "Consultaties",
+   "methode": "api_internetconsultatie",
+   "soort": "Internetconsultatie",
+   "titel": "Wijziging van het Besluit bewapening en uitrusting politie in verband met de toekenning van het stroomstootwapen",
+   "samenvatting_bron": "Organisatie: JenV. Sluit: 2026-11-30",
+   "url": "https://www.internetconsultatie.nl/stroomstootwapen",
+   "datum": "2026-10-19",
+   "versie": "7808db54138800d6",
    "extra": {
-    "ecli": "ECLI:NL:RVS:2026:1379",
-    "raad_van_state": true
-   },
-   "status": "nieuw",
-   "thema_treffers": {
-    "Bouwcontext": [
-     "infrastructuur",
-     "tracébesluit"
+    "sluitingsdatum": "2026-11-30",
+    "velden": [
+     "titel",
+     "url",
+     "startdatum",
+     "einddatum",
+     "departement"
     ]
    },
-   "verzameld_op": "2026-10-18T04:44:43+00:00"
-  },
-  {
-   "id": "a782bba01d391fee",
-   "bron": "Raad van State en rechtspraak (uitspraken)",
-   "categorie": "Rechtspraak",
-   "methode": "api_rechtspraak",
-   "soort": "Uitspraak",
-   "titel": "ECLI:NL:RBOVE:2026:3610, Rechtbank Overijssel, 25-06-2026, ak_24_3893",
-   "samenvatting_bron": "Positieve weigering natuurvergunning. Uit de uitspraken van de Afdeling van 18 december 2024 volgt dat intern salderen in de voortoets niet is toegestaan, zodat het bestreden besluit op een onjuiste grondslag berust. De rechtsgevolgen van het bestreden besluit kunnen niet in stand worden gelaten, omdat de aangevraagde activiteit ten opzichte van de activiteit waarvoor de maatschap een natuurver...",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2026:3610",
-   "datum": "2026-10-17",
-   "versie": "df87d9b4c9f6dd9f",
-   "extra": {
-    "ecli": "ECLI:NL:RBOVE:2026:3610",
-    "raad_van_state": false
-   },
    "status": "nieuw",
-   "thema_treffers": {
-    "Stikstof": [
-     "intern salderen",
-     "salderen",
-     "voortoets",
-     "natuurvergunning"
-    ]
-   },
-   "verzameld_op": "2026-10-18T04:44:43+00:00"
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-19T04:47:26+00:00"
   },
   {
-   "id": "2c2d0cdbbf8a22f3",
+   "id": "fb4aca79f381abb7",
    "bron": "Wetenschappelijke publicaties (OpenAlex)",
    "categorie": "Onderzoek",
    "methode": "api_openalex",
    "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "Economic Trade and Atmospheric Transport in Shaping China’s Nitrogen Deposition Patterns",
-   "samenvatting_bron": "Abstract Atmospheric nitrogen deposition in China is driven not only by local emissions but also by global economic demand and transboundary atmospheric transport. Unraveling these dual influences is critical for effective environmental governance. Here, we integrate an economic-emission analysis with a high-resolution atmospheric chemical transport model to quantify, for the first time, the distinct roles of domestic consumption, international trade, and atmospheric transport in shaping China’s nitrogen deposition patterns. We find that domestic consumption is the dominant contributor, responsible for 67.6% of the total deposition, involving a substantial interprovincial transfer of emissions from affluent coastal provinces to less developed inland regions. International trade attributes 7.8% of China’s deposition to foreign consumption, primarily driven by demand from the USA and Western Europe. In contrast, trans-national atmospheric transport directly accounts for 12.8%, with a disproportionately high impact on ecologically sensitive western China. Natural sources contribute the remaining 11.8%. Our results reveal a complex web of drivers extending beyond China’s borders. Mitigating nitrogen deposition, therefore, requires moving beyond local emission controls to embrace consumption-based accountability and enhanced international cooperation on both trade and atmospheric pollution to protect vulnerable ecosystems.",
-   "url": "https://doi.org/10.1021/acs.est.6c07734",
-   "datum": "2026-10-16",
-   "versie": "1604eb8bbcebe55d",
+   "titel": "\"Toward Interactive Green Urban Planning: Assessing the Efficiency of Urban Green Spaces and Integrating Low-Cost Smart System Solutions\"",
+   "samenvatting_bron": "Abstract: This study presents a comparative field diagnosis of urban green spaces in the city of Annaba (Algeria), focusing on Edough Sud Garden (central sample) and Martyr Zemmouri Uenassa Garden (neighborhood sample). The research aims to assess the condition of vegetation, facilities, maintenance levels, and waste management, while exploring the integration of low-cost smart solutions—such as soil-moisture sensors for irrigation, fill-level waste sensors, and interactive QR code platforms—to enhance sustainable urban management.",
+   "url": "https://doi.org/10.5281/zenodo.23428418",
+   "datum": "2026-10-17",
+   "versie": "219059c8a2fc782f",
    "extra": {
-    "tijdschrift": "Environmental Science & Technology",
+    "tijdschrift": "Zenodo (CERN European Organization for Nuclear Research)",
     "instellingen": [
-     "China Agricultural University",
-     "Chinese Academy for Environmental Planning",
-     "Ocean University of China",
-     "University College London"
+     "Badji Mokhtar-Annaba University"
     ],
-    "zoekvraag": "ammonia OR \"nitrogen deposition\" OR (\"critical load\" AND nitrogen)",
-    "thema_hint": "Stikstof",
+    "zoekvraag": "(\"urban biodiversity\" OR \"urban green space\" OR \"green infrastructure\") AND (housing OR \"urban development\" OR \"urban planning\" OR building)",
+    "thema_hint": "Natuurherstel",
+    "open_access": true
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-19T04:47:26+00:00"
+  },
+  {
+   "id": "c9590b84715bbacb",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "Evaluating a peri-urban nature-based solution in Portugal through the IUCN Global Standard: lessons for municipal implementation",
+   "samenvatting_bron": "",
+   "url": "https://doi.org/10.1007/s11252-026-02147-5",
+   "datum": "2026-10-17",
+   "versie": "54cedb199af52994",
+   "extra": {
+    "tijdschrift": "Urban Ecosystems",
+    "instellingen": [
+     "Centro de Investigação em Biodiversidade e Recursos Genéticos",
+     "IUCN Commission on Ecosystem Management",
+     "International Union for Conservation of Nature",
+     "Universidade do Porto"
+    ],
+    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
+    "thema_hint": "Klimaatadaptatie",
     "open_access": false
    },
    "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-19T04:47:26+00:00"
+  },
+  {
+   "id": "a6a8fb334c08a0ae",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "Understanding public preferences for urban wildflower meadows",
+   "samenvatting_bron": "Accelerating urbanisation challenges biodiversity and human wellbeing, demanding effective urban nature-based solutions. Urban wildflower meadows are increasingly popular interventions that may offer biodiversity and wellbeing benefits. However, realising their potential depends on public support, which requires robust evidence on which meadow design attributes the public prefers and values most. We conducted a choice experiment with urban greenspace users across three UK cities to quantify willingness-to-pay (WTP) for some of the key characteristics of wildflower meadows in public parks, namely flower colour diversity, native species composition, plant species richness, and pollinator habitat quality. Respondents generally preferred wildflower meadow options over the status quo of mown amenity grass and were willing to pay for improvements to meadow attributes through increased local taxation. Respondents had positive WTP for more colourful, pollinator-friendly meadows with more native species, but not for additional plant species. Preferences were largely consistent across respondents interviewed at different meadow types (annual, perennial, or control sites), suggesting that enhanced attribute salience from direct exposure to existing meadows had minimal influence on stated preferences. Methodologically, this suggests that in situ surveys of preferences for urban greenspace are broadly robust to salience effects and can inform management beyond the surveyed sites. Attribut",
+   "url": "https://doi.org/10.1016/j.jenvman.2026.131156",
+   "datum": "2026-10-17",
+   "versie": "03c4db88be7c08f8",
+   "extra": {
+    "tijdschrift": "Journal of Environmental Management",
+    "instellingen": [
+     "Imperial College London",
+     "Northumbria University",
+     "University of Copenhagen",
+     "University of Kent",
+     "University of Leeds"
+    ],
+    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
+    "thema_hint": "Klimaatadaptatie",
+    "open_access": true
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "biodiversity"
+    ]
+   },
+   "verzameld_op": "2026-10-19T04:47:26+00:00"
+  },
+  {
+   "id": "0fba6656f771db58",
+   "bron": "NU.nl Algemeen",
+   "categorie": "Media",
+   "methode": "feed",
+   "soort": "",
+   "titel": "Vrouw verdronken in Spanje na overstromingen en stortregens",
+   "samenvatting_bron": "In Spanje heeft een mediterrane storm zondag voor veel problemen geleid. Door overstromingen na stortregens staan straten onder water en is het verkeer ontwricht. Ook is een vrouw om het leven gekomen door verdrinking.",
+   "url": "https://www.nu.nl/buitenland/6413590/vrouw-verdronken-in-spanje-na-overstromingen-en-stortregens.html",
+   "datum": "2026-10-18",
+   "versie": "02f761de09acd74c",
+   "extra": {},
+   "status": "nieuw",
+   "thema_treffers": {
+    "Klimaatadaptatie": [
+     "overstroming"
+    ]
+   },
+   "verzameld_op": "2026-10-19T04:47:26+00:00"
+  },
+  {
+   "id": "05bbef95bd8cc76d",
+   "bron": "NU.nl Algemeen",
+   "categorie": "Media",
+   "methode": "feed",
+   "soort": "",
+   "titel": "Nee, konijnen zijn niet de sleutel om stikstofslot open te breken",
+   "samenvatting_bron": "Veel boeren vragen zich af: als meer konijnen de Rotterdamse haven van het stikstofslot kunnen halen, waarom is dat dan niet overal de oplossing? Maar zo simpel is het niet. Daarvoor gaat het op andere plekken te slecht met de natuur.",
+   "url": "https://www.nu.nl/stikstof/6413360/nee-konijnen-zijn-niet-de-sleutel-om-stikstofslot-open-te-breken.html",
+   "datum": "2026-10-18",
+   "versie": "684d39eaf228b76a",
+   "extra": {},
+   "status": "nieuw",
    "thema_treffers": {
     "Stikstof": [
-     "nitrogen"
+     "stikstof"
     ]
    },
-   "verzameld_op": "2026-10-18T04:44:43+00:00"
+   "verzameld_op": "2026-10-19T04:47:26+00:00"
   },
   {
-   "id": "901a4ae60a74859a",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "Exploring the value of thematic urban ecosystem accounts in Western Balkan countries to inform urban greening actions",
-   "samenvatting_bron": "Urban ecological health is increasingly prioritised in Europe, as reflected in the EU Biodiversity Strategy 2030, the Nature Restoration Regulation, and the amended Regulation on Environmental-Economic Accounts. Translating these commitments into effective greening policy and planning actions that halt and reverse urban ecological degradation requires standardised, spatially explicit indicators. This study explores the utility of the System of Environmental-Economic Accounting–Ecosystem Accounting (SEEA-EA) framework for developing thematic urban ecosystem accounts as integrated metrics to inform urban greening in the Western Balkans. We constructed pilot accounts for the Western Balkans for 2018, with particular focus on Horizon-funded CROSS-REIS countries, where local accounts were also developed for representative municipalities (Kranj, Rijeka, Niš, Podgorica, Tirana) for 2018 and 2021. Accounts include ecosystem extent, four condition indicators (imperviousness, green space, tree cover, PM 10 concentration), and the ecosystem service air filtration, estimated via PM 10 deposition onto vegetation. Results were benchmarked nationally against EU-EFTA countries and the UK and locally against pilot Italian municipalities of the National Biodiversity Future Center. Western Balkan urban ecosystems fall within the European range but display a more homogeneous profile, confirmed by permutation tests and largely explained by shared climate and urban classes. The accounts support qu",
-   "url": "https://doi.org/10.1016/j.ecolind.2026.115647",
-   "datum": "2026-10-16",
-   "versie": "69775aedbd03fad9",
-   "extra": {
-    "tijdschrift": "Ecological Indicators",
-    "instellingen": [
-     "Polis University",
-     "Politecnico di Milano",
-     "University of Ljubljana",
-     "University of Rijeka"
-    ],
-    "zoekvraag": "\"Nature Restoration Law\" OR \"Nature Restoration Regulation\" OR \"Habitats Directive\"",
-    "thema_hint": "Natuurherstel",
-    "open_access": true
-   },
-   "status": "nieuw",
-   "thema_treffers": {
-    "Natuurherstel en gebiedsbescherming": [
-     "nature restoration",
-     "biodiversity"
-    ]
-   },
-   "verzameld_op": "2026-10-18T04:44:43+00:00"
-  },
-  {
-   "id": "4c9012d75eca2ecf",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "Ambition without alignment: Pollinators in the EU Nature Restoration Law",
-   "samenvatting_bron": "Abstract Pollinators are essential for life on Earth. They enable the reproduction of most flowering plants and support biodiversity as well as food systems. However, their numbers are in great decline. Research finds a continuing decrease in pollinating insects each year. This article reviews whether EU Law is fit to address this challenge. First, this paper analyses the norms in the EU Nature Restoration Law (NRL) and the Delegated Regulation, finding that the NRL demands wide‐scale system change to comply with the targets set out. Second, it reviews what legal instruments and policies hold back these promises. Examples are the EU Pesticide Laws, EU climate laws, EU norms on light pollution, rules on Invasive Alien Species and, most pressingly, the proposed EU Multiannual Financial Framework (MFF) budget. In the end, this paper concludes that the EU also has a responsibility to support the implementation of the NRL beyond interpretation manuals and soft guidance. It must fund, streamline and revise its own architecture, strengthening many existing EU laws to ensure coherence.",
-   "url": "https://doi.org/10.1111/reel.70088",
-   "datum": "2026-10-15",
-   "versie": "74e49fce4c955570",
-   "extra": {
-    "tijdschrift": "Review of European Comparative & International Environmental Law",
-    "instellingen": [
-     "European University Institute"
-    ],
-    "zoekvraag": "\"Nature Restoration Law\" OR \"Nature Restoration Regulation\" OR \"Habitats Directive\"",
-    "thema_hint": "Natuurherstel",
-    "open_access": true
-   },
-   "status": "nieuw",
-   "thema_treffers": {
-    "Natuurherstel en gebiedsbescherming": [
-     "nature restoration",
-     "biodiversity"
-    ]
-   },
-   "verzameld_op": "2026-10-18T04:44:43+00:00"
-  },
-  {
-   "id": "2a7354df2d9477c5",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (review)",
-   "titel": "Microclimate Control for Outdoor Thermal Comfort in Apartment Residential Green Spaces: A Systematic Review of Climate-Responsive Design Strategies and Assessment Methods",
-   "samenvatting_bron": "Urban overheating is an increasingly prevalent threat to the liveability and thermal comfort of outdoor spaces in residential apartment areas. While urban green spaces can regulate microclimates and mitigate heat, there remains a lack of evidence on how design interventions can integrate environmental performance with human comfort. Following PRISMA guidelines, this systematic review synthesises 22 peer-reviewed studies from Web of Science and Scopus (2015–2025), selected from an initial set of 187 records. The review reveals that existing studies primarily quantify environmental parameters such as temperature, humidity and wind speed while inadequately addressing multifactor interactions and subjective comfort responses. To address this gap, the review proposes an integrated framework that links environmental metrics, human perceptual data, and climate-responsive design strategies. The findings further reveal that vegetation configuration, shading, surface materials, and spatial layout are key design levers, although their effectiveness varies across climate zones. Notably, this review offers a novel contribution by systematically identifying the interplay between objective microclimatic variables and subjective human comfort responses—an interaction largely overlooked in prior apartment-green-space research. Unlike earlier studies focusing on single-factor optimisation, the proposed framework provides a transferable, multi-dimensional approach that bridges design practice,",
-   "url": "https://doi.org/10.3390/urbansci10100602",
-   "datum": "2026-10-16",
-   "versie": "3ef50db92af5020b",
-   "extra": {
-    "tijdschrift": "Urban Science",
-    "instellingen": [
-     "National University of Malaysia"
-    ],
-    "zoekvraag": "(\"urban biodiversity\" OR \"urban green space\" OR \"green infrastructure\") AND (housing OR \"urban development\" OR \"urban planning\" OR building)",
-    "thema_hint": "Natuurherstel",
-    "open_access": true
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-18T04:44:43+00:00"
-  },
-  {
-   "id": "fd6342449974f580",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "ADVANCING ESG THROUGH GREEN INFRASTRUCTURE SOLUTIONS IN RESOURCE-CONSTRAINED MALAWIAN CITIES: AN EXPLORATORY QUALITATIVE STUDY",
-   "samenvatting_bron": "Malawi’s urban areas are increasingly vulnerable to climate-related disasters, including flooding, landslides, and extreme winds, while conventional infrastructure struggles under these pressures dueto outdated designs, limited maintenance, and poor climate adaptation. This study aims to examine how Environmental, Social, and Governance (ESG)-aligned green infrastructure (GI) can strengthen urban resilience in resource-constrained Malawian cities, with a focus on Blantyre and Zomba. A qualitative, exploratory study was conducted using systematic document analysis of secondary sources, with thematic analysis applied to identify patterns in climate risk, governance constraints, and lessons for context-appropriate green infrastructure strategies. Findings show that GI interventions, including urban wetlands, permeable pavements, slope vegetation, and tree planting, offer significant environmental, social, and governance benefits: they reduce flood and landslide risks, improve waterquality, support biodiversity, create green jobs, enhance public health, and foster community inclusion, while strong governance ensures sustainability through institutional accountability, integrated planning, and transparent financing. A key limitation of this study is the absence of primary stakeholder interviews, which limits direct insights into municipal implementation challenges. Future research should engage local planners and communities to validate and extend these findings. This study provid",
-   "url": "https://ojs.sabinet.co.za/index.php/index/article/view/5402",
-   "datum": "2026-10-15",
-   "versie": "8e81d51fd3ef0b74",
-   "extra": {
-    "tijdschrift": "DBSA: African Journal of Infrastructure Development",
-    "instellingen": [],
-    "zoekvraag": "(\"urban biodiversity\" OR \"urban green space\" OR \"green infrastructure\") AND (housing OR \"urban development\" OR \"urban planning\" OR building)",
-    "thema_hint": "Natuurherstel",
-    "open_access": true
-   },
-   "status": "nieuw",
-   "thema_treffers": {
-    "Natuurherstel en gebiedsbescherming": [
-     "biodiversity"
-    ],
-    "Klimaatadaptatie": [
-     "climate adaptation"
-    ]
-   },
-   "verzameld_op": "2026-10-18T04:44:43+00:00"
-  },
-  {
-   "id": "0e84da50799c20e9",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "The population and the habitats of Common Swift Apus apus in the Brussels Capital Region",
-   "samenvatting_bron": "This article presents the results of a survey of the Brussels population of Common Swift which was carried out between 2016 and 2018 under the programme \"Monitoring of the State of the Brussels Environment\" (for which Aves-Natagora has been collaborating with Bruxelles Environnement since 1992). The main objective was to improve our knowledge of the aspects of the habitat that are preferred by this population so as to improve our understanding of how the population may be preserved and its decline halted. Also a standardised protocol was developed for routine monitoring at regional level.The results have enabled the definition of the best sites for such monitoring. The densities obtained in this work are consistent with figures in the literature, suggesting that the methodology is adequate and that the figures obtained here can provide a useful basis of comparison for the future. Most of the colonies that we found were small. As regards habitat, we found that most nests were located under the cornices in non-residential areas (with mostly semi-detached buildings), located along narrow roads.",
-   "url": "https://doi.org/10.60768/aves.2020057",
-   "datum": "2026-10-16",
-   "versie": "d495bd4c2a03c71e",
-   "extra": {
-    "tijdschrift": "NATAGORA",
-    "instellingen": [],
-    "zoekvraag": "(\"Apus apus\" OR \"common swift\" OR \"house sparrow\" OR \"Passer domesticus\" OR \"bat roost\" OR \"bat roosts\" OR \"nest box\" OR \"nest boxes\") AND (building OR buildings OR renovation OR urban)",
-    "thema_hint": "Soortenbescherming",
-    "open_access": true
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-18T04:44:43+00:00"
-  },
-  {
-   "id": "0686519ee267f79d",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (preprint)",
-   "titel": "Evaluating impacts of linear transport infrastructure on wide ranging vertebrates in the Horn of Africa region",
+   "id": "2ec4eddd6c3a0cc1",
+   "bron": "Trouw",
+   "categorie": "Media",
+   "methode": "web",
+   "soort": "",
+   "titel": "Bij de wereldtop over biodiversiteit ligt een slecht tussenrapport op tafel",
    "samenvatting_bron": "",
-   "url": "https://doi.org/10.21203/rs.3.rs-11008523/v1",
-   "datum": "2026-10-16",
-   "versie": "564754babc9abf46",
-   "extra": {
-    "tijdschrift": "Research Square",
-    "instellingen": [
-     "Information and Communication Technology Authority"
-    ],
-    "zoekvraag": "(\"wildlife crossing\" OR \"wildlife crossings\" OR \"road ecology\" OR \"roadkill\" OR \"habitat fragmentation\") AND (road OR roads OR railway OR infrastructure)",
-    "thema_hint": "Soortenbescherming",
-    "open_access": true
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-18T04:44:43+00:00"
-  },
-  {
-   "id": "66e9707e9cf72ba1",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "eDNA metabarcoding reveals invertebrate diversity in the blackwater pools of southeast Queensland peatlands",
-   "samenvatting_bron": "Despite harbouring a disproportionate diversity of rare and endemic species, the pyrophilic peatlands of southeast Queensland remain poorly characterized, particularly regarding their invertebrate communities. In the physically and chemically extreme blackwater pools, meiofaunal assemblages likely form critical trophic links but have never been described due to their small size and low public profile. This study used 18S environmental DNA metabarcoding to characterize invertebrate communities across three peatland sites. We detected 48 unique taxa across 10 phyla, including five invertebrate phyla previously unrecorded in these ecosystems (Cnidaria, Rotifera, Platyhelminthes, Nematoda and Gastrotricha). Metabarcoding exceeded the resolution achieved by field surveys for morphologically cryptic microcrustaceans; however, field surveys achieved better resolution for larger hexapods, demonstrating that the methods target distinct components of the invertebrate community. Key life-history traits were shared across the detected meiofaunal communities, including rapid maturation, parthenogenetic reproduction, and dormancy capabilities. These traits likely enable rapid community recovery and ecosystem stabilization following fire disturbances characteristic of pyrophilic peatlands. Collectively, these taxa occupy a crucial and previously undocumented intermediary trophic link between microbial production and higher consumers. Our findings reveal a previously unrecognized diversity o",
-   "url": "https://doi.org/10.1038/s44185-026-00159-0",
-   "datum": "2026-10-15",
-   "versie": "5f185b4606f07d9f",
-   "extra": {
-    "tijdschrift": "npj Biodiversity",
-    "instellingen": [
-     "University of the Sunshine Coast"
-    ],
-    "zoekvraag": "(\"environmental DNA\" OR eDNA) AND (monitoring OR survey OR detection)",
-    "thema_hint": "eDNA en monitoring",
-    "open_access": true
-   },
+   "url": "https://www.trouw.nl/duurzaamheid-economie/bij-de-wereldtop-over-biodiversiteit-ligt-een-slecht-tussenrapport-op-tafel~bbf980c5/",
+   "datum": "2026-10-18",
+   "versie": "4b5be049dd2b6701",
+   "extra": {},
    "status": "nieuw",
    "thema_treffers": {
-    "eDNA en monitoring": [
-     "eDNA",
-     "environmental DNA"
+    "Natuurherstel en gebiedsbescherming": [
+     "biodiversiteit"
     ]
    },
-   "verzameld_op": "2026-10-18T04:44:43+00:00"
-  },
-  {
-   "id": "a2b19b488fa7d706",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "Strategic implementation of green roofs for urban pluvial flood risk reduction: A case study of Milan, Italy",
-   "samenvatting_bron": "The rise in intensity and frequency of extreme precipitation events is increasing the concern regarding pluvial floods in European cities. Urbanisation exacerbates the impacts of pluvial floods by affecting the infiltration process. Nature-based solutions, particularly Green Roofs (GRs), are promoted to mitigate these risks, as GRs can be implemented on existing buildings without requiring additional ground space. This study presents a risk-based framework to evaluate the potential of GRs in reducing pluvial flood risk in Milan by examining three implementation strategies, namely Water Depth (WD), Area (Ar), and Random Iteration (ITE). The framework integrates a hybrid hazard model, combining the empirical Curve Number method with a Cellular Automata approach using a hydrograph. The proposed hybrid approach enables us to link land-use-driven changes in flood volume to flood propagation. Extreme rainfall events with durations of 1, 6, and 24 hours were derived from ERA5. Residential building exposure data were extracted from OpenStreetMap and municipal datasets. Vulnerability was integrated within the framework using the INSYDE model, complemented by four additional vulnerability functions for sensitivity analysis. Results indicate that GRs can effectively reduce pluvial flood-induced losses, with reductions of 16-69% across different rainfall durations. However, their effectiveness declines with longer rainfall periods and higher return periods. Among the allocation strategie",
-   "url": "https://doi.org/10.1016/j.ijdrr.2026.106512",
-   "datum": "2026-10-15",
-   "versie": "0a8ea34b2ab4f77e",
-   "extra": {
-    "tijdschrift": "International Journal of Disaster Risk Reduction",
-    "instellingen": [
-     "Delft University of Technology",
-     "Istituto Universitario di Studi Superiori di Pavia"
-    ],
-    "zoekvraag": "(\"urban heat island\" OR \"heat stress\" OR \"climate adaptation\" OR \"pluvial flooding\") AND (urban OR city OR building OR \"built environment\")",
-    "thema_hint": "Klimaatadaptatie",
-    "open_access": true
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-18T04:44:43+00:00"
-  },
-  {
-   "id": "0eda6b62b164e940",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "Review article: Mountain flash floods: from hazard formation to disaster risk reduction pathways",
-   "samenvatting_bron": "Abstract. Flash floods in mountainous regions are becoming more frequent and destructive under climate warming, yet cross-regional understanding of their triggering mechanisms, cascading impacts, and governance remains fragmented. This review synthesises 1,967 studies published during 2000–2025 to establish a globally comparable baseline of mountain flash-flood research. By integrating bibliometric and topic analyses with qualitative synthesis, we reveal pronounced geographical and thematic imbalances, with research concentrated in Europe and Asia. At the same time, many high-risk mountain regions in Africa and South America remain overlooked. Across regions, flash-flood initiation and impacts are shown to be strongly state-dependent and coupled, emerging from interactions between storm intensity, duration and spatial concentration, antecedent hydrological conditions, and hillslope-channel connectivity. This coupling helps explain why fixed rainfall thresholds are difficult to generalise and highlights the need for dynamic, multi-source early-warning approaches. Comparing evidence on early warning, structural protection, and Nature-Based Solutions, the review shows that cascading processes dominate risk management challenges. We therefore propose an adaptive governance framework that links monitoring and forecasting, spatial planning, grey-green integration, and basin-scale risk sharing under non-stationary climate conditions. Overall, this synthesis consolidates fragmented e",
-   "url": "https://doi.org/10.5194/nhess-26-5073-2026",
-   "datum": "2026-10-16",
-   "versie": "ef98f068a603ffa8",
-   "extra": {
-    "tijdschrift": "Natural hazards and earth system sciences",
-    "instellingen": [
-     "Institute of Geographic Sciences and Natural Resources Research",
-     "University of Birmingham",
-     "University of Leeds",
-     "University of Nottingham",
-     "University of Nottingham Ningbo China"
-    ],
-    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
-    "thema_hint": "Klimaatadaptatie",
-    "open_access": true
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-18T04:44:43+00:00"
-  },
-  {
-   "id": "1ee2aa217fcd47f4",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "Building a safe haven to cope with climate extremes: The HuT fact sheets",
-   "samenvatting_bron": "Fact sheets Designing early warning services (Brian Golding, Carina Fearnley, Ilan Kelman) Internet of Things for Natural Hazards and Warnings (BGS, BU, Arantec, NG) Using serious games to promote risk awareness (Laurens J.N. Oostwegel, Maria Vittoria Gargiulo, Guido Rianna, Michele Calvello) Incentivizing nature-based solutions for wildfire risk reduction (JoAnne Linnerooth-Bayer, Valentina Bacciu, Francesco Lo Conti, Juliette G.C. Martin, Anna Scolobig, Xiran Dong) Advancing the use of exposure and vulnerability data in Impact-based Warnings (Joanne Robbins, Laurens Oostwegel, GFZ Helmholtz Centre for Geosciences) From Information to Engagement: Tailored Science Communication for Disaster-Resilient Communities Learning from warnings: turning evidence from past events into better warnings (Joanne Robbins, Robert Neal, Maryam Rokhideh)",
-   "url": "https://doi.org/10.5281/zenodo.23418453",
-   "datum": "2026-10-16",
-   "versie": "2c4126b442797270",
-   "extra": {
-    "tijdschrift": "Zenodo (CERN European Organization for Nuclear Research)",
-    "instellingen": [],
-    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
-    "thema_hint": "Klimaatadaptatie",
-    "open_access": true
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-18T04:44:43+00:00"
-  },
-  {
-   "id": "a595921ad3c1341f",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "AI-Based Decision-Making Framework for Climate Change-Induced Flood Risk Management and Urban Resilience",
-   "samenvatting_bron": "Climate change has intensified the frequency and severity of urban flooding, creating unprecedented challenges for municipalities worldwide. This study develops an AI-based decision-making framework that integrates machine learning, explainable artificial intelligence, and geospatial analytics to enhance urban flood risk management and resilience planning. The framework employs ensemble machine learning algorithms including Random Forest, XG Boost, and Cat Boost for flood susceptibility mapping, coupled with SHAP-based interpretability to decode model predictions and translate them into actionable policy insights at administrative scales. A city-scale digital twin component enables real-time flood impact simulation and cascading infrastructure disruption analysis, while a multi-criteria decision support module prioritizes adaptation investments based on economic risk assessment and equity considerations. The framework was validated using multi-temporal Sentinel-1 SAR data and hydrological records across diverse urban environments, demonstrating superior predictive performance with area under the receiver operating characteristic curve values exceeding 0.95 for ensemble models. Results reveal that elevation, proximity to hydrological features, and impervious surface density consistently emerge as dominant flood drivers, with their relative importance varying significantly across districts. The decision support system successfully transformed pixel-level predictions into ward-l",
-   "url": "https://doi.org/10.5281/zenodo.23412056",
-   "datum": "2026-10-16",
-   "versie": "f178b0f7cc5f89f9",
-   "extra": {
-    "tijdschrift": "Zenodo (CERN European Organization for Nuclear Research)",
-    "instellingen": [
-     "China Three Gorges University"
-    ],
-    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
-    "thema_hint": "Klimaatadaptatie",
-    "open_access": true
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-18T04:44:43+00:00"
-  },
-  {
-   "id": "64baed365d26e974",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "Beyond Average Runoff Reduction: Event-Based Assessment of Climate Adaptation Benefits and Flood Vulnerability of Blue–Green Roofs",
-   "samenvatting_bron": "Climate change increases the need for urban stormwater management systems that can maintain hydrological performance under severe rainfall conditions. Although green and blue–green roofs are widely used as nature-based solutions for runoff management, their performance is commonly evaluated using average or cumulative runoff reduction, which may not capture differences that emerge during severe events. This study applied an event-based assessment to 31 rainfall events monitored on a conventional roof (Control), a Blue–Green Roof (BGR), and a Smart Blue–Green Roof (Smart BGR). Climate Adaptation Benefit (CAB) was calculated by integrating relative runoff reduction with rainfall severity, while the additional benefit of Smart BGR was evaluated using the difference in CAB (ΔCAB). The Severity-Weighted Runoff Vulnerability Index (FVI) and Severity-Weighted Runoff Vulnerability Reduction (FVR) were used to assess runoff-related vulnerability across four rainfall severity classes. Both systems provided substantial benefits under low rainfall severity, with relatively small differences. However, Smart BGR generally showed higher CAB and positive ΔCAB than BGR, while maintaining lower FVI and greater FVR under the observed higher-severity rainfall conditions. These findings suggest that the primary value of Smart BGR lies in maintaining greater climate adaptation benefits under severe rainfall conditions. The proposed event-based framework provides a complementary approach for evalua",
-   "url": "https://doi.org/10.3390/cli14100223",
-   "datum": "2026-10-16",
-   "versie": "e50fcc6008095d46",
-   "extra": {
-    "tijdschrift": "Climate",
-    "instellingen": [
-     "Land and Housing Institute"
-    ],
-    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
-    "thema_hint": "Klimaatadaptatie",
-    "open_access": true
-   },
-   "status": "nieuw",
-   "thema_treffers": {
-    "Klimaatadaptatie": [
-     "climate adaptation"
-    ]
-   },
-   "verzameld_op": "2026-10-18T04:44:43+00:00"
-  },
-  {
-   "id": "b4870cfac0ca1710",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "A harmonization-based framework for cross-sensor super-resolution of Sentinel-2 imagery for coastal applications",
-   "samenvatting_bron": "High-resolution (HR) satellite imagery is essential for coastal mapping, ocean analysis, and long-term environmental monitoring; however, acquiring it is constrained by hardware limitations and high costs. Freely available low-resolution (LR) archives, such as those from Sentinel-2 (S2), offer global coverage and frequent revisits, but their 10 m native resolution is insufficient for fine-scale analysis. This study presents HARBOR (Harmonization-based Adaptive Resolution Boosting for Optical Remote sensing), an integrated harmonization-based workflow that combines established radiometric harmonization and sub-pixel convolutional super-resolution (SR) components and adapts them to four-band coastal S2–PlanetScope (PS) data. Rather than proposing a new network architecture, HARBOR addresses a gap in the way satellite SR is commonly assembled, where network optimization receives most of the attention and cross-sensor radiometric inconsistency is treated as a preprocessing detail. The workflow consists of four interconnected stages: (1) a same-day, close-time data preparation approach for temporally consistent cross-sensor learning, (2) statistical radiometric harmonization to reduce cross-sensor reflectance differences, (3) the synthetic generation of S 2 like imagery to expand limited supervised datasets, and (4) a customized Efficient Sub-Pixel Convolutional Neural Network (ESPCN) adapted for multispectral satellite imagery using a fused loss formulation. In a coastal case stu",
-   "url": "https://doi.org/10.3389/fmars.2026.1950325",
-   "datum": "2026-10-16",
-   "versie": "48fd3afeb00fefec",
-   "extra": {
-    "tijdschrift": "Frontiers in Marine Science",
-    "instellingen": [
-     "Texas A&M University"
-    ],
-    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
-    "thema_hint": "Klimaatadaptatie",
-    "open_access": true
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-18T04:44:43+00:00"
+   "verzameld_op": "2026-10-19T04:47:26+00:00"
   },
   {
    "id": "8192d09330b40107",
@@ -448,11 +195,11 @@
    "categorie": "Media",
    "methode": "web",
    "soort": "",
-   "titel": "ruimte en milieu Ministerie van Infrastructuur heeft gewikt en gewogen Bewindslieden van Infrastructuur en Waterstaat maakten publiek welke infrastructuurprojecten volgens hen wel en niet kunnen doorgaan.",
+   "titel": "ruimte en milieu Ministerie van Infrastructuur heeft gewikt en gewogen",
    "samenvatting_bron": "",
    "url": "https://www.binnenlandsbestuur.nl/ruimte-en-milieu/ministerie-van-infrastructuur-heeft-gewikt-en-gewogen",
    "datum": null,
-   "versie": "1894892ec2c163a9",
+   "versie": "1f0946d6cb290825",
    "extra": {},
    "status": "gewijzigd",
    "thema_treffers": {
@@ -460,27 +207,7 @@
      "infrastructuur"
     ]
    },
-   "verzameld_op": "2026-10-18T04:44:43+00:00"
-  },
-  {
-   "id": "b89ed0a7702b6707",
-   "bron": "Binnenlands Bestuur",
-   "categorie": "Media",
-   "methode": "web",
-   "soort": "",
-   "titel": "ruimte en milieu Plannen uitgelekt: miljarden voor bestaande infrastructuur, nieuwe projecten op lange baan",
-   "samenvatting_bron": "",
-   "url": "https://www.binnenlandsbestuur.nl/ruimte-en-milieu/miljarden-voor-bestaande-infrastructuur",
-   "datum": null,
-   "versie": "f952f9977d9e27cf",
-   "extra": {},
-   "status": "gewijzigd",
-   "thema_treffers": {
-    "Bouwcontext": [
-     "infrastructuur"
-    ]
-   },
-   "verzameld_op": "2026-10-18T04:44:43+00:00"
+   "verzameld_op": "2026-10-19T04:47:26+00:00"
   }
  ]
 }

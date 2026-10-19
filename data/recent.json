@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-10-18T04:44:43+00:00",
+ "bijgewerkt": "2026-10-19T04:47:26+00:00",
  "items": [
   {
    "id": "9cb75086ff9a87d9",
@@ -215730,26 +215730,6 @@
    "verzameld_op": "2026-10-18T04:44:43+00:00"
   },
   {
-   "id": "8192d09330b40107",
-   "bron": "Binnenlands Bestuur",
-   "categorie": "Media",
-   "methode": "web",
-   "soort": "",
-   "titel": "ruimte en milieu Ministerie van Infrastructuur heeft gewikt en gewogen Bewindslieden van Infrastructuur en Waterstaat maakten publiek welke infrastructuurprojecten volgens hen wel en niet kunnen doorgaan.",
-   "samenvatting_bron": "",
-   "url": "https://www.binnenlandsbestuur.nl/ruimte-en-milieu/ministerie-van-infrastructuur-heeft-gewikt-en-gewogen",
-   "datum": null,
-   "versie": "1894892ec2c163a9",
-   "extra": {},
-   "status": "gewijzigd",
-   "thema_treffers": {
-    "Bouwcontext": [
-     "infrastructuur"
-    ]
-   },
-   "verzameld_op": "2026-10-18T04:44:43+00:00"
-  },
-  {
    "id": "b89ed0a7702b6707",
    "bron": "Binnenlands Bestuur",
    "categorie": "Media",
@@ -215768,6 +215748,194 @@
     ]
    },
    "verzameld_op": "2026-10-18T04:44:43+00:00"
+  },
+  {
+   "id": "f498889832c35427",
+   "bron": "Internetconsultatie",
+   "categorie": "Consultaties",
+   "methode": "api_internetconsultatie",
+   "soort": "Internetconsultatie",
+   "titel": "Wijziging van het Besluit bewapening en uitrusting politie in verband met de toekenning van het stroomstootwapen",
+   "samenvatting_bron": "Organisatie: JenV. Sluit: 2026-11-30",
+   "url": "https://www.internetconsultatie.nl/stroomstootwapen",
+   "datum": "2026-10-19",
+   "versie": "7808db54138800d6",
+   "extra": {
+    "sluitingsdatum": "2026-11-30",
+    "velden": [
+     "titel",
+     "url",
+     "startdatum",
+     "einddatum",
+     "departement"
+    ]
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-19T04:47:26+00:00"
+  },
+  {
+   "id": "fb4aca79f381abb7",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "\"Toward Interactive Green Urban Planning: Assessing the Efficiency of Urban Green Spaces and Integrating Low-Cost Smart System Solutions\"",
+   "samenvatting_bron": "Abstract: This study presents a comparative field diagnosis of urban green spaces in the city of Annaba (Algeria), focusing on Edough Sud Garden (central sample) and Martyr Zemmouri Uenassa Garden (neighborhood sample). The research aims to assess the condition of vegetation, facilities, maintenance levels, and waste management, while exploring the integration of low-cost smart solutions—such as soil-moisture sensors for irrigation, fill-level waste sensors, and interactive QR code platforms—to enhance sustainable urban management.",
+   "url": "https://doi.org/10.5281/zenodo.23428418",
+   "datum": "2026-10-17",
+   "versie": "219059c8a2fc782f",
+   "extra": {
+    "tijdschrift": "Zenodo (CERN European Organization for Nuclear Research)",
+    "instellingen": [
+     "Badji Mokhtar-Annaba University"
+    ],
+    "zoekvraag": "(\"urban biodiversity\" OR \"urban green space\" OR \"green infrastructure\") AND (housing OR \"urban development\" OR \"urban planning\" OR building)",
+    "thema_hint": "Natuurherstel",
+    "open_access": true
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-19T04:47:26+00:00"
+  },
+  {
+   "id": "c9590b84715bbacb",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "Evaluating a peri-urban nature-based solution in Portugal through the IUCN Global Standard: lessons for municipal implementation",
+   "samenvatting_bron": "",
+   "url": "https://doi.org/10.1007/s11252-026-02147-5",
+   "datum": "2026-10-17",
+   "versie": "54cedb199af52994",
+   "extra": {
+    "tijdschrift": "Urban Ecosystems",
+    "instellingen": [
+     "Centro de Investigação em Biodiversidade e Recursos Genéticos",
+     "IUCN Commission on Ecosystem Management",
+     "International Union for Conservation of Nature",
+     "Universidade do Porto"
+    ],
+    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
+    "thema_hint": "Klimaatadaptatie",
+    "open_access": false
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-19T04:47:26+00:00"
+  },
+  {
+   "id": "a6a8fb334c08a0ae",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "Understanding public preferences for urban wildflower meadows",
+   "samenvatting_bron": "Accelerating urbanisation challenges biodiversity and human wellbeing, demanding effective urban nature-based solutions. Urban wildflower meadows are increasingly popular interventions that may offer biodiversity and wellbeing benefits. However, realising their potential depends on public support, which requires robust evidence on which meadow design attributes the public prefers and values most. We conducted a choice experiment with urban greenspace users across three UK cities to quantify willingness-to-pay (WTP) for some of the key characteristics of wildflower meadows in public parks, namely flower colour diversity, native species composition, plant species richness, and pollinator habitat quality. Respondents generally preferred wildflower meadow options over the status quo of mown amenity grass and were willing to pay for improvements to meadow attributes through increased local taxation. Respondents had positive WTP for more colourful, pollinator-friendly meadows with more native species, but not for additional plant species. Preferences were largely consistent across respondents interviewed at different meadow types (annual, perennial, or control sites), suggesting that enhanced attribute salience from direct exposure to existing meadows had minimal influence on stated preferences. Methodologically, this suggests that in situ surveys of preferences for urban greenspace are broadly robust to salience effects and can inform management beyond the surveyed sites. Attribut",
+   "url": "https://doi.org/10.1016/j.jenvman.2026.131156",
+   "datum": "2026-10-17",
+   "versie": "03c4db88be7c08f8",
+   "extra": {
+    "tijdschrift": "Journal of Environmental Management",
+    "instellingen": [
+     "Imperial College London",
+     "Northumbria University",
+     "University of Copenhagen",
+     "University of Kent",
+     "University of Leeds"
+    ],
+    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
+    "thema_hint": "Klimaatadaptatie",
+    "open_access": true
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "biodiversity"
+    ]
+   },
+   "verzameld_op": "2026-10-19T04:47:26+00:00"
+  },
+  {
+   "id": "0fba6656f771db58",
+   "bron": "NU.nl Algemeen",
+   "categorie": "Media",
+   "methode": "feed",
+   "soort": "",
+   "titel": "Vrouw verdronken in Spanje na overstromingen en stortregens",
+   "samenvatting_bron": "In Spanje heeft een mediterrane storm zondag voor veel problemen geleid. Door overstromingen na stortregens staan straten onder water en is het verkeer ontwricht. Ook is een vrouw om het leven gekomen door verdrinking.",
+   "url": "https://www.nu.nl/buitenland/6413590/vrouw-verdronken-in-spanje-na-overstromingen-en-stortregens.html",
+   "datum": "2026-10-18",
+   "versie": "02f761de09acd74c",
+   "extra": {},
+   "status": "nieuw",
+   "thema_treffers": {
+    "Klimaatadaptatie": [
+     "overstroming"
+    ]
+   },
+   "verzameld_op": "2026-10-19T04:47:26+00:00"
+  },
+  {
+   "id": "05bbef95bd8cc76d",
+   "bron": "NU.nl Algemeen",
+   "categorie": "Media",
+   "methode": "feed",
+   "soort": "",
+   "titel": "Nee, konijnen zijn niet de sleutel om stikstofslot open te breken",
+   "samenvatting_bron": "Veel boeren vragen zich af: als meer konijnen de Rotterdamse haven van het stikstofslot kunnen halen, waarom is dat dan niet overal de oplossing? Maar zo simpel is het niet. Daarvoor gaat het op andere plekken te slecht met de natuur.",
+   "url": "https://www.nu.nl/stikstof/6413360/nee-konijnen-zijn-niet-de-sleutel-om-stikstofslot-open-te-breken.html",
+   "datum": "2026-10-18",
+   "versie": "684d39eaf228b76a",
+   "extra": {},
+   "status": "nieuw",
+   "thema_treffers": {
+    "Stikstof": [
+     "stikstof"
+    ]
+   },
+   "verzameld_op": "2026-10-19T04:47:26+00:00"
+  },
+  {
+   "id": "2ec4eddd6c3a0cc1",
+   "bron": "Trouw",
+   "categorie": "Media",
+   "methode": "web",
+   "soort": "",
+   "titel": "Bij de wereldtop over biodiversiteit ligt een slecht tussenrapport op tafel",
+   "samenvatting_bron": "",
+   "url": "https://www.trouw.nl/duurzaamheid-economie/bij-de-wereldtop-over-biodiversiteit-ligt-een-slecht-tussenrapport-op-tafel~bbf980c5/",
+   "datum": "2026-10-18",
+   "versie": "4b5be049dd2b6701",
+   "extra": {},
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "biodiversiteit"
+    ]
+   },
+   "verzameld_op": "2026-10-19T04:47:26+00:00"
+  },
+  {
+   "id": "8192d09330b40107",
+   "bron": "Binnenlands Bestuur",
+   "categorie": "Media",
+   "methode": "web",
+   "soort": "",
+   "titel": "ruimte en milieu Ministerie van Infrastructuur heeft gewikt en gewogen",
+   "samenvatting_bron": "",
+   "url": "https://www.binnenlandsbestuur.nl/ruimte-en-milieu/ministerie-van-infrastructuur-heeft-gewikt-en-gewogen",
+   "datum": null,
+   "versie": "1f0946d6cb290825",
+   "extra": {},
+   "status": "gewijzigd",
+   "thema_treffers": {
+    "Bouwcontext": [
+     "infrastructuur"
+    ]
+   },
+   "verzameld_op": "2026-10-19T04:47:26+00:00"
   }
  ]
 }
