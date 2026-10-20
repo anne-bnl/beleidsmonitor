@@ -1,56 +1,6 @@
 {
- "bijgewerkt": "2026-10-19T04:47:26+00:00",
+ "bijgewerkt": "2026-10-20T04:44:38+00:00",
  "items": [
-  {
-   "id": "ae1117af2cf7fd93",
-   "bron": "Internetconsultatie",
-   "soort": "Consultatie",
-   "wat": "Wetsvoorstel Onafhankelijkheid Cao-partijen",
-   "datum": "2026-10-19",
-   "start": "2026-09-22",
-   "url": "https://www.internetconsultatie.nl/wetonafhankelijkheidcaopartijen",
-   "commissie": "SZW",
-   "themas": [],
-   "bouw": false
-  },
-  {
-   "id": "70a54421f6650da6",
-   "bron": "Internetconsultatie",
-   "soort": "Consultatie",
-   "wat": "Regeling militair medegebruik luchthaven Rotterdam (RTHA)",
-   "datum": "2026-10-19",
-   "start": "2026-09-22",
-   "url": "https://www.internetconsultatie.nl/militair_medegebruik_rtha",
-   "commissie": "IenW",
-   "themas": [],
-   "bouw": false
-  },
-  {
-   "id": "1495da259e7d4357",
-   "bron": "Internetconsultatie",
-   "soort": "Consultatie",
-   "wat": "Voorstel van wet van het lid Van den Berg tot wijziging van de Mijnbouwwet en enige andere wetten inzake een gasnoodreserve Groningen",
-   "datum": "2026-10-19",
-   "start": "2026-09-21",
-   "url": "https://www.internetconsultatie.nl/initiatiefwet_gasnoodreserve_groningen",
-   "commissie": "Tweede Kamer der Staten-Generaal",
-   "themas": [],
-   "bouw": false
-  },
-  {
-   "id": "38d27587b2da84d1",
-   "bron": "Tweede Kamer",
-   "soort": "Inbreng schriftelijk overleg",
-   "wat": "Landbouw- en Visserijraad (oktober)",
-   "datum": "2026-10-19",
-   "tijd": "12:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
-   "commissie_afk": "LVVN",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04872",
-   "themas": [],
-   "kerncommissie": true
-  },
   {
    "id": "53f93e0e6748ff7e",
    "bron": "Internetconsultatie",
@@ -427,10 +377,10 @@
    "id": "59cf947d1806474c",
    "bron": "Tweede Kamer",
    "soort": "Gesprek",
-   "wat": "NGO-observers bij COP31",
+   "wat": "NGO-observers bij COP31 (GEANNULEERD)",
    "datum": "2026-10-29",
    "tijd": "13:30",
-   "status": "Gepland",
+   "status": "Geannuleerd",
    "commissie": "vaste commissie voor Klimaat en Groene Groei",
    "commissie_afk": "K&GG",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07197",
@@ -1084,6 +1034,22 @@
    "bouw": false
   },
   {
+   "id": "e0156c650f381673",
+   "bron": "Tweede Kamer",
+   "soort": "Technische briefing",
+   "wat": "Onderzoeksrapport 'Beoordeling van de effecten van financiële en fiscale rijksmiddelen op biodiversiteit'",
+   "datum": "2026-11-12",
+   "tijd": "10:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
+   "commissie_afk": "LVVN",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05817",
+   "themas": [
+    "Natuurherstel en gebiedsbescherming"
+   ],
+   "kerncommissie": true
+  },
+  {
    "id": "29991bd2bcdd665c",
    "bron": "Tweede Kamer",
    "soort": "Commissiedebat",
@@ -1094,6 +1060,20 @@
    "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
    "commissie_afk": "I&W",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A00664",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "e5800ad0d1c3a714",
+   "bron": "Tweede Kamer",
+   "soort": "Technische briefing",
+   "wat": "Onderzoeksrapport 'Gangbare melkveehouders over de omschakeling naar biologische melkveehouderij'",
+   "datum": "2026-11-12",
+   "tijd": "11:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
+   "commissie_afk": "LVVN",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07489",
    "themas": [],
    "kerncommissie": true
   },
@@ -1122,6 +1102,30 @@
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06961",
    "themas": [],
    "kerncommissie": true
+  },
+  {
+   "id": "93db57b638cb0052",
+   "bron": "Internetconsultatie",
+   "soort": "Consultatie",
+   "wat": "wijziging van de Verzamelwet gegevensbescherming voor verwerking van onder het medisch beroepsgeheim vallende persoonsgegevens door accountants",
+   "datum": "2026-11-15",
+   "start": "2026-10-19",
+   "url": "https://www.internetconsultatie.nl/medischberoepsgeheimaccoutantscontrole",
+   "commissie": "VWS",
+   "themas": [],
+   "bouw": false
+  },
+  {
+   "id": "bc7f313d28fe84de",
+   "bron": "Internetconsultatie",
+   "soort": "Consultatie",
+   "wat": "Wijzigingsregeling Regeling voertuigen 2026",
+   "datum": "2026-11-16",
+   "start": "2026-10-19",
+   "url": "https://www.internetconsultatie.nl/wijziging_regeling_voertuigen_2026",
+   "commissie": "IenW",
+   "themas": [],
+   "bouw": false
   },
   {
    "id": "dce01a82f1319d7b",
@@ -1845,7 +1849,7 @@
    "id": "317171bc9c4bc31c",
    "bron": "Tweede Kamer",
    "soort": "Commissiedebat",
-   "wat": "Raad Algemene Zaken 26 januari 2026",
+   "wat": "Raad Algemene Zaken 26 januari 2027",
    "datum": "2027-01-14",
    "tijd": "14:00",
    "status": "Gepland",
@@ -1978,6 +1982,34 @@
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07678",
    "themas": [],
    "kerncommissie": true
+  },
+  {
+   "id": "073d5998c07cd374",
+   "bron": "Tweede Kamer",
+   "soort": "Strategische procedurevergadering",
+   "wat": "Strategische procedurevergadering Infrastructuur en Waterstaat",
+   "datum": "2027-02-17",
+   "tijd": "11:15",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06818",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "858476891a62c001",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Desinformatie en buitenlandse beïnvloeding",
+   "datum": "2027-02-17",
+   "tijd": "13:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Binnenlandse Zaken",
+   "commissie_afk": "BiZa",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A00453",
+   "themas": [],
+   "kerncommissie": false
   }
  ]
 }
