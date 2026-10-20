@@ -117,7 +117,7 @@
   "robots": {
    "status": 403,
    "regels": [
-    "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-Dc6H4wNDx5yj2gq3GbXWa9&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"Dc6H4wNDx5yj2gq3GbXWa9\">(function(){window._cf_chl_opt = {cFPWv: 'b',cH: 'XxSUKvGfTssMAasDqXF0TrT31enyPJ_8Zcrf.qTtS2Q-1792471505-1.2.1.1-almbnwMvN8So.z4kTK3d_WR6H6HXRfWlFRTMt8MAY2D8JPX__zRi_HY7q2pTC2is',cITimeS: '1792471505',cN: 'Dc6H4wNDx5yj2gq3GbXWa9',cRay: 'a4d55efb4f1df26c',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/robots.txt?__cf_chl_tk=OnxdLWddp6CiHTFSK3wBUc9FMC3ivOKfd.TSMDpifVY-1792471505-1.0.1.1-XdcqdmDpenWfa0ZAeFucAuUcLkLM965sE0QxCyiITmg\",cvId: '3',cZone: 'unievanwaterschappen.nl',fa:\"/robots.txt?__cf_chl_f_tk=OnxdLWddp6CiHTFSK3wBUc9FMC3ivOKfd.TSMDpifVY-1792471505-1.0.1.1-XdcqdmDpenWfa0ZAeFucAuUcLkLM965sE0QxCyiITmg\",md: '1ggRiUWA3T0xFDQEd0wVbLEmecCCC25w9cqc.8Qzsl0-1792471505-1.2.1.1-sxHuvbZin7OMrgThbzlK2QXLym39iuOobrCCC_4jfdDQpIyRdBfqIbO8HTzMhFZfcIF_q9VRUNCGzHv2J1NulwyzC4a25f_2MvVe0jVQGrCmxA_1nOGONhMx0DTbco.VMdQGFMFELefOXlt0CUiGfNs1nhWb0Vck3ntI5GFUcLR7555q6JUftaMvJY1sH2XzBs9WvcE0K.xRKeyDGakzV.gVMGimsjih6rcTCg8wnHZAhaqYl3rIYkY0GAb2r.SeIKhLcBYLO_uQOxp3_oUQR3AkBCrQSAr5iKn.QA1GbBz5HSQeTGUWghYg0Hu6iNkK8ssKxJxtIAmNfdGUUrOLTWn1arSv6MqxIbCvqHw.W4zcC.M5BlWd08G3rMo__E1pKMWSrg4JUa7QsB5E_MUx._6hCznRbHw4Rm_ni94wsiZ_GSvUx_fw1kVC13Rz3Aq1QJyP.UEYVz0EQS6P5zDqYAfJTKVoUx2Yv3enphmRcSZ_vZRG4pdu23wER20aI5WCZfMGRgN7BrIoixDuNQ53d1IUhGKF.GENsZkTc9zHGFgiSDaFN4ggNDP1YUBSAH.LpH2cK1oa6SHwKEmwLV6ciUV3oHj_Gk.4M9EwPEvyViPh6XzLjLIUagaLR2NIzVzmZYd5lPY3exectl.R.35HUt7j8n2przw5Qx6LXvnih_N8PGtED8zIXqEF6B_VD7cPV_6GgVBWP62ySs_1tJknIvpSp0D8JeHpYZFYPZo.mCz.w0wVBvr8gu.a3fLFcipM9BNCM5XfCDqB2PmT8iJFQ9ABYq40gGeDW.7bTIM4hxTMnxPDtdNTUWcRaaOTA97T_o9lmKPRcG6NWJmyA3iGbS3HaYv..ud5KTxdKkINL2TxTcPwZutC89McG3nwYKm0C4A7A8tK8dqB4wgm3h7siVLmF06g5kGsNJYfv5.B76gbTsKpJMjR9oPG21_RITZsRtQJqfBOGZnEOeYKlHXNuMIuvp6mre_97eB8pmVjdneT2JGspNUznWDLM7_LDw_PYygN4bMVDBlMfYY4ox3jQhCtF6VHpZ41PsXS4ol0h_r5ry05LuaFIIol0cBUj5vsjNzg7zPGlsjsWqyLYUdrJD71HhkGac1DbDfczVPPJ4.7zdQP1wO1hO.qO0F31iKqPTV1tBe9tEeDx9xiFDZgnSjJFu1YBSxqIzRb8.VtfFG4R4UAQknUhX0oggXComnc6CzVDuq3wRwo.oX9tjOW05MYnpzwHMtbRjz0xIdCoVA',mdrd: 'iZwLl3MvE27WYmiiXlW0HrRkRg3CiiJosZgIChcFTao-1792471505-1.2.1.1-_84NpGUK1jsZc9P2MXsOB29OKPqAkkTeQN9lxo6pEQStkohXM2IKCX6t8.0vVan4mZJotRo8mf.Ravwz0gc6lsAf91yHkAjaGaJvoSWVcRQu8ulAnCI7DLSDiuvEs8tiNWdqOjgWHXFFHBkS1fyGwdk8lOlO2yT5aJnHdjmYCfEqP65Y7WKT5l_qG05zfn2c8r35lnDKbNtsRAZM5DOwl_onAGkZ1ZavgONUT.F54t5utB5wqiw3nkNByO528EYZkdY0YbVLPuRPDP3Y9uWJ5Xj1H48j58aHZBkA8kw38AcvsyX3da_bIoqpS1cWFYK1PBLVCACm1HEAEff3mmUbvT.edQ4FIUzK2OcYyq3q79ReC4KalBacE1v6V4wxTUhsPPGSqS6kvrr36WQgkDEFvNYvESI1h5I2fChtgBlP7qA',};var a = document.createElement('script');a.nonce = 'Dc6H4wNDx5yj2gq3GbXWa9';a.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=a4d55efb4f1df26c';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/robots.txt?__cf_chl_rt_tk=OnxdLWddp6CiHTFSK3wBUc9FMC3ivOKfd.TSMDpifVY-1792471505-1.0.1.1-XdcqdmDpenWfa0ZAeFucAuUcLkLM965sE0QxCyiITmg\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>"
+    "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-FwBR78oh6TIqmQFAJrIxKP&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"FwBR78oh6TIqmQFAJrIxKP\">(function(){window._cf_chl_opt = {cFPWv: 'b',cH: 'e1rNJkAuRuogz4t8zoKqMzSrnfi.xVvsFyVSR0KWBh4-1792486759-1.2.1.1-Qe5cPB0Idriq9c9SSQsM.O9Wm_bbgwj_Qxdx86bDd1WHuZbUU6QQ.9tWSjnXK_zj',cITimeS: '1792486759',cN: 'FwBR78oh6TIqmQFAJrIxKP',cRay: 'a4d6d36978634809',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/robots.txt?__cf_chl_tk=qfnTYAcQHeLx_d_E9glBQFgtJADR75Dm64_MvrTil.c-1792486759-1.0.1.1-CE2y9MsVFE_bQMwFWwF5Z.8wtxWnitEPIvfDnezWX1s\",cvId: '3',cZone: 'unievanwaterschappen.nl',fa:\"/robots.txt?__cf_chl_f_tk=qfnTYAcQHeLx_d_E9glBQFgtJADR75Dm64_MvrTil.c-1792486759-1.0.1.1-CE2y9MsVFE_bQMwFWwF5Z.8wtxWnitEPIvfDnezWX1s\",md: 'C4ujslt6AnOSyrpRu77UEYRtrmyfRE_BVvxIZXEr310-1792486759-1.2.1.1-odJUU8Q1exVvxos_BhhNL_Uw6qCLunV5jd8txTjzhgCCIPoZsUAdgxr_Q_epbn1AI5DjTF9ZGU7eSO5c0BEn_FfAtDie.UNMMKTz8iEI.nRUMPRnc72uFt4UorlK6YzCpv2tDMllEi1ORdwlhHdabGzuhdE2mcd_mzNJxGspCMNExZhcRx2SdrpgzuQAKsrH2T_yyHhqzAvXj0SDS2xabXUiPpgEAsOhTQmG_Nl5oYI7bVH5P6vTaxWkcvukaa_Zot0DB6zxM1t7kZSKOlimoBwfe0GL49OCrtd7inFCUZeC3s4.BJShvO3.QFWEOH3TBtsfrp0Ot1hdzn9f9hWFUoQW2lcOnGE4r0V37hZTZrSMSEmXdd913ZkjT2VZh7.Od9yNx_X2d5iiyBOhXh3PzEJ5Z4k_.oI7bvNkoSEDMRObT_mMI95Us8t_23XHnt7gSF_UOVF6FOAZF4A_0.LXeta0zzlUWoyjKu2YHIrg1CSFHVwGGZho0lTx1hIdWEAZMOQ6tTjERbVB0JUmCCnPJsdvGN6kEXcVpe5Ufh.Cu0kswVR_LU0bebxgwcbHHsI0JX0CatiQER0Dm_jbcrfqx5oqaq0j6k24HXT4Pwyo8QDUf8AYGsUyA6jAn6MPxk4np7RhOkZTjzqQxCWNNxfv8OVvGJKtYGKNFM9i8vqPBMGm.THg.DJ7f_7M0Gs4dlpp.8Ux.PxDN_8qu.WmFnLcbmqUuoj4qehAP0.nX7XcPnvPEs2FUjI8n1LzHXCK9G.fld727frL9bShGV8SWOFpd8Hzg5bPeuCUC3A.pB.EFr3qX0odoN7Ht_BrAekOUuIKVAgqxwl.oMJ5DX8W7byXqBbXhEmOnJX_v5HUzXE1i1uqRJVGSgyAtYw5DJtWHdrKF4dK9E1pgco2_.jcOYGa4eNBr8C9E7auvjfe3zXJh0LJfAfl9U5ixALpzOjkWzpaZ.QGNwJ0NXzU8BvOfNCP6IIeSYdp5Jqvw9TJrVtONesvyr6ioimxrTvsDf3KzGw_iTuPcKyVWVahlCVdFrDURvUG9tffk1WweNaQayIT1qR3Xgbm8dwm6jVtIdUu_qmbFG571HH0USz9Crav6mwC3I5fqlDcQK9LvZQSfz7PshJlHvvokE7hAaYxVLtorZRbt82XIhnSAd2qj9wstq5jXaxNCJIzZjJtSPNQN4d85oneMed2B_YUaQwslg.nRSz9MsFqJ25N2yBi2CqVO_lqeiW6FaR2jTLYJbM0p1LbU.0',mdrd: 'okr26fTpkvRIHKbp8e5zve_BdWTrUF1QQagBclQ5TqY-1792486759-1.2.1.1-dM1mtAA1SrVMKbuGjFjAz_EQMA3uISIG0lyvm3oDNvk3zJ1VFd6O6v9FvOwnnO3YsTAdGDCPPaq2gcLEXR5RYeZpr4O2Pz185imJSibi2olDwkYFqgGc4.CGgjKkdYPYmY0mv6wMhrnuIJkuitYP6WEPD6YKgrL8PHjluJn9i2tzcB0hDUKGCWICM_OoBC.CRQcrM_Oa9Uj4Ez0ETaIHnOQR8B2afd9b04TfZWbqEQun8KANNFW4fxg6Udm4Mvb.aZIvJhAHbtHxbmzd5rztEZ0al.hbtSFAjaJami8i.gW9V_Ho42M_cbjIJQZ8PZqx.9GBKVSPxflLR9X5HmFRDKa2wdPjKrihfADdTvzOmWHTgx_LzyawOu0jZi2RyeGjwP83JaaF2xOxCmRC80ONQd7SFMF4ZcZjlD9sg0NK1jk',};var a = document.createElement('script');a.nonce = 'FwBR78oh6TIqmQFAJrIxKP';a.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=a4d6d36978634809';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/robots.txt?__cf_chl_rt_tk=qfnTYAcQHeLx_d_E9glBQFgtJADR75Dm64_MvrTil.c-1792486759-1.0.1.1-CE2y9MsVFE_bQMwFWwF5Z.8wtxWnitEPIvfDnezWX1s\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>"
    ],
    "pagina_toegestaan": true
   }
@@ -175,17 +175,17 @@
    "https://ec.europa.eu/commission/presscorner/assets/i18n-eui/nl.json",
    "https://ec.europa.eu/commission/presscorner/assets/i18n-ecl/nl.json",
    "https://ec.europa.eu/commission/presscorner/assets/i18n/nl.json",
-   "https://ec.europa.eu/commission/presscorner/assets/i18n-ecl/en.json",
    "https://ec.europa.eu/commission/presscorner/assets/i18n-eui/en.json",
    "https://ec.europa.eu/commission/presscorner/assets/i18n/en.json",
+   "https://ec.europa.eu/commission/presscorner/assets/i18n-ecl/en.json",
    "https://ec.europa.eu/commission/presscorner/api/announcement/allactivated",
-   "https://ec.europa.eu/commission/presscorner/api/highlights?language=en&ts=1792471515509",
-   "https://ec.europa.eu/commission/presscorner/api/docutypes?language=en&ts=1792471515509",
-   "https://ec.europa.eu/commission/presscorner/api/commissioners?language=en&ts=1792471515509",
-   "https://ec.europa.eu/commission/presscorner/api/policies/parents?language=en&ts=1792471515509",
-   "https://ec.europa.eu/commission/presscorner/api/highlights?language=en&ts=1792471515564",
-   "https://ec.europa.eu/commission/presscorner/api/docutypes?language=en&ts=1792471515564",
-   "https://ec.europa.eu/commission/presscorner/api/commissioners?language=en&ts=1792471515564"
+   "https://ec.europa.eu/commission/presscorner/api/highlights?language=en&ts=1792486776134",
+   "https://ec.europa.eu/commission/presscorner/api/docutypes?language=en&ts=1792486776134",
+   "https://ec.europa.eu/commission/presscorner/api/commissioners?language=en&ts=1792486776134",
+   "https://ec.europa.eu/commission/presscorner/api/policies/parents?language=en&ts=1792486776134",
+   "https://ec.europa.eu/commission/presscorner/api/highlights?language=en&ts=1792486776222",
+   "https://ec.europa.eu/commission/presscorner/api/docutypes?language=en&ts=1792486776222",
+   "https://ec.europa.eu/commission/presscorner/api/commissioners?language=en&ts=1792486776222"
   ]
  },
  "Europese Commissie consultaties (Have your say)": {
@@ -224,15 +224,15 @@
    "https://eams.fpfis.tech.ec.europa.eu/config?siteID=237&instance=ec.europa.eu",
    "https://ec.europa.eu/info/law/better-regulation/assets/env-json-config.json",
    "https://ec.europa.eu/info/law/better-regulation/assets/i18n-eui/en.json",
-   "https://ec.europa.eu/info/law/better-regulation/brpapi/topics",
    "https://ec.europa.eu/info/law/better-regulation/brpapi/getOpcPublicationsIdsWithoutEcas",
-   "https://ec.europa.eu/info/law/better-regulation/brpapi/getAccessibilityDates",
    "https://ec.europa.eu/info/law/better-regulation/brpapi/config",
+   "https://ec.europa.eu/info/law/better-regulation/brpapi/topics",
+   "https://ec.europa.eu/info/law/better-regulation/brpapi/getAccessibilityDates",
    "https://ec.europa.eu/info/law/better-regulation/assets/i18n-ecl/en.json",
    "https://ec.europa.eu/info/law/better-regulation/assets/i18n/en.json",
    "https://ec.europa.eu/info/law/better-regulation/assets/i18n-eui-addons/en.json",
-   "https://ec.europa.eu/info/law/better-regulation/brpapi/closingSoon?language=EN",
    "https://ec.europa.eu/info/law/better-regulation/brpapi/initiativeHighlights?language=EN",
+   "https://ec.europa.eu/info/law/better-regulation/brpapi/closingSoon?language=EN",
    "https://audiovisual.ec.europa.eu/oembed?url=https%3A%2F%2Faudiovisual.ec.europa.eu%2Fembed%2FI-136353%3Flanguage%3Den",
    "https://eams.fpfis.tech.ec.europa.eu/config?siteID=f04b98a2-38f4-4d46-aeda-d36b3a24a789",
    "https://webgate.ec.europa.eu/apis/parrotfish/media?reference=I-136353&withShotlist=true&withChapters=true&relatedMediaTypes=VIDEO"
@@ -245,8 +245,8 @@
    "pagina_toegestaan": true
   },
   "json_eindpunten": [
-   "https://e3c1b12827d4.3535c7cd.us-east-1.token.awswaf.com/e3c1b12827d4/d7f65e927fcd/f9998b2f6105/inputs?client=browser",
-   "https://e3c1b12827d4.3535c7cd.us-east-1.token.awswaf.com/e3c1b12827d4/d7f65e927fcd/f9998b2f6105/mp_verify?region=us-east-1"
+   "https://e3c1b12827d4.a62a77c6.us-west-1.token.awswaf.com/e3c1b12827d4/d7f65e927fcd/f9998b2f6105/inputs?client=browser",
+   "https://e3c1b12827d4.a62a77c6.us-west-1.token.awswaf.com/e3c1b12827d4/d7f65e927fcd/f9998b2f6105/mp_verify?region=us-west-1"
   ]
  },
  "EUR-Lex": {
@@ -389,19 +389,19 @@
   "json_eindpunten": [
    "https://www.gelderland.nl/next/api/auth/session",
    "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl.json",
-   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/themas/politiek.json",
-   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/kaarten-en-cijfers.json",
    "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/contact.json",
-   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/vergunningen-startpagina.json",
-   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/themas/stikstof.json",
-   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/themas/politiek/ps.json",
-   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/themas/natuur.json",
-   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/themas/wonen-en-leven.json",
-   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/themas/bereikbaar.json",
+   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/themas/politiek.json",
    "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl.json",
+   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/vergunningen-startpagina.json",
+   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/kaarten-en-cijfers.json",
    "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/subsidies.json",
-   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/themas/cultuur-en-erfgoed.json",
-   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/themas/omgeving.json"
+   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/themas/stikstof.json",
+   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/themas/natuur.json",
+   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/themas/duurzaamheid.json",
+   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/themas/bereikbaar.json",
+   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/themas/wonen-en-leven.json",
+   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/themas/politiek/ps.json",
+   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/themas/economie.json"
   ]
  },
  "Provincie Groningen": {
@@ -636,17 +636,17 @@
    "\"nitrogen deposition\" AND (\"Natura 2000\" OR \"protected area\" OR \"protected areas\" OR habitat OR heathland)": 0,
    "(\"construction machinery\" OR \"construction equipment\" OR \"construction sector\" OR \"construction site\") AND (nitrogen OR NOx OR \"zero-emission\")": 0,
    "ammonia OR \"nitrogen deposition\" OR (\"critical load\" AND nitrogen)": 1,
-   "\"Nature Restoration Law\" OR \"Nature Restoration Regulation\" OR \"Habitats Directive\"": 4,
+   "\"Nature Restoration Law\" OR \"Nature Restoration Regulation\" OR \"Habitats Directive\"": 2,
    "\"nature restoration\" OR \"habitat restoration\" OR \"ecological restoration\" OR \"conservation status\"": 0,
-   "(\"urban biodiversity\" OR \"urban green space\" OR \"green infrastructure\") AND (housing OR \"urban development\" OR \"urban planning\" OR building)": 6,
+   "(\"urban biodiversity\" OR \"urban green space\" OR \"green infrastructure\") AND (housing OR \"urban development\" OR \"urban planning\" OR building)": 2,
    "\"nature-inclusive\" OR \"nature inclusive\" OR \"biodiversity-inclusive\" OR (\"green roof\" AND biodiversity) OR (\"green facade\" AND biodiversity)": 0,
    "(\"Apus apus\" OR \"common swift\" OR \"house sparrow\" OR \"Passer domesticus\" OR \"bat roost\" OR \"bat roosts\" OR \"nest box\" OR \"nest boxes\") AND (building OR buildings OR renovation OR urban)": 1,
-   "(\"wildlife crossing\" OR \"wildlife crossings\" OR \"road ecology\" OR \"roadkill\" OR \"habitat fragmentation\") AND (road OR roads OR railway OR infrastructure)": 3,
-   "(\"environmental DNA\" OR eDNA) AND (monitoring OR survey OR detection)": 4,
-   "\"Water Framework Directive\"": 1,
+   "(\"wildlife crossing\" OR \"wildlife crossings\" OR \"road ecology\" OR \"roadkill\" OR \"habitat fragmentation\") AND (road OR roads OR railway OR infrastructure)": 1,
+   "(\"environmental DNA\" OR eDNA) AND (monitoring OR survey OR detection)": 1,
+   "\"Water Framework Directive\"": 0,
    "PFAS AND (soil OR groundwater OR sediment OR \"surface water\")": 0,
-   "(\"urban heat island\" OR \"heat stress\" OR \"climate adaptation\" OR \"pluvial flooding\") AND (urban OR city OR building OR \"built environment\")": 3,
-   "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)": 14
+   "(\"urban heat island\" OR \"heat stress\" OR \"climate adaptation\" OR \"pluvial flooding\") AND (urban OR city OR building OR \"built environment\")": 0,
+   "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)": 8
   }
  },
  "Raad voor de leefomgeving en infrastructuur (Rli)": {
@@ -888,35 +888,7 @@
  },
  "Universiteit Leiden": {
   "robots": {
-   "status": 200,
-   "regels": [
-    "<pre>",
-    "User-agent: *",
-    "Disallow: /print",
-    "Disallow: /zoeken?*",
-    "Disallow: /*/zoeken?*",
-    "Disallow: /search?*",
-    "Disallow: /*/search?*",
-    "Disallow: /nieuws?*",
-    "Disallow: /*/nieuws?*",
-    "Disallow: /news?*",
-    "Disallow: /*/news?*",
-    "Disallow: /in-de-media?*",
-    "Disallow: /*/in-de-media?*",
-    "Disallow: /in-the-media?*",
-    "Disallow: /*/in-the-media?*",
-    "Disallow: /agenda?*",
-    "Disallow: /*/agenda?*",
-    "Disallow: /events?*",
-    "Disallow: /*/events?*",
-    "Disallow: /faciliteiten?*",
-    "Disallow: /*/faciliteiten?*",
-    "Disallow: /facilities?*",
-    "Disallow: /*/facilities?*",
-    "Disallow: /locaties?*",
-    "Disallow: /*/locaties?*"
-   ],
-   "pagina_toegestaan": true
+   "fout": "ConnectionError"
   }
  },
  "Universiteit Utrecht": {
@@ -1054,35 +1026,34 @@
   "robots": {
    "status": 200,
    "regels": [
-    "<!DOCTYPE html>",
-    "<html lang=\"en\">",
-    "<head>",
-    "<meta charset=\"utf8\">",
-    "<meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\">",
-    "<script>",
-    "(function(){",
-    "setTimeout(function(){",
-    "window.location.reload();",
-    "}, 5000);",
-    "}())",
-    "</script>",
-    "<link rel=\"icon\" href=\"data:,\">",
-    "<title>Even geduldâ¦</title>",
-    "<style>",
-    ".spinner {",
-    "-webkit-animation: spin 1s ease-out;",
-    "animation: spin 1s ease-out;",
-    "}",
-    "@keyframes spin {",
-    "0% {",
-    "-webkit-transform: rotate(0deg);",
-    "-moz-transform: rotate(0deg);",
-    "-ms-transform: rotate(0deg);",
-    "-o-transform: rotate(0deg);"
+    "User-agent: A6-Indexer",
+    "Disallow: /",
+    "User-agent: AhrefsBot",
+    "Disallow: /",
+    "User-agent: AlphaSeoBot",
+    "Disallow: /",
+    "User-agent: AlphaSeoBot-SA",
+    "Disallow: /",
+    "User-agent: AspiegelBot",
+    "Disallow: /",
+    "User-agent: Blackboard Safeassign",
+    "Disallow: /",
+    "User-agent: BLEXBot/1.0",
+    "Disallow: /",
+    "User-agent: Bytespider",
+    "Disallow: /",
+    "User-agent: crawler4j",
+    "Disallow: /",
+    "User-agent: DotBot",
+    "Disallow: /",
+    "User-agent: Gigabot",
+    "Disallow: /",
+    "User-agent: LieBaoFast",
+    "Disallow: /",
+    "User-agent: MauiBot"
    ],
    "pagina_toegestaan": true
-  },
-  "json_eindpunten": []
+  }
  },
  "EIS Kenniscentrum Insecten": {
   "robots": {
@@ -1231,35 +1202,34 @@
   "robots": {
    "status": 200,
    "regels": [
-    "<!DOCTYPE html>",
-    "<html lang=\"en\">",
-    "<head>",
-    "<meta charset=\"utf8\">",
-    "<meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\">",
-    "<script>",
-    "(function(){",
-    "setTimeout(function(){",
-    "window.location.reload();",
-    "}, 5000);",
-    "}())",
-    "</script>",
-    "<link rel=\"icon\" href=\"data:,\">",
-    "<title>Even geduldâ¦</title>",
-    "<style>",
-    ".spinner {",
-    "-webkit-animation: spin 1s ease-out;",
-    "animation: spin 1s ease-out;",
-    "}",
-    "@keyframes spin {",
-    "0% {",
-    "-webkit-transform: rotate(0deg);",
-    "-moz-transform: rotate(0deg);",
-    "-ms-transform: rotate(0deg);",
-    "-o-transform: rotate(0deg);"
+    "User-agent: *",
+    "Disallow: /*?_categories=",
+    "Disallow: /*?_sort_news=",
+    "Disallow: /*?_post_themes=",
+    "Disallow: /*?_search=",
+    "Disallow: /*?_sort_events=",
+    "Disallow: /*?_event_dates=",
+    "Disallow: /*?_event_themes=",
+    "Disallow: /*?_event_prices=",
+    "Disallow: /*?_dictionary_search=",
+    "Disallow: /*?_sort_partners=",
+    "Disallow: /*?_partner_ppc=",
+    "Disallow: /*?_organisation_type=",
+    "Disallow: /*?_search_events=",
+    "Disallow: /*?_search_partners=",
+    "Disallow: /*?_post_search=",
+    "Disallow: /*?_knowledge_center_themes=",
+    "Disallow: /*?_knowledge_center_subject=",
+    "Disallow: /*?_knowledge_center_level=",
+    "Disallow: /*?_knowledge_center_industry=",
+    "Disallow: /*?_faq_search=",
+    "Disallow: /*?_knowledge_popular_themes=",
+    "Disallow: /*?_sort_partners_theme_paris_proof=",
+    "Disallow: /*?_sort_partners_theme_circulariteit=",
+    "Disallow: /*?_toolbox_service="
    ],
    "pagina_toegestaan": true
-  },
-  "json_eindpunten": []
+  }
  },
  "World Green Building Council": {
   "robots": {
@@ -1312,7 +1282,7 @@
   "robots": {
    "status": 403,
    "regels": [
-    "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-BjanhGK7x3XFKS4awDFjFZ&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"BjanhGK7x3XFKS4awDFjFZ\">(function(){window._cf_chl_opt = {cFPWv: 'b',cH: 'i5OwTiISTOpM0MH.jBwqnDTo5YJKhV4FsbVtlY9j2pg-1792471649-1.2.1.1-iQ53opLwF5jOAlRFsjKSuUZ61XeA7iMbtfguGxmSzDdy1XGru7V2xvpbOZ.AsKzp',cITimeS: '1792471649',cN: 'BjanhGK7x3XFKS4awDFjFZ',cRay: 'a4d56281bda44e63',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/robots.txt?__cf_chl_tk=SCv86Ot_Sf8Hr81BDrRfHKY3BRRPA4x0iQn6hqtpIyA-1792471649-1.0.1.1-mGOGA2NvKf4U4FwBp7gmn0HnnXjEyhnfSa6MFcHhNYU\",cvId: '3',cZone: 'iclei-europe.org',fa:\"/robots.txt?__cf_chl_f_tk=SCv86Ot_Sf8Hr81BDrRfHKY3BRRPA4x0iQn6hqtpIyA-1792471649-1.0.1.1-mGOGA2NvKf4U4FwBp7gmn0HnnXjEyhnfSa6MFcHhNYU\",md: 'l_5LDH2U.7PAMLiTbFiwyIp4usuEEC7r0XcK15P7s2s-1792471649-1.2.1.1-Cdi4bF1VI7ATBUhN09iADOgqbIeTn0F9TDGOhLbTaaKOv23srLyF.tIVRw3vBOwJessUteZdemi_7IOfStvEGI8H4gG4K1dfXkAnUt.ufOV84BNug3SqIrA78ha7LnEyS8_gp5LVbB87vLsIyu2EThtvho_wjHZMA_FDYEqSsuI8UJrnw5DVB9vmIluFqFGq_87ZIfZn0aRLWOpkC3C1eJRyxf_eZ6Kp131LQrNffCGWTpnYoTHHVZ_c6V3iILcIMILL2DO6XL7e9slNIuXsok2Lk0sICq6p5E1MaqV1yCrPU5fbQZFn8S22zxO6_Dqpa1eOCQsCQfdyzhA4GHJc_3RqFM9RRzaquPr8jHjcVDzVtm_xF0ZYa.IUzWDMbSZ1bFVWBPh6FsvsMeSYNKHaGMr_6_SPlkL8JY6nO5QtDifmUHA52u1VUVm0JURGGUp0QGEStL2D3API0woSuCdr.tRhGfNbs22BesOxY5wTacB97dZXve6ALSkILAzt2LLm.y3iPEqEe9jLwYlqcsMhS109W0Ure8H8ad2rFiSx5.Umo80Xi4ueR3vu0SPuaT8gHgJAM9Z60XmaGCLy2xq0Tq_.q2aENaeHf4xKCJ8dQdMn9zBoun.hxk2gWxVLr5Nfyu7Hodb7b9cDkCJlrxp3kypDlaxOkm.Zzd5UzkH52w1_OZfWwpHOSipF_m5gwU0OLDP7lkel.TfmaGXgyjHYiXkiOi87SyKJjjx9OW95rVeYbmu_2IbmNspPgYdixig4mc9YmfvYvwJOYc85J9M0lgiQunuaYtk66kDDS_n6maSQ9xT8ZxQngQzvji8E6D7_NwAeJDDdd3wgK4dG9MWIfj5WdkVnYA.AL769iiVuwwRV_RtEXAz72zaOs27Jtz2A9RRllcZJ9UQIvUwApHc6rI2sfXglxcmJ_PPj062kILwiIi4G81bLhXHcGYye722zj6N03.DxV_NKxVeUeIVdUViYLcWT8_9bKP8_R9Xm3o4aGeUQ7dXhFO6IM8yEekcTNdHplnISNPF2g4TCuyf_hCNoSqsb5akP7ODaMbmPfdCa61vcNNaW20Yp8b2bPZYE9cDa0nqOFEGyAUZPm6Zxa6PpKvY8A1d7B13iywVYvj5MLmdXga7D6OmeLUNkYC5LGsprEydCxRE8kM.x.eg9pUcPw6WBgHYI7MhcvVwue93ynGJTE3DqP38YarfzRDaG',mdrd: 'D33J3me.JRtwVcnX5iFhiJxDcpvxJUnYxYIE1u1J1Yk-1792471649-1.2.1.1-QZMyf0uLdX9ltL3dEO9htM1u2EHC8cr_Lef5dGKKStiUr2v8OjuJ.wyvs0CnJpMfqZDSpyqhxk9vFOCIs2PhSb0RVd6ymC3JqrCBVcG0jPe5VlJCKHO4aCpsl5ZwhOh4EhRhGBpDrvih5XbdCQul0Z1A_8Hmrjt8yJ9hz9U5icfbR4e6oUqrmzeSdErziJjQ38mgg2XfCwVknE8hVKhMIEUUF8JdKWCxaZYiuC6pTq.IE89x99hHVxTH3sfsalxAn76x4E5v_z7wqsF068G3KLmOWxvNqFEK2An_evuTVkP7cZH4uSjnZnWlLS3c_l20H2gTtnc1JyOaHL1vH5QcgC1Y_oJEVxhtIKydAVRuCMamIq5AsS2KSVtzzWg7Q_I7lT5Dr586ZqGPOOiqX7rUMMmTXcOi0TFBe_DYjPZDjZg',};var a = document.createElement('script');a.nonce = 'BjanhGK7x3XFKS4awDFjFZ';a.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=a4d56281bda44e63';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/robots.txt?__cf_chl_rt_tk=SCv86Ot_Sf8Hr81BDrRfHKY3BRRPA4x0iQn6hqtpIyA-1792471649-1.0.1.1-mGOGA2NvKf4U4FwBp7gmn0HnnXjEyhnfSa6MFcHhNYU\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>"
+    "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-2gHnrQ1UakujiXMd3gaamP&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"2gHnrQ1UakujiXMd3gaamP\">(function(){window._cf_chl_opt = {cFPWv: 'b',cH: 'Gd3zUxMeD7JJu3OpT5bJQffngARA6dgei3vUsB9HgT8-1792487006-1.2.1.1-F1fgdq3UF9CrVl.j.FuqH0Va5GmglfXaQcMr_Kbot8V.05W2U8WJW5A.qh9jdmKk',cITimeS: '1792487006',cN: '2gHnrQ1UakujiXMd3gaamP',cRay: 'a4d6d96ec8552b10',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/robots.txt?__cf_chl_tk=SL3KZz6U77B_DNi5cW6LWPHesCkc770CdOs4UnFxFss-1792487006-1.0.1.1-nWC4A4P1SZFjfva_g6WsnmLQFFAK5A_ID8JMpAx07hw\",cvId: '3',cZone: 'iclei-europe.org',fa:\"/robots.txt?__cf_chl_f_tk=SL3KZz6U77B_DNi5cW6LWPHesCkc770CdOs4UnFxFss-1792487006-1.0.1.1-nWC4A4P1SZFjfva_g6WsnmLQFFAK5A_ID8JMpAx07hw\",md: 'lFr09ebH0YIIu0GhaYepfv1R2k_xWEFqrA.8F7VWCxc-1792487006-1.2.1.1-9_vAuuU.vyE8lfNiRHDL2.aS7HMfG3zFBTOfvbrIXnBYkJQ8fCBXTITJH60_QNNvAxjURKE50S32ia4RqFMKZUR8SopNWdth8.PKJoHpVLr9hiCcSwXeNe_R8t2l4BA.JEfSzgvwlP8CXBnhDdP09efDzN4L70bcYkejkx_NoTOB7Ejm4yQu.vDmsxtZpZmEIxPj0SbrXE5ZVelERN5aXGem3.v6yAdZlt_mCzSwh9bhYaCpuqW9xoTqBDtUztuoN2wnUUQ1FnuJgS5uaqcAwcl3zSo6MNoczBenTisIa3Qo_fls0XIQakEDkaarSYHucSdGilJhgt9qDP82StXiIJ8N_Sb6I0jUlk8ZuPatFra9N0zchc9I_0w8WCK2vOSIpS1U4lacfF3.p8YcLP0AXxuuYhE27tOaslZQH.juu16iXZs.hyHC4IQKZwQ8AyAggFQZnugcbeWzYPfuK4X7b_6wQrjNyzTmbRcuO22tbaxocFJO.d.gL2oVJD3BjbZpALMi6_4.wxThysXJEbG7VM1Qa2YPh5VzuFLMFEq_eBuxNzMJ3srH4ZQu.Rl8K4Cx.YkswvDXQcSrzSfaDJHcTC5KPl2NqfiguaPt3uxlrQ79YxunloQyiOceEM0NjgIFAxZb.UDJDykgIfelFsTGxGwPDs60x.fhOjaxao5vBXX_27SZ3Mzg4YAPLPyKpKVbqNLCeDSTyCRpDCvIqbZ0aqbk5nfC8YgSw8mKvza429H8WacXTLInn3ovJew.26YyDxRNuAIriFX.6iYjxxz_xuVETHiZL65H64h0isKE064_gP5s5pxUzUvWKUpNXE_d7kS9J_JaZvaXmb1.K30f76UYjUxRGNK4Cxrul.R4VpMsx3pdcDILoJhBR7utQMduiFO_3RkwzzGr2WA1NatAXbhZtjFW0XzAAQZeogIhKAsNh1mm211RD9JRGbDzdFtJwN86Ro4VDANnEWQLan5V_oS3kdXmfAwNWJkNKoZ2hRRYeEif8BYfXbjCEuDTm22xuwvJQN6Au4C3p7kH7FG1fFbI6CmaBlhRfyaowhCAH3ZqPnVRaEn.u.zrEtOiTQvpGwqdvYZ6jaag0pfYmJRLd3Tmc7XWmq43D9qMBF4JV5gZw1kbdGgvSk8WzN7jSim3sPFkZvIieaachSL06eaMG4m1beyIpuiPdflIekq0pWs',mdrd: 'asBpKtt1U6OjUWhj1UHCHU.p1K7zijdv1hJ8x4KQ.IQ-1792487006-1.2.1.1-gGpSvmZwQnOjJXB5ta7uDGkwzRWF6xKhYjbSQDFPpL7fRWtBNyuoOxp1fBDPCZw8quSQbXKJh1F5I0CnmlU3qyWWreD8CkuZ5nd5RySNwH7YKO910XXNDCuBtqZrk8nhOxxC6onIIIdZxaTX0k0q_e4kP03do227CbqMwxXLqeEPTIMcGSxPg9c0d34nH.jr7O3JByyGaREs52uW.BeokjgM2Ccj4mvWcgW_vdytU98MfqY_6ZDg41A87wNmILnrQpqRC.0aawmtWpKWNLLSTSKH.Tvuos8FnUDrYtKwTFQ.6YHwD13o.l11vF9znlE5PCgNqHXoR6LvNgYK6dce5M33yyPZf7OpOuHTLzFhZ_o3LZ8MejneGsDQxKYoCdn4g_uN2FbBh.6lhxV4Efe3nEzxc4ThTYtfCMqezgy3yZU',};var a = document.createElement('script');a.nonce = '2gHnrQ1UakujiXMd3gaamP';a.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=a4d6d96ec8552b10';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/robots.txt?__cf_chl_rt_tk=SL3KZz6U77B_DNi5cW6LWPHesCkc770CdOs4UnFxFss-1792487006-1.0.1.1-nWC4A4P1SZFjfva_g6WsnmLQFFAK5A_ID8JMpAx07hw\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>"
    ],
    "pagina_toegestaan": true
   }
@@ -1364,35 +1334,12 @@
   "robots": {
    "status": 200,
    "regels": [
-    "<!DOCTYPE html>",
-    "<html lang=\"en\">",
-    "<head>",
-    "<meta charset=\"utf8\">",
-    "<meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\">",
-    "<script>",
-    "(function(){",
-    "setTimeout(function(){",
-    "window.location.reload();",
-    "}, 5000);",
-    "}())",
-    "</script>",
-    "<link rel=\"icon\" href=\"data:,\">",
-    "<title>Even geduldâ¦</title>",
-    "<style>",
-    ".spinner {",
-    "-webkit-animation: spin 1s ease-out;",
-    "animation: spin 1s ease-out;",
-    "}",
-    "@keyframes spin {",
-    "0% {",
-    "-webkit-transform: rotate(0deg);",
-    "-moz-transform: rotate(0deg);",
-    "-ms-transform: rotate(0deg);",
-    "-o-transform: rotate(0deg);"
+    "User-agent: *",
+    "Disallow:",
+    "Sitemap: https://www.lto.nl/sitemap_index.xml"
    ],
    "pagina_toegestaan": true
-  },
-  "json_eindpunten": []
+  }
  },
  "Trouw": {
   "robots": {
@@ -1525,7 +1472,7 @@
    "VRO | vaste commissie voor Volkshuisvesting en Ruimtelijke Ordening": 7,
    "I&W | vaste commissie voor Infrastructuur en Waterstaat": 26,
    "SZW | vaste commissie voor Sociale Zaken en Werkgelegenheid": 14,
-   "A&M | vaste commissie voor Asiel en Migratie": 6,
+   "A&M | vaste commissie voor Asiel en Migratie": 7,
    "DiZa | vaste commissie voor Digitale Zaken": 12,
    "EU | vaste commissie voor Europese Zaken": 8,
    "KR | vaste commissie voor Koninkrijksrelaties": 1,
