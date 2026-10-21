@@ -1,12 +1,12 @@
 {
- "bijgewerkt": "2026-10-20T08:58:31+00:00",
+ "bijgewerkt": "2026-10-21T04:45:09+00:00",
  "items": [
   {
    "id": "53f93e0e6748ff7e",
    "bron": "Internetconsultatie",
    "soort": "Consultatie",
    "wat": "Wijzigingsregeling Waadi",
-   "datum": "2026-10-21",
+   "datum": "2026-10-22",
    "start": "2026-10-08",
    "url": "https://www.internetconsultatie.nl/wijzigingsregelingwaadinormenkader",
    "commissie": "SZW",
@@ -117,10 +117,10 @@
    "id": "e934dbc20b521f44",
    "bron": "Tweede Kamer",
    "soort": "Technische briefing",
-   "wat": "Aandachtspunten bij de ontwerpbegroting 2027 begrotingshoofdstuk XXIII van Klimaat en Groene Groei door de Algemene Rekenkamer",
+   "wat": "Aandachtspunten bij de ontwerpbegroting 2027 begrotingshoofdstuk XXIII van Klimaat en Groene Groei door de Algemene Rekenkamer (GEANNULEERD)",
    "datum": "2026-10-27",
    "tijd": "18:00",
-   "status": "Gepland",
+   "status": "Geannuleerd",
    "commissie": "vaste commissie voor Klimaat en Groene Groei",
    "commissie_afk": "K&GG",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07195",
@@ -198,6 +198,20 @@
     "Natuurherstel en gebiedsbescherming"
    ],
    "kerncommissie": true
+  },
+  {
+   "id": "a8a01754c9f413de",
+   "bron": "Tweede Kamer",
+   "soort": "Gesprek",
+   "wat": "Minister van Buitenlandse Zaken van Moldavië, dhr. Mihai Popșoi",
+   "datum": "2026-10-28",
+   "tijd": "13:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Europese Zaken",
+   "commissie_afk": "EU",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07369",
+   "themas": [],
+   "kerncommissie": false
   },
   {
    "id": "e7ea4269588faff4",
@@ -612,6 +626,18 @@
    "bouw": false
   },
   {
+   "id": "adc4935b480ac2dd",
+   "bron": "Internetconsultatie",
+   "soort": "Consultatie",
+   "wat": "Besluit erkenning verklaringen van geen bezwaar",
+   "datum": "2026-11-01",
+   "start": "2026-10-21",
+   "url": "https://www.internetconsultatie.nl/vgbbesluit",
+   "commissie": "Def",
+   "themas": [],
+   "bouw": false
+  },
+  {
    "id": "185a63a3c46227d5",
    "bron": "Internetconsultatie",
    "soort": "Consultatie",
@@ -674,6 +700,20 @@
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04337",
    "themas": [],
    "kerncommissie": true
+  },
+  {
+   "id": "376d3694cbc5e852",
+   "bron": "Tweede Kamer",
+   "soort": "Gesprek",
+   "wat": "Minister-President van Montenegro, dhr. Milojko Spajić",
+   "datum": "2026-11-03",
+   "tijd": "17:30",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Europese Zaken",
+   "commissie_afk": "EU",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07271",
+   "themas": [],
+   "kerncommissie": false
   },
   {
    "id": "7ea371e4c5b31c11",
@@ -774,6 +814,20 @@
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07012",
    "themas": [],
    "kerncommissie": true
+  },
+  {
+   "id": "63d21a88849a48c9",
+   "bron": "Tweede Kamer",
+   "soort": "Gesprek",
+   "wat": "Parlementsvoorzitter Estland, dhr. Lauri Hussar",
+   "datum": "2026-11-04",
+   "tijd": "14:15",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Europese Zaken",
+   "commissie_afk": "EU",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07372",
+   "themas": [],
+   "kerncommissie": false
   },
   {
    "id": "1236207e22b766f2",
@@ -2008,6 +2062,20 @@
    "commissie": "vaste commissie voor Binnenlandse Zaken",
    "commissie_afk": "BiZa",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A00453",
+   "themas": [],
+   "kerncommissie": false
+  },
+  {
+   "id": "3b4ef6decb35863d",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Raad Algemene Zaken 23 februari 2027",
+   "datum": "2027-02-18",
+   "tijd": "15:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Europese Zaken",
+   "commissie_afk": "EU",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07675",
    "themas": [],
    "kerncommissie": false
   }
