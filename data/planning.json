@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-10-21T04:45:09+00:00",
+ "bijgewerkt": "2026-10-22T04:45:26+00:00",
  "items": [
   {
    "id": "53f93e0e6748ff7e",
@@ -280,18 +280,6 @@
    "bouw": false
   },
   {
-   "id": "f2a8d5273803ab82",
-   "bron": "Internetconsultatie",
-   "soort": "Consultatie",
-   "wat": "SoHO uitvoeringsbesluit (bvkl)",
-   "datum": "2026-10-29",
-   "start": "2026-10-01",
-   "url": "https://www.internetconsultatie.nl/soho",
-   "commissie": "VWS",
-   "themas": [],
-   "bouw": false
-  },
-  {
    "id": "a1fd14501c8a18ef",
    "bron": "Internetconsultatie",
    "soort": "Consultatie",
@@ -299,6 +287,18 @@
    "datum": "2026-10-29",
    "start": "2026-10-01",
    "url": "https://www.internetconsultatie.nl/wvk_soho",
+   "commissie": "VWS",
+   "themas": [],
+   "bouw": false
+  },
+  {
+   "id": "f2a8d5273803ab82",
+   "bron": "Internetconsultatie",
+   "soort": "Consultatie",
+   "wat": "SoHO uitvoeringsbesluit (bvkl)",
+   "datum": "2026-10-29",
+   "start": "2026-10-01",
+   "url": "https://www.internetconsultatie.nl/soho",
    "commissie": "VWS",
    "themas": [],
    "bouw": false
@@ -1222,6 +1222,30 @@
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05322",
    "themas": [],
    "kerncommissie": false
+  },
+  {
+   "id": "2d0f6a225590de17",
+   "bron": "Internetconsultatie",
+   "soort": "Consultatie",
+   "wat": "Wijziging Urm ivm opslag en vervoer van mest",
+   "datum": "2026-11-18",
+   "start": "2026-10-21",
+   "url": "https://www.internetconsultatie.nl/wijzigingsbesluitopslagenvervoermest",
+   "commissie": "LVVN",
+   "themas": [],
+   "bouw": false
+  },
+  {
+   "id": "38d820ccc1ad08ad",
+   "bron": "Internetconsultatie",
+   "soort": "Consultatie",
+   "wat": "Besluit tot wijziging van het Besluit register onderwijsdeelnemers in verband met praktijkgerichte vakken theoretische leerweg",
+   "datum": "2026-11-18",
+   "start": "2026-10-21",
+   "url": "https://www.internetconsultatie.nl/bekostigingpraktijkgericht",
+   "commissie": "OCW",
+   "themas": [],
+   "bouw": false
   },
   {
    "id": "37a7f7cf8c692764",

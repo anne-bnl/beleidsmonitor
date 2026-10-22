@@ -23,10 +23,10 @@
   }
  },
  "Internetconsultatie": {
-  "voorbeeld": "﻿<?xml version=\"1.0\" encoding=\"utf-8\"?>\r\n<consultaties>\r\n  <consultatie>\r\n    <titel>Besluit erkenning verklaringen van geen bezwaar</titel>\r\n    <url>https://www.internetconsultatie.nl/vgbbesluit</url>\r\n    <startdatum>21-10-2026</startdatum>\r\n    <einddatum>01-11-2026</einddatum>\r\n    <departementen>\r\n      <departement>BZK</departement>\r\n      <departement>Def</departement>\r\n    </departementen>\r\n  </consultatie>\r\n  <consultatie>\r\n    <titel>wijziging van de Verzamelwet gegevensbescherming voor verwerking van onder het medisch beroepsgeheim vallende persoonsgegevens door accountants</titel>\r\n    <url>https://www.internetconsultatie.nl/medischberoepsgeheimaccoutantscontrole</url>\r\n    <startdatum>19-10-2026</startdatum>\r\n    <einddatum>15-11-2026</einddatum>\r\n    <departementen>\r\n      <departement>VWS</departement>\r\n    </departementen>\r\n  </consultatie>\r\n  <consultatie>\r\n    <titel>Wijzigingsregeling Regeling voertuigen 2026</titel>\r\n    <url>https://www.internetconsultatie.nl/wijziging_regeling_voertuigen_2026</url>\r\n    <startdatum>19-10-2026</startdatum>\r\n    <einddatum>16-11-2026</einddatum>\r\n    <departementen>\r\n      <departement>IenW</departement>\r\n    </departementen>\r\n  </consultatie>\r\n  <consultatie>\r\n    <titel>Wijziging van het Besluit bewapening en uitrusting politie in verband met de toekenning van het stroomstootwapen</titel>\r\n    <url>https://www.internetconsultatie.nl/stroomstootwapen</url>\r\n    <startdatum>19-10-2026</startdatum>\r\n    <einddatum>30-11-2026</einddatum>\r\n    <departementen>\r\n      <departement>JenV</departement>\r\n    </departementen>\r\n  </consultatie>\r\n  <consultatie>\r\n    <titel>Wijzigingsregeling vrijstelling digitale koopzegels</titel>\r\n    <url>https://www.internetconsultatie.nl/vrijstellingdigitalekoopzegels</url>\r\n    <startdatum>16-10-2026</startdatum>\r\n    <einddatum>04-12-2026</einddatum>\r\n    <departementen>\r\n      <departement>Fin</departement>\r\n    </departementen>\r\n  </consultatie>\r\n  <consultatie>\r\n    <titel>Regeling banenafspraak</titel>\r\n    <url>https://www.internetconsultatie.nl/regelingbanenafspraak</url>\r\n    <startdatum>12-10-2026</startdatum>\r\n    <einddatum>09-11-2026</einddatum>\r\n    <departementen>\r\n      <departement>SZW</departement>\r\n    </departementen>\r\n  </consultatie>\r\n  <consultatie>\r\n    <titel>Kind Eerst</titel>\r\n    <url>https://www.internetconsultatie.nl/kindeerst</url>\r\n    <startdatum>12-10-2026</startdatum>\r\n    <einddatum>07-12-2026</einddatum>\r\n    <departementen>\r\n      <depar"
+  "voorbeeld": "﻿<?xml version=\"1.0\" encoding=\"utf-8\"?>\r\n<consultaties>\r\n  <consultatie>\r\n    <titel>Wijziging Urm ivm opslag en vervoer van mest</titel>\r\n    <url>https://www.internetconsultatie.nl/wijzigingsbesluitopslagenvervoermest</url>\r\n    <startdatum>21-10-2026</startdatum>\r\n    <einddatum>18-11-2026</einddatum>\r\n    <departementen>\r\n      <departement>LVVN</departement>\r\n    </departementen>\r\n  </consultatie>\r\n  <consultatie>\r\n    <titel>Besluit tot wijziging van het Besluit register onderwijsdeelnemers in verband met praktijkgerichte vakken theoretische leerweg </titel>\r\n    <url>https://www.internetconsultatie.nl/bekostigingpraktijkgericht</url>\r\n    <startdatum>21-10-2026</startdatum>\r\n    <einddatum>18-11-2026</einddatum>\r\n    <departementen>\r\n      <departement>OCW</departement>\r\n    </departementen>\r\n  </consultatie>\r\n  <consultatie>\r\n    <titel>Besluit erkenning verklaringen van geen bezwaar</titel>\r\n    <url>https://www.internetconsultatie.nl/vgbbesluit</url>\r\n    <startdatum>21-10-2026</startdatum>\r\n    <einddatum>01-11-2026</einddatum>\r\n    <departementen>\r\n      <departement>BZK</departement>\r\n      <departement>Def</departement>\r\n    </departementen>\r\n  </consultatie>\r\n  <consultatie>\r\n    <titel>wijziging van de Verzamelwet gegevensbescherming voor verwerking van onder het medisch beroepsgeheim vallende persoonsgegevens door accountants</titel>\r\n    <url>https://www.internetconsultatie.nl/medischberoepsgeheimaccoutantscontrole</url>\r\n    <startdatum>19-10-2026</startdatum>\r\n    <einddatum>15-11-2026</einddatum>\r\n    <departementen>\r\n      <departement>VWS</departement>\r\n    </departementen>\r\n  </consultatie>\r\n  <consultatie>\r\n    <titel>Wijzigingsregeling Regeling voertuigen 2026</titel>\r\n    <url>https://www.internetconsultatie.nl/wijziging_regeling_voertuigen_2026</url>\r\n    <startdatum>19-10-2026</startdatum>\r\n    <einddatum>16-11-2026</einddatum>\r\n    <departementen>\r\n      <departement>IenW</departement>\r\n    </departementen>\r\n  </consultatie>\r\n  <consultatie>\r\n    <titel>Wijziging van het Besluit bewapening en uitrusting politie in verband met de toekenning van het stroomstootwapen</titel>\r\n    <url>https://www.internetconsultatie.nl/stroomstootwapen</url>\r\n    <startdatum>19-10-2026</startdatum>\r\n    <einddatum>30-11-2026</einddatum>\r\n    <departementen>\r\n      <departement>JenV</departement>\r\n    </departementen>\r\n  </consultatie>\r\n  <consultatie>\r\n    <titel>Wijzigingsregeling vrijstelling digitale koopzegels</titel>\r\n    <url>https://www.in"
  },
  "Wetgevingskalender": {
-  "voorbeeld": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<searchRetrieveResponse xmlns=\"http://www.loc.gov/zing/srw/\"\n                        xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"\n                        xsi:schemaLocation=\"http://www.loc.gov/zing/srw/ http://www.loc.gov/standards/sru/xmlFiles/srw-types.xsd\">\n   <version>1.2</version>\n   <numberOfRecords>45</numberOfRecords>\n   <records>\n      <record>\n         <recordSchema>http://standaarden.overheid.nl/sru/</recordSchema>\n         <recordPacking>xml</recordPacking>\n         <recordData>\n            <gzd xmlns=\"http://standaarden.overheid.nl/sru\"\n                 xmlns:dcterms=\"http://purl.org/dc/terms/\"\n                 xmlns:overheidwk=\"http://standaarden.overheid.nl/wk/terms/\"\n                 xsi:schemaLocation=\"http://standaarden.overheid.nl/sru https://standaarden.overheid.nl/sru/gzd.xsd\">\n               <originalData>\n                  <overheidwk:meta>\n                     <owmskern>\n                        <dcterms:identifier>WGK007646</dcterms:identifier>\n                        <dcterms:title>Caribisch Nederland: Arbeidsomstandighedenwet Caribisch Nederland</dcterms:title>\n                        <dcterms:modified>2026-10-19</dcterms:modified>\n                     </owmskern>\n                     <owmsmantel>\n                        <dcterms:issued>2020-03-05</dcterms:issued>\n                     </owmsmantel>\n                     <regelgevingipm>\n                        <overheidwk:type>Wet</overheidwk:type>\n                        <overheidwk:departementeersteondertekenaar>Ministerie van Sociale Zaken en Werkgelegenheid</overheidwk:departementeersteondertekenaar>\n                        <overheidwk:actievefase>Raad van State</overheidwk:actievefase>\n                     </regelgevingipm>\n                  </overheidwk:meta>\n               </originalData>\n               <enrichedData>\n                  <overheidwk:locatie>https://repository.officiele-overheidspublicaties.nl/wgk/WGK007646/1/xml/WGK007646.xml</overheidwk:locatie>\n               </enrichedData>\n            </gzd>\n         </recordData>\n         <recordPosition>1</recordPosition>\n      </record>\n      <record>\n         <recordSchema>http://standaarden.overheid.nl/sru/</recordSchema>\n         <recordPacking>xml</recordPacking>\n         <recordData>\n            <gzd xmlns=\"http://standaarden.overheid.nl/sru\"\n                 xmlns:dcterms=\"http://purl.org/dc/terms/\"\n                 xmlns:overheidwk=\"http://standaarden.overheid.nl/wk"
+  "voorbeeld": "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<searchRetrieveResponse xmlns=\"http://www.loc.gov/zing/srw/\"\n                        xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"\n                        xsi:schemaLocation=\"http://www.loc.gov/zing/srw/ http://www.loc.gov/standards/sru/xmlFiles/srw-types.xsd\">\n   <version>1.2</version>\n   <numberOfRecords>46</numberOfRecords>\n   <records>\n      <record>\n         <recordSchema>http://standaarden.overheid.nl/sru/</recordSchema>\n         <recordPacking>xml</recordPacking>\n         <recordData>\n            <gzd xmlns=\"http://standaarden.overheid.nl/sru\"\n                 xmlns:dcterms=\"http://purl.org/dc/terms/\"\n                 xmlns:overheidwk=\"http://standaarden.overheid.nl/wk/terms/\"\n                 xsi:schemaLocation=\"http://standaarden.overheid.nl/sru https://standaarden.overheid.nl/sru/gzd.xsd\">\n               <originalData>\n                  <overheidwk:meta>\n                     <owmskern>\n                        <dcterms:identifier>WGK007646</dcterms:identifier>\n                        <dcterms:title>Caribisch Nederland: Arbeidsomstandighedenwet Caribisch Nederland</dcterms:title>\n                        <dcterms:modified>2026-10-19</dcterms:modified>\n                     </owmskern>\n                     <owmsmantel>\n                        <dcterms:issued>2020-03-05</dcterms:issued>\n                     </owmsmantel>\n                     <regelgevingipm>\n                        <overheidwk:type>Wet</overheidwk:type>\n                        <overheidwk:departementeersteondertekenaar>Ministerie van Sociale Zaken en Werkgelegenheid</overheidwk:departementeersteondertekenaar>\n                        <overheidwk:actievefase>Raad van State</overheidwk:actievefase>\n                     </regelgevingipm>\n                  </overheidwk:meta>\n               </originalData>\n               <enrichedData>\n                  <overheidwk:locatie>https://repository.officiele-overheidspublicaties.nl/wgk/WGK007646/1/xml/WGK007646.xml</overheidwk:locatie>\n               </enrichedData>\n            </gzd>\n         </recordData>\n         <recordPosition>1</recordPosition>\n      </record>\n      <record>\n         <recordSchema>http://standaarden.overheid.nl/sru/</recordSchema>\n         <recordPacking>xml</recordPacking>\n         <recordData>\n            <gzd xmlns=\"http://standaarden.overheid.nl/sru\"\n                 xmlns:dcterms=\"http://purl.org/dc/terms/\"\n                 xmlns:overheidwk=\"http://standaarden.overheid.nl/wk"
  },
  "Open Overheid (Woo-publicaties)": {
   "plooi_proef": {
@@ -117,7 +117,7 @@
   "robots": {
    "status": 403,
    "regels": [
-    "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-ZPUiZoM4uSZqWi0wnnGZjv&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"ZPUiZoM4uSZqWi0wnnGZjv\">(function(){window._cf_chl_opt = {cFPWv: 'b',cH: 'CXlSJyIHtHm3BxIkTlSImixTFtlK6xC6VrlBb_SX0Tc-1792557955-1.2.1.1-YGFTEJXU_rSnEZrh3vD_Tuiq6NVFq5xBilEHYV9Ggoj5WRsJ_S1veuu_my8_PSZb',cITimeS: '1792557955',cN: 'ZPUiZoM4uSZqWi0wnnGZjv',cRay: 'a4dd9d945e73c0c0',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/robots.txt?__cf_chl_tk=HcLd4ftR1v9ng4S_P9FQB.ez2tERNyoNqeGa7sSz8mw-1792557955-1.0.1.1-qiuQK36V01K89kUCSjg7OX0gNMK67130RRUGz2j0bs0\",cvId: '3',cZone: 'unievanwaterschappen.nl',fa:\"/robots.txt?__cf_chl_f_tk=HcLd4ftR1v9ng4S_P9FQB.ez2tERNyoNqeGa7sSz8mw-1792557955-1.0.1.1-qiuQK36V01K89kUCSjg7OX0gNMK67130RRUGz2j0bs0\",md: 'TSWDg0rNalMor94V3alJUrC38LFlFtuKEBbPI5lexTs-1792557955-1.2.1.1-vSsBg3GOtwOHRzIv0OUThd85scktlMa3yRkrAJKVA_zFHqoJvVprTVi1tcFvb3Ubjk4WgZuSgkz2gESujIahfH1rM.LvyRpY4gX98mRuOm69xb0orU_J_jziaSmewdkovvbpnDyLKM3degAhWIJM4oXbF0hVr9fSFk5.x3Qn2J3tEZ6IEdQA12mvFROy_fo0x4fQ_w8Fqcq6u8vULuMcKErfjZrDaUtRhCtu_CZMfhY6S_p5baP0ZnLf6hWOYKQHxgODeVlDDwtCcImy0QGItizckETFMP6TNDl0u6PyZxWvqj7cUcx68uxHB591C0hn99E5OMQjHGw8e5.c6G0dxaTrP0xrie5ZHN6zzTehTpO41QUf3EqVgiJdiO3Kp1p6a9e1fv6mdqkmngKaG1Y2w62tGuNShBxqpy37iQqBy2vwQclLl27DBqCLf8QIICXvlY0NqNAvnJgiEhT9D0Cj1bfM99MgOsP.p3NJ446IiXxbZXMpv7VypzOPt6VR1.gvmyTcu9xsFK_uO2qVXy9kfTWixPTICiulrZIuUt43qjFJOwGtwzZOdvlPOaE8RyJloPYxnvngu4E1tO8._iPvnzJWDtdhA3vMdP0PUjNZreq_C7WFaoTEAOGWzhgF8IMJJ_z4VGiGw2UbGSEdZUBTLijj6igwwaIie8NROYOwmDA_9hC5J.DBj9i14OtTi2YF7XKJkOZk_cC2lP6Bq1qV.QkyF4do8Jp.GwhVFEkwsViccZhTe_angKhWV7.yRZhBoLB1B1yT4ruWmhk1_ArcY6Ic0Q9C_JpKALgGKfX9Eh.HHXeKCH9fZkSOUg05DbvCBOGlD2cCLMQaaF9wLdQkse1BYTL6WLKtqtMX6C_Xr933PfWIj7jyeO.k9D6l6ZlWAvLK8WCIGVNWQ3GnAgGK9MGimQ8DTATqQ_CYdSX3F3nDf0tvoq196ZSURIT4pm_E6TUr_8Ba._EnUw6WyQgAyZutO5rHQ_tUkJgldOPDjaobEPSwTNhSwva.FhPaihYs6d6B94IpS3T2l9hADDPSwr6jM0vZ1MJOnCWlR.OvnDswO4UwzeiapLC1EbSYyPpYaeF7pARWCq94IP8nvSL9a2uKI8Lltfhj6nUuQA8UuzHQ1mjrekemFQaxkFu2kCYAXnw8PwLiP32FJ50QSr_1QbTrXUi1e6wqV1QLLpnpYfbuXw91vBxkYp6cwtRiLib0ES99MkKne9lzuaIYLmX885.oJ2Bz05hnUOdqOoHg0Ks',mdrd: 'NEz4yUkkwbEOFF1FQC42.7SEhZgcRQ45lgHKIQV.dDU-1792557955-1.2.1.1-01Y3vzMiXIok0iho1UC0F_2DkUNKRcwybk3ORQ4nON1v_4UuDNEA8.qnLssOLRJDa4o.RGcouJy7KaAEHCaa0oY12B49TEVpqyaJpZUtODTd_WqJwwO37pwKJjOtDbGux0hOQ_A67woVMRohuIDefuIwa8XYsqZJEs5vnnMwmq4k9X581iE1qj45mFpoIui6BzxeXzBzYH8225_4JsnZWuXVmb7_sVGLA681o1dWEarxVE.VF4jWNqDnWhbQMlblxfqFRxLO6DLGKkkb7EOyWGjXGNadwnN4VtaclU69w.YVVC7Ogs3NqyAZbXIVp2aZkzVKk8pTnHATXwCybvct2RHwGc55untDv4vbsf_TsIenmJWUTuCDam1IXQINkxpXI2kdv5W1ywsey1hbWnN.XxQl1tHmtf2NUMB6sHPuPWo',};var a = document.createElement('script');a.nonce = 'ZPUiZoM4uSZqWi0wnnGZjv';a.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=a4dd9d945e73c0c0';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/robots.txt?__cf_chl_rt_tk=HcLd4ftR1v9ng4S_P9FQB.ez2tERNyoNqeGa7sSz8mw-1792557955-1.0.1.1-qiuQK36V01K89kUCSjg7OX0gNMK67130RRUGz2j0bs0\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>"
+    "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-GceZbg8oOfTPlbBiZQnOl1&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"GceZbg8oOfTPlbBiZQnOl1\">(function(){window._cf_chl_opt = {cFPWv: 'b',cH: 'dyQsKJwPPy37ggKGfh55JGGgMKntRyOXDCKsua5XhOk-1792644376-1.2.1.1-4KDshKkLpcU1PiTT017BpCPxTP_F.ddUR1iTj3wV7O_irD4JsKDc9mWziEJ1fh2P',cITimeS: '1792644376',cN: 'GceZbg8oOfTPlbBiZQnOl1',cRay: 'a4e5db7a2d7ad471',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/robots.txt?__cf_chl_tk=2K8tTQk6WFDGoiDq0_94NdEp5j6fXvp6nxLOQKc1O_g-1792644376-1.0.1.1-_V21A2sl5jxL5EpzGx8u1EY8iZCvDDj32JWqwan_OcA\",cvId: '3',cZone: 'unievanwaterschappen.nl',fa:\"/robots.txt?__cf_chl_f_tk=2K8tTQk6WFDGoiDq0_94NdEp5j6fXvp6nxLOQKc1O_g-1792644376-1.0.1.1-_V21A2sl5jxL5EpzGx8u1EY8iZCvDDj32JWqwan_OcA\",md: '1Gg78oDqQbnqVJRVVGw_2KTz6.6Kx5Szw0fpYtOFEIk-1792644376-1.2.1.1-3jxE9Z9MWU4cmFj7O1FNfkrGIJnop1riv6q6.TYFWw8Q1DcNs3XyBayUqZpi6LWanUoYiK5KHoj.6GXNeP_aDpNvg_ulxmHq6GmcFe3ObMY8vJ9dtqV5TIbgeWxPn7aYeU1.1oaTGYsibvd5GvxQuIkVqGP5PrkBjANbh92fD0j4pMoWEz8eQRQiO2u56Tx1rr8FEB1hOqr4cJEqbNPlpeoMoD3Fv7pfrKWd4_rfr0hHkx7feNs7DEAUGEhUJrMQVkgShCGRtGQJRpb9L.rGfLoS4Wke5VEufbN.LPUWMvL9h.fU3MxvjYZBYpPa4EMSKv6i4pA7S4u6htbv58G3kLjEcYOnmbpI4952oZtnaejiAhXvzLBcKzmtxKtQUmnpNjGxewXxCf25gNMsebdcPXjmwTj778zhoxJ9ioKFTFW4WmRGEk_nWPs2wl9HpV1laHeM3vhSaps1qfjJeeAjQpgUxysIWk8bEfKW6VzJYnIOuOZ_LSzYc046rmcANkiYwy9Ng2f4C29nsCosWgCR2CKe8_ZEch2LTyY3bSEfz5CifMyPuMwGhQTHwv_v1KGbFVpHAnzrweypPrzTTaAOpisHC_DPok5LFMYbIgj8bpYYEgYUh3oqs_T4FsbTWhVo0qeyBqgsJRIxskf8BL_5CLTcMC7b__4O5s6DSZiMupnVduMeEdV2q70BXv1KL9skQTpf7jqFVf4eCdO70B.uQILThTwt.2OL5M.aY1_LijY3ay8gsD7yYEfiCSq9EmTyHqNJE0q19osfE9l3iLvxIW8lQHK8eUIe_wpE3p3LT6XqQoKoznSZm4V6wLGWXLnUgAO9R15w.E.aNYqXYpsnSdgaqM1X881CUwvaUm6FT0ctBdmEiWbRMipNInfssolZ.jlaQlVMS82_F7pSUSoDGTi1nJGsamuvsmxN5X1A2MWO26v21KfNjiNMVLLtCR6.70syAmbR0CHOxbfIzRA.yXk_PPLtGvQSqhtGOuVONTDGs7Di3e7bGgQ.u_6WINekrQxFEx5nCImxNoiwgPu3.YA88RccMNcEbEIGx.L4GNwXhdcJORdCMpu_NZFAkQDBbY9p0UQoUBxoDDZzFuHi5KzCNOqZkD5ublLbhq6..OCabtq4YRVFFneFHCtkQy3mvHq9WUenlap91ssUBYbBKa_58KKb9lEeKZ1kVGVSODV5twuh9SUhMHAo1ew9Zo52n0uZtYeu3bF4qij9mdcPj7K4ZhkYdDf6g2fCAblpqg8',mdrd: '4XoFJZo13QgqQvBB4VTCjxaztqdGAMdx6t1LH_wdTes-1792644376-1.2.1.1-7ll_8IXhkL7n7NWkD_TIttBVJLz9ouv6rylb9_DUSqCg2uViVBZByH8vcc2FIIHJrUnO386zdo3b6d7rpYoyY1CdIyaDdcLaUXQw4OY2I_aOYT81k.o9ayveykFg3bw1.mus.Nh2..sKfdWOAFGUnSBd6nhZboVqcsL_K._susHvLUL8uNNDYl0FULfFYTxvgZelP7qiQ.qsWBJLn9wAHdCzIqGdYCmshDVDm3YM4KXrcmFQ405r3LpgfUG89qgvA9c6iSSYXki1QBCa5yrMjuYqGeSG8Sr2QPd0.U_WVbkF8NbiHTKAEpeV61FqG7muPvRLpY5.eb1EBdlX904sAeCYCFBWE2Bleuc31gLcgdPxqxiFnr95D5VgwDjbEzfxPW5SVJ.8rRBAah6aLEHWvuBqNob6oW9nEujsGg3aG9g',};var a = document.createElement('script');a.nonce = 'GceZbg8oOfTPlbBiZQnOl1';a.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=a4e5db7a2d7ad471';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/robots.txt?__cf_chl_rt_tk=2K8tTQk6WFDGoiDq0_94NdEp5j6fXvp6nxLOQKc1O_g-1792644376-1.0.1.1-_V21A2sl5jxL5EpzGx8u1EY8iZCvDDj32JWqwan_OcA\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>"
    ],
    "pagina_toegestaan": true
   }
@@ -142,31 +142,31 @@
   "robots": {
    "status": 200,
    "regels": [
-    "<!DOCTYPE html>",
-    "<html lang=\"en\" class=\"no-js\">",
-    "<head>",
-    "<meta charset=\"utf-8\" />",
-    "<title>Server temporarily unavailable</title>",
-    "<meta content=\"width=device-width,initial-scale=1\" name=\"viewport\" />",
-    "<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\" />",
-    "<script>",
-    "var cl = document.querySelector('html').classList;",
-    "cl.remove('no-js');",
-    "cl.add('has-js');",
-    "!function(a,b){\"function\"==typeof define&&define.amd?define([],function(){return a.svg4everybody=b()}):\"object\"==typeof module&&module.exports?module.exports=b():a.svg4everybody=b()}(this,function(){function a(a,b,c){if(c){var d=document.createDocumentFragment(),e=!b.hasAttribute(\"viewBox\")&&c.getAttribute(\"viewBox\");e&&b.setAttribute(\"viewBox\",e);for(var f=c.cloneNode(!0);f.childNodes.length;)d.appendChild(f.firstChild);a.appendChild(d)}}function b(b){b.onreadystatechange=function(){if(4===b.readyState){var c=b._cachedDocument;c||(c=b._cachedDocument=document.implementation.createHTMLDocument(\"\"),c.body.innerHTML=b.responseText,b._cachedTarget={}),b._embeds.splice(0).map(function(d){var e=b._cachedTarget[d.id];e||(e=b._cachedTarget[d.id]=c.getElementById(d.id)),a(d.parent,d.svg,e)})}},b.onreadystatechange()}function c(c){function e(){for(var c=0;c<o.length;){var h=o[c],i=h.parentNode,j=d(i),k=h.getAttribute(\"xlink:href\")||h.getAttribute(\"href\");if(!k&&g.attributeName&&(k=h.getAttribute(g.attributeName)),j&&k){if(f)if(!g.validate||g.validate(k,j,h)){i.removeChild(h);var l=k.split(\"#\"),q=l.shift(),r=l.join(\"#\");if(q.length){var s=m[q];s||(s=m[q]=new XMLHttpRequest,s.open(\"GET\",q),s.send(),s._embeds=[]),s._embeds.push({parent:i,svg:j,id:r}),b(s)}else a(i,j,document.getElementById(r))}else++c,++p}else++c}(!o.length||o.length-p>0)&&n(e,67)}var f,g=Object(c),h=/\\bTrident\\/[567]\\b|\\bMSIE (?:9|10)\\.0\\b/,i=/\\bAppleWebKit\\/(\\d+)\\b/,j=/\\bEdge\\/12\\.(\\d+)\\b/,k=/\\bEdge\\/.(\\d+)\\b/,l=window.top!==window.self;f=\"polyfill\"in g?g.polyfill:h.test(navigator.userAgent)||(navigator.userAgent.match(j)||[])[1]<10547||(navigator.userAgent.match(i)||[])[1]<537||k.test(navigator.userAgent)&&l;var m={},n=window.requestAnimationFrame||setTimeout,o=document.getElementsByTagName(\"use\"),p=0;f&&e()}function d(a){for(var b=a;\"svg\"!==b.nodeName.toLowerCase()&&(b=b.parentNode););return b}return c});",
-    "</script>",
-    "<link",
-    "rel=\"stylesheet\"",
-    "href=\"styles/ecl-eu-preset-website.css\"",
-    "crossorigin=\"anonymous\"",
-    "media=\"screen\"",
-    "/>",
-    "<link",
-    "rel=\"stylesheet\"",
-    "href=\"styles/ecl-eu-preset-website-print.css\"",
-    "crossorigin=\"anonymous\"",
-    "media=\"print\"",
-    "/>"
+    "User-agent: Baiduspider",
+    "Disallow: /eurostat/tgm/",
+    "Disallow: /europeaid/prag/",
+    "User-agent: Twitterbot",
+    "Allow: /digital-single-market/en/files",
+    "Allow: /digital-single-market/files",
+    "Allow: /digital-single-market/sites/",
+    "Allow: /digital-single-market/en/sites/",
+    "User-agent: *",
+    "Disallow: /archives/",
+    "Disallow: /cgi-bin/",
+    "Disallow: /clima/ets/",
+    "Disallow: /clima/sites/registry/",
+    "Disallow: /commission_2010-2014/katainen/",
+    "Disallow: /creative-europe/404_en.htm",
+    "Disallow: /culture/404_en.htm",
+    "Disallow: /dgs/education_culture/404_en.htm",
+    "Disallow: /eclas/",
+    "Disallow: /education/404_en.htm",
+    "Disallow: /employment_social/anticipedia/xwiki/bin/attach/",
+    "Disallow: /employment_social/anticipedia/xwiki/bin/cancel/",
+    "Disallow: /employment_social/anticipedia/xwiki/bin/commentadd/",
+    "Disallow: /employment_social/anticipedia/xwiki/bin/delattachment/",
+    "Disallow: /employment_social/anticipedia/xwiki/bin/delete/",
+    "Disallow: /employment_social/anticipedia/xwiki/bin/dot/"
    ],
    "pagina_toegestaan": true
   },
@@ -176,58 +176,58 @@
    "https://ec.europa.eu/commission/presscorner/assets/i18n-ecl/nl.json",
    "https://ec.europa.eu/commission/presscorner/assets/i18n/nl.json",
    "https://ec.europa.eu/commission/presscorner/assets/i18n-eui/en.json",
-   "https://ec.europa.eu/commission/presscorner/assets/i18n-ecl/en.json",
    "https://ec.europa.eu/commission/presscorner/assets/i18n/en.json",
+   "https://ec.europa.eu/commission/presscorner/assets/i18n-ecl/en.json",
    "https://ec.europa.eu/commission/presscorner/api/announcement/allactivated",
-   "https://ec.europa.eu/commission/presscorner/api/docutypes?language=en&ts=1792557983590",
-   "https://ec.europa.eu/commission/presscorner/api/highlights?language=en&ts=1792557983590",
-   "https://ec.europa.eu/commission/presscorner/api/commissioners?language=en&ts=1792557983590",
-   "https://ec.europa.eu/commission/presscorner/api/policies/parents?language=en&ts=1792557983590",
-   "https://ec.europa.eu/commission/presscorner/api/highlights?language=en&ts=1792557983649",
-   "https://ec.europa.eu/commission/presscorner/api/docutypes?language=en&ts=1792557983649",
-   "https://ec.europa.eu/commission/presscorner/api/commissioners?language=en&ts=1792557983649"
+   "https://ec.europa.eu/commission/presscorner/api/highlights?language=en&ts=1792644387071",
+   "https://ec.europa.eu/commission/presscorner/api/docutypes?language=en&ts=1792644387072",
+   "https://ec.europa.eu/commission/presscorner/api/commissioners?language=en&ts=1792644387072",
+   "https://ec.europa.eu/commission/presscorner/api/policies/parents?language=en&ts=1792644387072",
+   "https://ec.europa.eu/commission/presscorner/api/highlights?language=en&ts=1792644387114",
+   "https://ec.europa.eu/commission/presscorner/api/commissioners?language=en&ts=1792644387114",
+   "https://ec.europa.eu/commission/presscorner/api/docutypes?language=en&ts=1792644387114"
   ]
  },
  "Europese Commissie consultaties (Have your say)": {
   "robots": {
    "status": 200,
    "regels": [
-    "<!DOCTYPE html>",
-    "<html lang=\"en\" class=\"no-js\">",
-    "<head>",
-    "<meta charset=\"utf-8\" />",
-    "<title>Server temporarily unavailable</title>",
-    "<meta content=\"width=device-width,initial-scale=1\" name=\"viewport\" />",
-    "<meta content=\"IE=edge\" http-equiv=\"X-UA-Compatible\" />",
-    "<script>",
-    "var cl = document.querySelector('html').classList;",
-    "cl.remove('no-js');",
-    "cl.add('has-js');",
-    "!function(a,b){\"function\"==typeof define&&define.amd?define([],function(){return a.svg4everybody=b()}):\"object\"==typeof module&&module.exports?module.exports=b():a.svg4everybody=b()}(this,function(){function a(a,b,c){if(c){var d=document.createDocumentFragment(),e=!b.hasAttribute(\"viewBox\")&&c.getAttribute(\"viewBox\");e&&b.setAttribute(\"viewBox\",e);for(var f=c.cloneNode(!0);f.childNodes.length;)d.appendChild(f.firstChild);a.appendChild(d)}}function b(b){b.onreadystatechange=function(){if(4===b.readyState){var c=b._cachedDocument;c||(c=b._cachedDocument=document.implementation.createHTMLDocument(\"\"),c.body.innerHTML=b.responseText,b._cachedTarget={}),b._embeds.splice(0).map(function(d){var e=b._cachedTarget[d.id];e||(e=b._cachedTarget[d.id]=c.getElementById(d.id)),a(d.parent,d.svg,e)})}},b.onreadystatechange()}function c(c){function e(){for(var c=0;c<o.length;){var h=o[c],i=h.parentNode,j=d(i),k=h.getAttribute(\"xlink:href\")||h.getAttribute(\"href\");if(!k&&g.attributeName&&(k=h.getAttribute(g.attributeName)),j&&k){if(f)if(!g.validate||g.validate(k,j,h)){i.removeChild(h);var l=k.split(\"#\"),q=l.shift(),r=l.join(\"#\");if(q.length){var s=m[q];s||(s=m[q]=new XMLHttpRequest,s.open(\"GET\",q),s.send(),s._embeds=[]),s._embeds.push({parent:i,svg:j,id:r}),b(s)}else a(i,j,document.getElementById(r))}else++c,++p}else++c}(!o.length||o.length-p>0)&&n(e,67)}var f,g=Object(c),h=/\\bTrident\\/[567]\\b|\\bMSIE (?:9|10)\\.0\\b/,i=/\\bAppleWebKit\\/(\\d+)\\b/,j=/\\bEdge\\/12\\.(\\d+)\\b/,k=/\\bEdge\\/.(\\d+)\\b/,l=window.top!==window.self;f=\"polyfill\"in g?g.polyfill:h.test(navigator.userAgent)||(navigator.userAgent.match(j)||[])[1]<10547||(navigator.userAgent.match(i)||[])[1]<537||k.test(navigator.userAgent)&&l;var m={},n=window.requestAnimationFrame||setTimeout,o=document.getElementsByTagName(\"use\"),p=0;f&&e()}function d(a){for(var b=a;\"svg\"!==b.nodeName.toLowerCase()&&(b=b.parentNode););return b}return c});",
-    "</script>",
-    "<link",
-    "rel=\"stylesheet\"",
-    "href=\"styles/ecl-eu-preset-website.css\"",
-    "crossorigin=\"anonymous\"",
-    "media=\"screen\"",
-    "/>",
-    "<link",
-    "rel=\"stylesheet\"",
-    "href=\"styles/ecl-eu-preset-website-print.css\"",
-    "crossorigin=\"anonymous\"",
-    "media=\"print\"",
-    "/>"
+    "User-agent: Baiduspider",
+    "Disallow: /eurostat/tgm/",
+    "Disallow: /europeaid/prag/",
+    "User-agent: Twitterbot",
+    "Allow: /digital-single-market/en/files",
+    "Allow: /digital-single-market/files",
+    "Allow: /digital-single-market/sites/",
+    "Allow: /digital-single-market/en/sites/",
+    "User-agent: *",
+    "Disallow: /archives/",
+    "Disallow: /cgi-bin/",
+    "Disallow: /clima/ets/",
+    "Disallow: /clima/sites/registry/",
+    "Disallow: /commission_2010-2014/katainen/",
+    "Disallow: /creative-europe/404_en.htm",
+    "Disallow: /culture/404_en.htm",
+    "Disallow: /dgs/education_culture/404_en.htm",
+    "Disallow: /eclas/",
+    "Disallow: /education/404_en.htm",
+    "Disallow: /employment_social/anticipedia/xwiki/bin/attach/",
+    "Disallow: /employment_social/anticipedia/xwiki/bin/cancel/",
+    "Disallow: /employment_social/anticipedia/xwiki/bin/commentadd/",
+    "Disallow: /employment_social/anticipedia/xwiki/bin/delattachment/",
+    "Disallow: /employment_social/anticipedia/xwiki/bin/delete/",
+    "Disallow: /employment_social/anticipedia/xwiki/bin/dot/"
    ],
    "pagina_toegestaan": true
   },
   "json_eindpunten": [
    "https://eams.fpfis.tech.ec.europa.eu/config?siteID=237&instance=ec.europa.eu",
    "https://ec.europa.eu/info/law/better-regulation/assets/env-json-config.json",
-   "https://ec.europa.eu/info/law/better-regulation/assets/i18n-eui/en.json",
-   "https://ec.europa.eu/info/law/better-regulation/brpapi/getAccessibilityDates",
    "https://ec.europa.eu/info/law/better-regulation/brpapi/topics",
-   "https://ec.europa.eu/info/law/better-regulation/brpapi/getOpcPublicationsIdsWithoutEcas",
+   "https://ec.europa.eu/info/law/better-regulation/assets/i18n-eui/en.json",
    "https://ec.europa.eu/info/law/better-regulation/brpapi/config",
+   "https://ec.europa.eu/info/law/better-regulation/brpapi/getOpcPublicationsIdsWithoutEcas",
+   "https://ec.europa.eu/info/law/better-regulation/brpapi/getAccessibilityDates",
    "https://ec.europa.eu/info/law/better-regulation/assets/i18n-ecl/en.json",
    "https://ec.europa.eu/info/law/better-regulation/assets/i18n/en.json",
    "https://ec.europa.eu/info/law/better-regulation/assets/i18n-eui-addons/en.json",
@@ -291,36 +291,9 @@
  },
  "FIEC": {
   "robots": {
-   "status": 404,
-   "regels": [
-    "<!DOCTYPE html>",
-    "<html lang=\"en\">",
-    "<head>",
-    "<title>Page Not Found :: FIEC</title>",
-    "<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\"/>",
-    "<meta name=\"generator\" content=\"concrete5 - 8.5.1\"/>",
-    "<link rel=\"canonical\" href=\"https://www.fiec.eu/page_not_found\">",
-    "<script type=\"text/javascript\">",
-    "var CCM_DISPATCHER_FILENAME = \"/index.php\";",
-    "var CCM_CID = 158;",
-    "var CCM_EDIT_MODE = false;",
-    "var CCM_ARRANGE_MODE = false;",
-    "var CCM_IMAGE_PATH = \"/concrete/images\";",
-    "var CCM_TOOLS_PATH = \"/index.php/tools/required\";",
-    "var CCM_APPLICATION_URL = \"https://www.fiec.eu\";",
-    "var CCM_REL = \"\";",
-    "var CCM_ACTIVE_LOCALE = \"en_US\";",
-    "</script>",
-    "<meta property=\"og:title\" content=\"Page Not Found\">",
-    "<meta property=\"og:description\" content=\"\">",
-    "<meta property=\"og:type\" content=\"article\">",
-    "<meta property=\"og:url\" content=\"https://www.fiec.eu/page_not_found\">",
-    "<meta property=\"og:site_name\" content=\"FIEC\">",
-    "<meta property=\"og:locale\" content=\"en_US\">",
-    "<meta property=\"og:updated_time\" content=\"2019-03-11T15:13:22+01:00\">"
-   ],
-   "pagina_toegestaan": true
-  }
+   "fout": "ConnectTimeout"
+  },
+  "browserfout": "TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\nnavigating to \"https://www.fiec.eu/\", waiting until \"networkidle\"\n"
  },
  "Provincie Drenthe": {
   "robots": {
@@ -361,16 +334,19 @@
   "robots": {
    "status": 200,
    "regels": [
-    "User-agent: SemrushBot",
-    "User-agent: SemrushBot-SA",
-    "User-agent: AhrefsBot",
-    "User-agent: MJ12bot",
-    "User-agent: PetalBot",
-    "User-agent: Owlin",
-    "User-agent: trendictionbot",
-    "User-agent: dotbot",
-    "User-agent: scooperbot",
-    "Disallow: /"
+    "<!DOCTYPE html>",
+    "<html lang=\"nl\">",
+    "<head>",
+    "<meta charset=\"utf-8\">",
+    "<title>Tijdelijk niet beschikbaar</title>",
+    "</head>",
+    "<body>",
+    "<h1>Deze applicatie is tijdelijk niet beschikbaar</h1>",
+    "<p>We hebben deze applicatie uit voorzorg uitgezet vanwege een potentieel beveiligingsrisico. Zodra alles weer veilig is, zetten we de applicatie direct weer aan.</p>",
+    "<h1 lang=\"en\">This application is temporarily unavailable</h1>",
+    "<p lang=\"en\">As a precaution, we have taken this application offline due to a potential security risk. As soon as we have confirmed that it is safe, we will restore access to the application immediately.</p>",
+    "</body>",
+    "</html>"
    ],
    "pagina_toegestaan": true
   }
@@ -389,19 +365,19 @@
   "json_eindpunten": [
    "https://www.gelderland.nl/next/api/auth/session",
    "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl.json",
-   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/contact.json",
-   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/vergunningen-startpagina.json",
+   "https://consentcdn.cookiebot.com/consentconfig/93c554aa-a93d-4305-ae8c-e4033198a1f6/settings.json",
    "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/themas/politiek.json",
+   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/contact.json",
+   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/themas/stikstof.json",
    "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl.json",
+   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/themas/politiek/ps.json",
+   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/vergunningen-startpagina.json",
    "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/kaarten-en-cijfers.json",
    "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/subsidies.json",
+   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/wegwerkzaamheden.json",
+   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/themas/omgeving.json",
    "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/themas/natuur.json",
-   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/themas/wonen-en-leven.json",
-   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/themas/actueel.json",
-   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/themas/politiek/ps.json",
-   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/themas/stikstof.json",
-   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/themas/werken-bij-de-provincie.json",
-   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/themas/omgeving.json"
+   "https://www.gelderland.nl/_next/data/pY_CHxNBivUisiNBc7q9F/nl/themas/werken-bij-de-provincie.json"
   ]
  },
  "Provincie Groningen": {
@@ -477,36 +453,37 @@
  },
  "Provincie Utrecht": {
   "robots": {
-   "status": 200,
+   "status": 503,
    "regels": [
-    "User-agent: *",
-    "Allow: /core/*.css$",
-    "Allow: /core/*.css?",
-    "Allow: /core/*.js$",
-    "Allow: /core/*.js?",
-    "Allow: /core/*.avif",
-    "Allow: /core/*.gif",
-    "Allow: /core/*.jpg",
-    "Allow: /core/*.jpeg",
-    "Allow: /core/*.png",
-    "Allow: /core/*.svg",
-    "Allow: /core/*.webp",
-    "Allow: /profiles/*.css$",
-    "Allow: /profiles/*.css?",
-    "Allow: /profiles/*.js$",
-    "Allow: /profiles/*.js?",
-    "Allow: /profiles/*.avif",
-    "Allow: /profiles/*.gif",
-    "Allow: /profiles/*.jpg",
-    "Allow: /profiles/*.jpeg",
-    "Allow: /profiles/*.png",
-    "Allow: /profiles/*.svg",
-    "Allow: /profiles/*.webp",
-    "Disallow: /core/",
-    "Disallow: /profiles/"
+    "<!doctype html>",
+    "<html lang=\"nl\">",
+    "<head>",
+    "<meta charset=\"utf-8\">",
+    "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+    "<meta name=\"robots\" content=\"noindex\">",
+    "<title>We&apos;re temporarily offline</title>",
+    "<style>",
+    ":root {",
+    "--bg: #f4f5f7;",
+    "--card: #ffffff;",
+    "--text: #1d2330;",
+    "--muted: #555e6e;",
+    "--accent: #c8102e;",
+    "--border: #e2e5ea;",
+    "}",
+    "@media (prefers-color-scheme: dark) {",
+    ":root {",
+    "--bg: #14171d;",
+    "--card: #1d2129;",
+    "--text: #eceef2;",
+    "--muted: #a5adbb;",
+    "--accent: #ff4d63;",
+    "--border: #2c313b;",
+    "}"
    ],
    "pagina_toegestaan": true
-  }
+  },
+  "json_eindpunten": []
  },
  "Provincie Zeeland": {
   "robots": {
@@ -635,18 +612,18 @@
   "per_zoekvraag": {
    "\"nitrogen deposition\" AND (\"Natura 2000\" OR \"protected area\" OR \"protected areas\" OR habitat OR heathland)": 0,
    "(\"construction machinery\" OR \"construction equipment\" OR \"construction sector\" OR \"construction site\") AND (nitrogen OR NOx OR \"zero-emission\")": 0,
-   "ammonia OR \"nitrogen deposition\" OR (\"critical load\" AND nitrogen)": 0,
+   "ammonia OR \"nitrogen deposition\" OR (\"critical load\" AND nitrogen)": 1,
    "\"Nature Restoration Law\" OR \"Nature Restoration Regulation\" OR \"Habitats Directive\"": 0,
    "\"nature restoration\" OR \"habitat restoration\" OR \"ecological restoration\" OR \"conservation status\"": 0,
-   "(\"urban biodiversity\" OR \"urban green space\" OR \"green infrastructure\") AND (housing OR \"urban development\" OR \"urban planning\" OR building)": 5,
+   "(\"urban biodiversity\" OR \"urban green space\" OR \"green infrastructure\") AND (housing OR \"urban development\" OR \"urban planning\" OR building)": 7,
    "\"nature-inclusive\" OR \"nature inclusive\" OR \"biodiversity-inclusive\" OR (\"green roof\" AND biodiversity) OR (\"green facade\" AND biodiversity)": 1,
    "(\"Apus apus\" OR \"common swift\" OR \"house sparrow\" OR \"Passer domesticus\" OR \"bat roost\" OR \"bat roosts\" OR \"nest box\" OR \"nest boxes\") AND (building OR buildings OR renovation OR urban)": 1,
-   "(\"wildlife crossing\" OR \"wildlife crossings\" OR \"road ecology\" OR \"roadkill\" OR \"habitat fragmentation\") AND (road OR roads OR railway OR infrastructure)": 0,
-   "(\"environmental DNA\" OR eDNA) AND (monitoring OR survey OR detection)": 5,
-   "\"Water Framework Directive\"": 0,
+   "(\"wildlife crossing\" OR \"wildlife crossings\" OR \"road ecology\" OR \"roadkill\" OR \"habitat fragmentation\") AND (road OR roads OR railway OR infrastructure)": 1,
+   "(\"environmental DNA\" OR eDNA) AND (monitoring OR survey OR detection)": 8,
+   "\"Water Framework Directive\"": 1,
    "PFAS AND (soil OR groundwater OR sediment OR \"surface water\")": 0,
-   "(\"urban heat island\" OR \"heat stress\" OR \"climate adaptation\" OR \"pluvial flooding\") AND (urban OR city OR building OR \"built environment\")": 0,
-   "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)": 6
+   "(\"urban heat island\" OR \"heat stress\" OR \"climate adaptation\" OR \"pluvial flooding\") AND (urban OR city OR building OR \"built environment\")": 1,
+   "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)": 12
   }
  },
  "Raad voor de leefomgeving en infrastructuur (Rli)": {
@@ -680,7 +657,8 @@
     "Disallow: /web.config"
    ],
    "pagina_toegestaan": true
-  }
+  },
+  "json_eindpunten": []
  },
  "BIJ12": {
   "robots": {
@@ -1210,10 +1188,9 @@
  },
  "Koninklijke VHG": {
   "robots": {
-   "status": 404,
-   "regels": [],
-   "pagina_toegestaan": true
-  }
+   "fout": "ConnectTimeout"
+  },
+  "browserfout": "TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\nnavigating to \"https://www.vhg.org/nieuws\", waiting until \"networkidle\"\n"
  },
  "KAN Kennisnetwerk natuurinclusief bouwen": {
   "robots": {
@@ -1310,7 +1287,7 @@
   "robots": {
    "status": 403,
    "regels": [
-    "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-KWxVrXYhCTzWX9PNAozIJW&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"KWxVrXYhCTzWX9PNAozIJW\">(function(){window._cf_chl_opt = {cFPWv: 'b',cH: 'oFfFExD_o0OP3X8Kk0RiGCbwUsq7H4HFcDHj79QwbNw-1792558203-1.2.1.1-5zuCLHB4hSo.BRJlWjHfu0s.2PNZP7dHRLPeGVTAs3TbCR5hRICYq.h9l05bHSb8',cITimeS: '1792558203',cN: 'KWxVrXYhCTzWX9PNAozIJW',cRay: 'a4dda3a2dfaf1b62',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/robots.txt?__cf_chl_tk=Ui.GrwSVuIqrPhLtaO8nBMkI6me18J4SPWqFJX7OLHk-1792558203-1.0.1.1-3EEZ2D_NNFV6LBLUZHc4UNFnbQ2RkMcmhF19GxuSNyk\",cvId: '3',cZone: 'iclei-europe.org',fa:\"/robots.txt?__cf_chl_f_tk=Ui.GrwSVuIqrPhLtaO8nBMkI6me18J4SPWqFJX7OLHk-1792558203-1.0.1.1-3EEZ2D_NNFV6LBLUZHc4UNFnbQ2RkMcmhF19GxuSNyk\",md: 'HvbynPjWIOHo9OTdO6w7gjBl6YotUwbWVnZS6HWZYcE-1792558203-1.2.1.1-poFWe7ZEUlPOaixyoKA3hRZBBmwGdwpfUvSJMSvr3jzZNPIkNNeguL3qlmR3HZDKqYjnujc5.JHkU8mWZyPksDn6YoUF7QCyCwK9P74aGQbY.4DcTcGGxCZyUSsILY.Yu2VbRbG9pGDg9gyqW_LYYQ4JGSBKoxn8dOLSSbomN7bG.qHsu4Q7EvNxEOkoCrDAe_9EpLzoMGp4Y71uhuTd_VcZGgtJTamKR1QbjlrR7csUrEMwRRvUxZBVOMEiJzj29_HhDEcUkNkaI8v1mX_ir0ca6qrvsZNvfv0KhX86Dh11UlZwK6J7TAo98zeGCPaTKS9rtzEC3JdT1tQkkh4bj9SukuJ2bvtX5iqHJ7jqEaUfdC7dIhp3EqA8L2M_r85XZD1.6TAv9xYNrXz_NssR5CaxvXtSP9ysvyCaKbrQRQ7HoVn2B7bJPzd74ZBfqWc5S9eKoNIYnxFY4VG9xl7fnPk2vGcwACNZfbjnWQsctAeCsFKGWo00pi3GRT.x_gYV.qplz3cfEKN.hgdJHLFmEuFqXMjrNBGMrIkmhpOwdl.QCnGoYlglSAn9tTBlTOGL_zpEfl0rtpH5rsIhienY7k1CyWKalzRBlq25R2tSpj7e0t5JWMAyN3axgTy.B4xpi9Plotlik3CZA6nLKjwMjo08tRruxKvSB78vedXHBE4h45rBwBJIImuRGfQj_oQRX6dACwIVh9mSPkIT4OWct6VNnNZ4GFqRPAQl1xe6rAYrGLq_2wTatM33jOrK3G.NJD0wU6Ln9FssW710ZmgoTgotPjm.GvTN6d1i9G88E9qoe8kPHKueiJN4meSPXeWTznABVx68QcjTvZN0Qmg9huG.KP0cNoHNK_zAqsPymQFLTeexudl9U6AECq7FNaiSVJNwgyzep4oI0IDnIfw8IyWR22BxmQ9qxgRKNhvHXokrB.4pWNePmS5tyLDbc.OHNTQMVIGODsQWlIxUcdEXQ.I_yn2mIR480lNiFVMwcJfTTRgootq3Nb3AROanrv4Pdcxy77yBdfRMBGkmNt.U_ChMmSR5Qb_tSwed8d1atIw_zOBIOHozazUkAy1tOB6vydEYbIJ1hM5IVKsdxJ6pLfqp6wrafmJJ6LEsTFh6KMrpHdSVBoxv51hCl2QFgdUZYv1fOZWmQFG1dCEgiCXRRQzhUXQIgA_4xH.Mtri4Wuw',mdrd: '8R.Ut5MkafkI7dkno7sEF9HzKkSY4COiVuj7J8oHlVo-1792558203-1.2.1.1-zrRL.pgkBz4IaLT6EfO63YgNnj9RFRLW_zhy3X.M2In8B8jFhmUHFmq3iTT89jq_wx4sZ7MwuA0utkY_nL3ueM1Q_vcyi55u3rB2l2w.vklzT92JBetFv8xNe8lBA3Vi.KY2bB62oQcTorQ.6LFhcTAlhz7ECEDWp1Dx.NT5gV.g9OFTdY1Bs8CoLy5AugJFs7JbngkAseW8vEc5._23xsAwcBGrqqKMlIuJF05mFHo91J_ekbH0tUYF9.xxWZpnDqVTqhBGPBFHcB2b5.uD6hKMSllS7BvXsEcoljgJRD9VNwnuwPvQk5nvJ5ZSlqfma.N8VHnoBKQ0.aPGgtXqlfxHpEBznJ_S47_FGSqPw9lF_dtBLNO1RLQoAMgH1EjnGX0BWz1uhcy43BbJrdJuhuiBra4V6LA3RurCaEGLx1A',};var a = document.createElement('script');a.nonce = 'KWxVrXYhCTzWX9PNAozIJW';a.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=a4dda3a2dfaf1b62';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/robots.txt?__cf_chl_rt_tk=Ui.GrwSVuIqrPhLtaO8nBMkI6me18J4SPWqFJX7OLHk-1792558203-1.0.1.1-3EEZ2D_NNFV6LBLUZHc4UNFnbQ2RkMcmhF19GxuSNyk\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>"
+    "<!DOCTYPE html><html lang=\"en-US\"><head><title>Just a moment...</title><meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=Edge\"><meta name=\"robots\" content=\"noindex,nofollow\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta http-equiv=\"content-security-policy\" content=\"default-src &#39;none&#39;; script-src &#39;nonce-Rrouia93QkOndjy8ZOOH47&#39; &#39;unsafe-eval&#39; https://challenges.cloudflare.com; script-src-attr &#39;none&#39;; style-src &#39;unsafe-inline&#39;; img-src &#39;self&#39; https://challenges.cloudflare.com; connect-src &#39;self&#39; https://challenges.cloudflare.com; frame-src &#39;self&#39; https://challenges.cloudflare.com blob:; child-src &#39;self&#39; https://challenges.cloudflare.com blob:; worker-src blob:; form-action http: https:; base-uri &#39;self&#39;\"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}#challenge-error-text{background-image:url(\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+\");background-repeat:no-repeat;background-size:contain;padding-left:34px}</style><meta http-equiv=\"refresh\" content=\"360\"></head><body><div class=\"main-wrapper\" role=\"main\"><div class=\"main-content\"><noscript><div class=\"h2\"><span id=\"challenge-error-text\">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script nonce=\"Rrouia93QkOndjy8ZOOH47\">(function(){window._cf_chl_opt = {cFPWv: 'b',cH: 'LmopO6r6Ouw2bUtNSrhZEoEppv_CNQGxM3rFY4pkmdU-1792645509-1.2.1.1-dDmG4XIcAhR6vA19SKtQgrj59t8CrPq1A8HUsOFXtAmgk9dI33.n10_k1VGjbYcl',cITimeS: '1792645509',cN: 'Rrouia93QkOndjy8ZOOH47',cRay: 'a4e5f7239842c967',cTplC:0,cTplO:0,cTplV:5,cType: 'managed',cUPMDTk:\"/robots.txt?__cf_chl_tk=tdW172.onlZj8cx1AqTohaisI4Yw_3WNQFseOidnp98-1792645509-1.0.1.1-h7KxrKZv.4pVoVlRXdn3QZ6R4DrCDmOCjy6dCdgZo.E\",cvId: '3',cZone: 'iclei-europe.org',fa:\"/robots.txt?__cf_chl_f_tk=tdW172.onlZj8cx1AqTohaisI4Yw_3WNQFseOidnp98-1792645509-1.0.1.1-h7KxrKZv.4pVoVlRXdn3QZ6R4DrCDmOCjy6dCdgZo.E\",md: 'VUVrZxZh.ZXOrDopli0uRMCB.vpKYi0bYEK3eyOLKs0-1792645509-1.2.1.1-xbd1BDsuU0VozCunWQsmsVc3Ectkv_fMp9hOXvUwaoYecc3ByNNjEX06KeaoqoW48P3DVbmvGd4It6p9GJcx72jUjEQccnp3MMC61gc0.9B0D.bvRv4EMH5ZFjUzAAcIVtUHOTbc_TKokutSXaaMKqVZlmULa65_FUNBHHAYCpE17dL0kx9PASTenDNVi6bs0hNhkvETezk4z1XZjcnmDjI1OFtMm6WEEsb_951SCp8LjmObuq38vxiyFDM18RWmYBEVRf8VPWQE6RWoRXploDWgD7TwssC8BHS3E40IpJcZGyWXBoZmYNZSkWBd3whmSkWzm6MnpmEC4uBC3dkkMSOvbspG20pruc2Pr6_qwF1q13.caE6B_aYAo9ZvOOiot9n2v_bOVlm_rLrExW2eGeOdKcq8IJwsHfJjPb0F544hGTOEmZkflZmePcqjIlVZeryDm37U51GQwGwb5LEwsRyouUH8CviYPxMxP7l.LUVQ.H4Tzly7cKdzizGUt4KqweOYSg34uio_2pb9GKiTveGHHHkvXOwAdTId7Be1U6UmnBPKVfUMKuzUh3L5AruiKD8jy850mVfbb9L3OIE96e2uQWgzXnseNVIM63lhRPdiAuEu0d5rGoAgv0ucYolH38AgKKtgFxIl0GVlB9sbEEacS_J3tzdDZc1yY4FpYCqFVwMI9.8IDxPgGdrM_B9X6uovFu9nQwuWSo_ZHEY4JF9tgBaB1Coi1FwVwIBqRvOivWN.G.YRnJ1G2kAeogpeeC3s2zR5u0KhM86mPeTjq90WtgYensTP9l9cXGy4wMGZB2hx22gLKJjNNDtUZ6rTRA.mpO71tmw.YAN3etOtM7ZrnwuuGzF3ZPEId4RRZpGGgKH0N9HOWL1oLF.eV7mjnDFAoYFxT_4gsZpncW1ic0hpKNL2caLHGgkrZAZuL4KBzjDNTz3zZps05ybtVOFTP5bcY05P9i7J0Z39HKcvBy3QIrCKupUu.4P42fLODO78RTEKLArjuf95WxZK_jpl0Upm7Yv1vT2M79vFNbmeTfRGHapmhRnb9CWdNsM7JuWVOhFFGJGK8zybN3_ElOlFUzjEVn_frHygcatvJ_SnFzuNGxsfCfKxmiXiOSlbW83ijPjO2v2Y65x.zMVbC2FxHwGaXqxoSFyIhPlficbw3egM3Y.xEMULoNz5WU8E7sM',mdrd: 'O1Rvy5p5T1l.ydQ6pguaLwoWcrEAH.ZTFWBMH3uAt.4-1792645509-1.2.1.1-E1RAUNB9POj1kKNsxe.m3jlulHvgPAEfR3YiliV6oVmU7jCRIoPJzPRPiX53dGq2fjxlFHPDUTaIoX8iBriwwjGOPepgp3jhiI0o_XnRkGIIbCqFxP3ACKtY8xeoSF3VY2RvrHgiucVnwkdjhXvyYVCoXJgi6DIQEe9lpvIsQqzZ3jMOY1HzWIqdWxNeS3fqiG24pp8W_x7FUpzPJk8KAkLCD15HlDGuVIxXYyCXcN_B9JWGhJcWYafoZuzCNZI7hWxJHu2v_ZoAlKUXdyFDR6wrxDUVy4wM1Fed4.i.v83s6u0zLRMWp8PD5CZuVF7brIj9VTs73jBGXisggMOKsEuSmmsv1eJ_jhG9Nxze5XBYgR6HN2aN09WOW9LUvoIsSR6iuydO9wpkUdFwyLpzMOsHCrP0syazGbKBnHaPBLM',};var a = document.createElement('script');a.nonce = 'Rrouia93QkOndjy8ZOOH47';a.src = '/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1?ray=a4e5f7239842c967';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,\"/robots.txt?__cf_chl_rt_tk=tdW172.onlZj8cx1AqTohaisI4Yw_3WNQFseOidnp98-1792645509-1.0.1.1-h7KxrKZv.4pVoVlRXdn3QZ6R4DrCDmOCjy6dCdgZo.E\"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script></body></html>"
    ],
    "pagina_toegestaan": true
   }
@@ -1489,8 +1466,8 @@
    "K&GG | vaste commissie voor Klimaat en Groene Groei": 17,
    "Taal | interparlementaire commissie inzake de Nederlandse Taalunie": 1,
    "FIN | vaste commissie voor Financiën": 10,
-   "VWS | vaste commissie voor Volksgezondheid, Welzijn en Sport": 23,
-   "BHO | vaste commissie voor Buitenlandse Handel en Ontwikkelingssamenwerking": 15,
+   "VWS | vaste commissie voor Volksgezondheid, Welzijn en Sport": 24,
+   "BHO | vaste commissie voor Buitenlandse Handel en Ontwikkelingssamenwerking": 16,
    "TK | TK": 50,
    "BiZa | vaste commissie voor Binnenlandse Zaken": 13,
    "J&V | vaste commissie voor Justitie en Veiligheid": 20,
