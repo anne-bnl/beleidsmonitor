@@ -1,18 +1,6 @@
 {
- "bijgewerkt": "2026-10-22T04:45:26+00:00",
+ "bijgewerkt": "2026-10-23T04:53:46+00:00",
  "items": [
-  {
-   "id": "53f93e0e6748ff7e",
-   "bron": "Internetconsultatie",
-   "soort": "Consultatie",
-   "wat": "Wijzigingsregeling Waadi",
-   "datum": "2026-10-22",
-   "start": "2026-10-08",
-   "url": "https://www.internetconsultatie.nl/wijzigingsregelingwaadinormenkader",
-   "commissie": "SZW",
-   "themas": [],
-   "bouw": false
-  },
   {
    "id": "ff30b4b94888a0f7",
    "bron": "Internetconsultatie",
@@ -60,6 +48,20 @@
    "commissie": "Fin",
    "themas": [],
    "bouw": false
+  },
+  {
+   "id": "066b5c3dffe0a675",
+   "bron": "Tweede Kamer",
+   "soort": "E-mailprocedure",
+   "wat": "Verzoek van de leden De Hoop (PRO), Grinwis (CU) en Beckerman (SP) om uitstel van het commissiedebat Staat van de Volkshuisvesting van 28 oktober a.s. ",
+   "datum": "2026-10-23",
+   "tijd": "16:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Volkshuisvesting en Ruimtelijke Ordening",
+   "commissie_afk": "VRO",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07817",
+   "themas": [],
+   "kerncommissie": true
   },
   {
    "id": "c87d331b75620443",
@@ -328,6 +330,20 @@
    "commissie": "vaste commissie voor Volkshuisvesting en Ruimtelijke Ordening",
    "commissie_afk": "VRO",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07641",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "0d620c6d7fff811c",
+   "bron": "Tweede Kamer",
+   "soort": "Technische briefing",
+   "wat": "Vertrouwelijke technische briefing over de aanpak van de schaduwvloot",
+   "datum": "2026-10-29",
+   "tijd": "11:30",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07665",
    "themas": [],
    "kerncommissie": true
   },
