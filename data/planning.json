@@ -1,68 +1,6 @@
 {
- "bijgewerkt": "2026-10-23T04:53:46+00:00",
+ "bijgewerkt": "2026-10-24T04:44:18+00:00",
  "items": [
-  {
-   "id": "ff30b4b94888a0f7",
-   "bron": "Internetconsultatie",
-   "soort": "Consultatie",
-   "wat": "Regeling nieuw stembiljet",
-   "datum": "2026-10-23",
-   "start": "2026-09-28",
-   "url": "https://www.internetconsultatie.nl/regelingnieuwstembiljet",
-   "commissie": "BZK",
-   "themas": [],
-   "bouw": false
-  },
-  {
-   "id": "5fbe49e3bd7cc358",
-   "bron": "Internetconsultatie",
-   "soort": "Consultatie",
-   "wat": "Wet hervorming landelijke publieke omroep",
-   "datum": "2026-10-23",
-   "start": "2026-09-11",
-   "url": "https://www.internetconsultatie.nl/landelijkepubliekeomroep",
-   "commissie": "OCW",
-   "themas": [],
-   "bouw": false
-  },
-  {
-   "id": "ecfb5e14c0aec7f7",
-   "bron": "Internetconsultatie",
-   "soort": "Consultatie",
-   "wat": "Wet onderhoud Zorgverzekeringswet",
-   "datum": "2026-10-23",
-   "start": "2026-09-11",
-   "url": "https://www.internetconsultatie.nl/onderhoudzvw",
-   "commissie": "VWS",
-   "themas": [],
-   "bouw": false
-  },
-  {
-   "id": "7b113fd3024e3730",
-   "bron": "Internetconsultatie",
-   "soort": "Consultatie",
-   "wat": "Wijziging Notitie Fiscaal Verdragsbeleid 2020",
-   "datum": "2026-10-23",
-   "start": "2026-09-09",
-   "url": "https://www.internetconsultatie.nl/verdragsbeleid",
-   "commissie": "Fin",
-   "themas": [],
-   "bouw": false
-  },
-  {
-   "id": "066b5c3dffe0a675",
-   "bron": "Tweede Kamer",
-   "soort": "E-mailprocedure",
-   "wat": "Verzoek van de leden De Hoop (PRO), Grinwis (CU) en Beckerman (SP) om uitstel van het commissiedebat Staat van de Volkshuisvesting van 28 oktober a.s. ",
-   "datum": "2026-10-23",
-   "tijd": "16:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Volkshuisvesting en Ruimtelijke Ordening",
-   "commissie_afk": "VRO",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07817",
-   "themas": [],
-   "kerncommissie": true
-  },
   {
    "id": "c87d331b75620443",
    "bron": "Internetconsultatie",
@@ -86,6 +24,20 @@
    "commissie": "vaste commissie voor Klimaat en Groene Groei",
    "commissie_afk": "K&GG",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05143",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "e10a1c743173523b",
+   "bron": "Tweede Kamer",
+   "soort": "E-mailprocedure",
+   "wat": "[E-MAILPROCEDURE] Voorstel van de leden Grinwis (CU) en Flach (SGP) om de minister van Klimaat en Groene Groei uit te nodigen voor het commissiedebat Tuinbouw en Biotechnologie op 5 november 2026",
+   "datum": "2026-10-26",
+   "tijd": "15:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
+   "commissie_afk": "LVVN",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07819",
    "themas": [],
    "kerncommissie": true
   },
@@ -282,18 +234,6 @@
    "bouw": false
   },
   {
-   "id": "a1fd14501c8a18ef",
-   "bron": "Internetconsultatie",
-   "soort": "Consultatie",
-   "wat": "SoHO uitvoeringsbesluit compensatie donor",
-   "datum": "2026-10-29",
-   "start": "2026-10-01",
-   "url": "https://www.internetconsultatie.nl/wvk_soho",
-   "commissie": "VWS",
-   "themas": [],
-   "bouw": false
-  },
-  {
    "id": "f2a8d5273803ab82",
    "bron": "Internetconsultatie",
    "soort": "Consultatie",
@@ -301,6 +241,18 @@
    "datum": "2026-10-29",
    "start": "2026-10-01",
    "url": "https://www.internetconsultatie.nl/soho",
+   "commissie": "VWS",
+   "themas": [],
+   "bouw": false
+  },
+  {
+   "id": "a1fd14501c8a18ef",
+   "bron": "Internetconsultatie",
+   "soort": "Consultatie",
+   "wat": "SoHO uitvoeringsbesluit compensatie donor",
+   "datum": "2026-10-29",
+   "start": "2026-10-01",
+   "url": "https://www.internetconsultatie.nl/wvk_soho",
    "commissie": "VWS",
    "themas": [],
    "bouw": false
@@ -1386,6 +1338,34 @@
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06721",
    "themas": [],
    "kerncommissie": false
+  },
+  {
+   "id": "bd43b6d3ece1ae80",
+   "bron": "Tweede Kamer",
+   "soort": "Wetgevingsoverleg",
+   "wat": "Water - reservering voor mogelijke voortzetting wetgevingsoverleg 23 november ",
+   "datum": "2026-11-24",
+   "tijd": "16:30",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07150",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "5e85677f017b2375",
+   "bron": "Tweede Kamer",
+   "soort": "Rondetafelgesprek",
+   "wat": "Esthetisch bouwen",
+   "datum": "2026-11-25",
+   "tijd": "10:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Volkshuisvesting en Ruimtelijke Ordening",
+   "commissie_afk": "VRO",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07824",
+   "themas": [],
+   "kerncommissie": true
   },
   {
    "id": "a2adce5dffad308b",
