@@ -1,0 +1,323 @@
+{
+ "run": {
+  "run_op": "2026-10-25T04:45:09+00:00",
+  "bronnen_totaal": 90,
+  "bronnen_gelukt": 80,
+  "bronnen_mislukt": [
+   "Europees Parlement nieuws",
+   "FIEC"
+  ],
+  "bronnen_zoekcontrole": [
+   "Open Overheid (Woo-publicaties)",
+   "Unie van Waterschappen",
+   "EUR-Lex",
+   "Provincie Fryslân",
+   "Gemeente Rotterdam",
+   "Natuur & Milieu",
+   "ICLEI Europe",
+   "Mobilisation for the Environment (MOB)"
+  ],
+  "documenten_gelezen": 0,
+  "documenten_mislukt": [],
+  "achterstand_documenten": 0,
+  "vervallen_uit_oude_rij": 0,
+  "doorgelaten": 17
+ },
+ "items": [
+  {
+   "id": "b06d8fed199f5bf4",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "cat": "Onderzoek",
+   "soort": "Wetenschappelijke publicatie (book-chapt",
+   "titel": "Introduction",
+   "datum": "2026-10-23",
+   "status": "nieuw",
+   "themas": [],
+   "themas_tekst": [],
+   "bouw": false,
+   "doc_fout": false,
+   "volledige_tekst": false,
+   "url": "https://doi.org/10.1016/b978-0-443-40588-4.00005-8",
+   "rubriek": "onderzoek"
+  },
+  {
+   "id": "44ab44e9f98d5cc5",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "cat": "Onderzoek",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "Ag/Ti Electrodes for Electrochemical Nitrate Reduction: Revealing Highly Effective Interfaces by In‐Situ Electrochemical Mass Spectrometry",
+   "datum": "2026-10-23",
+   "status": "nieuw",
+   "themas": [],
+   "themas_tekst": [],
+   "bouw": false,
+   "doc_fout": false,
+   "volledige_tekst": false,
+   "url": "https://doi.org/10.1002/celc.70261",
+   "rubriek": "onderzoek"
+  },
+  {
+   "id": "87a48974e32b9a91",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "cat": "Onderzoek",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "Comparison of the vascular flora of three calcareous mountainous regions in Bulgaria – Mt Zemenska, Mt Golo Burdo and hills Besaparski Ridove",
+   "datum": "2026-10-20",
+   "status": "nieuw",
+   "themas": [],
+   "themas_tekst": [],
+   "bouw": false,
+   "doc_fout": false,
+   "volledige_tekst": false,
+   "url": "https://doi.org/10.60066/gsu.biofac.bot.109.33-55",
+   "rubriek": "onderzoek"
+  },
+  {
+   "id": "086b68021ecc5b95",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "cat": "Onderzoek",
+   "soort": "Wetenschappelijke publicatie (preprint)",
+   "titel": "Urban green space research, knowledge gaps and opportunities for advancing nature-based solutions: Lessons from Bangladesh",
+   "datum": "2026-10-23",
+   "status": "nieuw",
+   "themas": [],
+   "themas_tekst": [],
+   "bouw": false,
+   "doc_fout": false,
+   "volledige_tekst": false,
+   "url": "https://doi.org/10.21203/rs.3.rs-5755475/v1",
+   "rubriek": "onderzoek"
+  },
+  {
+   "id": "ad74437294f8d349",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "cat": "Onderzoek",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "Multiscenario Simulation and Prediction of Urban Green Space in the Changle District of Fuzhou City, China, Based on Multiobjective Optimization and a GeoSOS-FLUS Model",
+   "datum": "2026-10-23",
+   "status": "nieuw",
+   "themas": [],
+   "themas_tekst": [],
+   "bouw": false,
+   "doc_fout": false,
+   "volledige_tekst": false,
+   "url": "https://doi.org/10.1061/jupddm.upeng-6507",
+   "rubriek": "onderzoek"
+  },
+  {
+   "id": "90d1708875f0919f",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "cat": "Onderzoek",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "A multi-source approach for the detection and diversity assessment of avian schistosomes (Trematoda, Schistosomatidae) in freshwater ecosystems",
+   "datum": "2026-10-23",
+   "status": "nieuw",
+   "themas": [
+    "eDNA en monitoring"
+   ],
+   "themas_tekst": [],
+   "bouw": false,
+   "doc_fout": false,
+   "volledige_tekst": false,
+   "url": "https://doi.org/10.3897/mbmg.10.197780",
+   "rubriek": "onderzoek"
+  },
+  {
+   "id": "9822e550f8a530dd",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "cat": "Onderzoek",
+   "soort": "Wetenschappelijke publicatie (preprint)",
+   "titel": "As open as possible, as protected as necessary: Proportionate governance for environmental DNA under the BBNJ Agreement",
+   "datum": "2026-10-23",
+   "status": "nieuw",
+   "themas": [
+    "Natuurherstel en gebiedsbescherming",
+    "eDNA en monitoring"
+   ],
+   "themas_tekst": [],
+   "bouw": false,
+   "doc_fout": false,
+   "volledige_tekst": false,
+   "url": "https://doi.org/10.32942/x2mt3m",
+   "rubriek": "onderzoek"
+  },
+  {
+   "id": "edfdf2640ed5edd9",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "cat": "Onderzoek",
+   "soort": "Wetenschappelijke publicatie (book-chapt",
+   "titel": "Nanostructured sensors for monitoring environmental contaminants, remote environmental monitoring, environmental health monitoring, and monitoring biodiversity in green microbial nanotechnology for sensors",
+   "datum": "2026-10-23",
+   "status": "nieuw",
+   "themas": [
+    "Natuurherstel en gebiedsbescherming"
+   ],
+   "themas_tekst": [],
+   "bouw": false,
+   "doc_fout": false,
+   "volledige_tekst": false,
+   "url": "https://doi.org/10.1016/b978-0-443-51012-0.00013-5",
+   "rubriek": "onderzoek"
+  },
+  {
+   "id": "9963681e28f4189b",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "cat": "Onderzoek",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "Data and R code for \"Monthly eDNA monitoring reveals temporal turnover and sampling-frequency effects in tropical river fish assemblages\"",
+   "datum": "2026-10-21",
+   "status": "nieuw",
+   "themas": [
+    "eDNA en monitoring"
+   ],
+   "themas_tekst": [],
+   "bouw": false,
+   "doc_fout": false,
+   "volledige_tekst": false,
+   "url": "https://doi.org/10.5281/zenodo.23533572",
+   "rubriek": "onderzoek"
+  },
+  {
+   "id": "0e809554c3dcb949",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "cat": "Onderzoek",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "Thresholds in the dark – Colmation thresholds as a tool for identifying degraded streams",
+   "datum": "2026-10-22",
+   "status": "nieuw",
+   "themas": [
+    "Waterkwaliteit"
+   ],
+   "themas_tekst": [],
+   "bouw": false,
+   "doc_fout": false,
+   "volledige_tekst": false,
+   "url": "https://doi.org/10.1016/j.limno.2026.126392",
+   "rubriek": "onderzoek"
+  },
+  {
+   "id": "aa54a5bde4cc1120",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "cat": "Onderzoek",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "Assessment of Ecological Status of Standing Water Bodies in Bulgaria: Calibration of a New Multi-Metric for Macroinvertebrates",
+   "datum": "2026-10-22",
+   "status": "nieuw",
+   "themas": [
+    "Waterkwaliteit"
+   ],
+   "themas_tekst": [],
+   "bouw": false,
+   "doc_fout": false,
+   "volledige_tekst": false,
+   "url": "https://doi.org/10.3390/fishes11110612",
+   "rubriek": "onderzoek"
+  },
+  {
+   "id": "e602960a202bf47e",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "cat": "Onderzoek",
+   "soort": "Wetenschappelijke publicatie (review)",
+   "titel": "Tracking the evolution of urban resilience: A systematic review of research themes and trends over two decades",
+   "datum": "2026-10-22",
+   "status": "nieuw",
+   "themas": [
+    "Klimaatadaptatie"
+   ],
+   "themas_tekst": [],
+   "bouw": false,
+   "doc_fout": false,
+   "volledige_tekst": false,
+   "url": "https://doi.org/10.1016/j.envsci.2026.104527",
+   "rubriek": "onderzoek"
+  },
+  {
+   "id": "126d34645d1a1cc7",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "cat": "Onderzoek",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "A scale-invariant framework for integrating nature-based solutions into dense urban areas to improve accessibility and equity of access to urban blue and green spaces",
+   "datum": "2026-10-23",
+   "status": "nieuw",
+   "themas": [
+    "Natuurherstel en gebiedsbescherming"
+   ],
+   "themas_tekst": [],
+   "bouw": false,
+   "doc_fout": false,
+   "volledige_tekst": false,
+   "url": "https://doi.org/10.1016/j.ecolind.2026.115767",
+   "rubriek": "onderzoek"
+  },
+  {
+   "id": "36beeb3b9eecb76c",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "cat": "Onderzoek",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "Mapping Digital Platforms and Their Infrastructural Foundations for Biodiversity: A Bibliometric Analysis",
+   "datum": "2026-10-23",
+   "status": "nieuw",
+   "themas": [
+    "Natuurherstel en gebiedsbescherming"
+   ],
+   "themas_tekst": [],
+   "bouw": false,
+   "doc_fout": false,
+   "volledige_tekst": false,
+   "url": "https://doi.org/10.1111/radm.70064",
+   "rubriek": "onderzoek"
+  },
+  {
+   "id": "ed9f43162cc32546",
+   "bron": "NOS Politiek",
+   "cat": "Media",
+   "soort": "",
+   "titel": "Kabinet nodigt zeven oppositiepartijen uit voor onderhandelingen belastingplan",
+   "datum": "2026-10-24",
+   "status": "nieuw",
+   "themas": [
+    "Stikstof"
+   ],
+   "themas_tekst": [],
+   "bouw": false,
+   "doc_fout": false,
+   "volledige_tekst": false,
+   "url": "https://nos.nl/l/2636518",
+   "rubriek": "bericht"
+  },
+  {
+   "id": "cacbefeaa9f6cf4e",
+   "bron": "NU.nl Algemeen",
+   "cat": "Media",
+   "soort": "",
+   "titel": "Droge zomer lijkt al vergeten: honderden miljoenen voor maatregelen geschrapt",
+   "datum": "2026-10-24",
+   "status": "nieuw",
+   "themas": [
+    "Klimaatadaptatie"
+   ],
+   "themas_tekst": [],
+   "bouw": true,
+   "doc_fout": false,
+   "volledige_tekst": false,
+   "url": "https://www.nu.nl/binnenland/6414156/droge-zomer-lijkt-al-vergeten-honderden-miljoenen-voor-maatregelen-geschrapt.html",
+   "rubriek": "bericht"
+  },
+  {
+   "id": "156f85d647ec56d3",
+   "bron": "Cobouw",
+   "cat": "Bouwmedia",
+   "soort": "",
+   "titel": "Opinie 23 okt 26 Blog | Zichtbaar resultaat vraagt om een lange adem We willen vooruit. En het liefst zien we vandaag al wat dat oplevert. Dat is begrijpelijk, zeker in een tijd waarin de woningbouw en de infrastructuur ",
+   "datum": null,
+   "status": "gewijzigd",
+   "themas": [],
+   "themas_tekst": [],
+   "bouw": true,
+   "doc_fout": false,
+   "volledige_tekst": false,
+   "url": "https://www.cobouw.nl/340076/zichtbaar-resultaat-vraagt-om-een-lange-adem",
+   "rubriek": "bericht"
+  }
+ ]
+}
