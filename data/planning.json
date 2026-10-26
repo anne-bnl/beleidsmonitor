@@ -1,18 +1,6 @@
 {
- "bijgewerkt": "2026-10-25T04:45:09+00:00",
+ "bijgewerkt": "2026-10-26T04:48:33+00:00",
  "items": [
-  {
-   "id": "c87d331b75620443",
-   "bron": "Internetconsultatie",
-   "soort": "Consultatie",
-   "wat": "Wijzigingen Omgevingswet en InvoeringwetOmgevingswet",
-   "datum": "2026-10-25",
-   "start": "2026-09-24",
-   "url": "https://www.internetconsultatie.nl/omgevingswetinvoeringswetomgevingswet",
-   "commissie": "BZK",
-   "themas": [],
-   "bouw": true
-  },
   {
    "id": "078b8e06e3ee1988",
    "bron": "Tweede Kamer",
@@ -1310,6 +1298,18 @@
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A01439",
    "themas": [],
    "kerncommissie": true
+  },
+  {
+   "id": "17e96fd40a240dd5",
+   "bron": "Internetconsultatie",
+   "soort": "Consultatie",
+   "wat": "Regeling Integraal Huisvestingsplan",
+   "datum": "2026-11-23",
+   "start": "2026-10-26",
+   "url": "https://www.internetconsultatie.nl/ihp",
+   "commissie": "OCW",
+   "themas": [],
+   "bouw": false
   },
   {
    "id": "741563a4b41484ea",

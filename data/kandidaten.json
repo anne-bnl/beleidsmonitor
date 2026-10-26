@@ -1,6 +1,6 @@
 {
  "run": {
-  "run_op": "2026-10-25T04:45:09+00:00",
+  "run_op": "2026-10-26T04:48:33+00:00",
   "bronnen_totaal": 90,
   "bronnen_gelukt": 80,
   "bronnen_mislukt": [
@@ -21,220 +21,181 @@
   "documenten_mislukt": [],
   "achterstand_documenten": 0,
   "vervallen_uit_oude_rij": 0,
-  "doorgelaten": 17
+  "doorgelaten": 19
  },
  "items": [
   {
-   "id": "b06d8fed199f5bf4",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (book-chapter)",
-   "titel": "Introduction",
-   "samenvatting_bron": "",
-   "url": "https://doi.org/10.1016/b978-0-443-40588-4.00005-8",
-   "datum": "2026-10-23",
-   "versie": "dce3c970eb7aa3df",
+   "id": "17e96fd40a240dd5",
+   "bron": "Internetconsultatie",
+   "categorie": "Consultaties",
+   "methode": "api_internetconsultatie",
+   "soort": "Internetconsultatie",
+   "titel": "Regeling Integraal Huisvestingsplan",
+   "samenvatting_bron": "Organisatie: OCW. Sluit: 2026-11-23",
+   "url": "https://www.internetconsultatie.nl/ihp",
+   "datum": "2026-10-26",
+   "versie": "fb575ff8d16f8a47",
    "extra": {
-    "tijdschrift": "Elsevier eBooks",
-    "instellingen": [
-     "Chinese Academy of Sciences",
-     "Northeast Institute of Geography and Agroecology"
-    ],
-    "zoekvraag": "\"nitrogen deposition\" AND (\"Natura 2000\" OR \"protected area\" OR \"protected areas\" OR habitat OR heathland)",
-    "thema_hint": "Stikstof",
-    "open_access": false
+    "sluitingsdatum": "2026-11-23",
+    "velden": [
+     "titel",
+     "url",
+     "startdatum",
+     "einddatum",
+     "departement"
+    ]
    },
    "status": "nieuw",
    "thema_treffers": {},
-   "verzameld_op": "2026-10-25T04:45:09+00:00"
+   "verzameld_op": "2026-10-26T04:48:33+00:00"
   },
   {
-   "id": "44ab44e9f98d5cc5",
+   "id": "8e4851d40705e5e8",
+   "bron": "Raad van State en rechtspraak (uitspraken)",
+   "categorie": "Rechtspraak",
+   "methode": "api_rechtspraak",
+   "soort": "Uitspraak",
+   "titel": "ECLI:NL:RVS:2026:5790, Raad van State, 30-09-2026, 202502157/1/R3",
+   "samenvatting_bron": "Bij besluit van 26 februari 2025 heeft de raad van de gemeente Westerwolde het \"TAM-omgevingsplan Westerwolde, Jan Westerlaan 1\" als wijziging van het omgevingsplan van de gemeente Westerwolde vastgesteld (het besluit tot wijziging). In de motivering van het besluit tot wijziging staat dat de gemeente Westerwolde een woningbouwopgave heeft. De gemeente Westerwolde wil daarom negen eigen grondpo...",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:5790",
+   "datum": "2026-10-25",
+   "versie": "55058191e2669784",
+   "extra": {
+    "ecli": "ECLI:NL:RVS:2026:5790",
+    "raad_van_state": true
+   },
+   "status": "gewijzigd",
+   "thema_treffers": {
+    "Bouwcontext": [
+     "woningbouw",
+     "omgevingsplan"
+    ]
+   },
+   "verzameld_op": "2026-10-26T04:48:33+00:00"
+  },
+  {
+   "id": "5a05795603509670",
+   "bron": "Raad van State en rechtspraak (uitspraken)",
+   "categorie": "Rechtspraak",
+   "methode": "api_rechtspraak",
+   "soort": "Uitspraak",
+   "titel": "ECLI:NL:RVS:2026:4905, Raad van State, 21-08-2026, 202601715/1/R1",
+   "samenvatting_bron": "[appellante] heeft beroep ingesteld tegen het niet tijdig nemen van een besluit door het college van burgemeester en wethouders van Venray over wijziging van het omgevingsplan van de gemeente Venray. Op 19 maart 2025 heeft de gemeente Venray van [appellante] een e-mail ontvangen waarin \"formeel\" wordt verzocht om \"[…] het bouwblok op het perceel perceel VRY00-C-8599, dat in het verleden is gebr...",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:4905",
+   "datum": "2026-10-25",
+   "versie": "c262852b8a332e82",
+   "extra": {
+    "ecli": "ECLI:NL:RVS:2026:4905",
+    "raad_van_state": true
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Bouwcontext": [
+     "omgevingsplan"
+    ]
+   },
+   "verzameld_op": "2026-10-26T04:48:33+00:00"
+  },
+  {
+   "id": "b19823f7d3a01c96",
+   "bron": "Raad van State en rechtspraak (uitspraken)",
+   "categorie": "Rechtspraak",
+   "methode": "api_rechtspraak",
+   "soort": "Uitspraak",
+   "titel": "ECLI:NL:RVS:2026:5679, Raad van State, 23-09-2026, 202403525/1/R1",
+   "samenvatting_bron": "Bij besluit van 23 april 2024 heeft de raad het bestemmingsplan \"Maaspark Well\" vastgesteld. Het plangebied Maaspark Well ligt tussen de kernen Aijen en Well en tussen de N271 en de Maas en het Maasdal. Het plangebied omvat het recreatiegebied het Leukermeer en de omliggende gronden, met uitzondering van het Vakantiepark Leukermeer. Het plan bevat een actualisatie van de geldende bestemmingsp...",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:5679",
+   "datum": "2026-10-25",
+   "versie": "e2768f275ade1a2a",
+   "extra": {
+    "ecli": "ECLI:NL:RVS:2026:5679",
+    "raad_van_state": true
+   },
+   "status": "gewijzigd",
+   "thema_treffers": {
+    "Bouwcontext": [
+     "bestemmingsplan"
+    ]
+   },
+   "verzameld_op": "2026-10-26T04:48:33+00:00"
+  },
+  {
+   "id": "c7f97261df0e2788",
+   "bron": "Raad van State en rechtspraak (uitspraken)",
+   "categorie": "Rechtspraak",
+   "methode": "api_rechtspraak",
+   "soort": "Uitspraak",
+   "titel": "ECLI:NL:RVS:2026:6034, Raad van State, 14-10-2026, 202601945/1/R2 en 202601945/2/R2",
+   "samenvatting_bron": "Bij afzonderlijke besluiten van 7 oktober 2025 heeft het college van burgemeester en wethouders van Tilburg aan [appellant B] omgevingsvergunningen verleend voor een omgevingsplanactiviteit bouwwerken en voor een technische bouwactiviteit, ten behoeve van het uitbreiden van de woning op het perceel [locatie 1] in Tilburg. [appellant A] en [appellant B] zijn eigenaren van het perceel. Op 12 sept...",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6034",
+   "datum": "2026-10-25",
+   "versie": "dc4cc2970732b830",
+   "extra": {
+    "ecli": "ECLI:NL:RVS:2026:6034",
+    "raad_van_state": true
+   },
+   "status": "gewijzigd",
+   "thema_treffers": {
+    "Bouwcontext": [
+     "omgevingsvergunning",
+     "omgevingsplan"
+    ]
+   },
+   "verzameld_op": "2026-10-26T04:48:33+00:00"
+  },
+  {
+   "id": "2fb8e6a0f1e894e6",
    "bron": "Wetenschappelijke publicaties (OpenAlex)",
    "categorie": "Onderzoek",
    "methode": "api_openalex",
    "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "Ag/Ti Electrodes for Electrochemical Nitrate Reduction: Revealing Highly Effective Interfaces by In‐Situ Electrochemical Mass Spectrometry",
-   "samenvatting_bron": "The electrochemical reduction of nitrate to hydroxyl amine or ammonia is a prominent means to effectively valorize agricultural effluent emissions. We demonstrate that bimetallic electrodes, composed of Ag nanoparticles deposited on Ti metal, exhibit a pronounced synergy in nitrate reduction in acidic electrolyte. This is evidenced by in‐situ electrochemical mass spectrometry (EC‐MS), showing NO evolution in a complex potential‐dependent profile at lower onset potentials compared to single metal Ag or Ti electrodes. Furthermore, liquid phase analysis shows a significant Faradaic efficiency to hydroxylamine for Ag/Ti electrodes, even at potentials above 0 V RHE , i.e., requiring at least a 200–300 mV lower overpotential than necessary for the single metal electrodes. We discuss favorable NO and hydroxylamine formation to be occurring on highly effective Ag/Ti interfaces. This work highlights the importance of interfaces and suggests that optimization of (Ag/Ti) bimetallic electrodes appears to be a valuable means to develop high performance electrodes for the reduction of nitrate in acidic conditions.",
-   "url": "https://doi.org/10.1002/celc.70261",
-   "datum": "2026-10-23",
-   "versie": "b97179d78315aba5",
+   "titel": "Remote sensing and the EU nature restoration Regulation: monitoring biodiversity indicators for integrated forest management",
+   "samenvatting_bron": "Implementing the EU Nature Restoration Regulation (EU NRR) requires Member States to monitor multiple indicators of forest biodiversity, yet the role of remote sensing (RS) in this process remains unclear. This review synthesises current evidence on the use of RS for monitoring forest biodiversity indicators defined in the NRR and identifies methodological gaps and operational priorities. Following a systematic review of 222 studies, we evaluate the suitability of different platforms, sensors, and scales of observation. Our results show that RS capabilities are strongly indicator and scale dependent, with no single approach suitable across all indicators. Airborne laser scanning is most effective for capturing forest structural attributes, including uneven-aged forest structure, while satellite multispectral imagery provides consistent, large-scale monitoring of forest connectivity. Tree species composition and diversity can be assessed using multi-sensor approaches, though accuracy declines in mixed and structurally complex forests. In contrast, the common forest bird index cannot currently be monitored using remote sensing, and deadwood indicators are limited by the resolution required for national monitoring. Key challenges include limited availability of repeated high-resolution data, difficulties in detecting high-resolution features, and reduced classification accuracy in complex forest systems. Overall, RS has strong potential to support monitoring when integrated with",
+   "url": "https://doi.org/10.1016/j.ecolind.2026.115636",
+   "datum": "2026-10-24",
+   "versie": "d7e6cd5f5720ec34",
    "extra": {
-    "tijdschrift": "ChemElectroChem",
+    "tijdschrift": "Ecological Indicators",
     "instellingen": [
-     "Bochum University of Applied Sciences",
-     "Ruhr University Bochum",
-     "University of Twente"
-    ],
-    "zoekvraag": "ammonia OR \"nitrogen deposition\" OR (\"critical load\" AND nitrogen)",
-    "thema_hint": "Stikstof",
-    "open_access": true
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-25T04:45:09+00:00"
-  },
-  {
-   "id": "87a48974e32b9a91",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "Comparison of the vascular flora of three calcareous mountainous regions in Bulgaria – Mt Zemenska, Mt Golo Burdo and hills Besaparski Ridove",
-   "samenvatting_bron": "This study compares the vascular flora of three calcareous mountainous regions in Bulgaria: Mt Zemenska (1,295 m a.s.l.), Mt Golo Burdo (1,158 m a.s.l.) and hills Besaparski Ridove (536 m a.s.l.). The taxonomic and phytogeographic structure of the vascular flora, life forms, endemics, Tertiary relicts, and, in part, protection status of the recorded plants are compared. References: Аchtaroff B. 1943. Beitrag zur Kenntnis der Flora Bulgariens, nebst kritische bemerkungen. - Izvestiya na Bulgarskoto Botanichesko Druzhestvo 9: 57-64. Adamovič L. 1909. Vegetationsverhaltnisse der Balkanlender. V. Wilhelm Engelman, Leipzig, 567 pp. Anchev M. 1983. Karyology and characteristics of reproduction of some synanthropic species from family Cruciferae in Bulgaria. - In: Velchev V. (Ed.), IV National Conference of Botany, Bulgarian Academy of Sciences, Sofia, 232-239. (In Bulgarian) Ančev M. 2007. Catalogue of the family Brassicaceae (Cruciferae) in the flora of Bulgaria. - Phytologia Balcanica 13 (2): 153-178. Ančev M. & Goranova G. 2009. Aubrieta (Brassicaceae) in the Bulgarian flora. – Phytologia Balcanica 15 (1): 43-50. Ančev M. & Krendl F. 2011. Galium sect. Leiogalium (Rubiaceae) in the Bulgarian flora. - Phytologia Balcanica 17 (3): 291-314. Apostolova-Stoyanova N. & Stoyanov S. 2009. Systematical and phytogeographical analysis of the flora on Mt Golo Bardo. – Phytologia Balcanica 15 (3): 401-430. Apostolova-Stoyanova N., Pavlov D. & Dimitrov M. 2005. Study on the syntaxonomic diver",
-   "url": "https://doi.org/10.60066/gsu.biofac.bot.109.33-55",
-   "datum": "2026-10-20",
-   "versie": "e443c2a9c9ed0e40",
-   "extra": {
-    "tijdschrift": "Annual of Sofia University \"St Kliment Ohridski\" Faculty of Biology Book 2 – Botany",
-    "instellingen": [
-     "Sofia University \"St. Kliment Ohridski\""
+     "Aalto University",
+     "BOKU University",
+     "Finnish Geospatial Research Institute",
+     "Natural Resources Institute Finland",
+     "Swedish University of Agricultural Sciences"
     ],
     "zoekvraag": "\"Nature Restoration Law\" OR \"Nature Restoration Regulation\" OR \"Habitats Directive\"",
     "thema_hint": "Natuurherstel",
     "open_access": true
    },
    "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-25T04:45:09+00:00"
-  },
-  {
-   "id": "086b68021ecc5b95",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (preprint)",
-   "titel": "Urban green space research, knowledge gaps and opportunities for advancing nature-based solutions: Lessons from Bangladesh",
-   "samenvatting_bron": "",
-   "url": "https://doi.org/10.21203/rs.3.rs-5755475/v1",
-   "datum": "2026-10-23",
-   "versie": "225c5206e4de09e1",
-   "extra": {
-    "tijdschrift": "Research Square",
-    "instellingen": [
-     "Charles Darwin University",
-     "United Nations Development Programme",
-     "United Nations Environment Programme"
-    ],
-    "zoekvraag": "(\"urban biodiversity\" OR \"urban green space\" OR \"green infrastructure\") AND (housing OR \"urban development\" OR \"urban planning\" OR building)",
-    "thema_hint": "Natuurherstel",
-    "open_access": true
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-25T04:45:09+00:00"
-  },
-  {
-   "id": "ad74437294f8d349",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "Multiscenario Simulation and Prediction of Urban Green Space in the Changle District of Fuzhou City, China, Based on Multiobjective Optimization and a GeoSOS-FLUS Model",
-   "samenvatting_bron": "Abstract Green spaces in densely urbanized areas along China’s southeast coast generally face spatial competition between ecological protection and development intensity, as well as conflicts between policy-oriented and market-driven values. Among them, Changle District in Fuzhou City, as the core area of the coastal new city, needs to coordinate its green space system to address complex three-dimensional problems. To explore the optimal configuration of green spaces under different ecological constraints and achieve a balance between ecological, economic, and social benefits, this paper takes Changle District in Fuzhou City as the research area, with 2020 as the base year, and innovatively combines a multiobjective optimization model with the Geographic Simulation and Optimization System–Future Land Use Simulation (GeoSOS-FLUS) model. The former is used to balance multiple objectives such as ecological conservation, economic development, and social needs, generating optimal allocation schemes. The latter precisely simulates the dynamic evolution of green spaces based on these schemes. Together, they overcome the limitations of traditional models, which cannot account for economic and ecological benefits when simulating complex urban land use. Based on this model combination, this paper simulates and predicts the area structure, spatial configuration, and target benefits of green space in Changle District in 2030 under ecological high-, medium-, and low-constraint scenarios.",
-   "url": "https://doi.org/10.1061/jupddm.upeng-6507",
-   "datum": "2026-10-23",
-   "versie": "cdc1aaa3cf310c14",
-   "extra": {
-    "tijdschrift": "Journal of Urban Planning and Development",
-    "instellingen": [
-     "Agriculture and Forestry University",
-     "Department of Forestry",
-     "Fujian Agriculture and Forestry University",
-     "Fujian Business University",
-     "Minjiang University"
-    ],
-    "zoekvraag": "(\"urban biodiversity\" OR \"urban green space\" OR \"green infrastructure\") AND (housing OR \"urban development\" OR \"urban planning\" OR building)",
-    "thema_hint": "Natuurherstel",
-    "open_access": false
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-25T04:45:09+00:00"
-  },
-  {
-   "id": "90d1708875f0919f",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "A multi-source approach for the detection and diversity assessment of avian schistosomes (Trematoda, Schistosomatidae) in freshwater ecosystems",
-   "samenvatting_bron": "Avian schistosomes (AS) are trematodes of significant medical importance as the causative agents of cercarial dermatitis, a re-emerging waterborne human disease. Their monitoring has traditionally relied on examination of snail hosts; however, this approach is time-consuming, requires taxonomic expertise and often underestimates their diversity due to low prevalence of infection. Although environmental DNA (eDNA)-based methods have shown promise in detecting AS, most studies have employed species-specific assays that restrict the discovery of novel genetic lineages. This study integrated three complementary methodologies to comprehensively assess AS diversity in Central Europe: (i) metabarcoding of environmental water samples from various localities; (ii) metabarcoding of naturally infected snail hosts to detect pre-patent stages and (iii) standard parasitological examination and collection of cercariae released from snail hosts. In total, 34 species/genetic lineages were detected at 19 localities. Of these, three species were identified by all three techniques, two lineages by both water sample and snail tissue metabarcoding; 17 exclusively through water sample metabarcoding, 10 only in snail tissues and two solely by the standard method. Notably, metabarcoding of environmental water samples was the most powerful tool for capturing most of the AS diversity, while snail tissue metabarcoding uncovered early pre-patent infections and additional unique lineages not detected in w",
-   "url": "https://doi.org/10.3897/mbmg.10.197780",
-   "datum": "2026-10-23",
-   "versie": "bae46069e4bf18be",
-   "extra": {
-    "tijdschrift": "Metabarcoding and Metagenomics",
-    "instellingen": [
-     "Czech Academy of Sciences",
-     "Czech Academy of Sciences, Biology Centre",
-     "Institute of Parasitology",
-     "Institute of Parasitology of the Slovak Academy of Sciences",
-     "Slovak Academy of Sciences"
-    ],
-    "zoekvraag": "(\"environmental DNA\" OR eDNA) AND (monitoring OR survey OR detection)",
-    "thema_hint": "eDNA en monitoring",
-    "open_access": true
-   },
-   "status": "nieuw",
-   "thema_treffers": {
-    "eDNA en monitoring": [
-     "eDNA",
-     "environmental DNA"
-    ]
-   },
-   "verzameld_op": "2026-10-25T04:45:09+00:00"
-  },
-  {
-   "id": "9822e550f8a530dd",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (preprint)",
-   "titel": "As open as possible, as protected as necessary: Proportionate governance for environmental DNA under the BBNJ Agreement",
-   "samenvatting_bron": "The Agreement on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction (BBNJ Agreement) establishes new arrangements for activities involving marine genetic resources and the sharing of resulting benefits. Direct pathways to resource utilisation are most apparent in conventional genetic workflows where whole organisms or tissues are collected for biodiscovery and analysed to generate high-resolution genomic or biochemical information. By comparison, routine environmental DNA (eDNA) research generally uses non-invasive sampling to infer species presence and characterise biological communities from mixed genetic material. Evolving genomic technologies are expanding the information recoverable from both tissue-based and environmental samples, making sample source alone an insufficient indicator of intended use, information sensitivity, or potential for resource utilisation. This perspective identifies proportionate, use-based governance as an approach to fulfilling applicable BBNJ obligations while recognising routine eDNA observation as shared environmental knowledge infrastructure and supporting timely data exchange and responsive biodiversity monitoring. Managed openness offers a science-informed framework for maintaining access to routine biodiversity information while applying targeted safeguards where warranted. Drawing on marine biosecurity examples and Indo-Pacific regional experience, we outline how existing infrastruc",
-   "url": "https://doi.org/10.32942/x2mt3m",
-   "datum": "2026-10-23",
-   "versie": "ca64ccb9da16234a",
-   "extra": {
-    "tijdschrift": "",
-    "instellingen": [],
-    "zoekvraag": "(\"environmental DNA\" OR eDNA) AND (monitoring OR survey OR detection)",
-    "thema_hint": "eDNA en monitoring",
-    "open_access": true
-   },
-   "status": "nieuw",
    "thema_treffers": {
     "Natuurherstel en gebiedsbescherming": [
+     "nature restoration",
      "biodiversity"
-    ],
-    "eDNA en monitoring": [
-     "eDNA",
-     "environmental DNA"
     ]
    },
-   "verzameld_op": "2026-10-25T04:45:09+00:00"
+   "verzameld_op": "2026-10-26T04:48:33+00:00"
   },
   {
-   "id": "edfdf2640ed5edd9",
+   "id": "4322df9d558eb324",
    "bron": "Wetenschappelijke publicaties (OpenAlex)",
    "categorie": "Onderzoek",
    "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (book-chapter)",
-   "titel": "Nanostructured sensors for monitoring environmental contaminants, remote environmental monitoring, environmental health monitoring, and monitoring biodiversity in green microbial nanotechnology for sensors",
-   "samenvatting_bron": "",
-   "url": "https://doi.org/10.1016/b978-0-443-51012-0.00013-5",
-   "datum": "2026-10-23",
-   "versie": "7b5399d29e1517e5",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "Neotropical puzzles: Assessing the role of spatial arrangement and human induced disturbances on the avian diversity of greenspace patches",
+   "samenvatting_bron": "Abstract Given the rapid expansion of urbanization, there is an urgent need to understand the drivers of biodiversity decline specially in highly diverse ecosystems such as the Neotropical cities. Specifically, while the influence of ecological factors on biodiversity is well documented, empirical evidence on how specific urban design features such as the spatial arrangement of greenspace patches and sources of anthropogenic disturbance contribute to these patterns remains limited. Here, we assessed how the spatial arrangement of vegetation areas such as lawns, gardens or wooded areas within urban ecosystems (i.e., greenspace patches) relative to their distance to vegetation elements such as trees and shrubs and urban infrastructure and, human disturbances such as pedestrian and pet density associated with avian species richness, abundance, functional diversity and evolutionary distinctiveness by conducting point counts across five cities in the Colombian Andes. Greenspace patches closer to vegetation supported greater bird species richness, abundance and functional diversity. Interestingly, evolutionary distinctiveness was not associated with the ecological variables considered. Overall, our findings highlight the importance of (1) preserving greenspace patches with proximity to surrounding vegetation to maintain biodiversity within urban ecosystems and (2) incorporating taxonomic, phylogenetic and functional dimensions when assessing ecological dynamics as ecological change",
+   "url": "https://doi.org/10.1007/s11252-026-02143-9",
+   "datum": "2026-10-24",
+   "versie": "7133cc1841efbc50",
    "extra": {
-    "tijdschrift": "Elsevier eBooks",
+    "tijdschrift": "Urban Ecosystems",
     "instellingen": [
-     "Graduate University of Advanced Technology"
+     "Universidad Nacional Abierta y a Distancia",
+     "University of Glasgow"
     ],
-    "zoekvraag": "(\"environmental DNA\" OR eDNA) AND (monitoring OR survey OR detection)",
-    "thema_hint": "eDNA en monitoring",
-    "open_access": false
+    "zoekvraag": "(\"urban biodiversity\" OR \"urban green space\" OR \"green infrastructure\") AND (housing OR \"urban development\" OR \"urban planning\" OR building)",
+    "thema_hint": "Natuurherstel",
+    "open_access": true
    },
    "status": "nieuw",
    "thema_treffers": {
@@ -242,22 +203,95 @@
      "biodiversity"
     ]
    },
-   "verzameld_op": "2026-10-25T04:45:09+00:00"
+   "verzameld_op": "2026-10-26T04:48:33+00:00"
   },
   {
-   "id": "9963681e28f4189b",
+   "id": "6062c727e3d35b18",
    "bron": "Wetenschappelijke publicaties (OpenAlex)",
    "categorie": "Onderzoek",
    "methode": "api_openalex",
    "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "Data and R code for \"Monthly eDNA monitoring reveals temporal turnover and sampling-frequency effects in tropical river fish assemblages\"",
-   "samenvatting_bron": "This repository contains the processed community and environmental data and R code used to reproduce Figures 1–5 of the manuscript “Monthly eDNA monitoring reveals temporal turnover and sampling-frequency effects in tropical river fish assemblages”. The dataset comprises monthly eDNA observations from 13 river sites over 24 consecutive months, species information for 85 native fishes, derived alpha, beta and gamma diversity data, environmental predictors, model diagnostics and figure-production scripts. Raw sequencing reads are not included and will be deposited separately in a public sequence archive.",
-   "url": "https://doi.org/10.5281/zenodo.23533572",
-   "datum": "2026-10-21",
-   "versie": "18064a35863b8807",
+   "titel": "BARQAROR SHAHARSOZLIK VA HUDUDLARNI REJALASHTIRISHNING ZAMONAVIY YONDASHUVLARI: EKOLOGIK, RAQAMLI VA TRANSPORT YECHIMLARI",
+   "samenvatting_bron": "Mazkur maqolada barqaror shaharsozlik va hududlarni rejalashtirishning zamonaviy yondashuvlari tahlil qilinadi. Urbanizatsiya jadallashuvi shahar hududlarida uy-joy, transport, muhandislik infratuzilmasi, yashil hududlar va ijtimoiy xizmatlarga bo‘lgan talabni oshirmoqda. Shu sababli hududiy rejalashtirishda ekologik, ijtimoiy, iqtisodiy va raqamli omillarni yagona tizim sifatida ko‘rib chiqish zarur. Tadqiqotda ixcham va aralash funksiyali shahar, yashil infratuzilma, tabiatga asoslangan yechimlar, barqaror transport, GIS va raqamli monitoringning o‘rni yoritiladi. Urganch shahri sharoitida barqaror hududiy rivojlanishning konseptual modeli taklif etilib, uning asosiy elementlari — yashil-ekologik karkas, mahalla markazlari, jamoat transporti, piyoda va velosiped tarmoqlari hamda GIS-monitoring tizimi — asoslab beriladi. Kalit so‘zlar: barqaror shaharsozlik, urbanizatsiya, hududiy rejalashtirish, yashil infratuzilma, GIS, aqlli shahar, barqaror transport, ekologik rejalashtirish, Urganch. Abstract. The article analyzes modern approaches to sustainable urban planning and territorial development. The study focuses on compact and mixed-use urban structures, green infrastructure, nature-based solutions, sustainable mobility, GIS technologies and digital monitoring. A conceptual model for sustainable territorial development in Urgench is proposed, integrating ecological, social, transport, engineering and digital components. Keywords: sustainable urban planning, territorial plann",
+   "url": "https://doi.org/10.5281/zenodo.23618042",
+   "datum": "2026-10-24",
+   "versie": "76059448e7af2ede",
    "extra": {
     "tijdschrift": "Zenodo (CERN European Organization for Nuclear Research)",
     "instellingen": [],
+    "zoekvraag": "(\"urban biodiversity\" OR \"urban green space\" OR \"green infrastructure\") AND (housing OR \"urban development\" OR \"urban planning\" OR building)",
+    "thema_hint": "Natuurherstel",
+    "open_access": true
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-26T04:48:33+00:00"
+  },
+  {
+   "id": "1eed39fd861a898c",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "XORAZM VILOYATI SHAROITIDA ILMIY-TADQIQOT VA INNOVATSION MARKAZLARNI JOYLASHTIRISHNING SHAHARSOZLIK VA IQLIMIY TAMOYILLARIXORAZM VILOYATI SHAROITIDA ILMIY-TADQIQOT VA INNOVATSION MARKAZLARNI JOYLASHTIRISHNING SHAHARSOZLIK VA IQLIMIY TAMOYILLARI",
+   "samenvatting_bron": "ANNOTATSIYA. Maqolada Xorazm viloyati sharoitida ilmiy-tadqiqot va innovatsion markazlarni shakllantirish hamda hududiy joylashtirishga ta’sir qiluvchi shaharsozlik, infratuzilmaviy va tabiiy-iqlimiy omillar tahlil qilindi. Zamonaviy ilmiy parklar va innovatsion hududlarning rivojlanish tendensiyalari, oliy ta’lim, ilmiy tadqiqot, startap, tajriba-ishlab chiqarish hamda xizmat ko‘rsatish funksiyalari o‘rtasidagi fazoviy aloqalar o‘rganildi. Issiq-quruq iqlim sharoitida ilmiy markazlar arxitekturasini shakllantirishda soyalanish, tabiiy shamollatish, yashil infratuzilma, kompakt hajmiy-rejaviy yechim va energiya samarador tashqi qobiqdan foydalanishning ahamiyati asoslandi. Tadqiqot natijasida Xorazm viloyati uchun “ta’lim – ilmiy tadqiqot – innovatsiya – tajriba-ishlab chiqarish” tizimiga asoslangan konseptual ilmiy-innovatsion markaz modeli taklif qilindi. Kalit so‘zlar: ilmiy-tadqiqot markazi, innovatsion markaz, shaharsozlik, innovatsion hudud, Xorazm viloyati, issiq-quruq iqlim, energiya samaradorlik, infratuzilma, barqaror rivojlanish, arxitektura-rejalashtirish. АННОТАЦИЯ. В статье рассмотрены градостроительные, инфраструктурные и природно-климатические факторы, влияющие на формирование и территориальное размещение научно-исследовательских и инновационных центров в условиях Хорезмской области. Проанализированы современные тенденции развития научных парков и инновационных районов, пространственная взаимосвязь между высшим образованием, научными исследованиями, стартапами",
+   "url": "https://doi.org/10.5281/zenodo.23622159",
+   "datum": "2026-10-24",
+   "versie": "32ee905b4347ba1f",
+   "extra": {
+    "tijdschrift": "Zenodo (CERN European Organization for Nuclear Research)",
+    "instellingen": [],
+    "zoekvraag": "(\"urban biodiversity\" OR \"urban green space\" OR \"green infrastructure\") AND (housing OR \"urban development\" OR \"urban planning\" OR building)",
+    "thema_hint": "Natuurherstel",
+    "open_access": true
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-26T04:48:33+00:00"
+  },
+  {
+   "id": "31b4ee67df36a747",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "Renewable energy encroachment in historical-natural landscape ensembles: a spatial observatory framework applied in central Greece",
+   "samenvatting_bron": "",
+   "url": "https://doi.org/10.1007/s10661-026-16093-4",
+   "datum": "2026-10-24",
+   "versie": "54e2096d27d59c7d",
+   "extra": {
+    "tijdschrift": "Environmental Monitoring and Assessment",
+    "instellingen": [
+     "University of Thessaly"
+    ],
+    "zoekvraag": "(\"wildlife crossing\" OR \"wildlife crossings\" OR \"road ecology\" OR \"roadkill\" OR \"habitat fragmentation\") AND (road OR roads OR railway OR infrastructure)",
+    "thema_hint": "Soortenbescherming",
+    "open_access": false
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-26T04:48:33+00:00"
+  },
+  {
+   "id": "3a1c1d8e1f8c26dc",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "Evidence for potential top-down control of meso- and micro-copepods during jellyfish blooms revealed by eDNA metabarcoding",
+   "samenvatting_bron": "The limitation of traditional survey methods has catalyzed the rapid development and widespread application of eDNA metabarcoding. By collecting water samples from coastal waters off the Shandong Peninsula across the key blooming phase (May and August) of jellyfish, this study reveals the environmental drivers of jellyfish blooms and the potential top-down control exerted by jellyfish on meso- and micro-copepods. The results indicate that Aurelia coerulea is predominantly distributed in the northern Laizhou Bay, while Nemopilema nomurai is mainly found in the transition zone of Bohai and Yellow Seas. This distribution pattern may be attributed to different habitat selectivity during the polyp stage as well as environmental adaptability and ocean current effect during the medusa stage. The relative read abundance (RRA) of A. coerulea was significantly negatively correlated with that of meso- and micro-copepods, a pattern consistent with a potential top-down effect; however, under potentially phosphorus-limiting conditions, this inverse association did not cascade into an increase in phytoplankton biomass reflected by Chl a variation. Instead, elevated jellyfish RRA was associated with increased water turbidity. Our study provides a methodological paradigm for applying eDNA approach to elucidate the ecological consequences of regional jellyfish blooms, with future potential for scaling up to ecosystem-level investigations.",
+   "url": "https://doi.org/10.1016/j.ecolind.2026.115715",
+   "datum": "2026-10-23",
+   "versie": "46d52e5297acbd0a",
+   "extra": {
+    "tijdschrift": "Ecological Indicators",
+    "instellingen": [
+     "Chinese Academy of Sciences",
+     "Institute of Oceanology",
+     "Shandong University",
+     "University of Chinese Academy of Sciences"
+    ],
     "zoekvraag": "(\"environmental DNA\" OR eDNA) AND (monitoring OR survey OR detection)",
     "thema_hint": "eDNA en monitoring",
     "open_access": true
@@ -268,87 +302,47 @@
      "eDNA"
     ]
    },
-   "verzameld_op": "2026-10-25T04:45:09+00:00"
+   "verzameld_op": "2026-10-26T04:48:33+00:00"
   },
   {
-   "id": "0e809554c3dcb949",
+   "id": "6bea56309edf88c7",
    "bron": "Wetenschappelijke publicaties (OpenAlex)",
    "categorie": "Onderzoek",
    "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "Thresholds in the dark – Colmation thresholds as a tool for identifying degraded streams",
-   "samenvatting_bron": "Despite great restoration efforts to achieve good ecological status in streams under the European Water Framework Directive (WFD), this objective is often unsuccessful. One stressor that could contribute to this failure is colmation, the clogging of hyporheic interstices by fine sediments. Colmation can impair hyporheic invertebrate communities and ecosystem functions. To assess biological responses to colmation, hyporheic communities were investigated in eleven rivers across Germany and Austria, covering all general degradation classes. Ecological assessments were combined with sediment clogging measurements using the Kolmameter, with outflow reduction serving as a proxy for colmation. Threshold Indicator Taxa Analysis (TITAN) was restricted to sites with very good or good general degradation to minimise the effects of additional stressors. Clear threshold responses emerged along the colmation gradient: I) sensitive indicator taxa Cyclopoida, Ostracoda, Chironomidae, Macroturbellaria and Nauplii declined above 23.1% outflow reduction; II) the tolerant taxon Parastenocaridae increased beyond 33%. Additionally, III) a practical TITAN-derived 30% outflow reduction threshold effectively separated sites along this gradient, and IV) river reaches can be classified as degraded when more than half the samples exceeded this 30% outflow reduction threshold. These patterns likely reflect increased fine sediment deposition, which reduces sediment porosity and outflow. Reduced porosity l",
-   "url": "https://doi.org/10.1016/j.limno.2026.126392",
-   "datum": "2026-10-22",
-   "versie": "b76e6a5e45d1e26d",
+   "soort": "Wetenschappelijke publicatie (preprint)",
+   "titel": "Coastal Climate Change Adaptation: A Review of Engineering, Nature-Based, Governance, and Socio-Economic Adaptation Strategies",
+   "samenvatting_bron": "Adaptation is becoming a key part of climate policies, including the Paris Agreement, for coastal areas, which host a large proportion of the world's population. Coastal areas are prone to intensive urbanization and tourism, which can exacerbate the threats of sea-level rise, storm intensification, erosion, and saltwater intrusion. Existing reviews have examined engineering, ecological, governance, and socio-economic aspects of coastal system adaptation to climate change, but these studies have generally been limited to a single discipline and offer limited cross-domain information. Such fragmentation can limit their applicability to planners who are interested in context-specific, integrated solutions. This review offers a critical synthesis of engineering, nature based, governance, and socio-economic adaptation approaches used in coastal areas worldwide. The synthesis suggests that no single adaptation pathway performs uniformly well across settings. Rather, the effectiveness of the strategies depends on asset density, ecological and sediment conditions, governance capacity, and the urgency of the hazard. Hard engineering solutions provide a stable short-term solution in urban environments, but they externalize erosion costs and interfere with natural sediment transport. Nature-based solutions provide greater ecosystem and long-term co-benefits but require specific physical conditions to be achieved, which diminishes their transferability. While governance instruments and s",
+   "url": "https://doi.org/10.31223/x5cr6p",
+   "datum": "2026-10-24",
+   "versie": "cc96af6a234e501f",
    "extra": {
-    "tijdschrift": "Limnologica",
-    "instellingen": [
-     "Institut für Angewandte Gewässerökologie (Germany)",
-     "University of Koblenz and Landau"
-    ],
-    "zoekvraag": "\"Water Framework Directive\"",
-    "thema_hint": "Waterkwaliteit",
-    "open_access": true
-   },
-   "status": "nieuw",
-   "thema_treffers": {
-    "Waterkwaliteit": [
-     "water framework directive"
-    ]
-   },
-   "verzameld_op": "2026-10-25T04:45:09+00:00"
-  },
-  {
-   "id": "aa54a5bde4cc1120",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "Assessment of Ecological Status of Standing Water Bodies in Bulgaria: Calibration of a New Multi-Metric for Macroinvertebrates",
-   "samenvatting_bron": "Reliable assessment of the ecological status of standing waters is key for the effective implementation of the Water Framework Directive and for supporting water management and conservation. Biological quality elements, including benthic macroinvertebrates, provide an integrated measure of ecological condition by reflecting the cumulative impacts of environmental pressures over time. However, assessment methods developed for running waters are not readily applicable to standing waters, highlighting the need for category-specific approaches. We conducted a large-scale survey of representative stagnant water bodies (lakes and reservoirs) on the territory of Bulgaria. The goal was to develop a relevant type-specific methodology for the ecological status assessment of standing waters based on macrozoobenthos. We sampled 79 monitoring lake sites between May and November 2020 through an adapted version of the multi-habitat sampling methodology developed within the European AQEM/STAR projects in accordance with applicable standards. A composite sample was taken from the littoral zone of lakes and reservoirs, representative of the substrates available at each location. The sites represent 19 lake types. Eleven biological indices for lakes and seven for rivers were calculated in order to identify the most suitable metric. For each of the metrics, the pressure–response relationship was estimated. Being the first operational national index based on macroinvertebrates, the proposed Bulga",
-   "url": "https://doi.org/10.3390/fishes11110612",
-   "datum": "2026-10-22",
-   "versie": "d4c210d573e25d6a",
-   "extra": {
-    "tijdschrift": "Fishes",
-    "instellingen": [
-     "Institute of Biodiversity and Ecosystem Research"
-    ],
-    "zoekvraag": "\"Water Framework Directive\"",
-    "thema_hint": "Waterkwaliteit",
-    "open_access": true
-   },
-   "status": "nieuw",
-   "thema_treffers": {
-    "Waterkwaliteit": [
-     "water framework directive"
-    ]
-   },
-   "verzameld_op": "2026-10-25T04:45:09+00:00"
-  },
-  {
-   "id": "e602960a202bf47e",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (review)",
-   "titel": "Tracking the evolution of urban resilience: A systematic review of research themes and trends over two decades",
-   "samenvatting_bron": "Urban resilience has become central to global urban policymaking as cities confront growing challenges from climate change, disasters, and socio-economic disruptions. However, research in this field spans multiple disciplines and perspectives, leaving insights fragmented across a vast body of literature. Here we provide the most comprehensive synthesis to date, analyzing over 1400 documents during 2000–2023 to trace its evolution, identify key themes, and highlight future research directions. We show that urban resilience research spans 96 countries, but over 60% comes from China, the USA, the UK, and the Netherlands. Priorities also vary due to differing development contexts. Developed countries emphasize ecological solutions and public services, backed by strong institutions and long-term climate adaptation strategies, while developing countries focus on infrastructure and technology to tackle immediate urbanization challenges. Urban resilience themes generally sit in four main frameworks: ecosystems and sustainable cities; climate change and urban governance; disaster vulnerability and community resilience; and regional and economic resilience. Key areas for future research include developing assessment methods that integrate the social benefits of ecosystem services, fostering interdisciplinary urban climate policies, examining the compounded effects of multiple disasters, exploring cross-regional and multi-scale collaboration, and investigating digital technology’s role",
-   "url": "https://doi.org/10.1016/j.envsci.2026.104527",
-   "datum": "2026-10-22",
-   "versie": "b8cb8d9b9870f030",
-   "extra": {
-    "tijdschrift": "Environmental Science & Policy",
-    "instellingen": [
-     "Chongqing University",
-     "International Institute for Applied Systems Analysis",
-     "Leiden University",
-     "University of Oxford"
-    ],
-    "zoekvraag": "(\"urban heat island\" OR \"heat stress\" OR \"climate adaptation\" OR \"pluvial flooding\") AND (urban OR city OR building OR \"built environment\")",
+    "tijdschrift": "",
+    "instellingen": [],
+    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
     "thema_hint": "Klimaatadaptatie",
     "open_access": true
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-26T04:48:33+00:00"
+  },
+  {
+   "id": "d6bfd612f8e0c279",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (book-chapter)",
+   "titel": "Drought Management and Water Resources",
+   "samenvatting_bron": "Drought is among the most complex and destructive natural hazards affecting water resources, ecosystems, agriculture, energy production, and socio-economic systems worldwide. Unlike rapid-onset disasters such as floods or earthquakes, drought develops gradually, often remaining unnoticed until severe impacts emerge across hydrological, agricultural, ecological, and socio-economic sectors. Climate change, population growth, land-use alteration, urbanization, and increasing water demand have intensified drought frequency, duration, and severity in many regions, creating unprecedented pressure on water resource systems. This chapter examines the interrelationship between drought management and water resources through a comprehensive analysis of drought concepts, classifications, drivers, impacts, assessment methods, monitoring systems, mitigation strategies, policy frameworks, and adaptive management approaches. The chapter discusses meteorological, hydrological, agricultural, and socio-economic droughts and evaluates major drought indices, including SPI, SPEI, PDSI, and remote sensing-based indicators. Particular attention is given to Integrated Water Resources Management (IWRM), groundwater sustainability, reservoir operation, drought preparedness planning, climate adaptation, and nature-based solutions (NbS). Advances in drought forecasting, artificial intelligence (AI), decision support systems, and satellite technologies are also reviewed. The chapter further explores gover",
+   "url": "https://doi.org/10.1201/9781003750383-16",
+   "datum": "2026-10-23",
+   "versie": "c9cc62af2fb1598b",
+   "extra": {
+    "tijdschrift": "CRC Press eBooks",
+    "instellingen": [],
+    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
+    "thema_hint": "Klimaatadaptatie",
+    "open_access": false
    },
    "status": "nieuw",
    "thema_treffers": {
@@ -356,128 +350,135 @@
      "climate adaptation"
     ]
    },
-   "verzameld_op": "2026-10-25T04:45:09+00:00"
+   "verzameld_op": "2026-10-26T04:48:33+00:00"
   },
   {
-   "id": "126d34645d1a1cc7",
+   "id": "36bb50b019c5845d",
    "bron": "Wetenschappelijke publicaties (OpenAlex)",
    "categorie": "Onderzoek",
    "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "A scale-invariant framework for integrating nature-based solutions into dense urban areas to improve accessibility and equity of access to urban blue and green spaces",
-   "samenvatting_bron": "Improving accessibility and spatial equity of access to Urban Blue and Green Spaces (UB&GS) could potentially benefit biodiversity and urban sustainability. Nature-Based Solutions (NBS), serving as small-scale decentralised forms of UB&GS, can enhance both environmental quality and human well-being by fostering positive interactions between humans and the natural environment. While there is growing interest in assessing the spatial distribution of UB&GS at multiple scales, existing evaluations commonly examine each spatial scale separately. Consequently, the intrinsic scaling relationships of UB&GS and the potential of NBS integration to improve accessibility and spatial equity of access across scales remain insufficiently explored. To address this gap, this study develops a scale-invariant framework based on Universal Multifractal (UM) theory to support the integration of NBS into existing UB&GS across various spatial scales, using Paris as a case study. Then, the fractal dimension ( D F ) and Gini index are employed as indicators to assess the effectiveness of NBS in enhancing accessibility and spatial equity of access to UB&GS, respectively. The results demonstrate that the developed scale-invariant framework can effectively support the optimal integration of NBS into the current UB&GS. With NBS integration, the D F increases by up to 0.07, while the Gini index decreases by a maximum of 0.27 across the study areas, indicating improved accessibility and enhanced spatial equ",
-   "url": "https://doi.org/10.1016/j.ecolind.2026.115767",
+   "soort": "Wetenschappelijke publicatie (book-chapter)",
+   "titel": "Policy Frameworks for Managing Water Resources",
+   "samenvatting_bron": "This chapter examines the design of policy frameworks for managing water resources under the increasing pressure of natural hazards, including floods, droughts, wildfires, and cascading climate-related risks. Moving beyond traditional reactive crisis management, the chapter argues for a shift toward integrated, risk-informed governance that embeds resilience into the routine functions of water policy, planning, and investment. It explores how legal foundations, institutional coordination, economic instruments, and technical monitoring systems can be harmonized to manage water security amidst deep uncertainty. The chapter emphasizes that resilience is not achieved solely through engineered infrastructure; it requires a diversified approach that integrates the nature-based solutions, land-use management, social protection, and inclusive governance. By highlighting the necessity of adaptive planning, transparent data governance, and equity-focused decision-making, the chapter provides a conceptual and practical guide for developing policy environments capable of sustaining water services and protecting communities, ecosystems, and economies against recurring and compounding natural threats.",
+   "url": "https://doi.org/10.1201/9781003750383-13",
    "datum": "2026-10-23",
-   "versie": "ca0f2199d179e669",
+   "versie": "af7324724b87bb34",
    "extra": {
-    "tijdschrift": "Ecological Indicators",
-    "instellingen": [
-     "Hydrologie Météorologie et Complexité",
-     "École nationale des ponts et chaussées"
-    ],
+    "tijdschrift": "CRC Press eBooks",
+    "instellingen": [],
     "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
     "thema_hint": "Klimaatadaptatie",
-    "open_access": true
+    "open_access": false
    },
    "status": "nieuw",
-   "thema_treffers": {
-    "Natuurherstel en gebiedsbescherming": [
-     "biodiversity"
-    ]
-   },
-   "verzameld_op": "2026-10-25T04:45:09+00:00"
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-26T04:48:33+00:00"
   },
   {
-   "id": "36beeb3b9eecb76c",
+   "id": "ed0d6b43fe5be669",
    "bron": "Wetenschappelijke publicaties (OpenAlex)",
    "categorie": "Onderzoek",
    "methode": "api_openalex",
    "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "Mapping Digital Platforms and Their Infrastructural Foundations for Biodiversity: A Bibliometric Analysis",
-   "samenvatting_bron": "ABSTRACT Biodiversity loss is increasingly recognized as a grand challenge requiring new forms of innovation, coordination, and knowledge integration across organizational and institutional boundaries. While digital technologies have substantially advanced how biodiversity is monitored, measured, and managed, less is known about how digital platforms and their underlying infrastructures can support innovation processes aimed at biodiversity protection and regeneration. This paper offers a comprehensive bibliometric analysis of research connecting digital platforms, their infrastructural foundations, and biodiversity, based on a dataset of 528 scientific publications. Using co‐citation and keyword co‐occurrence analyses, the study maps the intellectual structure and evolution of this emerging field and identifies five promising research frontiers: platform governance for collective action, biodiversity data infrastructures, innovation for biodiversity, digital platforms as innovation intermediaries, and the orchestration of scalable nature‐based solutions. Building on these findings, the paper develops an integrative framework explaining how platform design and governance shape organizational coordination, knowledge integration, and innovation mechanisms, ultimately influencing biodiversity outcomes. The findings reveal that existing research remains largely technology‐driven, with a strong emphasis on monitoring and biodiversity data generation, while questions related to pla",
-   "url": "https://doi.org/10.1111/radm.70064",
+   "titel": "Flood regulation and habitat quality assessment in Bengaluru using InVEST",
+   "samenvatting_bron": "",
+   "url": "https://doi.org/10.1007/s10668-026-08237-w",
    "datum": "2026-10-23",
-   "versie": "1dcbc2d41278777d",
+   "versie": "45ae164ff0e31b2a",
    "extra": {
-    "tijdschrift": "R and D Management",
+    "tijdschrift": "Environment Development and Sustainability",
     "instellingen": [
-     "Libera Università Maria SS. Assunta"
+     "Indian Institute of Technology Roorkee"
     ],
     "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
     "thema_hint": "Klimaatadaptatie",
     "open_access": false
    },
    "status": "nieuw",
-   "thema_treffers": {
-    "Natuurherstel en gebiedsbescherming": [
-     "biodiversity"
-    ]
-   },
-   "verzameld_op": "2026-10-25T04:45:09+00:00"
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-26T04:48:33+00:00"
   },
   {
-   "id": "ed9f43162cc32546",
-   "bron": "NOS Politiek",
-   "categorie": "Media",
-   "methode": "feed",
-   "soort": "",
-   "titel": "Kabinet nodigt zeven oppositiepartijen uit voor onderhandelingen belastingplan",
-   "samenvatting_bron": "Het kabinet heeft afspraken gemaakt over hoe het de oppositie tegemoet wil komen en nodigt komende week zeven partijen uit om verder te onderhandelen over het belastingplan. Dat is de uitkomst van een overleg van de top van het kabinet vandaag. Het gaat om de partijen waar het kabinet eerder al mee sprak: Pro, JA21, BBB, SGP, ChristenUnie, 50Plus en Volt. Het kabinet zet dus nog altijd in op een breed akkoord met links en rechts, in plaats van één kant uit te kijken. Het belastingplan is belangrijk voor het kabinet, omdat daarin staat hoe de komende jaren de belastingen worden geregeld. Dit jaar is het kabinet bijvoorbeeld van plan om de verlaging van de accijns op benzine en diesel met 1 jaar te verlengen tot eind 2027. Ook wil het een verlaging van de startersaftrek voor ondernemers doorvoeren. Oppositiepartijen hebben tot nu toe totaal verschillende en harde eisen op tafel gelegd in ruil voor hun steun. Zo wil Pro dat de hogere inkomstenbelasting voor de komende jaren volledig van tafel gaat, JA21 wil strengere asielmaatregelen, BBB vraagt een aanpassing van de stikstofplannen en SGP wil dat het kabinet meer doet om abortussen tegen te gaan. Sommige van deze eisen liggen binnen de coalitie van D66, VVD en CDA gevoelig. Daarom overlegden vandaag premier Jetten, vicepremiers Yesilgöz en Van den Brink, minister Heinen en staatssecretaris Eerenberg (beide Financiën) hoe groot de onderhandelingsruimte van het kabinet is. Asiel, stikstof en abortussen Komende week onderhandelen ",
-   "url": "https://nos.nl/l/2636518",
-   "datum": "2026-10-24",
-   "versie": "e00bb1e85c69f991",
-   "extra": {},
+   "id": "e15949e37d1b9b57",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (book-chapter)",
+   "titel": "Natural Hazard Mitigation",
+   "samenvatting_bron": "This chapter examines how Integrated Water Resource Management (IWRM) can function as a comprehensive framework for natural hazard mitigation in an era of increasing climatic variability, environmental degradation, and socio-economic exposure. It argues that floods, droughts, landslides, storm surges, and water quality crises should not be understood as purely natural events, but as socio-hydrological risks shaped by land use, infrastructure design, governance quality, and the interaction between human and ecological systems. Within this perspective, IWRM offers a practical basis for reducing disaster risk by integrating water, land, ecosystems, and institutions at the basin scale. The chapter explores how IWRM contributes to mitigation through coordinated flood and drought management, watershed protection, groundwater regulation, ecosystem restoration, pollution control, and adaptive governance. Particular attention is given to the role of water quality hazards, including contamination, disease outbreaks, and chemical risk, which often intensify after floods and droughts and can produce impacts that exceed direct physical damages. The discussion also emphasizes the importance of combining structural measures such as dams, levees, and drainage systems with non-structural measures including land-use planning, early warning systems, participatory governance, and nature-based solutions. By embedding hazard mitigation within broader water governance, IWRM helps address exposure,",
+   "url": "https://doi.org/10.1201/9781003750383-19",
+   "datum": "2026-10-23",
+   "versie": "df1aadceeb241586",
+   "extra": {
+    "tijdschrift": "CRC Press eBooks",
+    "instellingen": [],
+    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
+    "thema_hint": "Klimaatadaptatie",
+    "open_access": false
+   },
    "status": "nieuw",
-   "thema_treffers": {
-    "Stikstof": [
-     "stikstof"
-    ]
-   },
-   "verzameld_op": "2026-10-25T04:45:09+00:00"
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-26T04:48:33+00:00"
   },
   {
-   "id": "cacbefeaa9f6cf4e",
-   "bron": "NU.nl Algemeen",
-   "categorie": "Media",
-   "methode": "feed",
-   "soort": "",
-   "titel": "Droge zomer lijkt al vergeten: honderden miljoenen voor maatregelen geschrapt",
-   "samenvatting_bron": "Nog maar twee maanden geleden zuchtte Nederland onder wekenlange droogte. De schade liep in de miljarden. Toch trekt het kabinet de stekker uit een pot van honderden miljoenen euro's bestemd voor droogtemaatregelen. Het geld gaat naar het onderhoud van bruggen.",
-   "url": "https://www.nu.nl/binnenland/6414156/droge-zomer-lijkt-al-vergeten-honderden-miljoenen-voor-maatregelen-geschrapt.html",
-   "datum": "2026-10-24",
-   "versie": "224e3ef1becfad85",
-   "extra": {},
+   "id": "d598cfa121aa6fdb",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (book-chapter)",
+   "titel": "Flood Risk and Water Resource Dynamics",
+   "samenvatting_bron": "Flood risk has become one of the most significant global environmental and socio-economic challenges due to rapid urbanization, climate change, land-use transformation, and increasing pressure on water resources. Simultaneously, water resource dynamics are undergoing substantial changes driven by alterations in precipitation regimes, river discharge variability, groundwater depletion, snowmelt processes, and extreme hydrological events. This chapter examines the complex relationship between flood risk and water resource dynamics by exploring the hydrological, climatic, environmental, and socio-economic factors that influence flood occurrence and severity. The chapter discusses the role of watershed characteristics, climate variability, urban expansion, and anthropogenic interventions in shaping flood behavior across different spatial and temporal scales. It further evaluates contemporary flood risk assessment approaches, including hydrological and hydraulic modeling, remote sensing, geographic information systems (GIS), machine learning (ML) applications, and integrated flood forecasting systems. Particular attention is given to the socio-economic consequences of floods, including infrastructure damage, agricultural losses, public health impacts, environmental degradation, and social vulnerability. The chapter also highlights the importance of integrated flood risk management (IFRM), sustainable water resource governance, ecosystem-based adaptation, and nature-based solutions",
+   "url": "https://doi.org/10.1201/9781003750383-15",
+   "datum": "2026-10-23",
+   "versie": "94cee826f8bea572",
+   "extra": {
+    "tijdschrift": "CRC Press eBooks",
+    "instellingen": [],
+    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
+    "thema_hint": "Klimaatadaptatie",
+    "open_access": false
+   },
    "status": "nieuw",
-   "thema_treffers": {
-    "Klimaatadaptatie": [
-     "droogte"
-    ],
-    "Bouwcontext": [
-     "onderhoud van"
-    ]
-   },
-   "verzameld_op": "2026-10-25T04:45:09+00:00"
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-26T04:48:33+00:00"
   },
   {
-   "id": "156f85d647ec56d3",
-   "bron": "Cobouw",
+   "id": "74b68be361c831ad",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (book-chapter)",
+   "titel": "Natural Hazard Implications",
+   "samenvatting_bron": "This chapter examines the profound implications of intensifying natural hazards for the future of global water resources management. As anthropogenic climate change, rapid urbanization, and land-use shifts converge, the traditional reliance on historical hydrologic data as a guide for future design, the paradigm of stationarity, is increasingly untenable. This transition necessitates a shift toward a management philosophy defined by deep uncertainty, systemic resilience, and adaptive governance. The analysis first characterizes the complex interactions between hydrometeorological and geophysical hazards, such as floods, droughts, wildfire-induced watershed degradation, and sea-level rise, emphasizing their tendency to compound and cascade across human and natural systems. It subsequently explores the technical and institutional vulnerabilities inherent in current water infrastructure, agricultural water use, and urban supply systems. A critical focus is placed on emerging frameworks for resilience, including the integration of nature-based solutions, adaptive policy pathways, and digital innovations like real-time monitoring and digital twinning. By critiquing the intersection of physical hazard regimes with socio-economic disparities, this chapter underscores that the most significant challenges in future water management are institutional and distributive. It argues that effective adaptation requires moving beyond isolated hazard mitigation toward a holistic, equitable, and",
+   "url": "https://doi.org/10.1201/9781003750383-20",
+   "datum": "2026-10-23",
+   "versie": "629228e7660dcf94",
+   "extra": {
+    "tijdschrift": "CRC Press eBooks",
+    "instellingen": [],
+    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
+    "thema_hint": "Klimaatadaptatie",
+    "open_access": false
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-26T04:48:33+00:00"
+  },
+  {
+   "id": "dc192359c804aa25",
+   "bron": "Bouwend Nederland",
    "categorie": "Bouwmedia",
    "methode": "web",
    "soort": "",
-   "titel": "Opinie 23 okt 26 Blog | Zichtbaar resultaat vraagt om een lange adem We willen vooruit. En het liefst zien we vandaag al wat dat oplevert. Dat is begrijpelijk, zeker in een tijd waarin de woningbouw en de infrastructuur voor grote opgaven staan. Maar wie alleen kijkt naar snelle resultaten, loopt het risico de echte verandering uit het oog te verliezen.",
+   "titel": "Zondag 25 oktober 2026 'Wie investeert in jonge mensen, investeert in de toekomst' Goed werkgeverschap begint bij Maas-Jacobs al voordat iemand zijn diploma op zak heeft. Het West-Brabantse familiebedrijf investeert volop in de opleiding en begeleiding van jonge vakmensen, van leerling-timmermannen tot mbo- en hbo-studenten. Daarmee wil de bouwer niet alleen bijdragen aan de instroom van nieuwe me",
    "samenvatting_bron": "",
-   "url": "https://www.cobouw.nl/340076/zichtbaar-resultaat-vraagt-om-een-lange-adem",
+   "url": "https://www.bouwendnederland.nl/nieuws/regio-zuid/wie-investeert-in-jonge-mensen-investeert-in-de-toekomst",
    "datum": null,
-   "versie": "1f6c64c1535ae0dc",
+   "versie": "f45cfa5d5288d152",
    "extra": {},
-   "status": "gewijzigd",
-   "thema_treffers": {
-    "Bouwcontext": [
-     "woningbouw",
-     "infrastructuur"
-    ]
-   },
-   "verzameld_op": "2026-10-25T04:45:09+00:00"
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-26T04:48:33+00:00"
   }
  ]
 }

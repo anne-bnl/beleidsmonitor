@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-10-25T04:45:09+00:00",
+ "bijgewerkt": "2026-10-26T04:48:33+00:00",
  "items": [
   {
    "id": "9cb75086ff9a87d9",
@@ -136865,29 +136865,6 @@
    "verzameld_op": "2026-10-13T17:51:15+00:00"
   },
   {
-   "id": "b19823f7d3a01c96",
-   "bron": "Raad van State en rechtspraak (uitspraken)",
-   "categorie": "Rechtspraak",
-   "methode": "api_rechtspraak",
-   "soort": "Uitspraak",
-   "titel": "ECLI:NL:RVS:2026:5679, Raad van State, 23-09-2026, 202403525/1/R1",
-   "samenvatting_bron": "Bij besluit van 23 april 2024 heeft de raad het bestemmingsplan \"Maaspark Well\" vastgesteld. Het plangebied Maaspark Well ligt tussen de kernen Aijen en Well en tussen de N271 en de Maas en het Maasdal. Het plangebied omvat het recreatiegebied het Leukermeer en de omliggende gronden, met uitzondering van het Vakantiepark Leukermeer. Het plan bevat een actualisatie van de geldende bestemmingsp...",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:5679",
-   "datum": "2026-10-08",
-   "versie": "12e1c05623f32bc8",
-   "extra": {
-    "ecli": "ECLI:NL:RVS:2026:5679",
-    "raad_van_state": true
-   },
-   "status": "nieuw",
-   "thema_treffers": {
-    "Bouwcontext": [
-     "bestemmingsplan"
-    ]
-   },
-   "verzameld_op": "2026-10-13T17:51:15+00:00"
-  },
-  {
    "id": "0d064c6bbfb051ff",
    "bron": "Raad van State en rechtspraak (uitspraken)",
    "categorie": "Rechtspraak",
@@ -197963,30 +197940,6 @@
    "verzameld_op": "2026-10-16T11:28:03+00:00"
   },
   {
-   "id": "8e4851d40705e5e8",
-   "bron": "Raad van State en rechtspraak (uitspraken)",
-   "categorie": "Rechtspraak",
-   "methode": "api_rechtspraak",
-   "soort": "Uitspraak",
-   "titel": "ECLI:NL:RVS:2026:5790, Raad van State, 30-09-2026, 202502157/1/R3",
-   "samenvatting_bron": "Bij besluit van 26 februari 2025 heeft de raad van de gemeente Westerwolde het \"TAM-omgevingsplan Westerwolde, Jan Westerlaan 1\" als wijziging van het omgevingsplan van de gemeente Westerwolde vastgesteld (het besluit tot wijziging). In de motivering van het besluit tot wijziging staat dat de gemeente Westerwolde een woningbouwopgave heeft. De gemeente Westerwolde wil daarom negen eigen grondpo...",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:5790",
-   "datum": "2026-10-16",
-   "versie": "2ea9e98f73fcfe27",
-   "extra": {
-    "ecli": "ECLI:NL:RVS:2026:5790",
-    "raad_van_state": true
-   },
-   "status": "gewijzigd",
-   "thema_treffers": {
-    "Bouwcontext": [
-     "woningbouw",
-     "omgevingsplan"
-    ]
-   },
-   "verzameld_op": "2026-10-16T11:28:03+00:00"
-  },
-  {
    "id": "7f9f6b654e2359c4",
    "bron": "Raad van State en rechtspraak (uitspraken)",
    "categorie": "Rechtspraak",
@@ -252347,30 +252300,6 @@
    "verzameld_op": "2026-10-24T04:44:18+00:00"
   },
   {
-   "id": "c7f97261df0e2788",
-   "bron": "Raad van State en rechtspraak (uitspraken)",
-   "categorie": "Rechtspraak",
-   "methode": "api_rechtspraak",
-   "soort": "Uitspraak",
-   "titel": "ECLI:NL:RVS:2026:6034, Raad van State, 14-10-2026, 202601945/1/R2 en 202601945/2/R2",
-   "samenvatting_bron": "Bij afzonderlijke besluiten van 7 oktober 2025 heeft het college van burgemeester en wethouders van Tilburg aan [appellant B] omgevingsvergunningen verleend voor een omgevingsplanactiviteit bouwwerken en voor een technische bouwactiviteit, ten behoeve van het uitbreiden van de woning op het perceel [locatie 1] in Tilburg. [appellant A] en [appellant B] zijn eigenaren van het perceel. Op 12 sept...",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6034",
-   "datum": "2026-10-23",
-   "versie": "0766e9085bdfec47",
-   "extra": {
-    "ecli": "ECLI:NL:RVS:2026:6034",
-    "raad_van_state": true
-   },
-   "status": "gewijzigd",
-   "thema_treffers": {
-    "Bouwcontext": [
-     "omgevingsvergunning",
-     "omgevingsplan"
-    ]
-   },
-   "verzameld_op": "2026-10-24T04:44:18+00:00"
-  },
-  {
    "id": "6235e4abea97125e",
    "bron": "Raad van State en rechtspraak (uitspraken)",
    "categorie": "Rechtspraak",
@@ -253354,6 +253283,462 @@
     ]
    },
    "verzameld_op": "2026-10-25T04:45:09+00:00"
+  },
+  {
+   "id": "17e96fd40a240dd5",
+   "bron": "Internetconsultatie",
+   "categorie": "Consultaties",
+   "methode": "api_internetconsultatie",
+   "soort": "Internetconsultatie",
+   "titel": "Regeling Integraal Huisvestingsplan",
+   "samenvatting_bron": "Organisatie: OCW. Sluit: 2026-11-23",
+   "url": "https://www.internetconsultatie.nl/ihp",
+   "datum": "2026-10-26",
+   "versie": "fb575ff8d16f8a47",
+   "extra": {
+    "sluitingsdatum": "2026-11-23",
+    "velden": [
+     "titel",
+     "url",
+     "startdatum",
+     "einddatum",
+     "departement"
+    ]
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-26T04:48:33+00:00"
+  },
+  {
+   "id": "8e4851d40705e5e8",
+   "bron": "Raad van State en rechtspraak (uitspraken)",
+   "categorie": "Rechtspraak",
+   "methode": "api_rechtspraak",
+   "soort": "Uitspraak",
+   "titel": "ECLI:NL:RVS:2026:5790, Raad van State, 30-09-2026, 202502157/1/R3",
+   "samenvatting_bron": "Bij besluit van 26 februari 2025 heeft de raad van de gemeente Westerwolde het \"TAM-omgevingsplan Westerwolde, Jan Westerlaan 1\" als wijziging van het omgevingsplan van de gemeente Westerwolde vastgesteld (het besluit tot wijziging). In de motivering van het besluit tot wijziging staat dat de gemeente Westerwolde een woningbouwopgave heeft. De gemeente Westerwolde wil daarom negen eigen grondpo...",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:5790",
+   "datum": "2026-10-25",
+   "versie": "55058191e2669784",
+   "extra": {
+    "ecli": "ECLI:NL:RVS:2026:5790",
+    "raad_van_state": true
+   },
+   "status": "gewijzigd",
+   "thema_treffers": {
+    "Bouwcontext": [
+     "woningbouw",
+     "omgevingsplan"
+    ]
+   },
+   "verzameld_op": "2026-10-26T04:48:33+00:00"
+  },
+  {
+   "id": "5a05795603509670",
+   "bron": "Raad van State en rechtspraak (uitspraken)",
+   "categorie": "Rechtspraak",
+   "methode": "api_rechtspraak",
+   "soort": "Uitspraak",
+   "titel": "ECLI:NL:RVS:2026:4905, Raad van State, 21-08-2026, 202601715/1/R1",
+   "samenvatting_bron": "[appellante] heeft beroep ingesteld tegen het niet tijdig nemen van een besluit door het college van burgemeester en wethouders van Venray over wijziging van het omgevingsplan van de gemeente Venray. Op 19 maart 2025 heeft de gemeente Venray van [appellante] een e-mail ontvangen waarin \"formeel\" wordt verzocht om \"[…] het bouwblok op het perceel perceel VRY00-C-8599, dat in het verleden is gebr...",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:4905",
+   "datum": "2026-10-25",
+   "versie": "c262852b8a332e82",
+   "extra": {
+    "ecli": "ECLI:NL:RVS:2026:4905",
+    "raad_van_state": true
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Bouwcontext": [
+     "omgevingsplan"
+    ]
+   },
+   "verzameld_op": "2026-10-26T04:48:33+00:00"
+  },
+  {
+   "id": "b19823f7d3a01c96",
+   "bron": "Raad van State en rechtspraak (uitspraken)",
+   "categorie": "Rechtspraak",
+   "methode": "api_rechtspraak",
+   "soort": "Uitspraak",
+   "titel": "ECLI:NL:RVS:2026:5679, Raad van State, 23-09-2026, 202403525/1/R1",
+   "samenvatting_bron": "Bij besluit van 23 april 2024 heeft de raad het bestemmingsplan \"Maaspark Well\" vastgesteld. Het plangebied Maaspark Well ligt tussen de kernen Aijen en Well en tussen de N271 en de Maas en het Maasdal. Het plangebied omvat het recreatiegebied het Leukermeer en de omliggende gronden, met uitzondering van het Vakantiepark Leukermeer. Het plan bevat een actualisatie van de geldende bestemmingsp...",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:5679",
+   "datum": "2026-10-25",
+   "versie": "e2768f275ade1a2a",
+   "extra": {
+    "ecli": "ECLI:NL:RVS:2026:5679",
+    "raad_van_state": true
+   },
+   "status": "gewijzigd",
+   "thema_treffers": {
+    "Bouwcontext": [
+     "bestemmingsplan"
+    ]
+   },
+   "verzameld_op": "2026-10-26T04:48:33+00:00"
+  },
+  {
+   "id": "c7f97261df0e2788",
+   "bron": "Raad van State en rechtspraak (uitspraken)",
+   "categorie": "Rechtspraak",
+   "methode": "api_rechtspraak",
+   "soort": "Uitspraak",
+   "titel": "ECLI:NL:RVS:2026:6034, Raad van State, 14-10-2026, 202601945/1/R2 en 202601945/2/R2",
+   "samenvatting_bron": "Bij afzonderlijke besluiten van 7 oktober 2025 heeft het college van burgemeester en wethouders van Tilburg aan [appellant B] omgevingsvergunningen verleend voor een omgevingsplanactiviteit bouwwerken en voor een technische bouwactiviteit, ten behoeve van het uitbreiden van de woning op het perceel [locatie 1] in Tilburg. [appellant A] en [appellant B] zijn eigenaren van het perceel. Op 12 sept...",
+   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6034",
+   "datum": "2026-10-25",
+   "versie": "dc4cc2970732b830",
+   "extra": {
+    "ecli": "ECLI:NL:RVS:2026:6034",
+    "raad_van_state": true
+   },
+   "status": "gewijzigd",
+   "thema_treffers": {
+    "Bouwcontext": [
+     "omgevingsvergunning",
+     "omgevingsplan"
+    ]
+   },
+   "verzameld_op": "2026-10-26T04:48:33+00:00"
+  },
+  {
+   "id": "2fb8e6a0f1e894e6",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "Remote sensing and the EU nature restoration Regulation: monitoring biodiversity indicators for integrated forest management",
+   "samenvatting_bron": "Implementing the EU Nature Restoration Regulation (EU NRR) requires Member States to monitor multiple indicators of forest biodiversity, yet the role of remote sensing (RS) in this process remains unclear. This review synthesises current evidence on the use of RS for monitoring forest biodiversity indicators defined in the NRR and identifies methodological gaps and operational priorities. Following a systematic review of 222 studies, we evaluate the suitability of different platforms, sensors, and scales of observation. Our results show that RS capabilities are strongly indicator and scale dependent, with no single approach suitable across all indicators. Airborne laser scanning is most effective for capturing forest structural attributes, including uneven-aged forest structure, while satellite multispectral imagery provides consistent, large-scale monitoring of forest connectivity. Tree species composition and diversity can be assessed using multi-sensor approaches, though accuracy declines in mixed and structurally complex forests. In contrast, the common forest bird index cannot currently be monitored using remote sensing, and deadwood indicators are limited by the resolution required for national monitoring. Key challenges include limited availability of repeated high-resolution data, difficulties in detecting high-resolution features, and reduced classification accuracy in complex forest systems. Overall, RS has strong potential to support monitoring when integrated with",
+   "url": "https://doi.org/10.1016/j.ecolind.2026.115636",
+   "datum": "2026-10-24",
+   "versie": "d7e6cd5f5720ec34",
+   "extra": {
+    "tijdschrift": "Ecological Indicators",
+    "instellingen": [
+     "Aalto University",
+     "BOKU University",
+     "Finnish Geospatial Research Institute",
+     "Natural Resources Institute Finland",
+     "Swedish University of Agricultural Sciences"
+    ],
+    "zoekvraag": "\"Nature Restoration Law\" OR \"Nature Restoration Regulation\" OR \"Habitats Directive\"",
+    "thema_hint": "Natuurherstel",
+    "open_access": true
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "nature restoration",
+     "biodiversity"
+    ]
+   },
+   "verzameld_op": "2026-10-26T04:48:33+00:00"
+  },
+  {
+   "id": "4322df9d558eb324",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "Neotropical puzzles: Assessing the role of spatial arrangement and human induced disturbances on the avian diversity of greenspace patches",
+   "samenvatting_bron": "Abstract Given the rapid expansion of urbanization, there is an urgent need to understand the drivers of biodiversity decline specially in highly diverse ecosystems such as the Neotropical cities. Specifically, while the influence of ecological factors on biodiversity is well documented, empirical evidence on how specific urban design features such as the spatial arrangement of greenspace patches and sources of anthropogenic disturbance contribute to these patterns remains limited. Here, we assessed how the spatial arrangement of vegetation areas such as lawns, gardens or wooded areas within urban ecosystems (i.e., greenspace patches) relative to their distance to vegetation elements such as trees and shrubs and urban infrastructure and, human disturbances such as pedestrian and pet density associated with avian species richness, abundance, functional diversity and evolutionary distinctiveness by conducting point counts across five cities in the Colombian Andes. Greenspace patches closer to vegetation supported greater bird species richness, abundance and functional diversity. Interestingly, evolutionary distinctiveness was not associated with the ecological variables considered. Overall, our findings highlight the importance of (1) preserving greenspace patches with proximity to surrounding vegetation to maintain biodiversity within urban ecosystems and (2) incorporating taxonomic, phylogenetic and functional dimensions when assessing ecological dynamics as ecological change",
+   "url": "https://doi.org/10.1007/s11252-026-02143-9",
+   "datum": "2026-10-24",
+   "versie": "7133cc1841efbc50",
+   "extra": {
+    "tijdschrift": "Urban Ecosystems",
+    "instellingen": [
+     "Universidad Nacional Abierta y a Distancia",
+     "University of Glasgow"
+    ],
+    "zoekvraag": "(\"urban biodiversity\" OR \"urban green space\" OR \"green infrastructure\") AND (housing OR \"urban development\" OR \"urban planning\" OR building)",
+    "thema_hint": "Natuurherstel",
+    "open_access": true
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "biodiversity"
+    ]
+   },
+   "verzameld_op": "2026-10-26T04:48:33+00:00"
+  },
+  {
+   "id": "6062c727e3d35b18",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "BARQAROR SHAHARSOZLIK VA HUDUDLARNI REJALASHTIRISHNING ZAMONAVIY YONDASHUVLARI: EKOLOGIK, RAQAMLI VA TRANSPORT YECHIMLARI",
+   "samenvatting_bron": "Mazkur maqolada barqaror shaharsozlik va hududlarni rejalashtirishning zamonaviy yondashuvlari tahlil qilinadi. Urbanizatsiya jadallashuvi shahar hududlarida uy-joy, transport, muhandislik infratuzilmasi, yashil hududlar va ijtimoiy xizmatlarga bo‘lgan talabni oshirmoqda. Shu sababli hududiy rejalashtirishda ekologik, ijtimoiy, iqtisodiy va raqamli omillarni yagona tizim sifatida ko‘rib chiqish zarur. Tadqiqotda ixcham va aralash funksiyali shahar, yashil infratuzilma, tabiatga asoslangan yechimlar, barqaror transport, GIS va raqamli monitoringning o‘rni yoritiladi. Urganch shahri sharoitida barqaror hududiy rivojlanishning konseptual modeli taklif etilib, uning asosiy elementlari — yashil-ekologik karkas, mahalla markazlari, jamoat transporti, piyoda va velosiped tarmoqlari hamda GIS-monitoring tizimi — asoslab beriladi. Kalit so‘zlar: barqaror shaharsozlik, urbanizatsiya, hududiy rejalashtirish, yashil infratuzilma, GIS, aqlli shahar, barqaror transport, ekologik rejalashtirish, Urganch. Abstract. The article analyzes modern approaches to sustainable urban planning and territorial development. The study focuses on compact and mixed-use urban structures, green infrastructure, nature-based solutions, sustainable mobility, GIS technologies and digital monitoring. A conceptual model for sustainable territorial development in Urgench is proposed, integrating ecological, social, transport, engineering and digital components. Keywords: sustainable urban planning, territorial plann",
+   "url": "https://doi.org/10.5281/zenodo.23618042",
+   "datum": "2026-10-24",
+   "versie": "76059448e7af2ede",
+   "extra": {
+    "tijdschrift": "Zenodo (CERN European Organization for Nuclear Research)",
+    "instellingen": [],
+    "zoekvraag": "(\"urban biodiversity\" OR \"urban green space\" OR \"green infrastructure\") AND (housing OR \"urban development\" OR \"urban planning\" OR building)",
+    "thema_hint": "Natuurherstel",
+    "open_access": true
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-26T04:48:33+00:00"
+  },
+  {
+   "id": "1eed39fd861a898c",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "XORAZM VILOYATI SHAROITIDA ILMIY-TADQIQOT VA INNOVATSION MARKAZLARNI JOYLASHTIRISHNING SHAHARSOZLIK VA IQLIMIY TAMOYILLARIXORAZM VILOYATI SHAROITIDA ILMIY-TADQIQOT VA INNOVATSION MARKAZLARNI JOYLASHTIRISHNING SHAHARSOZLIK VA IQLIMIY TAMOYILLARI",
+   "samenvatting_bron": "ANNOTATSIYA. Maqolada Xorazm viloyati sharoitida ilmiy-tadqiqot va innovatsion markazlarni shakllantirish hamda hududiy joylashtirishga ta’sir qiluvchi shaharsozlik, infratuzilmaviy va tabiiy-iqlimiy omillar tahlil qilindi. Zamonaviy ilmiy parklar va innovatsion hududlarning rivojlanish tendensiyalari, oliy ta’lim, ilmiy tadqiqot, startap, tajriba-ishlab chiqarish hamda xizmat ko‘rsatish funksiyalari o‘rtasidagi fazoviy aloqalar o‘rganildi. Issiq-quruq iqlim sharoitida ilmiy markazlar arxitekturasini shakllantirishda soyalanish, tabiiy shamollatish, yashil infratuzilma, kompakt hajmiy-rejaviy yechim va energiya samarador tashqi qobiqdan foydalanishning ahamiyati asoslandi. Tadqiqot natijasida Xorazm viloyati uchun “ta’lim – ilmiy tadqiqot – innovatsiya – tajriba-ishlab chiqarish” tizimiga asoslangan konseptual ilmiy-innovatsion markaz modeli taklif qilindi. Kalit so‘zlar: ilmiy-tadqiqot markazi, innovatsion markaz, shaharsozlik, innovatsion hudud, Xorazm viloyati, issiq-quruq iqlim, energiya samaradorlik, infratuzilma, barqaror rivojlanish, arxitektura-rejalashtirish. АННОТАЦИЯ. В статье рассмотрены градостроительные, инфраструктурные и природно-климатические факторы, влияющие на формирование и территориальное размещение научно-исследовательских и инновационных центров в условиях Хорезмской области. Проанализированы современные тенденции развития научных парков и инновационных районов, пространственная взаимосвязь между высшим образованием, научными исследованиями, стартапами",
+   "url": "https://doi.org/10.5281/zenodo.23622159",
+   "datum": "2026-10-24",
+   "versie": "32ee905b4347ba1f",
+   "extra": {
+    "tijdschrift": "Zenodo (CERN European Organization for Nuclear Research)",
+    "instellingen": [],
+    "zoekvraag": "(\"urban biodiversity\" OR \"urban green space\" OR \"green infrastructure\") AND (housing OR \"urban development\" OR \"urban planning\" OR building)",
+    "thema_hint": "Natuurherstel",
+    "open_access": true
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-26T04:48:33+00:00"
+  },
+  {
+   "id": "31b4ee67df36a747",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "Renewable energy encroachment in historical-natural landscape ensembles: a spatial observatory framework applied in central Greece",
+   "samenvatting_bron": "",
+   "url": "https://doi.org/10.1007/s10661-026-16093-4",
+   "datum": "2026-10-24",
+   "versie": "54e2096d27d59c7d",
+   "extra": {
+    "tijdschrift": "Environmental Monitoring and Assessment",
+    "instellingen": [
+     "University of Thessaly"
+    ],
+    "zoekvraag": "(\"wildlife crossing\" OR \"wildlife crossings\" OR \"road ecology\" OR \"roadkill\" OR \"habitat fragmentation\") AND (road OR roads OR railway OR infrastructure)",
+    "thema_hint": "Soortenbescherming",
+    "open_access": false
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-26T04:48:33+00:00"
+  },
+  {
+   "id": "3a1c1d8e1f8c26dc",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "Evidence for potential top-down control of meso- and micro-copepods during jellyfish blooms revealed by eDNA metabarcoding",
+   "samenvatting_bron": "The limitation of traditional survey methods has catalyzed the rapid development and widespread application of eDNA metabarcoding. By collecting water samples from coastal waters off the Shandong Peninsula across the key blooming phase (May and August) of jellyfish, this study reveals the environmental drivers of jellyfish blooms and the potential top-down control exerted by jellyfish on meso- and micro-copepods. The results indicate that Aurelia coerulea is predominantly distributed in the northern Laizhou Bay, while Nemopilema nomurai is mainly found in the transition zone of Bohai and Yellow Seas. This distribution pattern may be attributed to different habitat selectivity during the polyp stage as well as environmental adaptability and ocean current effect during the medusa stage. The relative read abundance (RRA) of A. coerulea was significantly negatively correlated with that of meso- and micro-copepods, a pattern consistent with a potential top-down effect; however, under potentially phosphorus-limiting conditions, this inverse association did not cascade into an increase in phytoplankton biomass reflected by Chl a variation. Instead, elevated jellyfish RRA was associated with increased water turbidity. Our study provides a methodological paradigm for applying eDNA approach to elucidate the ecological consequences of regional jellyfish blooms, with future potential for scaling up to ecosystem-level investigations.",
+   "url": "https://doi.org/10.1016/j.ecolind.2026.115715",
+   "datum": "2026-10-23",
+   "versie": "46d52e5297acbd0a",
+   "extra": {
+    "tijdschrift": "Ecological Indicators",
+    "instellingen": [
+     "Chinese Academy of Sciences",
+     "Institute of Oceanology",
+     "Shandong University",
+     "University of Chinese Academy of Sciences"
+    ],
+    "zoekvraag": "(\"environmental DNA\" OR eDNA) AND (monitoring OR survey OR detection)",
+    "thema_hint": "eDNA en monitoring",
+    "open_access": true
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "eDNA en monitoring": [
+     "eDNA"
+    ]
+   },
+   "verzameld_op": "2026-10-26T04:48:33+00:00"
+  },
+  {
+   "id": "6bea56309edf88c7",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (preprint)",
+   "titel": "Coastal Climate Change Adaptation: A Review of Engineering, Nature-Based, Governance, and Socio-Economic Adaptation Strategies",
+   "samenvatting_bron": "Adaptation is becoming a key part of climate policies, including the Paris Agreement, for coastal areas, which host a large proportion of the world's population. Coastal areas are prone to intensive urbanization and tourism, which can exacerbate the threats of sea-level rise, storm intensification, erosion, and saltwater intrusion. Existing reviews have examined engineering, ecological, governance, and socio-economic aspects of coastal system adaptation to climate change, but these studies have generally been limited to a single discipline and offer limited cross-domain information. Such fragmentation can limit their applicability to planners who are interested in context-specific, integrated solutions. This review offers a critical synthesis of engineering, nature based, governance, and socio-economic adaptation approaches used in coastal areas worldwide. The synthesis suggests that no single adaptation pathway performs uniformly well across settings. Rather, the effectiveness of the strategies depends on asset density, ecological and sediment conditions, governance capacity, and the urgency of the hazard. Hard engineering solutions provide a stable short-term solution in urban environments, but they externalize erosion costs and interfere with natural sediment transport. Nature-based solutions provide greater ecosystem and long-term co-benefits but require specific physical conditions to be achieved, which diminishes their transferability. While governance instruments and s",
+   "url": "https://doi.org/10.31223/x5cr6p",
+   "datum": "2026-10-24",
+   "versie": "cc96af6a234e501f",
+   "extra": {
+    "tijdschrift": "",
+    "instellingen": [],
+    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
+    "thema_hint": "Klimaatadaptatie",
+    "open_access": true
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-26T04:48:33+00:00"
+  },
+  {
+   "id": "d6bfd612f8e0c279",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (book-chapter)",
+   "titel": "Drought Management and Water Resources",
+   "samenvatting_bron": "Drought is among the most complex and destructive natural hazards affecting water resources, ecosystems, agriculture, energy production, and socio-economic systems worldwide. Unlike rapid-onset disasters such as floods or earthquakes, drought develops gradually, often remaining unnoticed until severe impacts emerge across hydrological, agricultural, ecological, and socio-economic sectors. Climate change, population growth, land-use alteration, urbanization, and increasing water demand have intensified drought frequency, duration, and severity in many regions, creating unprecedented pressure on water resource systems. This chapter examines the interrelationship between drought management and water resources through a comprehensive analysis of drought concepts, classifications, drivers, impacts, assessment methods, monitoring systems, mitigation strategies, policy frameworks, and adaptive management approaches. The chapter discusses meteorological, hydrological, agricultural, and socio-economic droughts and evaluates major drought indices, including SPI, SPEI, PDSI, and remote sensing-based indicators. Particular attention is given to Integrated Water Resources Management (IWRM), groundwater sustainability, reservoir operation, drought preparedness planning, climate adaptation, and nature-based solutions (NbS). Advances in drought forecasting, artificial intelligence (AI), decision support systems, and satellite technologies are also reviewed. The chapter further explores gover",
+   "url": "https://doi.org/10.1201/9781003750383-16",
+   "datum": "2026-10-23",
+   "versie": "c9cc62af2fb1598b",
+   "extra": {
+    "tijdschrift": "CRC Press eBooks",
+    "instellingen": [],
+    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
+    "thema_hint": "Klimaatadaptatie",
+    "open_access": false
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Klimaatadaptatie": [
+     "climate adaptation"
+    ]
+   },
+   "verzameld_op": "2026-10-26T04:48:33+00:00"
+  },
+  {
+   "id": "36bb50b019c5845d",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (book-chapter)",
+   "titel": "Policy Frameworks for Managing Water Resources",
+   "samenvatting_bron": "This chapter examines the design of policy frameworks for managing water resources under the increasing pressure of natural hazards, including floods, droughts, wildfires, and cascading climate-related risks. Moving beyond traditional reactive crisis management, the chapter argues for a shift toward integrated, risk-informed governance that embeds resilience into the routine functions of water policy, planning, and investment. It explores how legal foundations, institutional coordination, economic instruments, and technical monitoring systems can be harmonized to manage water security amidst deep uncertainty. The chapter emphasizes that resilience is not achieved solely through engineered infrastructure; it requires a diversified approach that integrates the nature-based solutions, land-use management, social protection, and inclusive governance. By highlighting the necessity of adaptive planning, transparent data governance, and equity-focused decision-making, the chapter provides a conceptual and practical guide for developing policy environments capable of sustaining water services and protecting communities, ecosystems, and economies against recurring and compounding natural threats.",
+   "url": "https://doi.org/10.1201/9781003750383-13",
+   "datum": "2026-10-23",
+   "versie": "af7324724b87bb34",
+   "extra": {
+    "tijdschrift": "CRC Press eBooks",
+    "instellingen": [],
+    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
+    "thema_hint": "Klimaatadaptatie",
+    "open_access": false
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-26T04:48:33+00:00"
+  },
+  {
+   "id": "ed0d6b43fe5be669",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "Flood regulation and habitat quality assessment in Bengaluru using InVEST",
+   "samenvatting_bron": "",
+   "url": "https://doi.org/10.1007/s10668-026-08237-w",
+   "datum": "2026-10-23",
+   "versie": "45ae164ff0e31b2a",
+   "extra": {
+    "tijdschrift": "Environment Development and Sustainability",
+    "instellingen": [
+     "Indian Institute of Technology Roorkee"
+    ],
+    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
+    "thema_hint": "Klimaatadaptatie",
+    "open_access": false
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-26T04:48:33+00:00"
+  },
+  {
+   "id": "e15949e37d1b9b57",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (book-chapter)",
+   "titel": "Natural Hazard Mitigation",
+   "samenvatting_bron": "This chapter examines how Integrated Water Resource Management (IWRM) can function as a comprehensive framework for natural hazard mitigation in an era of increasing climatic variability, environmental degradation, and socio-economic exposure. It argues that floods, droughts, landslides, storm surges, and water quality crises should not be understood as purely natural events, but as socio-hydrological risks shaped by land use, infrastructure design, governance quality, and the interaction between human and ecological systems. Within this perspective, IWRM offers a practical basis for reducing disaster risk by integrating water, land, ecosystems, and institutions at the basin scale. The chapter explores how IWRM contributes to mitigation through coordinated flood and drought management, watershed protection, groundwater regulation, ecosystem restoration, pollution control, and adaptive governance. Particular attention is given to the role of water quality hazards, including contamination, disease outbreaks, and chemical risk, which often intensify after floods and droughts and can produce impacts that exceed direct physical damages. The discussion also emphasizes the importance of combining structural measures such as dams, levees, and drainage systems with non-structural measures including land-use planning, early warning systems, participatory governance, and nature-based solutions. By embedding hazard mitigation within broader water governance, IWRM helps address exposure,",
+   "url": "https://doi.org/10.1201/9781003750383-19",
+   "datum": "2026-10-23",
+   "versie": "df1aadceeb241586",
+   "extra": {
+    "tijdschrift": "CRC Press eBooks",
+    "instellingen": [],
+    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
+    "thema_hint": "Klimaatadaptatie",
+    "open_access": false
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-26T04:48:33+00:00"
+  },
+  {
+   "id": "d598cfa121aa6fdb",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (book-chapter)",
+   "titel": "Flood Risk and Water Resource Dynamics",
+   "samenvatting_bron": "Flood risk has become one of the most significant global environmental and socio-economic challenges due to rapid urbanization, climate change, land-use transformation, and increasing pressure on water resources. Simultaneously, water resource dynamics are undergoing substantial changes driven by alterations in precipitation regimes, river discharge variability, groundwater depletion, snowmelt processes, and extreme hydrological events. This chapter examines the complex relationship between flood risk and water resource dynamics by exploring the hydrological, climatic, environmental, and socio-economic factors that influence flood occurrence and severity. The chapter discusses the role of watershed characteristics, climate variability, urban expansion, and anthropogenic interventions in shaping flood behavior across different spatial and temporal scales. It further evaluates contemporary flood risk assessment approaches, including hydrological and hydraulic modeling, remote sensing, geographic information systems (GIS), machine learning (ML) applications, and integrated flood forecasting systems. Particular attention is given to the socio-economic consequences of floods, including infrastructure damage, agricultural losses, public health impacts, environmental degradation, and social vulnerability. The chapter also highlights the importance of integrated flood risk management (IFRM), sustainable water resource governance, ecosystem-based adaptation, and nature-based solutions",
+   "url": "https://doi.org/10.1201/9781003750383-15",
+   "datum": "2026-10-23",
+   "versie": "94cee826f8bea572",
+   "extra": {
+    "tijdschrift": "CRC Press eBooks",
+    "instellingen": [],
+    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
+    "thema_hint": "Klimaatadaptatie",
+    "open_access": false
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-26T04:48:33+00:00"
+  },
+  {
+   "id": "74b68be361c831ad",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (book-chapter)",
+   "titel": "Natural Hazard Implications",
+   "samenvatting_bron": "This chapter examines the profound implications of intensifying natural hazards for the future of global water resources management. As anthropogenic climate change, rapid urbanization, and land-use shifts converge, the traditional reliance on historical hydrologic data as a guide for future design, the paradigm of stationarity, is increasingly untenable. This transition necessitates a shift toward a management philosophy defined by deep uncertainty, systemic resilience, and adaptive governance. The analysis first characterizes the complex interactions between hydrometeorological and geophysical hazards, such as floods, droughts, wildfire-induced watershed degradation, and sea-level rise, emphasizing their tendency to compound and cascade across human and natural systems. It subsequently explores the technical and institutional vulnerabilities inherent in current water infrastructure, agricultural water use, and urban supply systems. A critical focus is placed on emerging frameworks for resilience, including the integration of nature-based solutions, adaptive policy pathways, and digital innovations like real-time monitoring and digital twinning. By critiquing the intersection of physical hazard regimes with socio-economic disparities, this chapter underscores that the most significant challenges in future water management are institutional and distributive. It argues that effective adaptation requires moving beyond isolated hazard mitigation toward a holistic, equitable, and",
+   "url": "https://doi.org/10.1201/9781003750383-20",
+   "datum": "2026-10-23",
+   "versie": "629228e7660dcf94",
+   "extra": {
+    "tijdschrift": "CRC Press eBooks",
+    "instellingen": [],
+    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
+    "thema_hint": "Klimaatadaptatie",
+    "open_access": false
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-26T04:48:33+00:00"
+  },
+  {
+   "id": "dc192359c804aa25",
+   "bron": "Bouwend Nederland",
+   "categorie": "Bouwmedia",
+   "methode": "web",
+   "soort": "",
+   "titel": "Zondag 25 oktober 2026 'Wie investeert in jonge mensen, investeert in de toekomst' Goed werkgeverschap begint bij Maas-Jacobs al voordat iemand zijn diploma op zak heeft. Het West-Brabantse familiebedrijf investeert volop in de opleiding en begeleiding van jonge vakmensen, van leerling-timmermannen tot mbo- en hbo-studenten. Daarmee wil de bouwer niet alleen bijdragen aan de instroom van nieuwe me",
+   "samenvatting_bron": "",
+   "url": "https://www.bouwendnederland.nl/nieuws/regio-zuid/wie-investeert-in-jonge-mensen-investeert-in-de-toekomst",
+   "datum": null,
+   "versie": "f45cfa5d5288d152",
+   "extra": {},
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-10-26T04:48:33+00:00"
   }
  ]
 }
