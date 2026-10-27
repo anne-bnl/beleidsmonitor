@@ -1,34 +1,6 @@
 {
- "bijgewerkt": "2026-10-26T04:48:33+00:00",
+ "bijgewerkt": "2026-10-27T04:46:56+00:00",
  "items": [
-  {
-   "id": "078b8e06e3ee1988",
-   "bron": "Tweede Kamer",
-   "soort": "Notaoverleg",
-   "wat": "Energiesysteem",
-   "datum": "2026-10-26",
-   "tijd": "10:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Klimaat en Groene Groei",
-   "commissie_afk": "K&GG",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05143",
-   "themas": [],
-   "kerncommissie": true
-  },
-  {
-   "id": "e10a1c743173523b",
-   "bron": "Tweede Kamer",
-   "soort": "E-mailprocedure",
-   "wat": "[E-MAILPROCEDURE] Voorstel van de leden Grinwis (CU) en Flach (SGP) om de minister van Klimaat en Groene Groei uit te nodigen voor het commissiedebat Tuinbouw en Biotechnologie op 5 november 2026",
-   "datum": "2026-10-26",
-   "tijd": "15:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
-   "commissie_afk": "LVVN",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07819",
-   "themas": [],
-   "kerncommissie": true
-  },
   {
    "id": "6f53a4f77b130e3e",
    "bron": "Internetconsultatie",
@@ -40,6 +12,20 @@
    "commissie": "SZW",
    "themas": [],
    "bouw": false
+  },
+  {
+   "id": "c742d03680c2b044",
+   "bron": "Tweede Kamer",
+   "soort": "E-mailprocedure",
+   "wat": "Voorstel van de leden De Hoop (PRO), Grinwis (ChristenUnie) en Beckerman (SP) om het verplaatsen van het commissiedebat Staat van de Volkshuisvesting van 28 oktober a.s. naar 19 november a.s.",
+   "datum": "2026-10-27",
+   "tijd": "12:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Volkshuisvesting en Ruimtelijke Ordening",
+   "commissie_afk": "VRO",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07850",
+   "themas": [],
+   "kerncommissie": true
   },
   {
    "id": "6513fe80e9e5f9ae",
@@ -522,18 +508,6 @@
    "bouw": false
   },
   {
-   "id": "e8cdd303a6fdcd3d",
-   "bron": "Internetconsultatie",
-   "soort": "Consultatie",
-   "wat": "Besluit videoconferentie in strafzaken",
-   "datum": "2026-10-30",
-   "start": "2026-05-21",
-   "url": "https://www.internetconsultatie.nl/videoconferentieinstrafzaken",
-   "commissie": "JenV",
-   "themas": [],
-   "bouw": false
-  },
-  {
    "id": "d562ecdabb42880a",
    "bron": "Internetconsultatie",
    "soort": "Consultatie",
@@ -541,6 +515,18 @@
    "datum": "2026-10-30",
    "start": "2026-05-21",
    "url": "https://www.internetconsultatie.nl/lichaamsbevoegdheden",
+   "commissie": "JenV",
+   "themas": [],
+   "bouw": false
+  },
+  {
+   "id": "e8cdd303a6fdcd3d",
+   "bron": "Internetconsultatie",
+   "soort": "Consultatie",
+   "wat": "Besluit videoconferentie in strafzaken",
+   "datum": "2026-10-30",
+   "start": "2026-05-21",
+   "url": "https://www.internetconsultatie.nl/videoconferentieinstrafzaken",
    "commissie": "JenV",
    "themas": [],
    "bouw": false
@@ -1298,6 +1284,18 @@
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A01439",
    "themas": [],
    "kerncommissie": true
+  },
+  {
+   "id": "cd64802736f3f8d4",
+   "bron": "Internetconsultatie",
+   "soort": "Consultatie",
+   "wat": "Wijziging tarieven transportsectoren 1 januari 2027",
+   "datum": "2026-11-23",
+   "start": "2026-10-26",
+   "url": "https://www.internetconsultatie.nl/wijziging_tarieven_transportsectoren_januari2027",
+   "commissie": "IenW",
+   "themas": [],
+   "bouw": false
   },
   {
    "id": "17e96fd40a240dd5",
