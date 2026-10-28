@@ -1,60 +1,6 @@
 {
- "bijgewerkt": "2026-10-27T04:46:56+00:00",
+ "bijgewerkt": "2026-10-28T04:57:40+00:00",
  "items": [
-  {
-   "id": "6f53a4f77b130e3e",
-   "bron": "Internetconsultatie",
-   "soort": "Consultatie",
-   "wat": "Tijdelijke regeling tegemoetkoming energiearmoede",
-   "datum": "2026-10-27",
-   "start": "2026-09-29",
-   "url": "https://www.internetconsultatie.nl/tegemoetkomingenergiearmoede",
-   "commissie": "SZW",
-   "themas": [],
-   "bouw": false
-  },
-  {
-   "id": "c742d03680c2b044",
-   "bron": "Tweede Kamer",
-   "soort": "E-mailprocedure",
-   "wat": "Voorstel van de leden De Hoop (PRO), Grinwis (ChristenUnie) en Beckerman (SP) om het verplaatsen van het commissiedebat Staat van de Volkshuisvesting van 28 oktober a.s. naar 19 november a.s.",
-   "datum": "2026-10-27",
-   "tijd": "12:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Volkshuisvesting en Ruimtelijke Ordening",
-   "commissie_afk": "VRO",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07850",
-   "themas": [],
-   "kerncommissie": true
-  },
-  {
-   "id": "6513fe80e9e5f9ae",
-   "bron": "Tweede Kamer",
-   "soort": "Commissiedebat",
-   "wat": "Grondwet en democratische rechtsstaat",
-   "datum": "2026-10-27",
-   "tijd": "16:30",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Binnenlandse Zaken",
-   "commissie_afk": "BiZa",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05169",
-   "themas": [],
-   "kerncommissie": false
-  },
-  {
-   "id": "e934dbc20b521f44",
-   "bron": "Tweede Kamer",
-   "soort": "Technische briefing",
-   "wat": "Aandachtspunten bij de ontwerpbegroting 2027 begrotingshoofdstuk XXIII van Klimaat en Groene Groei door de Algemene Rekenkamer (GEANNULEERD)",
-   "datum": "2026-10-27",
-   "tijd": "18:00",
-   "status": "Geannuleerd",
-   "commissie": "vaste commissie voor Klimaat en Groene Groei",
-   "commissie_afk": "K&GG",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07195",
-   "themas": [],
-   "kerncommissie": true
-  },
   {
    "id": "088f039ce5ccb3ae",
    "bron": "Tweede Kamer",
@@ -98,13 +44,13 @@
    "kerncommissie": false
   },
   {
-   "id": "a3b01e8df49d368f",
+   "id": "82ec8751235643f4",
    "bron": "Tweede Kamer",
    "soort": "Commissiedebat",
-   "wat": "Staat van de Volkshuisvesting",
+   "wat": "Staat van de Volkshuisvesting - verplaatst naar 19 november 2026",
    "datum": "2026-10-28",
    "tijd": "10:00",
-   "status": "Gepland",
+   "status": "Verplaatst",
    "commissie": "vaste commissie voor Volkshuisvesting en Ruimtelijke Ordening",
    "commissie_afk": "VRO",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A01807",
@@ -263,7 +209,7 @@
    "id": "0d620c6d7fff811c",
    "bron": "Tweede Kamer",
    "soort": "Technische briefing",
-   "wat": "Vertrouwelijke technische briefing over de aanpak van de schaduwvloot",
+   "wat": "Aanpak van de schaduwvloot",
    "datum": "2026-10-29",
    "tijd": "11:30",
    "status": "Gepland",
@@ -1166,6 +1112,18 @@
    "kerncommissie": false
   },
   {
+   "id": "3ea553d45bc214ea",
+   "bron": "Internetconsultatie",
+   "soort": "Consultatie",
+   "wat": "Wijzigingsregeling BOSA 2027",
+   "datum": "2026-11-17",
+   "start": "2026-10-27",
+   "url": "https://www.internetconsultatie.nl/wijzigingsregelingbosa2027",
+   "commissie": "VWS",
+   "themas": [],
+   "bouw": false
+  },
+  {
    "id": "2d0f6a225590de17",
    "bron": "Internetconsultatie",
    "soort": "Consultatie",
@@ -1282,6 +1240,20 @@
    "commissie": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
    "commissie_afk": "LVVN",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A01439",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "a3b01e8df49d368f",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Staat van de Volkshuisvesting",
+   "datum": "2026-11-19",
+   "tijd": "15:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Volkshuisvesting en Ruimtelijke Ordening",
+   "commissie_afk": "VRO",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07869",
    "themas": [],
    "kerncommissie": true
   },
@@ -1886,6 +1858,20 @@
    "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
    "commissie_afk": "I&W",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02813",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "31ce2d1aa7b925bb",
+   "bron": "Tweede Kamer",
+   "soort": "Notaoverleg",
+   "wat": "Nota Ruimte",
+   "datum": "2026-12-16",
+   "tijd": "17:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Volkshuisvesting en Ruimtelijke Ordening",
+   "commissie_afk": "VRO",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07540",
    "themas": [],
    "kerncommissie": true
   },
