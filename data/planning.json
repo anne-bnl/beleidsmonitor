@@ -1,134 +1,6 @@
 {
- "bijgewerkt": "2026-10-28T04:57:40+00:00",
+ "bijgewerkt": "2026-10-29T04:58:04+00:00",
  "items": [
-  {
-   "id": "088f039ce5ccb3ae",
-   "bron": "Tweede Kamer",
-   "soort": "Commissiedebat",
-   "wat": "Startups en Scale-ups ",
-   "datum": "2026-10-28",
-   "tijd": "10:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Economische Zaken",
-   "commissie_afk": "EZ",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05087",
-   "themas": [],
-   "kerncommissie": false
-  },
-  {
-   "id": "2151c2949beff7f5",
-   "bron": "Tweede Kamer",
-   "soort": "Technische briefing",
-   "wat": "Over het rapport 'Iedere boer telt' door RVO en Caring Farmers",
-   "datum": "2026-10-28",
-   "tijd": "10:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
-   "commissie_afk": "LVVN",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04335",
-   "themas": [],
-   "kerncommissie": true
-  },
-  {
-   "id": "5246fbf47bb84d9f",
-   "bron": "Tweede Kamer",
-   "soort": "Commissiedebat",
-   "wat": "Slagvaardige overheid en regeldruk (verplaatst naar 1 december 2026)",
-   "datum": "2026-10-28",
-   "tijd": "10:00",
-   "status": "Verplaatst",
-   "commissie": "vaste commissie voor Binnenlandse Zaken",
-   "commissie_afk": "BiZa",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A01369",
-   "themas": [],
-   "kerncommissie": false
-  },
-  {
-   "id": "82ec8751235643f4",
-   "bron": "Tweede Kamer",
-   "soort": "Commissiedebat",
-   "wat": "Staat van de Volkshuisvesting - verplaatst naar 19 november 2026",
-   "datum": "2026-10-28",
-   "tijd": "10:00",
-   "status": "Verplaatst",
-   "commissie": "vaste commissie voor Volkshuisvesting en Ruimtelijke Ordening",
-   "commissie_afk": "VRO",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A01807",
-   "themas": [],
-   "kerncommissie": true
-  },
-  {
-   "id": "7d41e6367410dd4c",
-   "bron": "Tweede Kamer",
-   "soort": "Technische briefing",
-   "wat": "Uitvoeringswet Natuurherstelverordening",
-   "datum": "2026-10-28",
-   "tijd": "11:15",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
-   "commissie_afk": "LVVN",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06125",
-   "themas": [
-    "Natuurherstel en gebiedsbescherming"
-   ],
-   "kerncommissie": true
-  },
-  {
-   "id": "a8a01754c9f413de",
-   "bron": "Tweede Kamer",
-   "soort": "Gesprek",
-   "wat": "Minister van Buitenlandse Zaken van Moldavië, dhr. Mihai Popșoi",
-   "datum": "2026-10-28",
-   "tijd": "13:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Europese Zaken",
-   "commissie_afk": "EU",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07369",
-   "themas": [],
-   "kerncommissie": false
-  },
-  {
-   "id": "e7ea4269588faff4",
-   "bron": "Tweede Kamer",
-   "soort": "Technische briefing",
-   "wat": "Inzet onderhandelingen VN-klimaatconferentie (COP31)",
-   "datum": "2026-10-28",
-   "tijd": "13:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Klimaat en Groene Groei",
-   "commissie_afk": "K&GG",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06391",
-   "themas": [],
-   "kerncommissie": true
-  },
-  {
-   "id": "2af8ec908ca91c8b",
-   "bron": "Tweede Kamer",
-   "soort": "Commissiedebat",
-   "wat": "Leefomgeving - verplaatst i.v.m. begrotingsbehandeling I&W",
-   "datum": "2026-10-28",
-   "tijd": "14:00",
-   "status": "Verplaatst",
-   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
-   "commissie_afk": "I&W",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02830",
-   "themas": [],
-   "kerncommissie": true
-  },
-  {
-   "id": "8a660f10c79bb0aa",
-   "bron": "Tweede Kamer",
-   "soort": "Rondetafelgesprek",
-   "wat": "Zon op dak: van potentie naar realisatie ",
-   "datum": "2026-10-28",
-   "tijd": "14:15",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Klimaat en Groene Groei",
-   "commissie_afk": "K&GG",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07432",
-   "themas": [],
-   "kerncommissie": true
-  },
   {
    "id": "978a7ae26c89700b",
    "bron": "Internetconsultatie",
@@ -288,6 +160,20 @@
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07197",
    "themas": [],
    "kerncommissie": true
+  },
+  {
+   "id": "5a9bf42a538dd8f5",
+   "bron": "Tweede Kamer",
+   "soort": "E-mailprocedure",
+   "wat": "Voorstel Noordse ambassadeurs voor lunchgesprek d.d. 4 november 2026",
+   "datum": "2026-10-29",
+   "tijd": "14:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Europese Zaken",
+   "commissie_afk": "EU",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07931",
+   "themas": [],
+   "kerncommissie": false
   },
   {
    "id": "2ee9341c153b4ea9",
@@ -679,7 +565,7 @@
    "id": "ca5ad5e93b0cba78",
    "bron": "Tweede Kamer",
    "soort": "Inbreng verslag (wetsvoorstel)",
-   "wat": "Wijziging van de Leegstandwet naar aanleiding van de evaluatie",
+   "wat": "Wijziging van de Leegstandwet naar aanleiding van de evaluatie (37033)",
    "datum": "2026-11-04",
    "tijd": "14:00",
    "status": "Gepland",
@@ -908,13 +794,13 @@
    "kerncommissie": false
   },
   {
-   "id": "4b8e6235a140ae60",
+   "id": "8b38b5cd91d194f2",
    "bron": "Tweede Kamer",
    "soort": "Commissiedebat",
-   "wat": "Kernenergie ",
+   "wat": "Kernenergie (VERPLAATST NAAR 20 januari 2027)",
    "datum": "2026-11-11",
    "tijd": "10:00",
-   "status": "Gepland",
+   "status": "Verplaatst",
    "commissie": "vaste commissie voor Klimaat en Groene Groei",
    "commissie_afk": "K&GG",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05144",
@@ -1174,6 +1060,20 @@
    "kerncommissie": false
   },
   {
+   "id": "7fb75ee881743e2f",
+   "bron": "Tweede Kamer",
+   "soort": "Technische briefing",
+   "wat": "EU-hervormingen",
+   "datum": "2026-11-18",
+   "tijd": "10:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Europese Zaken",
+   "commissie_afk": "EU",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07793",
+   "themas": [],
+   "kerncommissie": false
+  },
+  {
    "id": "a9431fe8090b1d4c",
    "bron": "Tweede Kamer",
    "soort": "Commissiedebat",
@@ -1227,6 +1127,22 @@
    "commissie_afk": "I&W",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05471",
    "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "56f5378f04b78769",
+   "bron": "Tweede Kamer",
+   "soort": "Technische briefing",
+   "wat": "Aanwijzen van Natura 2000-gebied Hollandse kust",
+   "datum": "2026-11-19",
+   "tijd": "10:30",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
+   "commissie_afk": "LVVN",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06124",
+   "themas": [
+    "Natuurherstel en gebiedsbescherming"
+   ],
    "kerncommissie": true
   },
   {
@@ -1928,6 +1844,20 @@
    "commissie": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
    "commissie_afk": "LVVN",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07067",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "4b8e6235a140ae60",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Kernenergie ",
+   "datum": "2027-01-20",
+   "tijd": "10:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Klimaat en Groene Groei",
+   "commissie_afk": "K&GG",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07906",
    "themas": [],
    "kerncommissie": true
   },
