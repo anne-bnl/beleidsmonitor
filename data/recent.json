@@ -1,194 +1,6 @@
 {
- "bijgewerkt": "2026-11-01T04:59:37+00:00",
+ "bijgewerkt": "2026-11-02T05:13:31+00:00",
  "items": [
-  {
-   "id": "f498889832c35427",
-   "bron": "Internetconsultatie",
-   "categorie": "Consultaties",
-   "methode": "api_internetconsultatie",
-   "soort": "Internetconsultatie",
-   "titel": "Wijziging van het Besluit bewapening en uitrusting politie in verband met de toekenning van het stroomstootwapen",
-   "samenvatting_bron": "Organisatie: JenV. Sluit: 2026-11-30",
-   "url": "https://www.internetconsultatie.nl/stroomstootwapen",
-   "datum": "2026-10-19",
-   "versie": "7808db54138800d6",
-   "extra": {
-    "sluitingsdatum": "2026-11-30",
-    "velden": [
-     "titel",
-     "url",
-     "startdatum",
-     "einddatum",
-     "departement"
-    ]
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-19T04:47:26+00:00"
-  },
-  {
-   "id": "fb4aca79f381abb7",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "\"Toward Interactive Green Urban Planning: Assessing the Efficiency of Urban Green Spaces and Integrating Low-Cost Smart System Solutions\"",
-   "samenvatting_bron": "Abstract: This study presents a comparative field diagnosis of urban green spaces in the city of Annaba (Algeria), focusing on Edough Sud Garden (central sample) and Martyr Zemmouri Uenassa Garden (neighborhood sample). The research aims to assess the condition of vegetation, facilities, maintenance levels, and waste management, while exploring the integration of low-cost smart solutions—such as soil-moisture sensors for irrigation, fill-level waste sensors, and interactive QR code platforms—to enhance sustainable urban management.",
-   "url": "https://doi.org/10.5281/zenodo.23428418",
-   "datum": "2026-10-17",
-   "versie": "219059c8a2fc782f",
-   "extra": {
-    "tijdschrift": "Zenodo (CERN European Organization for Nuclear Research)",
-    "instellingen": [
-     "Badji Mokhtar-Annaba University"
-    ],
-    "zoekvraag": "(\"urban biodiversity\" OR \"urban green space\" OR \"green infrastructure\") AND (housing OR \"urban development\" OR \"urban planning\" OR building)",
-    "thema_hint": "Natuurherstel",
-    "open_access": true
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-19T04:47:26+00:00"
-  },
-  {
-   "id": "c9590b84715bbacb",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "Evaluating a peri-urban nature-based solution in Portugal through the IUCN Global Standard: lessons for municipal implementation",
-   "samenvatting_bron": "",
-   "url": "https://doi.org/10.1007/s11252-026-02147-5",
-   "datum": "2026-10-17",
-   "versie": "54cedb199af52994",
-   "extra": {
-    "tijdschrift": "Urban Ecosystems",
-    "instellingen": [
-     "Centro de Investigação em Biodiversidade e Recursos Genéticos",
-     "IUCN Commission on Ecosystem Management",
-     "International Union for Conservation of Nature",
-     "Universidade do Porto"
-    ],
-    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
-    "thema_hint": "Klimaatadaptatie",
-    "open_access": false
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-10-19T04:47:26+00:00"
-  },
-  {
-   "id": "a6a8fb334c08a0ae",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "Understanding public preferences for urban wildflower meadows",
-   "samenvatting_bron": "Accelerating urbanisation challenges biodiversity and human wellbeing, demanding effective urban nature-based solutions. Urban wildflower meadows are increasingly popular interventions that may offer biodiversity and wellbeing benefits. However, realising their potential depends on public support, which requires robust evidence on which meadow design attributes the public prefers and values most. We conducted a choice experiment with urban greenspace users across three UK cities to quantify willingness-to-pay (WTP) for some of the key characteristics of wildflower meadows in public parks, namely flower colour diversity, native species composition, plant species richness, and pollinator habitat quality. Respondents generally preferred wildflower meadow options over the status quo of mown amenity grass and were willing to pay for improvements to meadow attributes through increased local taxation. Respondents had positive WTP for more colourful, pollinator-friendly meadows with more native species, but not for additional plant species. Preferences were largely consistent across respondents interviewed at different meadow types (annual, perennial, or control sites), suggesting that enhanced attribute salience from direct exposure to existing meadows had minimal influence on stated preferences. Methodologically, this suggests that in situ surveys of preferences for urban greenspace are broadly robust to salience effects and can inform management beyond the surveyed sites. Attribut",
-   "url": "https://doi.org/10.1016/j.jenvman.2026.131156",
-   "datum": "2026-10-17",
-   "versie": "03c4db88be7c08f8",
-   "extra": {
-    "tijdschrift": "Journal of Environmental Management",
-    "instellingen": [
-     "Imperial College London",
-     "Northumbria University",
-     "University of Copenhagen",
-     "University of Kent",
-     "University of Leeds"
-    ],
-    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
-    "thema_hint": "Klimaatadaptatie",
-    "open_access": true
-   },
-   "status": "nieuw",
-   "thema_treffers": {
-    "Natuurherstel en gebiedsbescherming": [
-     "biodiversity"
-    ]
-   },
-   "verzameld_op": "2026-10-19T04:47:26+00:00"
-  },
-  {
-   "id": "0fba6656f771db58",
-   "bron": "NU.nl Algemeen",
-   "categorie": "Media",
-   "methode": "feed",
-   "soort": "",
-   "titel": "Vrouw verdronken in Spanje na overstromingen en stortregens",
-   "samenvatting_bron": "In Spanje heeft een mediterrane storm zondag voor veel problemen geleid. Door overstromingen na stortregens staan straten onder water en is het verkeer ontwricht. Ook is een vrouw om het leven gekomen door verdrinking.",
-   "url": "https://www.nu.nl/buitenland/6413590/vrouw-verdronken-in-spanje-na-overstromingen-en-stortregens.html",
-   "datum": "2026-10-18",
-   "versie": "02f761de09acd74c",
-   "extra": {},
-   "status": "nieuw",
-   "thema_treffers": {
-    "Klimaatadaptatie": [
-     "overstroming"
-    ]
-   },
-   "verzameld_op": "2026-10-19T04:47:26+00:00"
-  },
-  {
-   "id": "05bbef95bd8cc76d",
-   "bron": "NU.nl Algemeen",
-   "categorie": "Media",
-   "methode": "feed",
-   "soort": "",
-   "titel": "Nee, konijnen zijn niet de sleutel om stikstofslot open te breken",
-   "samenvatting_bron": "Veel boeren vragen zich af: als meer konijnen de Rotterdamse haven van het stikstofslot kunnen halen, waarom is dat dan niet overal de oplossing? Maar zo simpel is het niet. Daarvoor gaat het op andere plekken te slecht met de natuur.",
-   "url": "https://www.nu.nl/stikstof/6413360/nee-konijnen-zijn-niet-de-sleutel-om-stikstofslot-open-te-breken.html",
-   "datum": "2026-10-18",
-   "versie": "684d39eaf228b76a",
-   "extra": {},
-   "status": "nieuw",
-   "thema_treffers": {
-    "Stikstof": [
-     "stikstof"
-    ]
-   },
-   "verzameld_op": "2026-10-19T04:47:26+00:00"
-  },
-  {
-   "id": "2ec4eddd6c3a0cc1",
-   "bron": "Trouw",
-   "categorie": "Media",
-   "methode": "web",
-   "soort": "",
-   "titel": "Bij de wereldtop over biodiversiteit ligt een slecht tussenrapport op tafel",
-   "samenvatting_bron": "",
-   "url": "https://www.trouw.nl/duurzaamheid-economie/bij-de-wereldtop-over-biodiversiteit-ligt-een-slecht-tussenrapport-op-tafel~bbf980c5/",
-   "datum": "2026-10-18",
-   "versie": "4b5be049dd2b6701",
-   "extra": {},
-   "status": "nieuw",
-   "thema_treffers": {
-    "Natuurherstel en gebiedsbescherming": [
-     "biodiversiteit"
-    ]
-   },
-   "verzameld_op": "2026-10-19T04:47:26+00:00"
-  },
-  {
-   "id": "8192d09330b40107",
-   "bron": "Binnenlands Bestuur",
-   "categorie": "Media",
-   "methode": "web",
-   "soort": "",
-   "titel": "ruimte en milieu Ministerie van Infrastructuur heeft gewikt en gewogen",
-   "samenvatting_bron": "",
-   "url": "https://www.binnenlandsbestuur.nl/ruimte-en-milieu/ministerie-van-infrastructuur-heeft-gewikt-en-gewogen",
-   "datum": null,
-   "versie": "1f0946d6cb290825",
-   "extra": {},
-   "status": "gewijzigd",
-   "thema_treffers": {
-    "Bouwcontext": [
-     "infrastructuur"
-    ]
-   },
-   "verzameld_op": "2026-10-19T04:47:26+00:00"
-  },
   {
    "id": "0594e45bc80ffca8",
    "bron": "Tweede Kamer (documenten, moties, Kamerbrieven, vragen)",
@@ -91698,26 +91510,6 @@
    "verzameld_op": "2026-10-29T04:58:04+00:00"
   },
   {
-   "id": "436e7e6b9eb89e69",
-   "bron": "Cobouw",
-   "categorie": "Bouwmedia",
-   "methode": "web",
-   "soort": "",
-   "titel": "infra 27 okt 26 Geen geluidsschermen en stiller asfalt voor Ring Utrecht na vernietigen tracébesluit Door de vernietiging van het tracébesluit voor de A12 en de A27 gaan de geplande maatregelingen tegen geluidsoverlast niet door. De plannen voor hogere en langere geluidsschermen en stil asfalt komen te vervallen.",
-   "samenvatting_bron": "",
-   "url": "https://www.cobouw.nl/340173/geen-geluidsschermen-en-stiller-asfalt-voor-ring-utrecht-na-vernietigen-tracebesluit",
-   "datum": null,
-   "versie": "00786527dad5505b",
-   "extra": {},
-   "status": "gewijzigd",
-   "thema_treffers": {
-    "Bouwcontext": [
-     "tracébesluit"
-    ]
-   },
-   "verzameld_op": "2026-10-29T04:58:04+00:00"
-  },
-  {
    "id": "2f551b4fa2a63a27",
    "bron": "Cobouw",
    "categorie": "Bouwmedia",
@@ -129382,6 +129174,484 @@
     ]
    },
    "verzameld_op": "2026-11-01T04:59:37+00:00"
+  },
+  {
+   "id": "8bea3de01f9cb968",
+   "bron": "Tweede Kamer (besluiten en stemmingen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_besluiten",
+   "soort": "Besluit/stemming",
+   "titel": "Brief regering: Fiche: Omnibusrichtlijn directe belastingen",
+   "samenvatting_bron": "Behandeld.",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z17403",
+   "datum": "2026-11-01",
+   "versie": "7cf8dd9c6b770145",
+   "extra": {
+    "zaaknummer": "2026Z17403",
+    "zaaksoort": "Brief regering",
+    "besluit": "Behandeld.",
+    "fracties_voor": [],
+    "fracties_tegen": []
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-11-02T05:13:31+00:00"
+  },
+  {
+   "id": "07c1f82b73486da9",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "Dynamic rainfall and urban landscape adaptive capacity for flood resilience in Makassar City, Indonesia",
+   "samenvatting_bron": "Urban flooding in Makassar City is influenced by rainfall variability, urban development, and limited landscape capacity to regulate stormwater.This study applied a pressure-sensitivity-adaptive capacity (PSAC) framework to spatially assess the interaction between hydrological pressure, flood susceptibility, and landscape adaptive capacity.A descriptive quantitative approach was employed using secondary rainfall data for 2015-2024 from the Indonesian Meteorological, Climatological and Geophysical Agency (BMKG), official flood-susceptibility data from the Regional Disaster Management Agency (BPBD), spatial planning information, and Green Open Space (GOS) data.Rainfall dynamics were evaluated using annual and seasonal precipitation, wet-month frequency, and variability indicators, while flood susceptibility and GOS distribution were assessed through GIS-based spatial analysis.The results showed substantial rainfall variability during the study period, with monthly precipitation ranging from 42.7 to 612.4 mm and a coefficient of variation of 48.1%.High and very high flood-hazard classes covered 34.8% of the study area, while GOS accounted for only 12.42% of the urban area, below the 30% spatial planning benchmark.Furthermore, 41.2% of exposed assets were located within high and very high flood-hazard zones.The PSAC priority areas showed 78.6% spatial overlap with moderate-to-high BPBD flood-susceptibility zones, indicating substantial spatial consistency with the institutional r",
+   "url": "https://doi.org/10.12912/27197050/226436",
+   "datum": "2026-10-30",
+   "versie": "74cdcff8bcc55a4e",
+   "extra": {
+    "tijdschrift": "Ecological Engineering & Environmental Technology",
+    "instellingen": [
+     "Hasanuddin University"
+    ],
+    "zoekvraag": "(\"urban biodiversity\" OR \"urban green space\" OR \"green infrastructure\") AND (housing OR \"urban development\" OR \"urban planning\" OR building)",
+    "thema_hint": "Natuurherstel",
+    "open_access": true
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-11-02T05:13:31+00:00"
+  },
+  {
+   "id": "c3d60adae838c1c6",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "Rethinking sustainable urban planning in the Global South: six paradigm shifts for the next decade",
+   "samenvatting_bron": "Cities across the Global South are entering a decisive decade for sustainable development.Rapid urbanization and intensifying climate change are placing growing pressure on urban sustainability, increasing environmental risks while challenging cities' social, economic, and infrastructural systems (Almulhim & Cobbinah, 2026;UN-Habitat, 2024). These pressures are unfolding alongside widening socio-spatial inequalities, infrastructure and resource constraints, and profound technological and economic change, with climate impacts often falling disproportionately on vulnerable and marginalized urban populations (UN-Habitat, 2024).Climate-induced migration adds another layer of complexity, as environmental stress can accelerate rural-to-urban mobility, placing additional pressure on infrastructure, services, and informal and peri-urban development in receiving cities (Almulhim et al., 2024). These pressures do not occur independently. They interact within increasingly complex urban systems, where decisions about land use, housing, mobility, infrastructure, ecosystems, and public services can generate consequences far beyond the sectors in which they originate. The significance of these interactions also extends beyond city boundaries, as urban growth increasingly shapes land cover, hydrological systems, climate, biogeochemical processes, and habitats at broader scales (Espey et al., 2024).Although the term Global South encompasses highly diverse urban contexts and should not imply a",
+   "url": "https://doi.org/10.3389/frsc.2026.2014131",
+   "datum": "2026-10-30",
+   "versie": "c6b9852d00bc289f",
+   "extra": {
+    "tijdschrift": "Frontiers in Sustainable Cities",
+    "instellingen": [
+     "Imam Abdulrahman Bin Faisal University"
+    ],
+    "zoekvraag": "(\"urban biodiversity\" OR \"urban green space\" OR \"green infrastructure\") AND (housing OR \"urban development\" OR \"urban planning\" OR building)",
+    "thema_hint": "Natuurherstel",
+    "open_access": true
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-11-02T05:13:31+00:00"
+  },
+  {
+   "id": "757807d72091dd2b",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "Designing With, Not for Youth: Reframing Participatory Techniques as Civic Learning Tools for Urban Greening and Natural Resources Programming",
+   "samenvatting_bron": "Here, we present four participatory techniques—visioning, mapping, photovoice, and codesign—with practical recommendations for their effective implementation in fostering civic learning and engagement in urban greening among BIPOC and Hispanic youth. With examples of culturally responsive, hands-on activities and an AI-assisted synthesis of youth ideas, drawn from application with over 100 youth in Connecticut, we illustrate their use in informing local urban planning processes. We highlight the role of these techniques in positioning youth as active civic agents and collaborative designers in the creation of urban green spaces, with application for Extension professionals, educators, and planning officials.",
+   "url": "https://doi.org/10.66752/1077-5315.9316",
+   "datum": "2026-10-30",
+   "versie": "3f599d8211db8b8d",
+   "extra": {
+    "tijdschrift": "Journal of Extension",
+    "instellingen": [
+     "Puerto Rico Department of Education",
+     "Secretaría de Educación Superior, Ciencia, Tecnología e Innovación",
+     "University of Connecticut"
+    ],
+    "zoekvraag": "(\"urban biodiversity\" OR \"urban green space\" OR \"green infrastructure\") AND (housing OR \"urban development\" OR \"urban planning\" OR building)",
+    "thema_hint": "Natuurherstel",
+    "open_access": true
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-11-02T05:13:31+00:00"
+  },
+  {
+   "id": "225022bd70f410b0",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "Metabarcoding as a Tool in Characterizing Nordic Deep‐Sea and Arctic Benthic Ecosystems",
+   "samenvatting_bron": "ABSTRACT Deep‐sea and Arctic soft‐bottom organism communities remain severely underexplored. Sediment environmental DNA (eDNA) metabarcoding can complement existing survey methods, but its ability to discriminate among habitats and to reliably assign taxa must be critically evaluated. Here, we analyzed sediment samples from 10 areas in the Nordic Seas and adjacent Arctic, including the Arctic Mid‐Ocean Ridge (AMOR), continental slope habitats, and abyssal environments. Four genetic markers targeting different organism components were used: prokaryotic 16S and eukaryotic 18S (V1‐V2 and V4 regions) rDNA, and the metazoan cytochrome oxidase subunit I (COI) gene. Our aims were to gain biodiversity insights for these habitats by (1) comparing markers for characterizing and discriminating between samples and habitats, and (2) evaluating the potential for extracting low‐rank (family to species) animal taxa to complement taxonomic inventories. Alpha diversity varied substantially between markers and sampling areas, reflecting ecological variability and methodological differences. In contrast, beta diversity patterns were robust and consistent. Multivariate analyses showed clear separation by area and depth: the included AMOR seamount constituted a distinct community, and Arctic samples showed strong structuring with depth. Depth and geographic position explained significant fractions of community variability across metabarcoding markers. Taxonomic assignment revealed complementary pe",
+   "url": "https://doi.org/10.1002/edn3.70392",
+   "datum": "2026-10-31",
+   "versie": "f41a9d3eac1162ad",
+   "extra": {
+    "tijdschrift": "Environmental DNA",
+    "instellingen": [
+     "DeepOcean (Norway)",
+     "NORCE Research AS",
+     "University of Bergen",
+     "University of Gothenburg"
+    ],
+    "zoekvraag": "(\"environmental DNA\" OR eDNA) AND (monitoring OR survey OR detection)",
+    "thema_hint": "eDNA en monitoring",
+    "open_access": true
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "biodiversity"
+    ],
+    "eDNA en monitoring": [
+     "eDNA",
+     "environmental DNA"
+    ]
+   },
+   "verzameld_op": "2026-11-02T05:13:31+00:00"
+  },
+  {
+   "id": "942cc899a6c7943a",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (preprint)",
+   "titel": "The Fecal DNA Metabarcoding and Feeding Photos Reveal Prey of Eden’s Whales (Balaenoptera edeni edeni) in China",
+   "samenvatting_bron": "A stable population of Eden’s whales (Balaenoptera edeni edeni) inhabits the Beibu Gulf, southern China, but its diet remains poorly understood. We integrated fecal DNA metabarcoding, photographic identification, and fishery-market surveys to investigate prey composition around Weizhou Island, China. Sixteen fecal samples collected between 2021 and 2026 were analyzed using COI, while eight were additionally analyzed using 12S MiFish and 18S V4 markers. The 12S marker detected 41 fish-associated taxa, including small nearshore schooling fishes such as Ilisha, Nematalosa, Thryssa, and Sardinella. Surface and underwater photographs of feeding events supported two candidate prey taxa, with individuals morphologically consistent with Sardinella albella and Alepes djedaba. Comparisons between whale fecal DNA and seawater eDNA showed that several taxa had higher relative representation in fecal libraries than in seawater controls. Fishery-market surveys recorded 19 fish taxa from Weizhou Island and supplementary surveys in Dapeng Bay, among which eight taxa were not detected in the fecal DNA dataset and treated as market-only records of potential prey availability rather than direct molecular evidence of whale consumption. COI and 18S markers also recovered copepods, hydrozoans, bivalves, gelatinous organisms, and microalgae, which were interpreted cautiously as potential co-ingested, environmental, or broader food-web-associated signals rather than necessarily direct prey. Overall,",
+   "url": "https://doi.org/10.22541/authorea.15011359/v1",
+   "datum": "2026-10-31",
+   "versie": "b465522bf39fc05a",
+   "extra": {
+    "tijdschrift": "",
+    "instellingen": [
+     "Nanjing Normal University"
+    ],
+    "zoekvraag": "(\"environmental DNA\" OR eDNA) AND (monitoring OR survey OR detection)",
+    "thema_hint": "eDNA en monitoring",
+    "open_access": false
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "eDNA en monitoring": [
+     "eDNA"
+    ]
+   },
+   "verzameld_op": "2026-11-02T05:13:31+00:00"
+  },
+  {
+   "id": "7bc4a38702f458f6",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (article)",
+   "titel": "Future spatial footprints of natural hazards: Multi-hazard exposure modelling through cellular automata in the North Aegean Basin, Türkiye",
+   "samenvatting_bron": "",
+   "url": "https://doi.org/10.1016/j.uclim.2026.103204",
+   "datum": "2026-10-30",
+   "versie": "6d20dca222b7c2d8",
+   "extra": {
+    "tijdschrift": "Urban Climate",
+    "instellingen": [
+     "Dokuz Eylül University"
+    ],
+    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
+    "thema_hint": "Klimaatadaptatie",
+    "open_access": false
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-11-02T05:13:31+00:00"
+  },
+  {
+   "id": "ec4e4c0e4d9f578e",
+   "bron": "Wetenschappelijke publicaties (OpenAlex)",
+   "categorie": "Onderzoek",
+   "methode": "api_openalex",
+   "soort": "Wetenschappelijke publicatie (report)",
+   "titel": "Biodiversity Loss and Ecological Thresholds: Protecting Ecosystems Before Critical Change Becomes Irreversible",
+   "samenvatting_bron": "Biodiversity is declining across genes, species and ecosystems, but the decline is uneven and its headline measures are often misread. This report assembles the current evidence on the scale of loss, its drivers, the strength of the evidence for ecological thresholds, the mechanisms linking biodiversity to ecosystem functioning and human well-being, the connections with other global problems, and the record of responses. About 28% of the 175,909 species assessed by IUCN are threatened; the Living Planet Index indicates an average 73% decline (95% interval 67–78%) in the relative abundance of monitored vertebrate populations between 1970 and 2022, although 43% of individual populations increased; wetlands have lost 22% of their extent since 1970 and 84% of the world’s reef area was exposed to bleaching-level heat stress in 2023–25. Land- and sea-use change, mostly agricultural, remains the dominant driver, with climate change rising fastest. Strong evidence of abrupt, hard-to-reverse shifts exists for specific systems (coral reefs, kelp forests, lakes, collapsed fisheries); evidence for a single planetary biosphere tipping point is weak. Well-designed conservation demonstrably works, yet nature-negative financial flows exceed finance for nature-based solutions by more than 30 to 1 and national commitments fall short of 2030 targets. The report evaluates twelve response options against an explicit evidence scale and identifies priority monitoring needs and knowledge gaps. Obser",
+   "url": "https://doi.org/10.5281/zenodo.23800069",
+   "datum": "2026-10-30",
+   "versie": "d66e80d8f41397a5",
+   "extra": {
+    "tijdschrift": "Zenodo (CERN European Organization for Nuclear Research)",
+    "instellingen": [],
+    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
+    "thema_hint": "Klimaatadaptatie",
+    "open_access": true
+   },
+   "status": "nieuw",
+   "thema_treffers": {
+    "Natuurherstel en gebiedsbescherming": [
+     "biodiversity"
+    ]
+   },
+   "verzameld_op": "2026-11-02T05:13:31+00:00"
+  },
+  {
+   "id": "b6ab0cccd56fd40e",
+   "bron": "Raad voor de leefomgeving en infrastructuur (Rli)",
+   "categorie": "Onderzoek",
+   "methode": "web",
+   "soort": "",
+   "titel": "Toezicht met vertrouwen publicatie Foto: Marcel van Dorst/ ANP/ Hollandse Hoogte / EYE4images 13 oktober 2026 Wat zijn de gevolgen van de Omgevingswet voor toezicht en handhaving? Wat is er nodig om ongewenste gevolgen te voorkomen, te beperken of te herstellen? En wie is daarbij aan zet?",
+   "samenvatting_bron": "",
+   "url": "https://www.rli.nl/index.php/publicaties/2026/advies/toezicht-met-vertrouwen",
+   "datum": null,
+   "versie": "248f576b7b75e1b7",
+   "extra": {},
+   "status": "nieuw",
+   "thema_treffers": {
+    "Bouwcontext": [
+     "omgevingswet"
+    ]
+   },
+   "verzameld_op": "2026-11-02T05:13:31+00:00"
+  },
+  {
+   "id": "f759b24ead78c480",
+   "bron": "Raad voor de leefomgeving en infrastructuur (Rli)",
+   "categorie": "Onderzoek",
+   "methode": "web",
+   "soort": "",
+   "titel": "Rli brengt advies uit over gevolgen Omgevingswet voor toezicht en handhaving in de praktijk actueel V.l.n.r.: Jan Jacob van Dijk, Rli-raadsvoorzitter, Annet Bertram, staatssecretaris van Infrastructuur en Waterstaat, Elanor Boekholt-O’Sullivan, minister van Volkshuisvesting en Ruimtelijke Ordening en Hanna Tolsma, Rli-raadslid en voorzitter commissie. Foto: Sjoerd van der Hucht 13 Oktober 2026 De ",
+   "samenvatting_bron": "",
+   "url": "https://www.rli.nl/index.php/nieuws/2026/rli-brengt-advies-uit-over-gevolgen-omgevingswet-voor-toezicht-en-handhaving-in-de-praktijk",
+   "datum": null,
+   "versie": "52a64265625f856a",
+   "extra": {},
+   "status": "nieuw",
+   "thema_treffers": {
+    "Bouwcontext": [
+     "infrastructuur",
+     "omgevingswet"
+    ]
+   },
+   "verzameld_op": "2026-11-02T05:13:31+00:00"
+  },
+  {
+   "id": "bf95cbbdbf09406c",
+   "bron": "Raad voor de leefomgeving en infrastructuur (Rli)",
+   "categorie": "Onderzoek",
+   "methode": "web",
+   "soort": "",
+   "titel": "Denklijnen hervormingsagenda Belastingstelsel in voorbereiding Foto: ANP/Raymond Rutting Verwacht begin 2027 Het kabinet werkt aan een hervormingsagenda voor het belastingstelsel. Naar aanleiding daarvan komt de raad begin volgend jaar met een advies over wat er moet veranderen in het belastingstelsel om de kwaliteit van de fysieke leefomgeving te waarborgen? En wat zijn de (on)mogelijkheden die h",
+   "samenvatting_bron": "",
+   "url": "https://www.rli.nl/index.php/in-voorbereiding/denklijnen-hervormingsagenda-belastingstelsel",
+   "datum": null,
+   "versie": "1e9e759984eab13b",
+   "extra": {},
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-11-02T05:13:31+00:00"
+  },
+  {
+   "id": "a4b5a6b373705f17",
+   "bron": "Raad voor de leefomgeving en infrastructuur (Rli)",
+   "categorie": "Onderzoek",
+   "methode": "web",
+   "soort": "",
+   "titel": "Zorg voor water publicatie Foto: Shutterstock 30 april 2026 Wat moet er nú gebeuren om Nederland in de toekomst te blijven voorzien van voldoende, schoon en betaalbaar drinkwater?",
+   "samenvatting_bron": "",
+   "url": "https://www.rli.nl/index.php/publicaties/2026/advies/zorg-voor-water",
+   "datum": null,
+   "versie": "20dad4dcc0a99cb5",
+   "extra": {},
+   "status": "nieuw",
+   "thema_treffers": {
+    "Waterkwaliteit": [
+     "drinkwater"
+    ]
+   },
+   "verzameld_op": "2026-11-02T05:13:31+00:00"
+  },
+  {
+   "id": "07d2647616aeb100",
+   "bron": "Raad voor de leefomgeving en infrastructuur (Rli)",
+   "categorie": "Onderzoek",
+   "methode": "web",
+   "soort": "",
+   "titel": "Jaarverslag 2025 toont het werk van de Rli voor een duurzame leefomgeving en infrastructuur actueel 30 Maart 2026 Met vernieuwing en verdieping, en met een open vizier richting de toekomst, blijft de Rli zich inzetten voor de duurzame ontwikkeling van de leefomgeving en infrastructuur. In het jaarverslag 2025 blikken we terug op de belangrijkste adviezen, de doorwerking en overige activiteiten van",
+   "samenvatting_bron": "",
+   "url": "https://www.rli.nl/index.php/nieuws/2026/jaarverslag-2025-toont-het-werk-van-de-rli-voor-een-duurzame-leefomgeving-en-infrastructuur",
+   "datum": null,
+   "versie": "254511af23f99876",
+   "extra": {},
+   "status": "nieuw",
+   "thema_treffers": {
+    "Bouwcontext": [
+     "infrastructuur"
+    ]
+   },
+   "verzameld_op": "2026-11-02T05:13:31+00:00"
+  },
+  {
+   "id": "021bc2b8e87944bf",
+   "bron": "Raad voor de leefomgeving en infrastructuur (Rli)",
+   "categorie": "Onderzoek",
+   "methode": "web",
+   "soort": "",
+   "titel": "Nu te beluisteren: onze nieuwste podcastaflevering: ‘Woningbouw met duurzame materialen: begin er gewoon mee’ – met Job Dura actueel V.l.n.r. junior-raadslid Marnix Kluiters, Job Dura, CEO van Dura Vermeer en raadsvoorzitter Jan Jacob van Dijk. Foto: Helene Wiesenhaan 23 Februari 2026 De leefomgeving in Nederland staat onder druk. Op een beperkt aantal vierkante meters willen we wonen, werken en r",
+   "samenvatting_bron": "",
+   "url": "https://www.rli.nl/index.php/nieuws/2026/nu-te-beluisteren-onze-nieuwste-podcastaflevering-woningbouw-met-duurzame-materialen-begin-er-gewoon",
+   "datum": null,
+   "versie": "074cdc8fad2a2c65",
+   "extra": {},
+   "status": "nieuw",
+   "thema_treffers": {
+    "Bouwcontext": [
+     "woningbouw"
+    ]
+   },
+   "verzameld_op": "2026-11-02T05:13:31+00:00"
+  },
+  {
+   "id": "9b02f533195f4375",
+   "bron": "Raad voor de leefomgeving en infrastructuur (Rli)",
+   "categorie": "Onderzoek",
+   "methode": "web",
+   "soort": "",
+   "titel": "Online talkshow ‘Eerlijk verduurzamen’ gemist? actueel Robin Utrecht / ANP / Hollandse Hoogte 16 Februari 2026 Heeft u de online talkshow over het Rli advies ‘Eerlijk verduurzamen: randvoorwaarden voor rechtvaardig beleid’ op 16 december 2025 gemist? De volledige video is nu beschikbaar.",
+   "samenvatting_bron": "",
+   "url": "https://www.rli.nl/index.php/nieuws/2026/online-talkshow-eerlijk-verduurzamen-gemist",
+   "datum": null,
+   "versie": "9c0e674ef55e024d",
+   "extra": {},
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-11-02T05:13:31+00:00"
+  },
+  {
+   "id": "ae0511d7605a6cbe",
+   "bron": "EIB",
+   "categorie": "Onderzoek",
+   "methode": "web",
+   "soort": "",
+   "titel": "Waardeafroming biedt weinig perspectief om gemeentelijke tekorten te dekken",
+   "samenvatting_bron": "Het bericht Waardeafroming biedt weinig perspectief om gemeentelijke tekorten te dekken verscheen eerst op EIB .",
+   "url": "https://www.eib.nl/nieuws/waardeafroming-biedt-weinig-perspectief-om-gemeentelijke-tekorten-te-dekken/",
+   "datum": "2026-11-02",
+   "versie": "2018cfbc5c21b91d",
+   "extra": {},
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-11-02T05:13:31+00:00"
+  },
+  {
+   "id": "695dc00597ca314c",
+   "bron": "NOS Binnenland",
+   "categorie": "Media",
+   "methode": "feed",
+   "soort": "",
+   "titel": "800 jaar oude kerken in Groningen kraken onder zomerse droogte",
+   "samenvatting_bron": "Behalve met aardbevingsschade kampen Groningse middeleeuwse kerken mogelijk ook met schade door droogte. Dat stellen klimaat- en bodemdeskundigen in een verkennend onderzoek in opdracht van de provincie Groningen en de Stichting Oude Groninger Kerken. Ze onderzochten de invloed van droogte op de wierden waarop kerken staan in Oostum en Den Ham, ten noordwesten van de stad Groningen. Aanleiding voor het onderzoek is schade aan de kerk in Oostum. Die werd ontdekt in 2018, terwijl juist twee jaar daarvoor vermoedelijke aardbevingsschade was hersteld. Sindsdien zijn daar geen grote bevingen meer geweest, maar de schade lijkt nog steeds toe te nemen. De onderzoekers denken daarom dat bodembewegingen door de droogte een rol spelen. Ze waarschuwen dat meer erfgoed dit probleem heeft. Het schip van het kerkje van Oostum staat er al 800 jaar, vertellen beheerders Hesther le Grand en Niels Smit Duyzentkunst. Ze houden van hun kerkje. Le Grand: \"Ik vind het altijd een beetje zijig klinken, maar het doet iets met de energie dat het al zo oud is. Op de een of andere manier voel je dat.\" Ouderdom Die lange geschiedenis is goed te zien voor een getraind oog. \"Het was een booggewelfkerkje, maar al na twee eeuwen waren ze er flauw van en hebben ze er een balkenplafond in gezet\", vertelt Smit Duyzentkunst, wijzend naar het dak. \"Weer twee eeuwen later kwam de kansel erin en de herenbanken. De hele geschiedenis zie je hier.\" Het levert een mooi tijdsbeeld op, maar de laatste jaren verschijnen s",
+   "url": "https://nos.nl/l/2637650",
+   "datum": "2026-11-01",
+   "versie": "5fc3eafa868ae2ca",
+   "extra": {},
+   "status": "nieuw",
+   "thema_treffers": {
+    "Klimaatadaptatie": [
+     "droogte"
+    ]
+   },
+   "verzameld_op": "2026-11-02T05:13:31+00:00"
+  },
+  {
+   "id": "2e1f94106aabefae",
+   "bron": "NOS Binnenland",
+   "categorie": "Media",
+   "methode": "feed",
+   "soort": "",
+   "titel": "Honderdduizenden auto's ondanks mogelijke defecten toch de weg op, zo zit het met jouw auto",
+   "samenvatting_bron": "In Nederland rijden honderdduizenden personenauto's rond terwijl ze eigenlijk door een garage zouden moeten worden gecontroleerd of gerepareerd. Het gaat om auto's die het onderwerp zijn van terugroepacties die de RDW classificeert als \"ernstig\". Inzittenden lopen het risico op ernstigere gevolgen bij ongelukken, bijvoorbeeld door problemen met de airbags. Bij een op de vijf getroffen auto's kan het probleem op zichzelf al een ongeluk veroorzaken, bijvoorbeeld doordat de accu in brand vliegt. Automobilisten rijden soms jarenlang door, ondanks een openstaande terugroepactie. Zo rijden er nog steeds Daihatsu Materia's rond waarbij de bouten rond het stuur mogelijk niet goed vastzitten, een terugroepactie die negentien jaar geleden startte. Reparatie is gratis. Minister Karremans van Infrastructuur en Waterstaat overweegt een wet om automobilisten te verplichten mee te werken aan terugroepacties. \"Het gaat om je veiligheid en om die van je gezin, het is echt belangrijk dat dit gebeurt.\" Registratie verbeteren Doorrijden kan gevolgen hebben voor de verzekeringsdekking, waarschuwt het Verbond van Verzekeraars, al hangt dat af van de omstandigheden. Check hier of jouw auto een open terugroepactie heeft. De data hebben een vertraging, recente reparaties kunnen ontbreken. Volgens de RDW gaat het om ruim 400.000 auto's, al is het precieze aantal niet zeker, tekent de instantie zelf aan. Er kunnen zowel herstelde auto's als getroffen auto's ontbreken in die telling, omdat er geen verpl",
+   "url": "https://nos.nl/l/2637553",
+   "datum": "2026-11-01",
+   "versie": "33dcb2993beae875",
+   "extra": {},
+   "status": "nieuw",
+   "thema_treffers": {
+    "Bouwcontext": [
+     "infrastructuur"
+    ]
+   },
+   "verzameld_op": "2026-11-02T05:13:31+00:00"
+  },
+  {
+   "id": "791820a877951e19",
+   "bron": "NOS Binnenland",
+   "categorie": "Media",
+   "methode": "feed",
+   "soort": "",
+   "titel": "Den Haag wordt marathonstad in tijd van groeiende hardloopgekte",
+   "samenvatting_bron": "In Den Haag wordt vandaag voor het eerst in jaren weer een marathon georganiseerd. Bijna 10.000 deelnemers staan vanochtend aan de start. Met dat aantal is de loop na Rotterdam en Amsterdam meteen de op twee na grootste marathon van Nederland. Net als veel andere marathons was die van Den Haag binnen enkele dagen uitverkocht. Dat past in een bredere trend die zich al langer voordoet : het afleggen van de 42,195 kilometer in wedstrijdverband is in trek. De marathonkalender in Nederland blijft zich maar uitbreiden. De groeiende populariteit roept ook de vraag op of dit leidt tot extra druk op medische hulpposten. Het Rode Kruis ondersteunt bij grote marathons zoals die van Den Haag de medische hulpposten. Volgens de hulporganisatie is de vraag naar hulpverlening de afgelopen jaren toegenomen. Er worden vooral meer mensen behandeld vanwege hitteletsel. Te veel laagjes Oververhitting komt niet alleen voor op extreem warme dagen, waarschuwt specialist eerstehulprichtlijnen Cees van Romburgh van het Rode Kruis. \"Hitteletsel, of in ernstige gevallen een hitteberoerte, kan ook voorkomen tijdens de Midwinter Marathon in Apeldoorn in februari bijvoorbeeld\", zegt hij. \"Als het kouder wordt, zie je dat sporters meer laagjes dragen, maar dat is niet altijd beter.\" Hij noemt als voorbeeld puur nylon, een synthetische stof die niet ademt. Daardoor kan zweet minder goed verdampen en kan het lichaam zijn warmte moeilijker kwijt. Zo kan een loper oververhit raken. Muur van warmte Ook een hoge ",
+   "url": "https://nos.nl/l/2637548",
+   "datum": "2026-11-01",
+   "versie": "5d0b4b55c4fd41f3",
+   "extra": {},
+   "status": "nieuw",
+   "thema_treffers": {
+    "Klimaatadaptatie": [
+     "hitte"
+    ]
+   },
+   "verzameld_op": "2026-11-02T05:13:31+00:00"
+  },
+  {
+   "id": "f04018bd8c7e5dae",
+   "bron": "NU.nl Algemeen",
+   "categorie": "Media",
+   "methode": "feed",
+   "soort": "",
+   "titel": "Deelnemers van nagebootste Mars-missie verlaten isolatie na ruim een jaar",
+   "samenvatting_bron": "Vier Amerikanen hebben zaterdag na 378 dagen de ruimte verlaten waar de leefomstandigheden op Mars werden nagebootst. Ze hebben een jaar lang getest hoe toekomstige astronauten op Mars kunnen gaan leven. Daarvoor zaten ze geïsoleerd van de buitenwereld.",
+   "url": "https://www.nu.nl/wetenschap/6415156/deelnemers-van-nagebootste-mars-missie-verlaten-isolatie-na-ruim-een-jaar.html",
+   "datum": "2026-11-01",
+   "versie": "8fda138b28ded7d0",
+   "extra": {},
+   "status": "nieuw",
+   "thema_treffers": {
+    "Bouwcontext": [
+     "isolatie"
+    ]
+   },
+   "verzameld_op": "2026-11-02T05:13:31+00:00"
+  },
+  {
+   "id": "6290b085e6057655",
+   "bron": "Cobouw",
+   "categorie": "Bouwmedia",
+   "methode": "web",
+   "soort": "",
+   "titel": "utiliteitsbouw Stelling 3: Datacenters zijn de redders van de utiliteitsmarkt",
+   "samenvatting_bron": "",
+   "url": "https://www.cobouw.nl/340046/stelling-3-datacenters-zijn-de-redders-van-de-utiliteitsmarkt",
+   "datum": null,
+   "versie": "4a0b14a72752c69d",
+   "extra": {},
+   "status": "nieuw",
+   "thema_treffers": {
+    "Bouwcontext": [
+     "utiliteitsbouw"
+    ]
+   },
+   "verzameld_op": "2026-11-02T05:13:31+00:00"
+  },
+  {
+   "id": "436e7e6b9eb89e69",
+   "bron": "Cobouw",
+   "categorie": "Bouwmedia",
+   "methode": "web",
+   "soort": "",
+   "titel": "Geen geluidsschermen en stiller asfalt voor Ring Utrecht na vernietigen tracébesluit",
+   "samenvatting_bron": "",
+   "url": "https://www.cobouw.nl/340173/geen-geluidsschermen-en-stiller-asfalt-voor-ring-utrecht-na-vernietigen-tracebesluit",
+   "datum": null,
+   "versie": "f614ba232c70b4ba",
+   "extra": {},
+   "status": "gewijzigd",
+   "thema_treffers": {
+    "Bouwcontext": [
+     "tracébesluit"
+    ]
+   },
+   "verzameld_op": "2026-11-02T05:13:31+00:00"
   }
  ]
 }
