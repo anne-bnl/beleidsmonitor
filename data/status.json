@@ -1,10 +1,15 @@
 {
  "run": {
-  "run_op": "2026-11-02T05:13:31+00:00",
+  "run_op": "2026-11-03T05:05:16+00:00",
   "bronnen_totaal": 90,
-  "bronnen_gelukt": 81,
+  "bronnen_gelukt": 76,
   "bronnen_mislukt": [
-   "Europees Parlement nieuws"
+   "Europees Parlement nieuws",
+   "RIVM",
+   "Zoogdiervereniging",
+   "EIS Kenniscentrum Insecten",
+   "Dutch Green Building Council",
+   "LTO Nederland"
   ],
   "bronnen_zoekcontrole": [
    "Open Overheid (Woo-publicaties)",
@@ -16,11 +21,11 @@
    "ICLEI Europe",
    "Mobilisation for the Environment (MOB)"
   ],
-  "documenten_gelezen": 0,
+  "documenten_gelezen": 423,
   "documenten_mislukt": [],
   "achterstand_documenten": 0,
   "vervallen_uit_oude_rij": 0,
-  "doorgelaten": 22
+  "doorgelaten": 557
  },
  "bronnen": [
   {
@@ -30,16 +35,16 @@
    "url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/",
    "filter": "alles",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
-   "gevonden": 0,
-   "nieuw": 0,
-   "gewijzigd": 0,
-   "doorgelaten": 0,
-   "toelichting": null,
+   "gevonden": 481,
+   "nieuw": 267,
+   "gewijzigd": 214,
+   "doorgelaten": 481,
+   "toelichting": "10 oudere stukken (> 90 dagen) alleen administratief bijgewerkt, overgeslagen",
    "fout": null,
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Tweede Kamer (besluiten en stemmingen)",
@@ -48,16 +53,16 @@
    "url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/",
    "filter": "alles",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
-   "gevonden": 1,
-   "nieuw": 1,
-   "gewijzigd": 0,
-   "doorgelaten": 1,
-   "toelichting": "4 besluiten zonder besluittekst overgeslagen",
+   "gevonden": 6,
+   "nieuw": 4,
+   "gewijzigd": 1,
+   "doorgelaten": 5,
+   "toelichting": "164 besluiten zonder besluittekst overgeslagen",
    "fout": null,
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Staatsblad",
@@ -66,16 +71,16 @@
    "url": "https://repository.overheid.nl/sru",
    "filter": "alles",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
-   "gevonden": 11,
-   "nieuw": 0,
+   "gevonden": 2,
+   "nieuw": 2,
    "gewijzigd": 0,
-   "doorgelaten": 0,
+   "doorgelaten": 2,
    "toelichting": null,
    "fout": null,
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Staatscourant",
@@ -84,16 +89,16 @@
    "url": "https://repository.overheid.nl/sru",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
-   "gevonden": 534,
-   "nieuw": 0,
-   "gewijzigd": 0,
+   "gevonden": 400,
+   "nieuw": 181,
+   "gewijzigd": 4,
    "doorgelaten": 0,
-   "toelichting": "1 treffers in volledige tekst",
+   "toelichting": null,
    "fout": null,
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Provinciale bladen",
@@ -102,16 +107,16 @@
    "url": "https://repository.overheid.nl/sru",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
-   "gevonden": 111,
-   "nieuw": 0,
+   "gevonden": 82,
+   "nieuw": 82,
    "gewijzigd": 0,
-   "doorgelaten": 0,
-   "toelichting": "10 treffers in volledige tekst",
+   "doorgelaten": 16,
+   "toelichting": "4 treffers in volledige tekst",
    "fout": null,
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Gemeentebladen",
@@ -120,16 +125,16 @@
    "url": "https://repository.overheid.nl/sru",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
-   "gevonden": 2279,
-   "nieuw": 0,
-   "gewijzigd": 0,
-   "doorgelaten": 0,
-   "toelichting": "9 treffers in volledige tekst",
+   "gevonden": 2182,
+   "nieuw": 2047,
+   "gewijzigd": 1,
+   "doorgelaten": 7,
+   "toelichting": "5 treffers in volledige tekst",
    "fout": null,
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Waterschapsbladen",
@@ -138,16 +143,16 @@
    "url": "https://repository.overheid.nl/sru",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
-   "gevonden": 167,
-   "nieuw": 0,
+   "gevonden": 165,
+   "nieuw": 165,
    "gewijzigd": 0,
-   "doorgelaten": 0,
-   "toelichting": "2 treffers in volledige tekst",
+   "doorgelaten": 6,
+   "toelichting": "4 treffers in volledige tekst",
    "fout": null,
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Bladen gemeenschappelijke regelingen",
@@ -156,16 +161,16 @@
    "url": "https://repository.overheid.nl/sru",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
-   "gevonden": 53,
-   "nieuw": 0,
+   "gevonden": 1,
+   "nieuw": 1,
    "gewijzigd": 0,
    "doorgelaten": 0,
    "toelichting": null,
    "fout": null,
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Eerste Kamer",
@@ -174,17 +179,17 @@
    "url": "https://www.eerstekamer.nl/nieuws",
    "filter": "alles",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 50,
-   "nieuw": 0,
+   "nieuw": 1,
    "gewijzigd": 0,
-   "doorgelaten": 0,
+   "doorgelaten": 1,
    "toelichting": "links op pagina vergeleken",
    "fout": null,
    "methode_gebruikt": "pagina",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Rijksoverheid nieuws (alle ministeries)",
@@ -193,16 +198,16 @@
    "url": "https://www.rijksoverheid.nl/api/rss?query=%7B%22filters%22%3A%5B%7B%22field%22%3A%22content_type%22%2C%22values%22%3A%5B%22pro%3AnewsDocument%22%5D%2C%22type%22%3A%22all%22%7D%5D%2C%22resultSearchTerm%22%3A%22%22%2C%22pageTitle%22%3A%22Nieuws%22%7D",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 20,
-   "nieuw": 0,
+   "nieuw": 8,
    "gewijzigd": 0,
    "doorgelaten": 0,
    "toelichting": null,
    "fout": null,
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Rijksoverheid nieuws over natuur",
@@ -211,7 +216,7 @@
    "url": "https://www.rijksoverheid.nl/api/rss?query=%7B%22filters%22%3A%5B%7B%22field%22%3A%22content_type%22%2C%22values%22%3A%5B%22pro%3AnewsDocument%22%5D%2C%22type%22%3A%22all%22%7D%5D%2C%22resultSearchTerm%22%3A%22natuur%22%2C%22pageTitle%22%3A%22Nieuws%22%7D",
    "filter": "alles",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 20,
    "nieuw": 0,
@@ -220,7 +225,7 @@
    "toelichting": null,
    "fout": null,
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Rijksoverheid nieuws over stikstof",
@@ -229,7 +234,7 @@
    "url": "https://www.rijksoverheid.nl/api/rss?query=%7B%22filters%22%3A%5B%7B%22field%22%3A%22content_type%22%2C%22values%22%3A%5B%22pro%3AnewsDocument%22%5D%2C%22type%22%3A%22all%22%7D%5D%2C%22resultSearchTerm%22%3A%22stikstof%22%2C%22pageTitle%22%3A%22Nieuws%22%7D",
    "filter": "alles",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 20,
    "nieuw": 0,
@@ -238,7 +243,7 @@
    "toelichting": null,
    "fout": null,
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Rijksoverheid nieuws over water",
@@ -247,7 +252,7 @@
    "url": "https://www.rijksoverheid.nl/api/rss?query=%7B%22filters%22%3A%5B%7B%22field%22%3A%22content_type%22%2C%22values%22%3A%5B%22pro%3AnewsDocument%22%5D%2C%22type%22%3A%22all%22%7D%5D%2C%22resultSearchTerm%22%3A%22water%22%2C%22pageTitle%22%3A%22Nieuws%22%7D",
    "filter": "alles",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 20,
    "nieuw": 0,
@@ -256,7 +261,7 @@
    "toelichting": null,
    "fout": null,
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Rijksoverheid nieuws over woningbouw",
@@ -265,16 +270,16 @@
    "url": "https://www.rijksoverheid.nl/api/rss?query=%7B%22filters%22%3A%5B%7B%22field%22%3A%22content_type%22%2C%22values%22%3A%5B%22pro%3AnewsDocument%22%5D%2C%22type%22%3A%22all%22%7D%5D%2C%22resultSearchTerm%22%3A%22woningbouw%22%2C%22pageTitle%22%3A%22Nieuws%22%7D",
    "filter": "alles",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 20,
-   "nieuw": 0,
+   "nieuw": 2,
    "gewijzigd": 0,
-   "doorgelaten": 0,
+   "doorgelaten": 2,
    "toelichting": null,
    "fout": null,
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Internetconsultatie",
@@ -283,16 +288,16 @@
    "url": "https://www.internetconsultatie.nl/",
    "filter": "alles",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
-   "gevonden": 28,
-   "nieuw": 0,
+   "gevonden": 29,
+   "nieuw": 2,
    "gewijzigd": 0,
-   "doorgelaten": 0,
-   "toelichting": "28 open consultaties via KOOP-koppeling",
+   "doorgelaten": 2,
+   "toelichting": "29 open consultaties via KOOP-koppeling",
    "fout": null,
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Wetgevingskalender",
@@ -301,16 +306,16 @@
    "url": "https://wetgevingskalender.overheid.nl/",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
-   "gevonden": 9,
-   "nieuw": 0,
-   "gewijzigd": 0,
-   "doorgelaten": 0,
-   "toelichting": "9 gewijzigde regelingen via KOOP-zoekdienst",
+   "gevonden": 4,
+   "nieuw": 2,
+   "gewijzigd": 2,
+   "doorgelaten": 2,
+   "toelichting": "4 gewijzigde regelingen via KOOP-zoekdienst",
    "fout": null,
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Open Overheid (Woo-publicaties)",
@@ -319,7 +324,7 @@
    "url": "https://open.overheid.nl/",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": null,
    "gevonden": 0,
    "nieuw": 0,
@@ -335,7 +340,7 @@
    "url": "https://wetten.overheid.nl/",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 0,
    "nieuw": 0,
@@ -351,17 +356,17 @@
    "url": "https://www.ipo.nl/nieuws/",
    "filter": "alles",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 8,
-   "nieuw": 0,
+   "nieuw": 1,
    "gewijzigd": 0,
-   "doorgelaten": 0,
+   "doorgelaten": 1,
    "toelichting": "links op pagina vergeleken",
    "fout": null,
    "methode_gebruikt": "pagina",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "VNG",
@@ -370,17 +375,17 @@
    "url": "https://vng.nl/nieuws",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 10,
-   "nieuw": 0,
+   "nieuw": 3,
    "gewijzigd": 0,
-   "doorgelaten": 0,
+   "doorgelaten": 1,
    "toelichting": "links op pagina vergeleken",
    "fout": null,
    "methode_gebruikt": "pagina",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Unie van Waterschappen",
@@ -389,7 +394,7 @@
    "url": "https://unievanwaterschappen.nl/nieuws/",
    "filter": "alles",
    "toegevoegd": "voorstel",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": null,
    "gevonden": 0,
    "nieuw": 0,
@@ -405,16 +410,16 @@
    "url": "https://data.rechtspraak.nl/uitspraken/zoeken",
    "filter": "trefwoord",
    "toegevoegd": "voorstel",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
-   "gevonden": 31,
-   "nieuw": 1,
-   "gewijzigd": 3,
-   "doorgelaten": 0,
+   "gevonden": 561,
+   "nieuw": 401,
+   "gewijzigd": 156,
+   "doorgelaten": 1,
    "toelichting": null,
    "fout": null,
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Raad van State (nieuws en uitspraken)",
@@ -423,17 +428,17 @@
    "url": "https://www.raadvanstate.nl/actueel/nieuws/",
    "filter": "alles",
    "toegevoegd": "voorstel",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 15,
-   "nieuw": 0,
+   "nieuw": 1,
    "gewijzigd": 0,
-   "doorgelaten": 0,
+   "doorgelaten": 1,
    "toelichting": "via feed https://www.raadvanstate.nl/actueel/nieuws/?rss=true",
    "fout": null,
    "methode_gebruikt": "feed",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Europese Commissie persberichten",
@@ -442,17 +447,17 @@
    "url": "https://ec.europa.eu/commission/presscorner/home/en",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 24,
-   "nieuw": 1,
+   "nieuw": 0,
    "gewijzigd": 0,
    "doorgelaten": 0,
    "toelichting": "pagina opgebouwd in browser, links vergeleken",
    "fout": null,
    "methode_gebruikt": "browser",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Europese Commissie consultaties (Have your say)",
@@ -461,17 +466,17 @@
    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say_en",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 6,
-   "nieuw": 0,
+   "nieuw": 1,
    "gewijzigd": 0,
    "doorgelaten": 0,
    "toelichting": "pagina opgebouwd in browser, links vergeleken",
    "fout": null,
    "methode_gebruikt": "browser",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Europees Parlement nieuws",
@@ -480,7 +485,7 @@
    "url": "https://www.europarl.europa.eu/news/nl",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": false,
    "gevonden": 0,
    "nieuw": 0,
@@ -488,7 +493,7 @@
    "doorgelaten": 0,
    "toelichting": null,
    "fout": "ValueError: Ook na opbouwen in de browser geen berichten herkend (0 links)",
-   "fouten_op_rij": 10,
+   "fouten_op_rij": 11,
    "laatst_gelukt": "2026-10-23T04:53:46.879895+00:00"
   },
   {
@@ -498,7 +503,7 @@
    "url": "https://eur-lex.europa.eu/homepage.html",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": null,
    "gevonden": 0,
    "nieuw": 0,
@@ -514,7 +519,7 @@
    "url": "https://www.eea.europa.eu/en/newsroom/news",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 25,
    "nieuw": 0,
@@ -524,7 +529,7 @@
    "fout": null,
    "methode_gebruikt": "pagina",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "FIEC",
@@ -533,7 +538,7 @@
    "url": "https://www.fiec.eu/",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 11,
    "nieuw": 0,
@@ -543,7 +548,7 @@
    "fout": null,
    "methode_gebruikt": "pagina",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Provincie Drenthe",
@@ -552,17 +557,17 @@
    "url": "https://www.provincie.drenthe.nl/",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 10,
-   "nieuw": 1,
+   "nieuw": 0,
    "gewijzigd": 0,
    "doorgelaten": 0,
    "toelichting": "links op pagina vergeleken",
    "fout": null,
    "methode_gebruikt": "pagina",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Provincie Flevoland",
@@ -571,17 +576,17 @@
    "url": "https://www.flevoland.nl/nieuwsoverzicht",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
-   "gevonden": 344,
-   "nieuw": 0,
+   "gevonden": 345,
+   "nieuw": 1,
    "gewijzigd": 0,
-   "doorgelaten": 0,
+   "doorgelaten": 1,
    "toelichting": "links op pagina vergeleken",
    "fout": null,
    "methode_gebruikt": "pagina",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Provincie Fryslân",
@@ -590,7 +595,7 @@
    "url": "https://www.fryslan.frl/nieuws",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": null,
    "gevonden": 0,
    "nieuw": 0,
@@ -606,17 +611,17 @@
    "url": "https://www.gelderland.nl/",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 3,
-   "nieuw": 0,
+   "nieuw": 2,
    "gewijzigd": 0,
    "doorgelaten": 0,
    "toelichting": "pagina opgebouwd in browser, links vergeleken",
    "fout": null,
    "methode_gebruikt": "browser",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Provincie Groningen",
@@ -625,7 +630,7 @@
    "url": "https://www.provinciegroningen.nl/",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 6,
    "nieuw": 0,
@@ -635,7 +640,7 @@
    "fout": null,
    "methode_gebruikt": "pagina",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Provincie Limburg",
@@ -644,17 +649,17 @@
    "url": "https://www.limburg.nl/",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
-   "gevonden": 9,
-   "nieuw": 0,
+   "gevonden": 10,
+   "nieuw": 1,
    "gewijzigd": 0,
    "doorgelaten": 0,
    "toelichting": "links op pagina vergeleken",
    "fout": null,
    "methode_gebruikt": "pagina",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Provincie Noord-Brabant",
@@ -663,17 +668,17 @@
    "url": "https://www.brabant.nl/",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 8,
-   "nieuw": 0,
+   "nieuw": 3,
    "gewijzigd": 0,
    "doorgelaten": 0,
    "toelichting": "links op pagina vergeleken",
    "fout": null,
    "methode_gebruikt": "pagina",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Provincie Noord-Holland",
@@ -682,17 +687,17 @@
    "url": "https://www.noord-holland.nl/",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
-   "gevonden": 8,
-   "nieuw": 0,
+   "gevonden": 9,
+   "nieuw": 3,
    "gewijzigd": 0,
    "doorgelaten": 0,
    "toelichting": "links op pagina vergeleken",
    "fout": null,
    "methode_gebruikt": "pagina",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Provincie Overijssel",
@@ -701,17 +706,17 @@
    "url": "https://www.overijssel.nl/",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 11,
-   "nieuw": 0,
+   "nieuw": 2,
    "gewijzigd": 0,
    "doorgelaten": 0,
    "toelichting": "links op pagina vergeleken",
    "fout": null,
    "methode_gebruikt": "pagina",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Provincie Utrecht",
@@ -720,17 +725,17 @@
    "url": "https://www.provincie-utrecht.nl/",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 14,
-   "nieuw": 0,
+   "nieuw": 3,
    "gewijzigd": 0,
    "doorgelaten": 0,
    "toelichting": "links op pagina vergeleken",
    "fout": null,
    "methode_gebruikt": "pagina",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Provincie Zeeland",
@@ -739,17 +744,17 @@
    "url": "https://www.zeeland.nl/",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 18,
-   "nieuw": 0,
+   "nieuw": 1,
    "gewijzigd": 0,
    "doorgelaten": 0,
    "toelichting": "links op pagina vergeleken",
    "fout": null,
    "methode_gebruikt": "pagina",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Provincie Zuid-Holland",
@@ -758,17 +763,17 @@
    "url": "https://www.zuid-holland.nl/",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 10,
-   "nieuw": 0,
+   "nieuw": 1,
    "gewijzigd": 0,
-   "doorgelaten": 0,
+   "doorgelaten": 1,
    "toelichting": "links op pagina vergeleken",
    "fout": null,
    "methode_gebruikt": "pagina",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Gemeente Amsterdam",
@@ -777,17 +782,17 @@
    "url": "https://www.amsterdam.nl/nieuws/",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 10,
-   "nieuw": 0,
+   "nieuw": 2,
    "gewijzigd": 0,
    "doorgelaten": 0,
    "toelichting": "via feed https://www.amsterdam.nl/nieuws/nieuwsoverzicht/?rss=true",
    "fout": null,
    "methode_gebruikt": "feed",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Gemeente Rotterdam",
@@ -796,7 +801,7 @@
    "url": "https://www.rotterdam.nl/nieuws",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": null,
    "gevonden": 0,
    "nieuw": 0,
@@ -812,7 +817,7 @@
    "url": "https://www.utrecht.nl/nieuws/",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 22,
    "nieuw": 0,
@@ -822,7 +827,7 @@
    "fout": null,
    "methode_gebruikt": "pagina",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Wetenschappelijke publicaties (OpenAlex)",
@@ -831,16 +836,16 @@
    "url": "https://openalex.org/",
    "filter": "alles",
    "toegevoegd": "voorstel",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
-   "gevonden": 58,
+   "gevonden": 44,
    "nieuw": 7,
    "gewijzigd": 0,
    "doorgelaten": 7,
-   "toelichting": "58 publicaties uit 14 zoekvragen",
+   "toelichting": "44 publicaties uit 14 zoekvragen",
    "fout": null,
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "PBL nieuws",
@@ -849,7 +854,7 @@
    "url": "https://www.pbl.nl/feed/article/rss.xml",
    "filter": "alles",
    "toegevoegd": "voorstel",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 25,
    "nieuw": 0,
@@ -858,7 +863,7 @@
    "toelichting": null,
    "fout": null,
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "PBL publicaties",
@@ -867,7 +872,7 @@
    "url": "https://www.pbl.nl/feed/publication/rss.xml",
    "filter": "alles",
    "toegevoegd": "voorstel",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 25,
    "nieuw": 0,
@@ -876,7 +881,7 @@
    "toelichting": null,
    "fout": null,
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "RIVM",
@@ -885,15 +890,15 @@
    "url": "https://www.rivm.nl/nieuws/rss.xml",
    "filter": "trefwoord",
    "toegevoegd": "voorstel",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
-   "gelukt": true,
-   "gevonden": 20,
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
+   "gelukt": false,
+   "gevonden": 0,
    "nieuw": 0,
    "gewijzigd": 0,
    "doorgelaten": 0,
    "toelichting": null,
-   "fout": null,
-   "fouten_op_rij": 0,
+   "fout": "SSLError: HTTPSConnectionPool(host='www.rivm.nl', port=443): Max retries exceeded with url: /nieuws/rss.xml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))",
+   "fouten_op_rij": 1,
    "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
   },
   {
@@ -903,17 +908,17 @@
    "url": "https://www.rli.nl/",
    "filter": "alles",
    "toegevoegd": "voorstel",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 8,
-   "nieuw": 7,
+   "nieuw": 0,
    "gewijzigd": 0,
-   "doorgelaten": 7,
+   "doorgelaten": 0,
    "toelichting": "links op pagina vergeleken",
    "fout": null,
    "methode_gebruikt": "pagina",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "BIJ12",
@@ -922,17 +927,17 @@
    "url": "https://www.bij12.nl/nieuws/",
    "filter": "alles",
    "toegevoegd": "voorstel",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 8,
-   "nieuw": 0,
+   "nieuw": 1,
    "gewijzigd": 0,
-   "doorgelaten": 0,
+   "doorgelaten": 1,
    "toelichting": "links op pagina vergeleken",
    "fout": null,
    "methode_gebruikt": "pagina",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Rijkswaterstaat",
@@ -941,17 +946,17 @@
    "url": "https://www.rijkswaterstaat.nl/nieuws",
    "filter": "trefwoord",
    "toegevoegd": "voorstel",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 12,
-   "nieuw": 0,
+   "nieuw": 3,
    "gewijzigd": 0,
-   "doorgelaten": 0,
+   "doorgelaten": 1,
    "toelichting": "links op pagina vergeleken",
    "fout": null,
    "methode_gebruikt": "pagina",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "STOWA",
@@ -960,7 +965,7 @@
    "url": "https://www.stowa.nl/nieuws",
    "filter": "alles",
    "toegevoegd": "voorstel",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 12,
    "nieuw": 0,
@@ -970,7 +975,7 @@
    "fout": null,
    "methode_gebruikt": "pagina",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Deltares",
@@ -979,7 +984,7 @@
    "url": "https://www.deltares.nl/nieuws",
    "filter": "trefwoord",
    "toegevoegd": "voorstel",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 12,
    "nieuw": 0,
@@ -989,7 +994,7 @@
    "fout": null,
    "methode_gebruikt": "pagina",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "EIB",
@@ -998,17 +1003,17 @@
    "url": "https://www.eib.nl/news/",
    "filter": "alles",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 9,
-   "nieuw": 1,
+   "nieuw": 0,
    "gewijzigd": 0,
-   "doorgelaten": 1,
+   "doorgelaten": 0,
    "toelichting": "via feed https://www.eib.nl/feed/",
    "fout": null,
    "methode_gebruikt": "feed",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "WUR",
@@ -1017,17 +1022,17 @@
    "url": "https://www.wur.nl/nl.htm",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 12,
    "nieuw": 0,
-   "gewijzigd": 0,
-   "doorgelaten": 0,
+   "gewijzigd": 1,
+   "doorgelaten": 1,
    "toelichting": "links op pagina vergeleken",
    "fout": null,
    "methode_gebruikt": "pagina",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "TNO",
@@ -1036,17 +1041,17 @@
    "url": "https://www.tno.nl/nl/newsroom/",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 7,
-   "nieuw": 0,
+   "nieuw": 1,
    "gewijzigd": 0,
    "doorgelaten": 0,
    "toelichting": "links op pagina vergeleken",
    "fout": null,
    "methode_gebruikt": "pagina",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Universiteiten van Nederland",
@@ -1055,7 +1060,7 @@
    "url": "https://www.universiteitenvannederland.nl/",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 5,
    "nieuw": 0,
@@ -1065,7 +1070,7 @@
    "fout": null,
    "methode_gebruikt": "pagina",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Universiteit Leiden",
@@ -1074,17 +1079,17 @@
    "url": "https://www.universiteitleiden.nl/nieuws",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
-   "gevonden": 15,
-   "nieuw": 0,
+   "gevonden": 14,
+   "nieuw": 5,
    "gewijzigd": 0,
    "doorgelaten": 0,
    "toelichting": "links op pagina vergeleken",
    "fout": null,
    "methode_gebruikt": "pagina",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Universiteit Utrecht",
@@ -1093,17 +1098,17 @@
    "url": "https://www.uu.nl/nieuws",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 25,
-   "nieuw": 1,
+   "nieuw": 8,
    "gewijzigd": 0,
    "doorgelaten": 0,
    "toelichting": "links op pagina vergeleken",
    "fout": null,
    "methode_gebruikt": "pagina",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Universiteit van Amsterdam",
@@ -1112,7 +1117,7 @@
    "url": "https://www.uva.nl/",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 11,
    "nieuw": 0,
@@ -1122,7 +1127,7 @@
    "fout": null,
    "methode_gebruikt": "pagina",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Vrije Universiteit Amsterdam",
@@ -1131,17 +1136,17 @@
    "url": "https://vu.nl/nl/nieuws",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 10,
-   "nieuw": 1,
+   "nieuw": 6,
    "gewijzigd": 0,
    "doorgelaten": 0,
    "toelichting": "pagina opgebouwd in browser, links vergeleken",
    "fout": null,
    "methode_gebruikt": "browser",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "PLOS",
@@ -1150,16 +1155,16 @@
    "url": "https://journals.plos.org/plosone/feed/atom",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 30,
-   "nieuw": 0,
+   "nieuw": 30,
    "gewijzigd": 0,
    "doorgelaten": 0,
    "toelichting": null,
    "fout": null,
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Vogelbescherming",
@@ -1168,17 +1173,17 @@
    "url": "https://www.vogelbescherming.nl/actueel/nieuws",
    "filter": "alles",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 50,
-   "nieuw": 0,
+   "nieuw": 2,
    "gewijzigd": 0,
-   "doorgelaten": 0,
+   "doorgelaten": 2,
    "toelichting": "via feed https://www.vogelbescherming.nl/?act=nieuws.rss",
    "fout": null,
    "methode_gebruikt": "feed",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Natuurmonumenten",
@@ -1187,7 +1192,7 @@
    "url": "https://www.natuurmonumenten.nl/nieuws",
    "filter": "alles",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 30,
    "nieuw": 0,
@@ -1197,7 +1202,7 @@
    "fout": null,
    "methode_gebruikt": "feed",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Staatsbosbeheer",
@@ -1206,7 +1211,7 @@
    "url": "https://www.staatsbosbeheer.nl/wat-we-doen/nieuws",
    "filter": "alles",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 10,
    "nieuw": 0,
@@ -1216,7 +1221,7 @@
    "fout": null,
    "methode_gebruikt": "browser",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "De Vlinderstichting",
@@ -1225,7 +1230,7 @@
    "url": "https://www.vlinderstichting.nl/actueel/nieuws/",
    "filter": "alles",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 10,
    "nieuw": 0,
@@ -1235,7 +1240,7 @@
    "fout": null,
    "methode_gebruikt": "feed",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Zoogdiervereniging",
@@ -1244,16 +1249,15 @@
    "url": "https://www.zoogdiervereniging.nl/nieuws",
    "filter": "alles",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
-   "gelukt": true,
-   "gevonden": 19,
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
+   "gelukt": false,
+   "gevonden": 0,
    "nieuw": 0,
    "gewijzigd": 0,
    "doorgelaten": 0,
-   "toelichting": "links op pagina vergeleken",
-   "fout": null,
-   "methode_gebruikt": "pagina",
-   "fouten_op_rij": 0,
+   "toelichting": null,
+   "fout": "ValueError: Ook na opbouwen in de browser geen berichten herkend (0 links)",
+   "fouten_op_rij": 1,
    "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
   },
   {
@@ -1263,16 +1267,15 @@
    "url": "https://kenniscentruminsecten.nl/actueel/",
    "filter": "alles",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
-   "gelukt": true,
-   "gevonden": 12,
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
+   "gelukt": false,
+   "gevonden": 0,
    "nieuw": 0,
    "gewijzigd": 0,
    "doorgelaten": 0,
-   "toelichting": "links op pagina vergeleken",
-   "fout": null,
-   "methode_gebruikt": "pagina",
-   "fouten_op_rij": 0,
+   "toelichting": null,
+   "fout": "ConnectionError: HTTPSConnectionPool(host='kenniscentruminsecten.nl', port=443): Max retries exceeded with url: /actueel/ (Caused by NewConnectionError(\"HTTPSConnection(host='kenniscentruminsecten.nl', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
+   "fouten_op_rij": 1,
    "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
   },
   {
@@ -1282,17 +1285,17 @@
    "url": "https://www.sovon.nl/",
    "filter": "alles",
    "toegevoegd": "voorstel",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 5,
-   "nieuw": 0,
+   "nieuw": 1,
    "gewijzigd": 0,
-   "doorgelaten": 0,
+   "doorgelaten": 1,
    "toelichting": "links op pagina vergeleken",
    "fout": null,
    "methode_gebruikt": "pagina",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "RAVON",
@@ -1301,7 +1304,7 @@
    "url": "https://www.ravon.nl/nieuws",
    "filter": "alles",
    "toegevoegd": "voorstel",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 13,
    "nieuw": 0,
@@ -1311,7 +1314,7 @@
    "fout": null,
    "methode_gebruikt": "pagina",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "FLORON",
@@ -1320,7 +1323,7 @@
    "url": "https://www.floron.nl/nieuws",
    "filter": "alles",
    "toegevoegd": "voorstel",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 4,
    "nieuw": 0,
@@ -1330,7 +1333,7 @@
    "fout": null,
    "methode_gebruikt": "pagina",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Natuur & Milieu",
@@ -1339,7 +1342,7 @@
    "url": "https://natuurenmilieu.nl/nieuws/",
    "filter": "alles",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": null,
    "gevonden": 0,
    "nieuw": 0,
@@ -1355,7 +1358,7 @@
    "url": "https://www.vhg.org/nieuws",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 4,
    "nieuw": 0,
@@ -1365,7 +1368,7 @@
    "fout": null,
    "methode_gebruikt": "pagina",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "KAN Kennisnetwerk natuurinclusief bouwen",
@@ -1374,7 +1377,7 @@
    "url": "https://www.kanbouwen.nl/",
    "filter": "alles",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 10,
    "nieuw": 0,
@@ -1384,7 +1387,7 @@
    "fout": null,
    "methode_gebruikt": "feed",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Dutch Green Building Council",
@@ -1393,16 +1396,15 @@
    "url": "https://www.dgbc.nl/nieuws",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
-   "gelukt": true,
-   "gevonden": 12,
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
+   "gelukt": false,
+   "gevonden": 0,
    "nieuw": 0,
    "gewijzigd": 0,
    "doorgelaten": 0,
-   "toelichting": "links op pagina vergeleken",
-   "fout": null,
-   "methode_gebruikt": "pagina",
-   "fouten_op_rij": 0,
+   "toelichting": null,
+   "fout": "ValueError: Ook na opbouwen in de browser geen berichten herkend (0 links)",
+   "fouten_op_rij": 1,
    "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
   },
   {
@@ -1412,7 +1414,7 @@
    "url": "https://worldgbc.org/",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 6,
    "nieuw": 0,
@@ -1422,7 +1424,7 @@
    "fout": null,
    "methode_gebruikt": "pagina",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "IUCN",
@@ -1431,7 +1433,7 @@
    "url": "https://iucn.org/news",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 4,
    "nieuw": 0,
@@ -1441,7 +1443,7 @@
    "fout": null,
    "methode_gebruikt": "feed",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "ICLEI Europe",
@@ -1450,7 +1452,7 @@
    "url": "https://iclei-europe.org/news/",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": null,
    "gevonden": 0,
    "nieuw": 0,
@@ -1466,7 +1468,7 @@
    "url": "https://www.mobilisation.nl/",
    "filter": "alles",
    "toegevoegd": "voorstel",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": null,
    "gevonden": 0,
    "nieuw": 0,
@@ -1482,17 +1484,17 @@
    "url": "https://www.greenpeace.org/nl/nieuws/",
    "filter": "trefwoord",
    "toegevoegd": "voorstel",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 23,
-   "nieuw": 1,
+   "nieuw": 0,
    "gewijzigd": 0,
    "doorgelaten": 0,
    "toelichting": "links op pagina vergeleken",
    "fout": null,
    "methode_gebruikt": "pagina",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "LTO Nederland",
@@ -1501,16 +1503,15 @@
    "url": "https://www.lto.nl/nieuws/",
    "filter": "trefwoord",
    "toegevoegd": "voorstel",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
-   "gelukt": true,
-   "gevonden": 12,
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
+   "gelukt": false,
+   "gevonden": 0,
    "nieuw": 0,
    "gewijzigd": 0,
    "doorgelaten": 0,
-   "toelichting": "links op pagina vergeleken",
-   "fout": null,
-   "methode_gebruikt": "pagina",
-   "fouten_op_rij": 0,
+   "toelichting": null,
+   "fout": "ValueError: Ook na opbouwen in de browser geen berichten herkend (0 links)",
+   "fouten_op_rij": 1,
    "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
   },
   {
@@ -1520,16 +1521,16 @@
    "url": "https://feeds.nos.nl/nosnieuwsbinnenland",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 20,
-   "nieuw": 7,
+   "nieuw": 12,
    "gewijzigd": 0,
-   "doorgelaten": 3,
+   "doorgelaten": 1,
    "toelichting": null,
    "fout": null,
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "NOS Politiek",
@@ -1538,16 +1539,16 @@
    "url": "https://feeds.nos.nl/nosnieuwspolitiek",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 20,
-   "nieuw": 0,
+   "nieuw": 4,
    "gewijzigd": 0,
-   "doorgelaten": 0,
+   "doorgelaten": 1,
    "toelichting": null,
    "fout": null,
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "NU.nl Algemeen",
@@ -1556,16 +1557,16 @@
    "url": "https://www.nu.nl/rss/Algemeen",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 30,
    "nieuw": 30,
    "gewijzigd": 0,
-   "doorgelaten": 1,
+   "doorgelaten": 0,
    "toelichting": null,
    "fout": null,
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Trouw",
@@ -1574,17 +1575,17 @@
    "url": "https://www.trouw.nl/duurzaamheid-economie",
    "filter": "trefwoord",
    "toegevoegd": "voorstel",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
-   "gevonden": 87,
-   "nieuw": 30,
-   "gewijzigd": 2,
-   "doorgelaten": 0,
+   "gevonden": 91,
+   "nieuw": 43,
+   "gewijzigd": 6,
+   "doorgelaten": 2,
    "toelichting": "via feed https://www.trouw.nl/rss.xml",
    "fout": null,
    "methode_gebruikt": "feed",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Binnenlands Bestuur",
@@ -1593,17 +1594,17 @@
    "url": "https://www.binnenlandsbestuur.nl/",
    "filter": "trefwoord",
    "toegevoegd": "voorstel",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
-   "gevonden": 37,
-   "nieuw": 2,
-   "gewijzigd": 5,
-   "doorgelaten": 0,
+   "gevonden": 38,
+   "nieuw": 11,
+   "gewijzigd": 4,
+   "doorgelaten": 1,
    "toelichting": "links op pagina vergeleken",
    "fout": null,
    "methode_gebruikt": "pagina",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Cobouw",
@@ -1612,17 +1613,17 @@
    "url": "https://www.cobouw.nl/",
    "filter": "trefwoord",
    "toegevoegd": "voorstel",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
-   "gevonden": 56,
-   "nieuw": 1,
-   "gewijzigd": 3,
-   "doorgelaten": 2,
+   "gevonden": 57,
+   "nieuw": 5,
+   "gewijzigd": 7,
+   "doorgelaten": 3,
    "toelichting": "links op pagina vergeleken",
    "fout": null,
    "methode_gebruikt": "pagina",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "BouwTotaal",
@@ -1631,17 +1632,17 @@
    "url": "https://www.bouwtotaal.nl/",
    "filter": "trefwoord",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
-   "gevonden": 16,
-   "nieuw": 1,
-   "gewijzigd": 0,
-   "doorgelaten": 0,
+   "gevonden": 17,
+   "nieuw": 4,
+   "gewijzigd": 1,
+   "doorgelaten": 1,
    "toelichting": "links op pagina vergeleken",
    "fout": null,
    "methode_gebruikt": "pagina",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Bouwend Nederland",
@@ -1650,17 +1651,17 @@
    "url": "https://www.bouwendnederland.nl/actueel/nieuws",
    "filter": "alles",
    "toegevoegd": "eigen",
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00",
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00",
    "gelukt": true,
    "gevonden": 12,
-   "nieuw": 0,
+   "nieuw": 5,
    "gewijzigd": 0,
-   "doorgelaten": 0,
+   "doorgelaten": 5,
    "toelichting": "links op pagina vergeleken",
    "fout": null,
    "methode_gebruikt": "pagina",
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-02T05:13:31.763219+00:00"
+   "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00"
   },
   {
    "bron": "Tweede Kamer (agenda: debatten en overleggen)",
@@ -1669,13 +1670,13 @@
    "url": "https://gegevensmagazijn.tweedekamer.nl/OData/v4/2.0/",
    "filter": "commissie of thema",
    "gelukt": true,
-   "gevonden": 95,
+   "gevonden": 96,
    "nieuw": 0,
    "gewijzigd": 0,
-   "doorgelaten": 95,
-   "toelichting": "95 geplande activiteiten in de komende 120 dagen",
+   "doorgelaten": 96,
+   "toelichting": "96 geplande activiteiten in de komende 120 dagen",
    "fout": null,
-   "gecontroleerd_op": "2026-11-02T05:13:31+00:00"
+   "gecontroleerd_op": "2026-11-03T05:05:16+00:00"
   }
  ]
 }

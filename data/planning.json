@@ -1,18 +1,6 @@
 {
- "bijgewerkt": "2026-11-02T05:13:31+00:00",
+ "bijgewerkt": "2026-11-03T05:05:16+00:00",
  "items": [
-  {
-   "id": "185a63a3c46227d5",
-   "bron": "Internetconsultatie",
-   "soort": "Consultatie",
-   "wat": "Nota van wijziging op de Wet internationalisering in balans",
-   "datum": "2026-11-02",
-   "start": "2026-10-05",
-   "url": "https://www.internetconsultatie.nl/wetinternationaliseringinbalans",
-   "commissie": "OCW",
-   "themas": [],
-   "bouw": false
-  },
   {
    "id": "ee790d1394cf214d",
    "bron": "Internetconsultatie",
@@ -1348,6 +1336,18 @@
    "kerncommissie": true
   },
   {
+   "id": "cec1d5cdd40e4f19",
+   "bron": "Internetconsultatie",
+   "soort": "Consultatie",
+   "wat": "Wet tegen manipulatief ontwerp",
+   "datum": "2026-12-14",
+   "start": "2026-11-02",
+   "url": "https://www.internetconsultatie.nl/wetmanipulatiefontwerp",
+   "commissie": "Tweede Kamer der Staten-Generaal",
+   "themas": [],
+   "bouw": false
+  },
+  {
    "id": "4e8c9d63630fcdca",
    "bron": "Internetconsultatie",
    "soort": "Consultatie",
@@ -1496,6 +1496,18 @@
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07671",
    "themas": [],
    "kerncommissie": false
+  },
+  {
+   "id": "a842b1d606ca0026",
+   "bron": "Internetconsultatie",
+   "soort": "Consultatie",
+   "wat": "Invoering nieuw stembiljet",
+   "datum": "2027-01-15",
+   "start": "2026-11-02",
+   "url": "https://www.internetconsultatie.nl/nieuwstembiljet",
+   "commissie": "BZK",
+   "themas": [],
+   "bouw": false
   },
   {
    "id": "7befd621641072d5",
@@ -1676,6 +1688,20 @@
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07675",
    "themas": [],
    "kerncommissie": false
+  },
+  {
+   "id": "8f478c0e97f43d02",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Wadden",
+   "datum": "2027-03-03",
+   "tijd": "13:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07947",
+   "themas": [],
+   "kerncommissie": true
   }
  ]
 }
