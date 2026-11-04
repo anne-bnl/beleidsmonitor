@@ -1,72 +1,6 @@
 {
- "bijgewerkt": "2026-11-03T05:05:16+00:00",
+ "bijgewerkt": "2026-11-04T05:09:47+00:00",
  "items": [
-  {
-   "id": "ee790d1394cf214d",
-   "bron": "Internetconsultatie",
-   "soort": "Consultatie",
-   "wat": "Verzamelbesluit Justitie en Veiligheid 20**",
-   "datum": "2026-11-03",
-   "start": "2026-10-05",
-   "url": "https://www.internetconsultatie.nl/verzamelbesluitjenv",
-   "commissie": "JenV",
-   "themas": [],
-   "bouw": false
-  },
-  {
-   "id": "67d16e9854a18adc",
-   "bron": "Internetconsultatie",
-   "soort": "Consultatie",
-   "wat": "Implementatie herziene Richtlijn Stedelijk Afvalwater - wetswijziging",
-   "datum": "2026-11-03",
-   "start": "2026-09-22",
-   "url": "https://www.internetconsultatie.nl/richtlijn_stedelijk_afvalwater",
-   "commissie": "IenW",
-   "themas": [],
-   "bouw": false
-  },
-  {
-   "id": "8e57ce597b306edb",
-   "bron": "Tweede Kamer",
-   "soort": "Technische briefing",
-   "wat": "Update wetenschappelijk factsheet Toekomst verduurzaming luchtvaart ",
-   "datum": "2026-11-03",
-   "tijd": "16:30",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
-   "commissie_afk": "I&W",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A03042",
-   "themas": [],
-   "kerncommissie": true
-  },
-  {
-   "id": "c6eba191bf96863e",
-   "bron": "Tweede Kamer",
-   "soort": "Technische briefing",
-   "wat": "Klimaat- en Energieverkenning in relatie tot de landbouw",
-   "datum": "2026-11-03",
-   "tijd": "17:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
-   "commissie_afk": "LVVN",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04337",
-   "themas": [],
-   "kerncommissie": true
-  },
-  {
-   "id": "376d3694cbc5e852",
-   "bron": "Tweede Kamer",
-   "soort": "Gesprek",
-   "wat": "Minister-President van Montenegro, dhr. Milojko Spajić",
-   "datum": "2026-11-03",
-   "tijd": "17:30",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Europese Zaken",
-   "commissie_afk": "EU",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07271",
-   "themas": [],
-   "kerncommissie": false
-  },
   {
    "id": "7ea371e4c5b31c11",
    "bron": "Tweede Kamer",
@@ -166,20 +100,6 @@
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07012",
    "themas": [],
    "kerncommissie": true
-  },
-  {
-   "id": "63d21a88849a48c9",
-   "bron": "Tweede Kamer",
-   "soort": "Gesprek",
-   "wat": "Parlementsvoorzitter Estland, dhr. Lauri Hussar",
-   "datum": "2026-11-04",
-   "tijd": "14:15",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Europese Zaken",
-   "commissie_afk": "EU",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07372",
-   "themas": [],
-   "kerncommissie": false
   },
   {
    "id": "1236207e22b766f2",
@@ -428,6 +348,20 @@
    "kerncommissie": true
   },
   {
+   "id": "27e0e61b4d06beca",
+   "bron": "Tweede Kamer",
+   "soort": "Technische briefing",
+   "wat": "Strategisch gasbeleid",
+   "datum": "2026-11-11",
+   "tijd": "16:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Klimaat en Groene Groei",
+   "commissie_afk": "K&GG",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08066",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
    "id": "6c07cad7981f5f04",
    "bron": "Internetconsultatie",
    "soort": "Consultatie",
@@ -482,6 +416,20 @@
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07489",
    "themas": [],
    "kerncommissie": true
+  },
+  {
+   "id": "095b309b36d423be",
+   "bron": "Tweede Kamer",
+   "soort": "Technische briefing",
+   "wat": "Technische briefing over het rapport ‘Productivity Review of the Netherlands: Supporting business dynamism to revive productivity growth’",
+   "datum": "2026-11-12",
+   "tijd": "13:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Economische Zaken",
+   "commissie_afk": "EZ",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07818",
+   "themas": [],
+   "kerncommissie": false
   },
   {
    "id": "4b8f96d320472e3c",
@@ -1008,6 +956,42 @@
    "kerncommissie": false
   },
   {
+   "id": "bc911ffae2b1b2fe",
+   "bron": "Internetconsultatie",
+   "soort": "Consultatie",
+   "wat": "Stimuleringsregeling zorggeschikte woningen 2",
+   "datum": "2026-12-01",
+   "start": "2026-11-03",
+   "url": "https://www.internetconsultatie.nl/stimuleringsregelingzorggeschiktewoningen",
+   "commissie": "BZK",
+   "themas": [],
+   "bouw": false
+  },
+  {
+   "id": "aff23d790914b730",
+   "bron": "Internetconsultatie",
+   "soort": "Consultatie",
+   "wat": "Stimuleringsregeling ontmoetingsruimten in geclusterde woonvormen",
+   "datum": "2026-12-01",
+   "start": "2026-11-03",
+   "url": "https://www.internetconsultatie.nl/stimuleringsregelingontmoetingsruimtengeclusterdewoonvormen",
+   "commissie": "BZK",
+   "themas": [],
+   "bouw": false
+  },
+  {
+   "id": "741ee1bfe37baf5a",
+   "bron": "Internetconsultatie",
+   "soort": "Consultatie",
+   "wat": "Eerste wijzigingsregeling 2027 IenW Omgevingsregeling",
+   "datum": "2026-12-01",
+   "start": "2026-11-03",
+   "url": "https://www.internetconsultatie.nl/eerste_wijzigingsregeling_2027_ienw_omgevingsregeling",
+   "commissie": "IenW",
+   "themas": [],
+   "bouw": false
+  },
+  {
    "id": "c424d6099ec52930",
    "bron": "Tweede Kamer",
    "soort": "Commissiedebat",
@@ -1296,6 +1280,20 @@
    "kerncommissie": true
   },
   {
+   "id": "83c4ba3e744e1882",
+   "bron": "Tweede Kamer",
+   "soort": "Rondetafelgesprek",
+   "wat": "Rondetafelgesprek Halfgeleiderindustrie",
+   "datum": "2026-12-09",
+   "tijd": "15:30",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Economische Zaken",
+   "commissie_afk": "EZ",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07953",
+   "themas": [],
+   "kerncommissie": false
+  },
+  {
    "id": "f7544a1cae60f848",
    "bron": "Internetconsultatie",
    "soort": "Consultatie",
@@ -1468,6 +1466,20 @@
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02571",
    "themas": [],
    "kerncommissie": true
+  },
+  {
+   "id": "71f9e58c949fa3ce",
+   "bron": "Internetconsultatie",
+   "soort": "Consultatie",
+   "wat": "Besluit ter uitvoering van het programma landbouw, natuur en stikstof",
+   "datum": "2026-12-18",
+   "start": "2026-11-03",
+   "url": "https://www.internetconsultatie.nl/amvbprogrammalns",
+   "commissie": "EZK",
+   "themas": [
+    "Stikstof"
+   ],
+   "bouw": false
   },
   {
    "id": "bbd936412fc31715",
