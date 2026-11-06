@@ -1,130 +1,6 @@
 {
- "bijgewerkt": "2026-11-05T05:11:03+00:00",
+ "bijgewerkt": "2026-11-06T05:09:17+00:00",
  "items": [
-  {
-   "id": "1236207e22b766f2",
-   "bron": "Internetconsultatie",
-   "soort": "Consultatie",
-   "wat": "Regeling specifieke uitkeringen MIRT-projecten en projectpakketten ten behoeve van woningbouw",
-   "datum": "2026-11-05",
-   "start": "2026-10-08",
-   "url": "https://www.internetconsultatie.nl/mirt_projecten_projectpakketten_woningbouw",
-   "commissie": "IenW",
-   "themas": [],
-   "bouw": true
-  },
-  {
-   "id": "1ceef7e29d47c2d5",
-   "bron": "Internetconsultatie",
-   "soort": "Consultatie",
-   "wat": "Uitvoeringswet EMFA",
-   "datum": "2026-11-05",
-   "start": "2026-10-08",
-   "url": "https://www.internetconsultatie.nl/pluriformiteitstoets",
-   "commissie": "OCW",
-   "themas": [],
-   "bouw": false
-  },
-  {
-   "id": "8db83f426d7ee202",
-   "bron": "Tweede Kamer",
-   "soort": "Technische briefing",
-   "wat": "Toekomstige Marktordening Spoor",
-   "datum": "2026-11-05",
-   "tijd": "09:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
-   "commissie_afk": "I&W",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04082",
-   "themas": [],
-   "kerncommissie": true
-  },
-  {
-   "id": "726d0d46bf4d6e26",
-   "bron": "Tweede Kamer",
-   "soort": "Rondetafelgesprek",
-   "wat": "Toekomstige Marktordening Spoor",
-   "datum": "2026-11-05",
-   "tijd": "10:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
-   "commissie_afk": "I&W",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04089",
-   "themas": [],
-   "kerncommissie": true
-  },
-  {
-   "id": "83ec1aabf885d459",
-   "bron": "Tweede Kamer",
-   "soort": "E-mailprocedure",
-   "wat": "Voorstel van het lid Clemminck (JA21) om de inbrengdatum voor het nader verslag voor het ‘Voorstel van wet van de leden Keijzer, Claassen en Clemminck tot wijziging van de Huisvestingswet 2014 inzake het verbod op voorrang voor vergunninghouders (Wet nieuwe regels inzake huisvesting vergunninghouders)’ vast te stellen op dinsdag 10 november 2026 om 14.00 uur",
-   "datum": "2026-11-05",
-   "tijd": "12:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Volkshuisvesting en Ruimtelijke Ordening",
-   "commissie_afk": "VRO",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08139",
-   "themas": [],
-   "kerncommissie": true
-  },
-  {
-   "id": "2ff78990e8d630f6",
-   "bron": "Tweede Kamer",
-   "soort": "Inbreng feitelijke vragen",
-   "wat": "Vijftiende voortgangsrapportage Programma Hoogfrequent Spoorvervoer (PHS) over de eerste helft van 2026",
-   "datum": "2026-11-05",
-   "tijd": "12:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
-   "commissie_afk": "I&W",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07670",
-   "themas": [],
-   "kerncommissie": true
-  },
-  {
-   "id": "5a7a5ce903fa3fc2",
-   "bron": "Tweede Kamer",
-   "soort": "Inbreng schriftelijk overleg",
-   "wat": "RIVM-briefrapport 'PFAS in bloed van volwassenen in Nederland'",
-   "datum": "2026-11-05",
-   "tijd": "12:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Volksgezondheid, Welzijn en Sport",
-   "commissie_afk": "VWS",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07418",
-   "themas": [
-    "Waterkwaliteit"
-   ],
-   "kerncommissie": false
-  },
-  {
-   "id": "50ffddd3cecd33a9",
-   "bron": "Tweede Kamer",
-   "soort": "Commissiedebat",
-   "wat": "Tuinbouw en biotechnologie",
-   "datum": "2026-11-05",
-   "tijd": "13:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
-   "commissie_afk": "LVVN",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A05310",
-   "themas": [],
-   "kerncommissie": true
-  },
-  {
-   "id": "d459e8ee58721c1b",
-   "bron": "Tweede Kamer",
-   "soort": "Inbreng schriftelijk overleg",
-   "wat": "Informele Europese Raad d.d. 13 november 2026",
-   "datum": "2026-11-05",
-   "tijd": "14:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Europese Zaken",
-   "commissie_afk": "EU",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05321",
-   "themas": [],
-   "kerncommissie": false
-  },
   {
    "id": "2dd24815cd176b09",
    "bron": "Tweede Kamer",
@@ -374,6 +250,22 @@
    "kerncommissie": false
   },
   {
+   "id": "189558d0b1696a70",
+   "bron": "Tweede Kamer",
+   "soort": "Gesprek",
+   "wat": "Ambtelijk vertrouwelijk gesprek over de 'Aanvullende reactie in de inbreukprocedure inzake de bescherming van de grutto onder de Vogelrichtlijn'",
+   "datum": "2026-11-12",
+   "tijd": "14:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
+   "commissie_afk": "LVVN",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07743",
+   "themas": [
+    "Natuurherstel en gebiedsbescherming"
+   ],
+   "kerncommissie": true
+  },
+  {
    "id": "4b8f96d320472e3c",
    "bron": "Internetconsultatie",
    "soort": "Consultatie",
@@ -490,6 +382,20 @@
    "commissie": "VWS",
    "themas": [],
    "bouw": false
+  },
+  {
+   "id": "cf34df8aae986786",
+   "bron": "Tweede Kamer",
+   "soort": "Technische briefing",
+   "wat": "Technische briefing Algemene Rekenkamer (ARK) over onderzoek PPS-innovatieregeling d.d. 17 november 2026",
+   "datum": "2026-11-17",
+   "tijd": "17:15",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Economische Zaken",
+   "commissie_afk": "EZ",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08016",
+   "themas": [],
+   "kerncommissie": false
   },
   {
    "id": "2d0f6a225590de17",
@@ -626,6 +532,20 @@
     "Natuurherstel en gebiedsbescherming"
    ],
    "kerncommissie": true
+  },
+  {
+   "id": "879d22b42d76f30e",
+   "bron": "Tweede Kamer",
+   "soort": "Inbreng schriftelijk overleg",
+   "wat": "Achtste rapportage Europees Handvest voor regionale talen of talen van minderheden (37020-VII-7)",
+   "datum": "2026-11-19",
+   "tijd": "14:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Binnenlandse Zaken",
+   "commissie_afk": "BiZa",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08218",
+   "themas": [],
+   "kerncommissie": false
   },
   {
    "id": "9265c51dbbdd73a9",
@@ -818,6 +738,20 @@
    "kerncommissie": true
   },
   {
+   "id": "f39afaa9266728a2",
+   "bron": "Tweede Kamer",
+   "soort": "Rondetafelgesprek",
+   "wat": "Versterkte gebedsoproepen",
+   "datum": "2026-11-25",
+   "tijd": "15:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Binnenlandse Zaken",
+   "commissie_afk": "BiZa",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07862",
+   "themas": [],
+   "kerncommissie": false
+  },
+  {
    "id": "1d013fee323052e2",
    "bron": "Internetconsultatie",
    "soort": "Consultatie",
@@ -875,10 +809,10 @@
    "id": "e363c3c8490dc5a9",
    "bron": "Tweede Kamer",
    "soort": "Commissiedebat",
-   "wat": "Verdienvermogen van Nederland",
+   "wat": "Verdienvermogen van Nederland ( GEANNULEERD, OMGEZET IN SCHRIFTELIJK OVERLEG)",
    "datum": "2026-11-26",
    "tijd": "14:00",
-   "status": "Gepland",
+   "status": "Geannuleerd",
    "commissie": "vaste commissie voor Economische Zaken",
    "commissie_afk": "EZ",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A03311",
@@ -1032,6 +966,42 @@
    "kerncommissie": true
   },
   {
+   "id": "50abcc71fdff2a90",
+   "bron": "Internetconsultatie",
+   "soort": "Consultatie",
+   "wat": "Milieuregels veehouderijen",
+   "datum": "2026-12-03",
+   "start": "2026-11-05",
+   "url": "https://www.internetconsultatie.nl/wijziging_or_milieuregels_veehouderijen",
+   "commissie": "IenW",
+   "themas": [],
+   "bouw": false
+  },
+  {
+   "id": "6175d61fbf7f9bd1",
+   "bron": "Internetconsultatie",
+   "soort": "Consultatie",
+   "wat": "Regeling tarief centrale examenbank Wft 2027",
+   "datum": "2026-12-03",
+   "start": "2026-11-05",
+   "url": "https://www.internetconsultatie.nl/regelingtariefcentraleexamenbank",
+   "commissie": "Fin",
+   "themas": [],
+   "bouw": false
+  },
+  {
+   "id": "019db1864d02d65c",
+   "bron": "Internetconsultatie",
+   "soort": "Consultatie",
+   "wat": "Tijdelijke Overstapsubsidieregeling Gebruikte Elektrische Personenauto’s",
+   "datum": "2026-12-03",
+   "start": "2026-11-05",
+   "url": "https://www.internetconsultatie.nl/ogea",
+   "commissie": "IenW",
+   "themas": [],
+   "bouw": false
+  },
+  {
    "id": "402cc0c7bf6e66f2",
    "bron": "Tweede Kamer",
    "soort": "Commissiedebat",
@@ -1060,6 +1030,20 @@
    "kerncommissie": true
   },
   {
+   "id": "e72b5d6402921b4a",
+   "bron": "Tweede Kamer",
+   "soort": "Inbreng schriftelijk overleg",
+   "wat": "Verdienvermogen van Nederland ",
+   "datum": "2026-12-03",
+   "tijd": "12:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Economische Zaken",
+   "commissie_afk": "EZ",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08175",
+   "themas": [],
+   "kerncommissie": false
+  },
+  {
    "id": "94b69b79df81d1a4",
    "bron": "Tweede Kamer",
    "soort": "Commissiedebat",
@@ -1086,6 +1070,20 @@
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05263",
    "themas": [],
    "kerncommissie": true
+  },
+  {
+   "id": "a33386c0ece57798",
+   "bron": "Tweede Kamer",
+   "soort": "Rondetafelgesprek",
+   "wat": "Rondetafelgesprek Productiviteitsverhoging in het mkb ",
+   "datum": "2026-12-03",
+   "tijd": "14:30",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Economische Zaken",
+   "commissie_afk": "EZ",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07952",
+   "themas": [],
+   "kerncommissie": false
   },
   {
    "id": "75cfa239230f2888",
@@ -1612,6 +1610,20 @@
    "commissie": "vaste commissie voor Klimaat en Groene Groei",
    "commissie_afk": "K&GG",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05152",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "59dce5ddd7cdadf4",
+   "bron": "Tweede Kamer",
+   "soort": "Inbreng verslag (wetsvoorstel)",
+   "wat": "Voorstel van wet van het lid Ouwehand tot wijziging van de Wet dieren en de Wet op de economische delicten in verband met het beperken van het lijden van dieren bij de slacht (Kamerstuk 36769)",
+   "datum": "2027-02-08",
+   "tijd": "12:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
+   "commissie_afk": "LVVN",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08166",
    "themas": [],
    "kerncommissie": true
   },
