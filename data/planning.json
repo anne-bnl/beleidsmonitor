@@ -1,20 +1,6 @@
 {
- "bijgewerkt": "2026-11-06T05:09:17+00:00",
+ "bijgewerkt": "2026-11-07T05:00:48+00:00",
  "items": [
-  {
-   "id": "2dd24815cd176b09",
-   "bron": "Tweede Kamer",
-   "soort": "Inbreng feitelijke vragen",
-   "wat": " Voortgang en maatregelen modernisering grondbeleid - beter dekken van publieke kosten gebiedsontwikkelingen",
-   "datum": "2026-11-06",
-   "tijd": "14:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Volkshuisvesting en Ruimtelijke Ordening",
-   "commissie_afk": "VRO",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08112",
-   "themas": [],
-   "kerncommissie": true
-  },
   {
    "id": "d460b0ca2bf843f2",
    "bron": "Internetconsultatie",
@@ -266,6 +252,20 @@
    "kerncommissie": true
   },
   {
+   "id": "6b86b77f2740ecac",
+   "bron": "Tweede Kamer",
+   "soort": "Gesprek",
+   "wat": "Gesprek Nationaal Burgerberaad Klimaat",
+   "datum": "2026-11-12",
+   "tijd": "17:15",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Klimaat en Groene Groei",
+   "commissie_afk": "K&GG",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08234",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
    "id": "4b8f96d320472e3c",
    "bron": "Internetconsultatie",
    "soort": "Consultatie",
@@ -460,6 +460,20 @@
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07793",
    "themas": [],
    "kerncommissie": false
+  },
+  {
+   "id": "597cd799199313f2",
+   "bron": "Tweede Kamer",
+   "soort": "Inbreng feitelijke vragen",
+   "wat": "25e voortgangsrapportage ERTMS",
+   "datum": "2026-11-18",
+   "tijd": "12:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08230",
+   "themas": [],
+   "kerncommissie": true
   },
   {
    "id": "778f2829cf52d7a5",
@@ -699,15 +713,29 @@
    "id": "14a3ab25d6b72172",
    "bron": "Tweede Kamer",
    "soort": "Commissiedebat",
-   "wat": "(formele) Raad voor Concurrentievermogen (interne markt en industrie, onderzoek en ruimtevaart) (3 en 4 december) ",
+   "wat": "(formele) Raad voor Concurrentievermogen (interne markt en industrie, onderzoek en ruimtevaart) (3 en 4 december) (GEANNULEERD, OMGEZET IN EEN SCHRIFTELIJK OVERLEG op 26 november 2026)",
    "datum": "2026-11-25",
    "tijd": "11:00",
-   "status": "Gepland",
+   "status": "Geannuleerd",
    "commissie": "vaste commissie voor Economische Zaken",
    "commissie_afk": "EZ",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04887",
    "themas": [],
    "kerncommissie": false
+  },
+  {
+   "id": "e4a14543c476f051",
+   "bron": "Tweede Kamer",
+   "soort": "Rondetafelgesprek",
+   "wat": "Staat van de infrastructuur",
+   "datum": "2026-11-25",
+   "tijd": "14:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08247",
+   "themas": [],
+   "kerncommissie": true
   },
   {
    "id": "04d50b3067dd0452",
@@ -762,6 +790,20 @@
    "commissie": "BZK",
    "themas": [],
    "bouw": false
+  },
+  {
+   "id": "e8e822f4a455dc05",
+   "bron": "Tweede Kamer",
+   "soort": "Inbreng schriftelijk overleg",
+   "wat": "(formele) Raad voor Concurrentievermogen (interne markt en industrie, onderzoek en ruimtevaart) (3 en 4 december)",
+   "datum": "2026-11-26",
+   "tijd": "12:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Economische Zaken",
+   "commissie_afk": "EZ",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08252",
+   "themas": [],
+   "kerncommissie": false
   },
   {
    "id": "ea67f79340a5a1da",
@@ -1084,6 +1126,18 @@
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07952",
    "themas": [],
    "kerncommissie": false
+  },
+  {
+   "id": "bb6030e600be7513",
+   "bron": "Internetconsultatie",
+   "soort": "Consultatie",
+   "wat": "Verduidelijken juridisch kader onrechtmatige detachering",
+   "datum": "2026-12-04",
+   "start": "2026-11-06",
+   "url": "https://www.internetconsultatie.nl/juridischkaderonrechtmatigedetachering",
+   "commissie": "SZW",
+   "themas": [],
+   "bouw": false
   },
   {
    "id": "75cfa239230f2888",
@@ -1450,6 +1504,18 @@
    "bouw": false
   },
   {
+   "id": "ac8650269359c8a1",
+   "bron": "Internetconsultatie",
+   "soort": "Consultatie",
+   "wat": "Vangnetnorm in het naamrecht",
+   "datum": "2027-01-10",
+   "start": "2026-11-06",
+   "url": "https://www.internetconsultatie.nl/naamkeuze",
+   "commissie": "JenV",
+   "themas": [],
+   "bouw": false
+  },
+  {
    "id": "bbd936412fc31715",
    "bron": "Tweede Kamer",
    "soort": "Commissiedebat",
@@ -1474,6 +1540,20 @@
    "commissie": "vaste commissie voor Europese Zaken",
    "commissie_afk": "EU",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07671",
+   "themas": [],
+   "kerncommissie": false
+  },
+  {
+   "id": "dd404fad7c339d45",
+   "bron": "Tweede Kamer",
+   "soort": "Inbreng verslag (wetsvoorstel)",
+   "wat": "Voorstel van wet van de leden Flach en Eerdmans tot wijziging van de Wet openbare manifestaties in verband met het beperken van versterkte gebedsoproepen (36728)",
+   "datum": "2027-01-14",
+   "tijd": "14:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Binnenlandse Zaken",
+   "commissie_afk": "BiZa",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08184",
    "themas": [],
    "kerncommissie": false
   },
@@ -1614,6 +1694,20 @@
    "kerncommissie": true
   },
   {
+   "id": "5ebc40a573dfc06d",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Rijksvastgoedbedrijf en renovatie Binnenhof (verplaatst naar 10 februari 2027)",
+   "datum": "2027-02-03",
+   "tijd": "14:30",
+   "status": "Verplaatst",
+   "commissie": "vaste commissie voor Volkshuisvesting en Ruimtelijke Ordening",
+   "commissie_afk": "VRO",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06431",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
    "id": "59dce5ddd7cdadf4",
    "bron": "Tweede Kamer",
    "soort": "Inbreng verslag (wetsvoorstel)",
@@ -1638,6 +1732,20 @@
    "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
    "commissie_afk": "I&W",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07678",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "04f7dc2204f8fe77",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Rijksvastgoedbedrijf en renovatie Binnenhof",
+   "datum": "2027-02-10",
+   "tijd": "14:30",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Volkshuisvesting en Ruimtelijke Ordening",
+   "commissie_afk": "VRO",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08243",
    "themas": [],
    "kerncommissie": true
   },
