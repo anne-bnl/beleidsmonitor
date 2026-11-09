@@ -1,11 +1,12 @@
 {
  "run": {
-  "run_op": "2026-11-08T05:02:32+00:00",
+  "run_op": "2026-11-09T05:18:45+00:00",
   "bronnen_totaal": 90,
-  "bronnen_gelukt": 80,
+  "bronnen_gelukt": 79,
   "bronnen_mislukt": [
    "Europees Parlement nieuws",
-   "Provincie Gelderland"
+   "Provincie Gelderland",
+   "World Green Building Council"
   ],
   "bronnen_zoekcontrole": [
    "Open Overheid (Woo-publicaties)",
@@ -21,853 +22,248 @@
   "documenten_mislukt": [],
   "achterstand_documenten": 0,
   "vervallen_uit_oude_rij": 0,
-  "doorgelaten": 35
+  "doorgelaten": 10
  },
  "items": [
   {
-   "id": "c57b756dd0760a2c",
-   "bron": "Raad van State en rechtspraak (uitspraken)",
-   "categorie": "Rechtspraak",
-   "methode": "api_rechtspraak",
-   "soort": "Uitspraak",
-   "titel": "ECLI:NL:RVS:2026:5921, Raad van State, 07-10-2026, 202501422/1/R3",
-   "samenvatting_bron": "In het besluit van 23 november 2022 heeft het college van burgemeester en wethouders van Den Haag het verzoek van [appellant] om handhavend op te treden tegen het zonder omgevingsvergunning aanbrengen van twee muurschilderingen op de gevels van de appartementencomplexen op de locaties [locatie 1] en [locatie 2] afgewezen. [appellant] woont aan het [locatie 3] in Den Haag. Op 9 juni 2022 en 7 ok...",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:5921",
-   "datum": "2026-11-07",
-   "versie": "c61389eb0138d8a6",
+   "id": "d63ce0f2d9c391a5",
+   "bron": "Tweede Kamer (besluiten en stemmingen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_besluiten",
+   "soort": "Besluit/stemming",
+   "titel": "Brief regering: Derde voortgangsrapportage Nederlandse mondiale gezondheidsstrategie 2023-2030 “Samen zorgen voor gezondheid wereldwijd”",
+   "samenvatting_bron": "Behandeld.",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z23345",
+   "datum": "2026-11-08",
+   "versie": "c31ca4475f4c4288",
    "extra": {
-    "ecli": "ECLI:NL:RVS:2026:5921",
-    "raad_van_state": true
-   },
-   "status": "gewijzigd",
-   "thema_treffers": {
-    "Bouwcontext": [
-     "omgevingsvergunning"
-    ]
-   },
-   "verzameld_op": "2026-11-08T05:02:32+00:00"
-  },
-  {
-   "id": "4bffb5e172f0c7ce",
-   "bron": "Raad van State en rechtspraak (uitspraken)",
-   "categorie": "Rechtspraak",
-   "methode": "api_rechtspraak",
-   "soort": "Uitspraak",
-   "titel": "ECLI:NL:RVS:2026:6087, Raad van State, 14-10-2026, 202304894/1/R3",
-   "samenvatting_bron": "Bij besluit van 21 juni 2023 heeft de raad van de gemeente Leeuwarden het bestemmingsplan \"Leeuwarden - De Zuidlanden, plandeel De Hem\" vastgesteld. In de toelichting bij het bestemmingsplan staat dat Leeuwarden groeit. Er is vraag naar meer woningen. Daarom wordt ten zuidoosten van het dorp Goutum een aantal buurtschappen gerealiseerd, met de overkoepelende naam \"Zuidlanden\". In de afgelopen j...",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:6087",
-   "datum": "2026-11-07",
-   "versie": "b4b713c0030e624a",
-   "extra": {
-    "ecli": "ECLI:NL:RVS:2026:6087",
-    "raad_van_state": true
-   },
-   "status": "gewijzigd",
-   "thema_treffers": {
-    "Bouwcontext": [
-     "bestemmingsplan"
-    ]
-   },
-   "verzameld_op": "2026-11-08T05:02:32+00:00"
-  },
-  {
-   "id": "5732181f978028fb",
-   "bron": "Raad van State en rechtspraak (uitspraken)",
-   "categorie": "Rechtspraak",
-   "methode": "api_rechtspraak",
-   "soort": "Uitspraak",
-   "titel": "ECLI:NL:RBNNE:2026:4270, Rechtbank Noord-Nederland, 02-10-2026, LEE 26-947",
-   "samenvatting_bron": "Verleende watervergunning voor herinrichting recreatiepark aan de IJssel. Beleidsregels Grote Rivieren (BGR). Handreiking \"Beleidslijn Grote Rivieren\". Procedure op grond van de Waterwet. Inspraak op grond van de Habitatrichtlijn? Publicatie van de watervergunning. Wat is er vergund? Uitleg artikel 3, eerste lid, onder b, van de BGR. Artikel 3, eerste lid, onder b, van de BGR ziet op het vervan...",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBNNE:2026:4270",
-   "datum": "2026-11-07",
-   "versie": "b6329f9ca0b5613b",
-   "extra": {
-    "ecli": "ECLI:NL:RBNNE:2026:4270",
-    "raad_van_state": false
-   },
-   "status": "gewijzigd",
-   "thema_treffers": {
-    "Natuurherstel en gebiedsbescherming": [
-     "habitatrichtlijn"
-    ]
-   },
-   "verzameld_op": "2026-11-08T05:02:32+00:00"
-  },
-  {
-   "id": "df2ede2ea151b67e",
-   "bron": "Raad van State en rechtspraak (uitspraken)",
-   "categorie": "Rechtspraak",
-   "methode": "api_rechtspraak",
-   "soort": "Uitspraak",
-   "titel": "ECLI:NL:RVS:2026:5779, Raad van State, 30-09-2026, 202304495/1/R3",
-   "samenvatting_bron": "Bij besluit van 8 december 2020 heeft het college van burgemeester en wethouders van Ooststellingwerf MSV de Prikkedam (MSV de Prikkedam) gelast om het in artikel 5.4.2 van de planregels van het bestemmingsplan \"motorcrossterrein “De Prikkedam\" toegestane maximale geluidsniveau tijdens trainingen niet te overschrijden. MSV de Prikkedam is de gebruiker van het motorcrossterrein “De Prikkedam aan...",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:5779",
-   "datum": "2026-11-07",
-   "versie": "0aa3f545b4c9c5be",
-   "extra": {
-    "ecli": "ECLI:NL:RVS:2026:5779",
-    "raad_van_state": true
+    "zaaknummer": "2026Z23345",
+    "zaaksoort": "Brief regering",
+    "besluit": "Behandeld.",
+    "fracties_voor": [],
+    "fracties_tegen": []
    },
    "status": "nieuw",
-   "thema_treffers": {
-    "Bouwcontext": [
-     "bestemmingsplan"
-    ]
-   },
-   "verzameld_op": "2026-11-08T05:02:32+00:00"
+   "thema_treffers": {},
+   "verzameld_op": "2026-11-09T05:18:45+00:00"
   },
   {
-   "id": "43f0ca48cf903992",
-   "bron": "Raad van State en rechtspraak (uitspraken)",
-   "categorie": "Rechtspraak",
-   "methode": "api_rechtspraak",
-   "soort": "Uitspraak",
-   "titel": "ECLI:NL:RVS:2026:2294, Raad van State, 22-04-2026, 202203401/1/A3",
-   "samenvatting_bron": "Bij brief van 23 december 2020 heeft de minister van Infrastructuur en Waterstaat aan FNV medegedeeld dat zij niet wordt toegelaten als belanghebbende in een eventuele bestuurlijke boeteprocedure die kan volgen op het boeterapport over de transportonderneming. FNV komt op voor de belangen van haar leden. Om die reden heeft zij de arbeidsomstandigheden en arbeidstijden van vrachtwagenchauffeurs ...",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:2294",
-   "datum": "2026-11-07",
-   "versie": "4eefa05bc23dc8d7",
+   "id": "0369a0cf345cc581",
+   "bron": "Tweede Kamer (besluiten en stemmingen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_besluiten",
+   "soort": "Besluit/stemming",
+   "titel": "Brief regering: Reactie op verzoek commissie over de actuele situatie rondom de recente ebola-uitbraak in de Democratische Republiek Congo (DRC) en Oeganda en de wijze waarop het kabinet deze ontwikkelingen volgt",
+   "samenvatting_bron": "Behandeld.",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z12968",
+   "datum": "2026-11-08",
+   "versie": "74e01afc7dde71dd",
    "extra": {
-    "ecli": "ECLI:NL:RVS:2026:2294",
-    "raad_van_state": true
+    "zaaknummer": "2026Z12968",
+    "zaaksoort": "Brief regering",
+    "besluit": "Behandeld.",
+    "fracties_voor": [],
+    "fracties_tegen": []
    },
    "status": "nieuw",
-   "thema_treffers": {
-    "Bouwcontext": [
-     "infrastructuur"
-    ]
-   },
-   "verzameld_op": "2026-11-08T05:02:32+00:00"
+   "thema_treffers": {},
+   "verzameld_op": "2026-11-09T05:18:45+00:00"
   },
   {
-   "id": "275e417e45ebeefb",
-   "bron": "Raad van State en rechtspraak (uitspraken)",
-   "categorie": "Rechtspraak",
-   "methode": "api_rechtspraak",
-   "soort": "Uitspraak",
-   "titel": "ECLI:NL:RVS:2026:4577, Raad van State, 05-08-2026, 202203982/1/R4",
-   "samenvatting_bron": "Bij besluit van 24 juli 2018 heeft de staatssecretaris aan Hoogweg Aardwarmte een omgevingsvergunning verleend voor het oprichten en in werking hebben van een inrichting of mijnbouwwerk als bedoeld in artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht (Wabo). Bij besluit van 21 april 2021 heeft de staatssecretaris aan Hoogweg Aardwarmte een omgevingsvergun...",
-   "url": "https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RVS:2026:4577",
-   "datum": "2026-11-07",
-   "versie": "f90715d6264c2f78",
+   "id": "dde582e0e7b1dbd8",
+   "bron": "Tweede Kamer (besluiten en stemmingen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_besluiten",
+   "soort": "Besluit/stemming",
+   "titel": "Brief regering: Reactie op verzoek commissie over misstanden bij UNAIDS",
+   "samenvatting_bron": "Behandeld.",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z13573",
+   "datum": "2026-11-08",
+   "versie": "176705fed433e694",
    "extra": {
-    "ecli": "ECLI:NL:RVS:2026:4577",
-    "raad_van_state": true
+    "zaaknummer": "2026Z13573",
+    "zaaksoort": "Brief regering",
+    "besluit": "Behandeld.",
+    "fracties_voor": [],
+    "fracties_tegen": []
    },
-   "status": "gewijzigd",
-   "thema_treffers": {
-    "Bouwcontext": [
-     "omgevingsvergunning"
-    ]
-   },
-   "verzameld_op": "2026-11-08T05:02:32+00:00"
-  },
-  {
-   "id": "4313a16ace89a02e",
-   "bron": "Provincie Flevoland",
-   "categorie": "Provincies",
-   "methode": "web",
-   "soort": "",
-   "titel": "Omgevingsvergunning flora- en fauna-activiteit Trekkersveld IV",
-   "samenvatting_bron": "",
-   "url": "https://www.flevoland.nl/loket/ter-inzage/omgevingsvergunning-flora-en-fauna-activiteit-trek",
-   "datum": null,
-   "versie": "f97297ff764f1d38",
-   "extra": {},
    "status": "nieuw",
-   "thema_treffers": {
-    "Soortenbescherming": [
-     "flora- en fauna",
-     "omgevingsvergunning flora",
-     "flora- en fauna-activiteit"
-    ],
-    "Bouwcontext": [
-     "omgevingsvergunning"
-    ]
-   },
-   "verzameld_op": "2026-11-08T05:02:32+00:00"
+   "thema_treffers": {},
+   "verzameld_op": "2026-11-09T05:18:45+00:00"
   },
   {
-   "id": "e5e6c2aaad64dc47",
+   "id": "0f759bc0beff4b7a",
+   "bron": "Tweede Kamer (besluiten en stemmingen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_besluiten",
+   "soort": "Besluit/stemming",
+   "titel": "Brief regering: Fiche: Versterking van de wereldwijde veerkracht op gezondheidsgebied tegen de achtergrond van geopolitieke veranderingen",
+   "samenvatting_bron": "Behandeld.",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z13922",
+   "datum": "2026-11-08",
+   "versie": "e5784948b69673e7",
+   "extra": {
+    "zaaknummer": "2026Z13922",
+    "zaaksoort": "Brief regering",
+    "besluit": "Behandeld.",
+    "fracties_voor": [],
+    "fracties_tegen": []
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-11-09T05:18:45+00:00"
+  },
+  {
+   "id": "c9f8fdd26c9480a4",
+   "bron": "Tweede Kamer (besluiten en stemmingen)",
+   "categorie": "Parlement",
+   "methode": "api_tk_besluiten",
+   "soort": "Besluit/stemming",
+   "titel": "Brief regering: Intensivering gezondheid en SRGR",
+   "samenvatting_bron": "Behandeld.",
+   "url": "https://www.tweedekamer.nl/kamerstukken/detail?id=2026Z22869",
+   "datum": "2026-11-08",
+   "versie": "88cadbffb8c7eff0",
+   "extra": {
+    "zaaknummer": "2026Z22869",
+    "zaaksoort": "Brief regering",
+    "besluit": "Behandeld.",
+    "fracties_voor": [],
+    "fracties_tegen": []
+   },
+   "status": "nieuw",
+   "thema_treffers": {},
+   "verzameld_op": "2026-11-09T05:18:45+00:00"
+  },
+  {
+   "id": "9d3987a55576d707",
    "bron": "Wetenschappelijke publicaties (OpenAlex)",
    "categorie": "Onderzoek",
    "methode": "api_openalex",
    "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "Recent environmental change shapes biotic homogenisation of Orthoptera and Mantodea communities in semi-dry grasslands",
-   "samenvatting_bron": "Semi-dry grasslands are among the most species-rich ecosystems in Europe. However, many grassland remnants are undergoing gradual habitat degradation due to climate change, atmospheric nitrogen deposition, and the relaxation or abandonment of traditional management. While declines of specialised insects have repeatedly been reported, the extent to which these drivers promote long-term community reorganisation and biotic homogenisation remains poorly understood. Using a nationwide resurvey of 221 semi-dry grassland patches across Germany, spanning two to three decades, we investigated long-term changes in Orthoptera and Mantodea communities. We quantified changes in species richness, community composition, and beta diversity, and related these patterns to major global change drivers. Despite an increase in total species richness, these communities became increasingly homogenised, as indicated by declining beta diversity. Community reorganisation was characterised by pronounced winner-loser dynamics, with highly mobile generalists and thermophilous species expanding, whereas threatened species, low-mobility habitat specialists, and species associated with High Nature Value farmland declined. Winner species richness increased particularly in warm and dry regions, under elevated atmospheric nitrogen deposition, and outside protected areas. By contrast, low-mobility habitat specialists and threatened species persisted most successfully in structurally heterogeneous habitats. High",
-   "url": "https://doi.org/10.1016/j.jenvman.2026.131303",
+   "titel": "Predicting degradation in direct ammonia SOFCs: The temperature trade–off between nickel nitriding and coarsening",
+   "samenvatting_bron": "Ammonia is a promising carbon-free fuel for solid oxide fuel cells (SOFCs), since nickel-based anodes can crack it internally without a separate reformer. Direct-ammonia operation, however, compromises durability through nickel nitriding and coarsening. These mechanisms respond oppositely to temperature and are usually studied separately, leading to conflicting set-point guidance. This study combines both mechanisms in a reduced-order model linking operating conditions to voltage losses. The combined response reveals two effects. First, nitriding is non-monotonic, peaking at approximately 625–665 °C under the assumed kinetics; thus, a moderate increase above 600 °C may accelerate it. Second, the mechanisms cross over at 731–741 °C, with nitriding dominating below and coarsening above. From a degradation perspective, a balanced long-term window of approximately 750–780 °C is identified. Both the crossover and the high-temperature penalty remain robust in a sensitivity analysis. The joint model supports what-if analysis and remaining-useful-life estimation for maintenance planning.",
+   "url": "https://doi.org/10.1016/j.ijhydene.2026.158366",
    "datum": "2026-11-06",
-   "versie": "3c5e3c755bcb49ae",
+   "versie": "7abe3148853b87e1",
    "extra": {
-    "tijdschrift": "Journal of Environmental Management",
+    "tijdschrift": "International Journal of Hydrogen Energy",
     "instellingen": [
-     "Osnabrück University"
+     "Netherlands Defence Academy",
+     "University of Twente"
     ],
-    "zoekvraag": "\"nitrogen deposition\" AND (\"Natura 2000\" OR \"protected area\" OR \"protected areas\" OR habitat OR heathland)",
+    "zoekvraag": "ammonia OR \"nitrogen deposition\" OR (\"critical load\" AND nitrogen)",
     "thema_hint": "Stikstof",
     "open_access": true
    },
    "status": "nieuw",
-   "thema_treffers": {
-    "Stikstof": [
-     "nitrogen"
-    ]
-   },
-   "verzameld_op": "2026-11-08T05:02:32+00:00"
-  },
-  {
-   "id": "5c85626a6e17a25e",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "Characterization of Streetscape Elements in Aba Residential Area, Abia State: A Sub-Sahara African City",
-   "samenvatting_bron": "There is a dire need for a systematic analysis of the characterisation of streetscape elements in residential urban areas of Aba, Abia State. This is because there is limited research examining categorisation of streetscape elements in residential urban areas. This study therefore assesses the characterisation of Streetscape Elements in Aba residential area, Abia State with a view to providing evidence-based recommendations for sustainable urban design and neighbourhood planning. A descriptive cross-sectional survey research design was adopted in the study on areas with streetscape elements (e.g, trees, sidewalks, buffers, etc). Using the Taro Yamane sample size determination formula, households from 351 housing units were sample from the sample frame of 1,565. A multistage sampling technique combining stratified, systematic and simple random sampling approaches was employed. Primary data were collected through structured questionnaires. Data were analyzed using descriptive statistics, Weighted Mean Score (WMS) and Principal Component Analysis (PCA), The result of the study shows that the characterization of the major streetscape elements/components in the study area are dimensioned in seven components and these are Pavement & Movement (33.090%), Street Furniture (20.136%), lighting & Signage (11.884%), Landscape & Green Infrastructure (11.162%), Utilities & Technical Elements (8.156%), Parking & Curb Management (6.763%) and Safety & Accessibility. (4.608%). The study recomme",
-   "url": "https://doi.org/10.56201/ijgem.vol.12.no10.2026.pg224.244",
-   "datum": "2026-11-06",
-   "versie": "56ee13bb16c04812",
-   "extra": {
-    "tijdschrift": "IIARD INTERNATIONAL JOURNAL OF GEOGRAPHY AND ENVIRONMENTAL MANAGEMENT",
-    "instellingen": [
-     "Enugu State University of Science and Technology"
-    ],
-    "zoekvraag": "(\"urban biodiversity\" OR \"urban green space\" OR \"green infrastructure\") AND (housing OR \"urban development\" OR \"urban planning\" OR building)",
-    "thema_hint": "Natuurherstel",
-    "open_access": false
-   },
-   "status": "nieuw",
    "thema_treffers": {},
-   "verzameld_op": "2026-11-08T05:02:32+00:00"
+   "verzameld_op": "2026-11-09T05:18:45+00:00"
   },
   {
-   "id": "7ecb0b46595cfc46",
+   "id": "5a25eba73d384e93",
    "bron": "Wetenschappelijke publicaties (OpenAlex)",
    "categorie": "Onderzoek",
    "methode": "api_openalex",
    "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "LACK OF GREEN AREAS AND CHILDREN'S SCREEN TIME IN URBAN PERIPHERIES: SOCIO-ENVIRONMENTAL CHALLENGES IN LIGHT OF THE SDG",
-   "samenvatting_bron": "The advance of urbanization in recent decades has brought profound transformations to the social and environmental dynamics of Brazilian cities. Among its most noticeable effects is growing socio-spatial inequality, expressed in the concentration of infrastructure and services in central areas, while the outskirts remain lacking in public facilities and green spaces. This lack directly impacts opportunities for leisure, socialization, and contact with nature, particularly impacting urban children. At the same time, the intensive use of digital technologies has transformed the ways we play, learn, and interact. Children from different social backgrounds spend increasingly more time in front of screens, a phenomenon that, although it has educational and cultural dimensions, takes on the contours of a public health problem when it replaces physical activities, outdoor play, and social interactions. The COVID-19 pandemic has intensified this trend, increasing the time spent on electronic devices and further reducing access to public spaces. The combination of a lack of green infrastructure and increased screen time reflects not only behavioral changes but also structural inequalities that limit children's right to the city and nature. In this context, the Sustainable Development Goals (SDG), especially SDG 3 (Good Health and Well-being), 10 (Reduced Inequalities), and 11 (Sustainable Cities and Communities), offer a political and ethical framework for devising integrated solution",
-   "url": "https://doi.org/10.5281/zenodo.23863781",
+   "titel": "Judicial review of bottom‐trawling restrictions in EU marine protected areas: Case T‐265/23 VDK v Commission",
+   "samenvatting_bron": "Abstract This case note analyses the EU General Court's judgment in VDK v Commission (Judgment of 21 May 2025, Case T‐265/23), which concerns the legality of spatial fisheries restrictions adopted to protect marine Natura 2000 sites in the German Exclusive Economic Zone (EEZ). As the applicant did not appeal the judgment, it has become final. The applicant, a German fishers' association, challenged the Commission Delegated Regulation (EU) 2023/340, which closed four sites in Germany's North Sea EEZ (in addition to three Dutch sites) to bottom‐contacting gear and to gillnets and entangling nets. The applicant argued that the measure was, insofar as it concerned the German sites, disproportionate and that the European Commission exceeded its powers under the Common Fisheries Policy (CFP). The Court dismissed both pleas. First, it reaffirmed the broad discretion enjoyed by European Union (EU) institutions in the field of the CFP, applying a deferential standard of judicial review and endorsing a precautionary approach to bottom‐contacting fishing gear in marine protected areas. Second, it confirmed the Commission's competence to protect gravel beds under Article 11(2) CFP‐Regulation in conjunction with Article 13(4) MSFD. The judgment strengthens the legal resilience of spatial fisheries restrictions used to implement EU biodiversity law, such as the Birds and Habitats Directives. However, consistent with past judgments, this limited standard of judicial review will generally sh",
+   "url": "https://doi.org/10.1111/reel.70103",
    "datum": "2026-11-06",
-   "versie": "ccf010db80bd27fc",
+   "versie": "3e67b8645daf20f1",
    "extra": {
-    "tijdschrift": "Revista Livre de Sustentabilidade e Empreendedorismo",
-    "instellingen": [],
-    "zoekvraag": "(\"urban biodiversity\" OR \"urban green space\" OR \"green infrastructure\") AND (housing OR \"urban development\" OR \"urban planning\" OR building)",
+    "tijdschrift": "Review of European Comparative & International Environmental Law",
+    "instellingen": [
+     "Leuphana University of Lüneburg"
+    ],
+    "zoekvraag": "\"Nature Restoration Law\" OR \"Nature Restoration Regulation\" OR \"Habitats Directive\"",
     "thema_hint": "Natuurherstel",
     "open_access": true
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-11-08T05:02:32+00:00"
-  },
-  {
-   "id": "15997858240a20a7",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (book-chapter)",
-   "titel": "Urbanization, Habitat Fragmentation, and Vector-Borne Disease Emergence",
-   "samenvatting_bron": "Rapid urbanization and habitat fragmentation increasingly contribute to the growing burden of vector-borne diseases, particularly in expanding urban settings. This chapter examines how urban ecological change, environmental determinants, and socioeconomic conditions interact to shape disease emergence and transmission, with implications for public health and sustainable urban planning. Altered breeding habitats, urban microclimates, and biodiversity loss enhance the proliferation of vectors such as mosquitoes and ticks, while factors including population density, housing quality, sanitation, and healthcare access influence exposure and vulnerability. The chapter emphasizes integrated vector ecology and health risk assessment, highlighting the use of digital tools, geographic information systems, and remote sensing for environmental monitoring and disease surveillance. Policy-oriented strategies, green infrastructure, and community-based preventive approaches are discussed alongside key challenges.",
-   "url": "https://doi.org/10.4018/979-8-3693-6492-5.ch009",
-   "datum": "2026-11-06",
-   "versie": "93fd09d67edc628b",
-   "extra": {
-    "tijdschrift": "IGI Global eBooks",
-    "instellingen": [
-     "Appalachian State University",
-     "Bayelsa Medical University"
-    ],
-    "zoekvraag": "(\"urban biodiversity\" OR \"urban green space\" OR \"green infrastructure\") AND (housing OR \"urban development\" OR \"urban planning\" OR building)",
-    "thema_hint": "Natuurherstel",
-    "open_access": false
    },
    "status": "nieuw",
    "thema_treffers": {
     "Natuurherstel en gebiedsbescherming": [
+     "natura 2000",
+     "habitats directive",
      "biodiversity"
     ]
    },
-   "verzameld_op": "2026-11-08T05:02:32+00:00"
+   "verzameld_op": "2026-11-09T05:18:45+00:00"
   },
   {
-   "id": "790e1089304c79e1",
+   "id": "50177b997e337118",
    "bron": "Wetenschappelijke publicaties (OpenAlex)",
    "categorie": "Onderzoek",
    "methode": "api_openalex",
    "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "Socio-Ecological Aspects of the Evolution of Young Oil Towns in Northern Western Siberia (A Case Study Of Kogalym)",
-   "samenvatting_bron": "Aim . Retrospective study of the socio-ecological aspects of the development of young oil towns in Western Siberia (on the example of Kogalym, Khanty-Mansiysk Autonomous Okrug of the Russian Federation). Methodology . The study is based on a retrospective analysis of archival documents (normative documents, urban planning and scientific-technical documentation) and literary sources, as well as on the results of field observations and a thematic survey of local residents conducted in Kogalym in March 2026. Results . Through an integrated analysis of the research materials, specific socio-ecological aspects of the evolution of Kogalym's urban environment have been identified. It has been established that thanks to such factors as the use of acclimatized plant species in combination with new technologies for their care, the species composition of the city's green infrastructure has been partially brought closer to the assortment of regions in the middle belt of Russia. At the same time, the recreational potential of the forest areas surrounding the city within walking distance remains underutilized. Local residents cite car parking in wind-protected courtyards of residential buildings as the main source of environmental tension. Based on the results of the survey and field observations, it is concluded that due to a number of social and ecological transformations, the relevance of the transition from the concept of a \"winter city\" to the adaptation of open public spaces for year",
-   "url": "https://doi.org/10.18384/2712-7621-2026-1-220-237",
-   "datum": "2026-11-05",
-   "versie": "ed7e453333c56abc",
+   "titel": "Smart Cities and Urban Microclimate Sustainability: A Geospatial Framework for Adaptive Urban Design",
+   "samenvatting_bron": "",
+   "url": "https://doi.org/10.1007/s12524-026-02617-5",
+   "datum": "2026-11-07",
+   "versie": "6d7cca203e90c5b6",
    "extra": {
-    "tijdschrift": "Geografičeskaâ sreda i živye sistemy",
+    "tijdschrift": "Journal of the Indian Society of Remote Sensing",
     "instellingen": [
-     "Siberian Branch of the Russian Academy of Sciences"
+     "Academy of Scientific and Innovative Research",
+     "Central Building Research Institute"
     ],
     "zoekvraag": "(\"urban biodiversity\" OR \"urban green space\" OR \"green infrastructure\") AND (housing OR \"urban development\" OR \"urban planning\" OR building)",
     "thema_hint": "Natuurherstel",
-    "open_access": true
+    "open_access": false
    },
    "status": "nieuw",
    "thema_treffers": {},
-   "verzameld_op": "2026-11-08T05:02:32+00:00"
+   "verzameld_op": "2026-11-09T05:18:45+00:00"
   },
   {
-   "id": "edc75a4d2871e395",
+   "id": "f17aa9e09031ff84",
    "bron": "Wetenschappelijke publicaties (OpenAlex)",
    "categorie": "Onderzoek",
    "methode": "api_openalex",
    "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "Two Decades of Landscape Connectivity Science: a Bibliometric Analysis of Thematic Structure, Temporal Trajectories, and the Ecological Security Divide",
-   "samenvatting_bron": "Landscape connectivity is a central organizing concept of spatial ecology and conservation, but the breadth of systems, methods, and disciplines invoking the term obscures its intellectual structure. This study maps that structure empirically to reveal the field’s principal divisions and their trajectories. I applied bag-of-words multivariate clustering, redundancy analysis (RDA), random forest machine learning, and multivariate trajectory analysis to 6,280 landscape-connectivity papers from the Web of Science Core Collection, examining hierarchical clusters at five levels (2, 3, 6, 12, and 18 clusters). The deepest division in the field is not methodological but framework-based: a compact, rapidly growing cluster of “ecological security pattern” planning papers—concentrated in China and built on a state-led, source–corridor–node, composite-index idiom—separates from the rest of connectivity science, distinguished by a random forest with 97.7% accuracy on words including ECOLOGICAL, SECURITY, SOURCES, CORRIDORS, PATTERN, and CHINA. Finer partitions resolved a coherent methodological core of cost-distance/resistance modeling and graph-theoretic network analysis, alongside applied bodies spanning forest fragmentation, urban green infrastructure, freshwater barriers, road ecology, dispersal theory, hydrological connectivity, climate-driven range shift, corridor design, wetlands, and large-landscape conservation. Trajectory analysis showed broadly stable thematic structure over t",
-   "url": "https://doi.org/10.1007/s40823-026-00114-6",
+   "titel": "Land use occupation and construction around the Córdoba, Capellanía and El Tunjo wetland reserves 1998–2024",
+   "samenvatting_bron": "Urban wetlands (UW) are highly valued ecosystems due to the wide range of services they provide to cities and regions worldwide. They contribute to improved urban air and water quality, enhance human well-being, and play a crucial role in sustainable urban development and climate change mitigation by safeguarding biodiversity, regulating hydrological cycles, and acting as carbon sinks. However, urban growth and consolidation continue to be a major driver of UW degradation, leading towards area decrease, pollution, habitat fragmentation, and loss of biodiversity through infrastructure development, land conversion, and increase of resources demands. In this context, information about existing interactions between city development and UW conservation is essential to explore integrative approaches that enable the protection of urban and peri-urban ecosystems. The present study analyzes land-use occupation and urban development attributes in the surroundings of three UW in Bogotá, Colombia, between 1998 and 2024. Land-use area, together with indices of building coverage (BCI) and floor space (FSI), were comparatively examined within 500-m buffer areas around the Capellanía, Córdoba, and El Tunjo wetland reserves. Results indicate that the areas' land-use configurations vary according to their location, with some areas still hosting polluting activities such as industry near the wetlands. Additionally, mean BCI and FSI across development cohorts reveal that, since 1999, around 148",
+   "url": "https://doi.org/10.1016/j.cacint.2026.100529",
    "datum": "2026-11-06",
-   "versie": "0a9b8c22f983cc7f",
+   "versie": "773b056decab5bbf",
    "extra": {
-    "tijdschrift": "Current Landscape Ecology Reports",
+    "tijdschrift": "City and Environment Interactions",
     "instellingen": [
-     "University of Southern Denmark"
+     "Universidad Politécnica de Madrid"
     ],
     "zoekvraag": "(\"wildlife crossing\" OR \"wildlife crossings\" OR \"road ecology\" OR \"roadkill\" OR \"habitat fragmentation\") AND (road OR roads OR railway OR infrastructure)",
     "thema_hint": "Soortenbescherming",
     "open_access": true
    },
    "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-11-08T05:02:32+00:00"
-  },
-  {
-   "id": "3f8846e2efa023e4",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "Spatial patterns of reptile road mortality in a coastal landscape of the Río de la Plata, Argentina",
-   "samenvatting_bron": "Road mortality is a major threat to vertebrate populations worldwide, yet its spatial patterns remain poorly documented for many taxonomic groups and regions. In particular, information on the spatial distribution of reptile road mortality is scarce in temperate coastal landscapes of southern South America. We analyzed reptile road mortality records obtained through systematic surveys conducted between 2019 and 2025, complemented by museum specimens (2000–2022) and citizen science records (2013–2025), along a 249-km coastal corridor of the Río de la Plata, Argentina. Using kernel density estimation, we evaluated the spatial patterns of road mortality and identified areas with high concentrations of roadkill events. A total of 191 road-killed reptiles belonging to 17 species were recorded, with snakes accounting for the majority of individuals. Road mortality was spatially concentrated in four well-defined hotspots, which differed in species richness and diversity. These results provide a baseline assessment of reptile road mortality in a coastal landscape and highlight priority areas for monitoring and management along the studied road corridor.",
-   "url": "https://doi.org/10.1080/01650521.2026.2755400",
-   "datum": "2026-11-06",
-   "versie": "ad20e0ee743821f9",
-   "extra": {
-    "tijdschrift": "Studies on Neotropical Fauna and Environment",
-    "instellingen": [
-     "Comisión de Investigaciones Científicas",
-     "Consejo Nacional de Investigaciones Científicas y Técnicas",
-     "Universidad Nacional de La Plata"
-    ],
-    "zoekvraag": "(\"wildlife crossing\" OR \"wildlife crossings\" OR \"road ecology\" OR \"roadkill\" OR \"habitat fragmentation\") AND (road OR roads OR railway OR infrastructure)",
-    "thema_hint": "Soortenbescherming",
-    "open_access": false
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-11-08T05:02:32+00:00"
-  },
-  {
-   "id": "60d57f5c592b412b",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (book-chapter)",
-   "titel": "Sediment eDNA-based monitoring of benthic communities: benefits and challenges",
-   "samenvatting_bron": "",
-   "url": "https://doi.org/10.1016/b978-0-443-45846-0.00013-7",
-   "datum": "2026-11-06",
-   "versie": "7930182b74f66143",
-   "extra": {
-    "tijdschrift": "Elsevier eBooks",
-    "instellingen": [
-     "Instytut Oceanologii Polskiej Akademii Nauk",
-     "Polish Academy of Sciences",
-     "Tsinghua Shenzhen International Graduate School",
-     "Tsinghua University",
-     "University of Urbino"
-    ],
-    "zoekvraag": "(\"environmental DNA\" OR eDNA) AND (monitoring OR survey OR detection)",
-    "thema_hint": "eDNA en monitoring",
-    "open_access": false
-   },
-   "status": "nieuw",
-   "thema_treffers": {
-    "eDNA en monitoring": [
-     "eDNA"
-    ]
-   },
-   "verzameld_op": "2026-11-08T05:02:32+00:00"
-  },
-  {
-   "id": "3a46d41c9e950ab5",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (preprint)",
-   "titel": "PM₂.₅-Associated Variation in Airborne Antimicrobial Resistance Gene Abundance During Winter Smog Episodes in Urban Pakistan (2022–2023)",
-   "samenvatting_bron": "Abstract Airborne particulate matter (PM₂.₅) is a major component of winter smog and has been increasingly recognized as a potential carrier of microbial contaminants, including antimicrobial resistance genes (ARGs). However, limited data are available on the distribution of airborne ARGs associated with PM₂.₅ in urban environments of Pakistan. Objective This study aimed to quantify the relative abundance of clinically relevant ARGs in PM₂.₅-associated bacterial communities across three cities of Pakistan and to evaluate their association with air pollution and meteorological conditions. Methodology PM₂.₅ samples were collected from Lahore, Islamabad, and Okara during the winter months (November–December 2022 and 2023). External DNA (eDNA) associated with particulate matter was extracted and analysed using quantitative real-time PCR (qPCR). The relative abundance of selected ARGs ( sul1, blaTEM, blaCTX-M-32, blaNDM-1, vanA, vanRA, tnpA, intI1 , and blaTEM-F ) was determined using the 2^(-ΔCt) method and normalized against the 16S rRNA gene. Environmental parameters, including PM₂.₅ concentration, Air Quality Index (AQI), temperature, and humidity, were also assessed. Results Lahore exhibited the highest pollution levels, with PM₂.₅ concentrations reaching 276.6 ± 27.4 µg/m³ and AQI values up to 289.3 ± 42.7. PM₂.₅ showed strong positive correlations with AQI (r = 0.92) and relative humidity (r = 0.91) and a negative correlation with temperature (r = − 0.38). Distinct spatial",
-   "url": "https://doi.org/10.21203/rs.3.rs-11398870/v1",
-   "datum": "2026-11-06",
-   "versie": "b8106d936d0866d0",
-   "extra": {
-    "tijdschrift": "Research Square",
-    "instellingen": [
-     "Capital University of Science and Technology",
-     "University of Management and Technology"
-    ],
-    "zoekvraag": "(\"environmental DNA\" OR eDNA) AND (monitoring OR survey OR detection)",
-    "thema_hint": "eDNA en monitoring",
-    "open_access": true
-   },
-   "status": "nieuw",
-   "thema_treffers": {
-    "eDNA en monitoring": [
-     "eDNA"
-    ]
-   },
-   "verzameld_op": "2026-11-08T05:02:32+00:00"
-  },
-  {
-   "id": "a591723038223541",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (report)",
-   "titel": "Baseline chemical properties and biodiversity monitoring using environmental DNA in the Eastern Shore Islands Area of Interest",
-   "samenvatting_bron": "The Eastern Shore Islands (ESI) form a uniquely dense archipelago of islands, coastal features, and diverse subtidal habitats on the Eastern Shore of Nova Scotia (NS). This physical and ecological diversity led to the identification of the area as an Area of Interest (AOI) for potential designation as a Marine Protected Area under Canada’s Oceans Act. To support a holistic understanding of the AOI and to inform future management, we collected baseline physical and chemical oceanographic data and environmental DNA (eDNA) samples along four transects extending from nearshore environments to the outer bounds of the AOI, characterizing habitat conditions and the biodiversity they support. Follow-up eDNA sampling in 2022 and 2023 established a time series to track changes in fish, invertebrate, and algal communities. Temperature and salinity profiles in the AOI were typical of the Atlantic coastal zone of Nova Scotia, with temperatures around 20°C at the surface and bottom temperatures around 5°C in the summer. Aragonite and calcite saturation states were <1.00 and <1.56, respectively, below 50 m, indicating that the deep bottom waters are chemically challenging for shell-forming organisms, which provide important fisheries for this coastal region. Samples collected from three nearby rivers were acidic (pHT< 5), which is typical of fresh surface waters in the Southern Uplands of Nova Scotia. eDNA sampling detected a consistent assemblage of fish species commonly occurring in coast",
-   "url": "https://doi.org/10.60825/ntyk-c735",
-   "datum": "2026-11-06",
-   "versie": "891292522f596fff",
-   "extra": {
-    "tijdschrift": "Fisheries and Oceans Canada / Pêches et Océans Canada - Publications",
-    "instellingen": [
-     "Fisheries and Oceans Canada"
-    ],
-    "zoekvraag": "(\"environmental DNA\" OR eDNA) AND (monitoring OR survey OR detection)",
-    "thema_hint": "eDNA en monitoring",
-    "open_access": true
-   },
-   "status": "nieuw",
    "thema_treffers": {
     "Natuurherstel en gebiedsbescherming": [
      "biodiversity"
-    ],
-    "eDNA en monitoring": [
-     "eDNA",
-     "environmental DNA"
     ]
    },
-   "verzameld_op": "2026-11-08T05:02:32+00:00"
+   "verzameld_op": "2026-11-09T05:18:45+00:00"
   },
   {
-   "id": "f1752a6ed435a513",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (book-chapter)",
-   "titel": "Wildlife Under Pressure",
-   "samenvatting_bron": "Wildlife is facing unprecedented threats from human activities, including habitat destruction, climate change, pollution, illegal wildlife trade, overexploitation, and human–wildlife conflict. These pressures are accelerating biodiversity loss, disrupting ecosystem functions, and reducing the resilience of natural environments. This chapter examines the major anthropogenic drivers of wildlife decline and evaluates contemporary conservation strategies for safeguarding biodiversity. It highlights the role of protected areas, habitat restoration, community-based conservation, ecological corridors, and stronger policy frameworks in promoting sustainable wildlife management. The chapter also explores the application of emerging technologies such as Artificial Intelligence (AI), Geographic Information Systems (GIS), remote sensing, drones, camera traps, and environmental DNA (eDNA) for wildlife monitoring, anti-poaching initiatives, and evidence-based conservation planning.",
-   "url": "https://doi.org/10.4018/979-8-3693-6492-5.ch011",
-   "datum": "2026-11-06",
-   "versie": "9a67840b823e83c9",
-   "extra": {
-    "tijdschrift": "IGI Global eBooks",
-    "instellingen": [
-     "Lovely Professional University"
-    ],
-    "zoekvraag": "(\"environmental DNA\" OR eDNA) AND (monitoring OR survey OR detection)",
-    "thema_hint": "eDNA en monitoring",
-    "open_access": false
-   },
-   "status": "nieuw",
-   "thema_treffers": {
-    "Natuurherstel en gebiedsbescherming": [
-     "biodiversity"
-    ],
-    "eDNA en monitoring": [
-     "eDNA",
-     "environmental DNA"
-    ]
-   },
-   "verzameld_op": "2026-11-08T05:02:32+00:00"
-  },
-  {
-   "id": "39c7fde12fab6514",
+   "id": "e0ebdbdaf4d013ab",
    "bron": "Wetenschappelijke publicaties (OpenAlex)",
    "categorie": "Onderzoek",
    "methode": "api_openalex",
    "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "Otters appear to have declined throughout Ireland amid increased pressures on water quality, but remain ubiquitous",
-   "samenvatting_bron": "Abstract Governments must report on the conservation status of species designated as protected. We assessed changes in the Near Threatened Eurasian otter Lutra lutra population throughout Ireland (the whole island) from the 1980s to the 2020s using four National Otter Surveys (6,060 sites surveyed) and citizen science data (10,980 records). In 2023–2024, otters were recorded at 65% (95% CI 62–68%) of sites in the Republic of Ireland and 66% (95% CI 58–74%) of sites in Northern Ireland. Rivers, lakes and coasts were included in the surveys. Long-term trends in the population estimate indicate a decline of 24−27% (or 3−18% after correction for negative methodological biases). Short-term trends indicated changes of −7% to +2% in the Republic of Ireland and −26% to −27% in Northern Ireland. Otters remain widespread, having been recorded in 95% of hectads (10 × 10 km squares), with no range reduction. They prefer wide, fast-flowing rivers with rocky substrates, unmaintained banks, and riparian woodlands (trees and shrubs), and are positively associated with angling (probably because of salmonid prey) but negatively with peatlands. Eleven pressures were identified, notably site disturbance, including agricultural pollution, siltation and water abstraction, which increased over time. No single pressure threatens otters nationally, but cumulative effects on water quality and ecosystems likely contributed to the decline. Future research should account for potential negative methodolog",
-   "url": "https://doi.org/10.1017/s0030605325102391",
-   "datum": "2026-11-06",
-   "versie": "8880fa99685615c4",
-   "extra": {
-    "tijdschrift": "Oryx",
-    "instellingen": [
-     "National Parks and Wildlife Service",
-     "Northern Ireland Environment Agency",
-     "Queen's University Belfast"
-    ],
-    "zoekvraag": "(\"environmental DNA\" OR eDNA) AND (monitoring OR survey OR detection)",
-    "thema_hint": "eDNA en monitoring",
-    "open_access": true
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-11-08T05:02:32+00:00"
-  },
-  {
-   "id": "9d917e927c0d6756",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "eDNA metabarcoding versus classical survey methods for biodiversity monitoring of zooplankton communities",
+   "titel": "Egyptian Vultures as a Nature-Based Solution for Carcass Disposal in Peri-urban Areas in India",
    "samenvatting_bron": "",
-   "url": "https://doi.org/10.1007/s10750-026-06460-0",
-   "datum": "2026-11-06",
-   "versie": "e809939185925543",
+   "url": "https://doi.org/10.13140/rg.2.2.30642.16329",
+   "datum": "2026-11-07",
+   "versie": "52b36ee55baaeac2",
    "extra": {
-    "tijdschrift": "Hydrobiologia",
-    "instellingen": [
-     "Aristotle University of Thessaloniki",
-     "Epigenomics (Germany)"
-    ],
-    "zoekvraag": "(\"environmental DNA\" OR eDNA) AND (monitoring OR survey OR detection)",
-    "thema_hint": "eDNA en monitoring",
-    "open_access": false
-   },
-   "status": "nieuw",
-   "thema_treffers": {
-    "Natuurherstel en gebiedsbescherming": [
-     "biodiversity"
-    ],
-    "eDNA en monitoring": [
-     "eDNA"
-    ]
-   },
-   "verzameld_op": "2026-11-08T05:02:32+00:00"
-  },
-  {
-   "id": "10ada1de982dc716",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (book-chapter)",
-   "titel": "European sediment quality values and action levels – state of the practice",
-   "samenvatting_bron": "",
-   "url": "https://doi.org/10.1016/b978-0-443-45846-0.00018-6",
-   "datum": "2026-11-06",
-   "versie": "908a8a9a9b566ad8",
-   "extra": {
-    "tijdschrift": "Elsevier eBooks",
+    "tijdschrift": "",
     "instellingen": [],
-    "zoekvraag": "\"Water Framework Directive\"",
-    "thema_hint": "Waterkwaliteit",
-    "open_access": false
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-11-08T05:02:32+00:00"
-  },
-  {
-   "id": "2f55864892250dcb",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "Aboveground biomass, carbon stock, and economic valuation of a tiny forest in a small Brazilian City",
-   "samenvatting_bron": "Abstract Urban forests have gained increasing attention as nature-based solutions, yet quantitative information on aboveground biomass and carbon storage in small urban forest remnants remains limited, particularly in small municipalities. This study aimed to quantify aboveground biomass, carbon stocks, and their illustrative economic valuation in an urban Tiny Forest located in southeastern Brazil. A complete tree inventory was conducted across a 2.76-ha area, including all living trees with a diameter at breast height (DBH) ≥ 5 cm. Aboveground biomass was estimated using an allometric equation developed for urban trees, carbon stocks were calculated using a conversion factor of 0.47, and an illustrative economic valuation was derived from a reference price in the voluntary carbon market. The inventory recorded 539 trees belonging to 68 species and 24 botanical families, with native species accounting for 79.0% of the individuals. Total aboveground biomass was estimated at 95.09 Mg (34.45 Mg ha⁻¹), corresponding to 44.69 Mg of carbon (16.19 Mg C ha⁻¹) and 163.88 Mg CO₂e. The illustrative economic valuation of the stored carbon was US$3,349.64. Native species accounted for 86.46% of the estimated carbon stock, with Moquilea tomentosa and Handroanthus impetiginosus among the main contributors. Carbon storage varied with species composition and tree structural characteristics, indicating that abundance alone does not determine species contributions to carbon stocks. These findi",
-   "url": "https://doi.org/10.1007/s11252-026-02174-2",
-   "datum": "2026-11-06",
-   "versie": "c63c463e6bde44e0",
-   "extra": {
-    "tijdschrift": "Urban Ecosystems",
-    "instellingen": [
-     "Universidade Federal de Mato Grosso do Sul",
-     "Universidade Federal do Espírito Santo"
-    ],
-    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
-    "thema_hint": "Klimaatadaptatie",
-    "open_access": true
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-11-08T05:02:32+00:00"
-  },
-  {
-   "id": "e4b5fddb88aa21bd",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "Flood risk mitigation for an urban catchment: findings from a grey, nature-based solutions and hybrid strategy approach",
-   "samenvatting_bron": "ABSTRACT Flow diagram showing rainfall-driven flood modelling using HEC-RAS, comparing baseline, nature-based solutions, structural measures, and hybrid scenarios, with reductions in flood depth, velocity, and discharge across the catchment. Rapid urban expansion and informal settlements are increasing exposure to flood hazards in urbanising catchments such as the Nairobi River Catchment. The 2024 El Niño event caused widespread flooding, affecting critical infrastructure and highlighting the urgent need for effective mitigation strategies. This study evaluates three flood management approaches using the HEC-RAS model: (1) modified channels as grey infrastructure, (2) soil organic matter enhancement and reforestation as Nature-based Solutions, and (3) a hybrid strategy. Model performance showed strong agreement with observed flows (R2 = 0.88; NSE = 0.75). Spatial datasets, including Global Forest Change and Land Productivity Dynamics, were used to identify intervention zones and parameterise scenarios. Results show that NbS reduced peak discharge by 37–75% and delayed peak flow by about one hour. Grey infrastructure achieved the greatest impact, reducing flood depths by 55–60% and peak discharge by 48–75%, but increased flow velocities. The hybrid strategy provided the most balanced hydraulic performance, combining runoff attenuation with improved channel conveyance to deliver consistent reductions in flood magnitude and enhanced flow regulation. These findings demonstrate th",
-   "url": "https://doi.org/10.2166/wcc.2026.484",
-   "datum": "2026-11-06",
-   "versie": "a09baef0109242dd",
-   "extra": {
-    "tijdschrift": "Journal of Water and Climate Change",
-    "instellingen": [
-     "Jomo Kenyatta University of Agriculture and Technology"
-    ],
-    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
-    "thema_hint": "Klimaatadaptatie",
-    "open_access": true
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-11-08T05:02:32+00:00"
-  },
-  {
-   "id": "82416a61615bea8f",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "Ecological aesthetics in urban parks with nature-based solutions: comparing perspectives of users and urban design experts in İzmir, Türkiye",
-   "samenvatting_bron": "This study examines how users and urban design experts perceive the ecological aesthetics of Karşıyaka Peynircioğlu Stream Park in İzmir, Türkiye, identifying convergences and divergences. A qualitative case study design draws on field observations, walking interviews, and semi-structured expert interviews. Water elements, native vegetation, and green continuity enhance aesthetic experience and place attachment for both groups, evoking everyday experiences among users while being interpreted by experts as intentional design strategies; maintenance gaps, however, weaken these perceptions. The study shows that aesthetic experience depends on sustained management, offering guidance for design and post-occupancy practice.",
-   "url": "https://doi.org/10.1080/13574809.2026.2741276",
-   "datum": "2026-11-06",
-   "versie": "0ec6162a0965be7d",
-   "extra": {
-    "tijdschrift": "Journal of Urban Design",
-    "instellingen": [
-     "Dokuz Eylül University"
-    ],
     "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
     "thema_hint": "Klimaatadaptatie",
     "open_access": false
    },
    "status": "nieuw",
    "thema_treffers": {},
-   "verzameld_op": "2026-11-08T05:02:32+00:00"
-  },
-  {
-   "id": "98c09a7ab54a6517",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (preprint)",
-   "titel": "Making Room for the Wadi: A Review of Urban Flash-Flood Resilience and Water-Sensitive Design in Saudi Cities, with a Layered Framework for Flood-Resilient Public Space",
-   "samenvatting_bron": "Flash floods are rare in Saudi cities, but when they come they are fast, deep and deadly. The Jeddah floods of November 2009 and January 2011 killed more than a hundred people, and the storm of 24 November 2022 delivered 179.7 mm of rain in about eight hours, the highest total ever recorded in the city. This review brings together peer-reviewed and official evidence on urban flash-flood risk in western Saudi Arabia, with Jeddah and the Makkah region as the main case and Riyadh as a comparison. It covers the documented flood events and rainfall regime, hydrological and GIS studies of the urban wadis, the growth of the cities into their floodplains, the engineering response of dams, channels and forecasting, and the evidence on water-sensitive urban design (WSUD), sustainable drainage and nature-based solutions in arid regions, including the restoration of Wadi Hanifah in Riyadh. The evidence shows a consistent pattern. Floods follow old wadi courses that were filled, built over or cut by roads, and the response has relied mainly on single-purpose grey infrastructure. Arid-region studies show that green and multifunctional measures can reduce runoff, but local performance data are scarce. Building on this synthesis, the paper proposes the Wadi-to-Plot (W2P) framework. It links four nested scales (catchment, district, street and plot) through a network of multifunctional public spaces, such as floodable wadi parks, sunken plazas and conveyance streets, that serve daily life in d",
-   "url": "https://doi.org/10.5281/zenodo.24006174",
-   "datum": "2026-11-06",
-   "versie": "a4e0f64fd982b07f",
-   "extra": {
-    "tijdschrift": "Zenodo (CERN European Organization for Nuclear Research)",
-    "instellingen": [],
-    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
-    "thema_hint": "Klimaatadaptatie",
-    "open_access": true
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-11-08T05:02:32+00:00"
-  },
-  {
-   "id": "1d887b981f08c741",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (preprint)",
-   "titel": "When One Cyclone Follows Another: Analyzing Back-to-Back Cyclonic Events, Compound Disasters, and the Imperative for Sequence Early Warning Systems and Climate-Resilient Preparedness",
-   "samenvatting_bron": "**Alternative Title:**Consecutive Cyclones and Cascading Vulnerabilities: A Comprehensive Study of Ocean-Atmosphere Dynamics, Successive Disaster Impacts, and the Shift Toward GeoAI-Driven, Ecosystem-Based Resilience in Coastal Regions **Subtitle:**An Examination of the Meteorological Drivers, Socio-Economic Consequences, and Advanced Forecasting Frameworks Required to Mitigate the Compounding Risks of Successive Tropical Storms in a Warming Climate **Keywords:** Compound Disasters, Consecutive Cyclones, Climate Change Adaptation, Cyclone Sequence Early Warning System, Ecosystem-Based Disaster Risk Reduction, Digital Twins, Ocean-Atmosphere Coupling, Build Back Better, GeoAI, Coastal Resilience. --- **Detailed Description:** **Background and Context**The global climate crisis is fundamentally altering the behavior of tropical cyclones, introducing a particularly alarming phenomenon: the \"double whammy\" of back-to-back cyclones. Recent events, such as the successive strikes of Cyclones Arnab and Murasu along the eastern coast, have highlighted a critical gap in traditional disaster management. These events, occurring within weeks of each other and generating wind gusts of up to 180 km/hr and 120 km/hr respectively, bring heavy rainfall, strong winds, and widespread panic. They force millions of people to endure the impacts of a new storm before infrastructure, agriculture, and livelihoods have been restored from the previous one. This research paper examines the meteorological",
-   "url": "https://doi.org/10.5281/zenodo.23995314",
-   "datum": "2026-11-06",
-   "versie": "c863cf8868938fb3",
-   "extra": {
-    "tijdschrift": "Zenodo (CERN European Organization for Nuclear Research)",
-    "instellingen": [],
-    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
-    "thema_hint": "Klimaatadaptatie",
-    "open_access": true
-   },
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-11-08T05:02:32+00:00"
-  },
-  {
-   "id": "7b89ec81728b08cd",
-   "bron": "Wetenschappelijke publicaties (OpenAlex)",
-   "categorie": "Onderzoek",
-   "methode": "api_openalex",
-   "soort": "Wetenschappelijke publicatie (article)",
-   "titel": "Multiscale climate vulnerability assessment in São Paulo state for climate adaptation planning",
-   "samenvatting_bron": "Climate change poses significant challenges to densely populated and economically dynamic regions. This study presents an integrated assessment of climate vulnerability across municipalities in São Paulo State, Brazil, combining climatic indicators, socio-environmental conditions, public health data, and institutional capacity variables. Using multivariate statistical techniques and spatial analysis, a Climate Vulnerability Index (CVI) was developed to identify patterns of exposure, sensitivity, and adaptive capacity. Results reveal strong spatial heterogeneity, with clusters of high vulnerability associated with elevated surface temperatures, urban heat island intensity, socio-economic disparities, and limited institutional preparedness. Conversely, municipalities with stronger governance structures and environmental planning instruments exhibited lower vulnerability levels. The findings highlight the critical role of integrated public policies and nature-based solutions in strengthening climate resilience. This research provides a replicable framework for subnational vulnerability assessment and supports evidence-based decision-making for climate adaptation planning.",
-   "url": "https://doi.org/10.22409/1rwksa41",
-   "datum": "2026-11-04",
-   "versie": "7166db1e4ba52a75",
-   "extra": {
-    "tijdschrift": "Ensaios de Geografia",
-    "instellingen": [],
-    "zoekvraag": "\"nature-based solutions\" AND (urban OR city OR building OR \"built environment\" OR flood OR heat)",
-    "thema_hint": "Klimaatadaptatie",
-    "open_access": true
-   },
-   "status": "nieuw",
-   "thema_treffers": {
-    "Klimaatadaptatie": [
-     "climate adaptation"
-    ]
-   },
-   "verzameld_op": "2026-11-08T05:02:32+00:00"
-  },
-  {
-   "id": "10610a2f566d1fe2",
-   "bron": "KAN Kennisnetwerk natuurinclusief bouwen",
-   "categorie": "Groen en bouw",
-   "methode": "web",
-   "soort": "",
-   "titel": "Congres 2026: De Baten van KAN",
-   "samenvatting_bron": "Verslag van de plenaire sessies tijdens het KAN Congres 2026 – door René Didde Zes jaar bestaat het KAN platform nu. Het samenwerkingsverband tussen Bouwend Nederland, NEPROM, WoningBouwersNL en de Ministeries van BZK-VRO, I&W en LVVN heeft in die tijd... Lees meer » Het bericht Congres 2026: De Baten van KAN verscheen eerst op KAN bouwen .",
-   "url": "https://www.kanbouwen.nl/2026/11/07/de-baten-van-kan/",
-   "datum": "2026-11-07",
-   "versie": "f39016cac59c1e87",
-   "extra": {},
-   "status": "nieuw",
-   "thema_treffers": {
-    "Bouwcontext": [
-     "woningbouw",
-     "bouwend nederland"
-    ]
-   },
-   "verzameld_op": "2026-11-08T05:02:32+00:00"
-  },
-  {
-   "id": "38c3d9a40a298c9d",
-   "bron": "KAN Kennisnetwerk natuurinclusief bouwen",
-   "categorie": "Groen en bouw",
-   "methode": "web",
-   "soort": "",
-   "titel": "De fijne lessen van Vincent Luyendijk",
-   "samenvatting_bron": "Verslag van de keynote van Vincent Luyendijk tijdens het KAN Congres 2026 – door René Didde Vincent Luyendijk is een veelgevraagd spreker en onder meer auteur van het boek De Fijne Stad (2025). Zijn motto ‘Het kan wél’ sluit perfect... Lees meer » Het bericht De fijne lessen van Vincent Luyendijk verscheen eerst op KAN bouwen .",
-   "url": "https://www.kanbouwen.nl/2026/11/07/de-lessen-van-vincent-luyendijk/",
-   "datum": "2026-11-07",
-   "versie": "a0f8dafe31d8e48e",
-   "extra": {},
-   "status": "nieuw",
-   "thema_treffers": {},
-   "verzameld_op": "2026-11-08T05:02:32+00:00"
-  },
-  {
-   "id": "0c46eed3be9299d6",
-   "bron": "NOS Binnenland",
-   "categorie": "Media",
-   "methode": "feed",
-   "soort": "",
-   "titel": "IJsbaan in Leeuwarden opnieuw dicht vanwege ammoniaklek",
-   "samenvatting_bron": "De Elfstedenhal in Leeuwarden is opnieuw ontruimd vanwege een ammoniaklek, meldt Omrop Fryslân. Eerder deze week ging de ijsbaan ook al dicht vanwege een ammoniaklek. Ammoniak wordt gebruikt in de technische ruimte van de hal om de motoren te koelen. Dinsdag lekte hier ook al ammoniak. \"Het spoot er echt uit\", zei directeur Klaas Siderius toen tegen de Leeuwarder Courant. In de hal waren 400 mensen aanwezig, die acuut naar buiten moesten. Nu kampt de ijsbaan volgens Siderius met dezelfde storing. De Elfstedenhal blijft in ieder geval dicht tot maandag. Kleine hoeveelheid De directeur benadrukt bij Omrop Fryslân dat niemand in gevaar is geweest. Deze keer ontsnapte er volgens hem maar een kleine hoeveelheid ammoniak, en het lek werd direct ontdekt. \"Bij lekkage gaat er direct een alarm af bij de technische dienst\", zegt Siderius. \"Die krijgen dan een rood scherm te zien. En volgens ons protocol wordt bij een ammoniaklek de hal direct ontruimd.\"",
-   "url": "https://nos.nl/l/2638509",
-   "datum": "2026-11-07",
-   "versie": "9f1141d6c3a7d6be",
-   "extra": {},
-   "status": "nieuw",
-   "thema_treffers": {
-    "Stikstof": [
-     "ammoniak"
-    ]
-   },
-   "verzameld_op": "2026-11-08T05:02:32+00:00"
-  },
-  {
-   "id": "84c73ee27e986dfb",
-   "bron": "NOS Binnenland",
-   "categorie": "Media",
-   "methode": "feed",
-   "soort": "",
-   "titel": "7/11 in Nieuwsuur: De toekomst van het minderheidskabinet • Hybride oorlog • Bruggen mogelijk langer mee",
-   "samenvatting_bron": "De toekomst van het minderheidskabinet CDA-leider Henri Bontenbal wil er de komende week \"alles aan doen\" om het belastingplan van het minderheidskabinet aan een meerderheid te helpen. Dat zei hij op het CDA-congres in Almere, aan de vooravond van wat een spannende week voor de coalitie van D66, CDA en VVD gaat worden. Want een meerderheid in de Tweede Kamer lijkt misschien wel in zicht, maar in de Eerste Kamer allerminst. We zijn vandaag in Almere. Hybride oorlog Al zijn we niet in oorlog, deze week werd eens duidelijk dat Europa ontzettend kwetsbaar is voor dreiging van buiten. Met gehackte koelingen in meerdere Europese supermarkten en bij Franse bloedbanken, en (valse) bommeldingen bij vliegtuigen. De lange lijst van sabotageacties, hacks en andere aanvallen in Europa zijn een bron van grote zorg. De incidenten worden ook steeds gevaarlijker. Te gast is veiligheidsexpert Bart van den Berg van Instituut Clingendael. Bruggen mogelijk langer mee Nederlandse bruggen zijn verouderd en om ze op te knappen is tot 2039 zo'n 75 miljard euro nodig. Maar zoveel geld is er niet. De TU Delft hoopt met een nieuwe aanpak beter te kunnen meten hoe slecht in dit geval de Zeelandbrug er écht aan toe is. Rijkswaterstaat kijkt met interesse naar het project in Zeeland. Maar meten.... dat houdt de rot niet tegen.",
-   "url": "https://nos.nl/l/2638445",
-   "datum": "2026-11-07",
-   "versie": "9d632c9ccf1bdde5",
-   "extra": {},
-   "status": "nieuw",
-   "thema_treffers": {
-    "Bouwcontext": [
-     "rijkswaterstaat"
-    ]
-   },
-   "verzameld_op": "2026-11-08T05:02:32+00:00"
-  },
-  {
-   "id": "c7df23644e432685",
-   "bron": "NOS Binnenland",
-   "categorie": "Media",
-   "methode": "feed",
-   "soort": "",
-   "titel": "Meer mensen met verward gedrag, drukken op hulpverlening en rechtspraak",
-   "samenvatting_bron": "De overlast van mensen met verward gedrag neemt elk jaar toe. Moest de politie in 2015 nog ruim 66.000 keer in actie komen, vorig jaar was dat al bijna 170.000 keer. Ook dit jaar, gekeken naar de cijfers tot september, loopt het aantal meldingen weer op, met een tussenstand van 149.519 incidenten. Strafrechters Elmy Elderman en Joyce de Ruiter van de rechtbank Overijssel zijn bezorgd over dit toenemende probleem in de maatschappij. \"Wij kunnen het niet oplossen. Bestuurders denken: zet ze maar vast, dan zijn ze van de straat. Maar daarna komen ze terug op straat, onbehandeld en zonder zorg\", legt De Ruiter uit. Het gaat om een kleine groep mensen met ernstige psychiatrische problemen, vaak in combinatie met een verslaving. Koepelorganisatie Raad voor de rechtspraak onderschrijft wat de twee strafrechters aankaarten. Naakt over straat Vaak gaat het om kleine vergrijpen, van winkeldiefstal tot naakt over straat lopen, schreeuwen en de deur van de nachtopvang slopen, maar de druk op de hulpverlening en het rechtssysteem is er groot door. Strafrechter Elderman: \"Met dit soort incidenten is de hele strafketen druk: politie, justitie, reclassering en tot slot de gevangenissen. En we zien deze mensen vaak weer terug.\" Zowel de strafrechters als de Raad voor de rechtspraak vinden dat er eerder moet worden ingegrepen, en niet door een rechter. \"Strafrecht als interventie is niet altijd geschikt of effectief. Door in een eerder stadium met niet-strafrechtelijke interventies te komen, k",
-   "url": "https://nos.nl/l/2638408",
-   "datum": "2026-11-07",
-   "versie": "969cb1775a80762f",
-   "extra": {},
-   "status": "nieuw",
-   "thema_treffers": {
-    "Bouwcontext": [
-     "slopen"
-    ]
-   },
-   "verzameld_op": "2026-11-08T05:02:32+00:00"
-  },
-  {
-   "id": "b1e6af813462410f",
-   "bron": "NU.nl Algemeen",
-   "categorie": "Media",
-   "methode": "feed",
-   "soort": "",
-   "titel": "Wegen worden steeds drukker en files nemen toe: 'Reistijd wordt onvoorspelbaar'",
-   "samenvatting_bron": "De Nederlandse infrastructuur heeft dringend onderhoud nodig. Vanwege geldgebrek kunnen niet alle problemen worden aangepakt en zijn veel nieuwe projecten geschrapt. Reizigers en weggebruikers lijken hierdoor een perfecte storm van files en vertraging tegemoet te gaan, maar experts zien uitwegen en oplossingen.",
-   "url": "https://www.nu.nl/binnenland/6415644/wegen-worden-steeds-drukker-en-files-nemen-toe-reistijd-wordt-onvoorspelbaar.html",
-   "datum": "2026-11-08",
-   "versie": "94e382918cfec9f0",
-   "extra": {},
-   "status": "nieuw",
-   "thema_treffers": {
-    "Bouwcontext": [
-     "infrastructuur"
-    ]
-   },
-   "verzameld_op": "2026-11-08T05:02:32+00:00"
-  },
-  {
-   "id": "4eb497670c4462c0",
-   "bron": "NU.nl Algemeen",
-   "categorie": "Media",
-   "methode": "feed",
-   "soort": "",
-   "titel": "De bever is geheim wapen tegen droogte: 'Anders zou hier geen druppel staan'",
-   "samenvatting_bron": "De steeds drogere zomers in Europa hebben grote gevolgen voor de natuur. Maar de natuur kan ook een handje helpen om in droge tijden tóch water vast te houden. In Oostenrijk werken mensen samen met de bever om tal van soorten te beschermen tegen uitdroging.",
-   "url": "https://www.nu.nl/klimaat/6415753/de-bever-is-geheim-wapen-tegen-droogte-anders-zou-hier-geen-druppel-staan.html",
-   "datum": "2026-11-07",
-   "versie": "826122d0ee520e74",
-   "extra": {},
-   "status": "nieuw",
-   "thema_treffers": {
-    "Klimaatadaptatie": [
-     "droogte"
-    ]
-   },
-   "verzameld_op": "2026-11-08T05:02:32+00:00"
-  },
-  {
-   "id": "d1c7e40ef591bb0d",
-   "bron": "Binnenlands Bestuur",
-   "categorie": "Media",
-   "methode": "web",
-   "soort": "",
-   "titel": "kennispartners AT Osborne, PwC en Generation helpen Rijkswaterstaat met de Bruggenwerf De drie partijen ondersteunen bij de projectbeheersing van het programma.",
-   "samenvatting_bron": "",
-   "url": "https://www.binnenlandsbestuur.nl/ruimte-en-milieu/at-osborne/projectbeheersing-de-bruggenwerf-rijkswaterstaat",
-   "datum": null,
-   "versie": "0e60b3704b1b9e55",
-   "extra": {},
-   "status": "nieuw",
-   "thema_treffers": {
-    "Bouwcontext": [
-     "rijkswaterstaat"
-    ]
-   },
-   "verzameld_op": "2026-11-08T05:02:32+00:00"
+   "verzameld_op": "2026-11-09T05:18:45+00:00"
   }
  ]
 }

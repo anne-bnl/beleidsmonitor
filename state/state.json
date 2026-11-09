@@ -7664,7 +7664,7 @@
     "6e91b43d9aa73296": "006ca8f869ca1c17",
     "ae8adcb5fd916202": "3816674bbd7f6d50"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -11864,9 +11864,14 @@
     "b4acb77c0b7b0ad0": "659dc032821485f0",
     "f34893c7aad0b210": "eab975e238ce0741",
     "191bbd108c2b2631": "25ca08f6abae50d9",
-    "76f60c9d37e1eff2": "3c157b1313d3e859"
+    "76f60c9d37e1eff2": "3c157b1313d3e859",
+    "d63ce0f2d9c391a5": "c31ca4475f4c4288",
+    "0369a0cf345cc581": "74e01afc7dde71dd",
+    "dde582e0e7b1dbd8": "176705fed433e694",
+    "0f759bc0beff4b7a": "e5784948b69673e7",
+    "c9f8fdd26c9480a4": "88cadbffb8c7eff0"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -11947,7 +11952,7 @@
     "4f27d748d6f7a13f": "d1153800bff1478e",
     "de56df703b5cf69b": "ed41307e9cd9cda0"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -18277,7 +18282,7 @@
     "2887f3de69619f77": "7cf3753fc35d4686",
     "82729510ce38aaa2": "7cf3753fc35d4686"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -20231,7 +20236,7 @@
     "89e34c6364c9c36d": "0619f089c1bcf595",
     "051033a004d06f81": "c8dd3201318265ee"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -75628,7 +75633,7 @@
    },
    "laatste_fout": null,
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00"
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00"
   },
   "Waterschapsbladen": {
    "gezien": {
@@ -78832,7 +78837,7 @@
     "37455e6ed7f2ff8a": "8bd62f8c3382a096",
     "5519d278162de2fa": "4df9aa66c38dbe13"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -79467,7 +79472,7 @@
     "3790741a74ae200c": "66f7e4fab9efaa13",
     "b0cea5eee28328ec": "d6da83d1589afcdb"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -79552,7 +79557,7 @@
     "741c340909c2a11e": "78aed5626a0f6503",
     "717f56d4b0c09968": "9f1ec1e8d9ccf35b"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -79636,7 +79641,7 @@
    },
    "laatste_fout": null,
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00"
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00"
   },
   "Wetgevingskalender": {
    "gezien": {
@@ -79845,7 +79850,7 @@
    },
    "laatste_fout": null,
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00"
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00"
   },
   "Open Overheid (Woo-publicaties)": {
    "gezien": {},
@@ -79877,7 +79882,7 @@
     "d8bca6748844f7ac": "8021a544d2e2c581",
     "11a78529218e8134": "c7288c6ca1a453aa"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -79945,7 +79950,7 @@
     "b44d9290d0e06178": "c095321d6a1728a4",
     "7c825f9a3296a4f6": "92bc4e5327d17551"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -92850,9 +92855,9 @@
     "6c0cbf3a21c70a28": "123460d8d8f8c9af",
     "c2b7beabf4b659d6": "55193ba55d714d4c",
     "f4664cb37aed09e0": "c550f729bd735020",
-    "9a53cdd77fbf04a8": "dec68a5234213843",
+    "9a53cdd77fbf04a8": "89c16aa5aa630920",
     "ee2648f8fd886430": "f19612551538f013",
-    "bc1781d87e413542": "fa3c6fe75299ede9",
+    "bc1781d87e413542": "aa233f57d3664600",
     "eba338b581f1cb30": "d17f4a598a088935",
     "f13e6a4ae472a3ea": "52dc00029b6d0f62",
     "348dcba7e49fe921": "241fffc36d3415e9",
@@ -92911,7 +92916,7 @@
     "d26b343f7ca0679d": "10cdf640736d42c9",
     "99bfef55411c45e1": "75f46586b5502ebf",
     "4e365e78fb59065c": "142a94a11a62d08b",
-    "6f897368f438ad2b": "e5bfde4bb02879a6",
+    "6f897368f438ad2b": "cba48225466b9e3e",
     "fea9b90d630c09f7": "023d85cc99605a82",
     "49bdbcde00a316fb": "3b00038d8d6f7e80",
     "7e8cc84ef4978597": "005dba1f1d389a49",
@@ -92984,7 +92989,7 @@
     "6a7c474fcc22be19": "57761f6da019042a",
     "20c9e0160b32d9ab": "5dd093518c70c7e7"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -93016,7 +93021,7 @@
     "4df2ef384671a821": "13fcbc9a784852c5"
    },
    "feed": "https://www.raadvanstate.nl/actueel/nieuws/?rss=true",
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -93144,7 +93149,7 @@
     "3040b51dd4acaec2": "b1efe17d2f3a5bdf",
     "95922aa0af8ffb3f": "593e48c6a65deaa2"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -93177,9 +93182,10 @@
     "5ea30edc3f33212a": "fb2987f8bc9e0c11",
     "47d86471dc3769b4": "0894a5d031ca7637",
     "697350c4b130715c": "7a4112ac251ecfd2",
-    "01a8b167f63e2563": "9e88fcb58fc089d8"
+    "01a8b167f63e2563": "9e88fcb58fc089d8",
+    "bd8d04dc9a03fc7f": "ff0f2a2764d74e4e"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -93239,7 +93245,7 @@
    },
    "laatst_gelukt": "2026-10-23T04:53:46.879895+00:00",
    "laatste_fout": "ValueError: Ook na opbouwen in de browser geen berichten herkend (0 links)",
-   "fouten_op_rij": 16
+   "fouten_op_rij": 17
   },
   "EUR-Lex": {
    "gezien": {},
@@ -93279,7 +93285,7 @@
     "84f5c20b60d7e500": "841b5a0e9ba9527d",
     "3151fa0fc0869b6d": "a6d09dc1badfe0f1"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -93315,7 +93321,7 @@
     "a28ee658ce345b62": "289a01be398663dc",
     "d73e85326ef638f8": "bb174b8e2bf1fcdc"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -93353,7 +93359,7 @@
     "e224ff1f0dc988c5": "d83ad62f49eca3c3",
     "a41c2effef4b9fc1": "440b829100ddde63"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -94068,7 +94074,7 @@
     "a308b0b247478d15": "643e5f2fb228c7d3",
     "4313a16ace89a02e": "f97297ff764f1d38"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -94096,7 +94102,7 @@
    },
    "laatst_gelukt": "2026-11-03T05:05:16.047228+00:00",
    "laatste_fout": "ValueError: Ook na opbouwen in de browser geen berichten herkend (2 links)",
-   "fouten_op_rij": 5
+   "fouten_op_rij": 6
   },
   "Provincie Groningen": {
    "gezien": {
@@ -94130,7 +94136,7 @@
     "3476ed22bf7a6fac": "e3d607df878c5748",
     "f51d8cf2f5bf0056": "09acec0853a2bea4"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -94169,7 +94175,7 @@
     "25a8524713d85d49": "929834ff3b0b6d30",
     "2e84a92ef440db0d": "b22ea72bb8a8d999"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -94214,7 +94220,7 @@
     "248bd6a47e10e92a": "160c7b18f9c6fbfe",
     "6a3cbefe09733f80": "ecb1f4e9f24e6283"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -94264,7 +94270,7 @@
     "d2e96395ab22431d": "a080386b9847393b",
     "8671bffff94e3310": "e16861f595d28d99"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -94310,7 +94316,7 @@
     "d6425b45284cd3ec": "31c8945ea9833c87",
     "6efce0a660183541": "26fb70b6d2efa583"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -94357,7 +94363,7 @@
     "bba34082a3aef7ca": "c6396c18ff36f413",
     "51b970fb219e7f57": "19c2f5c96f3b568f"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -94405,7 +94411,7 @@
    },
    "laatste_fout": null,
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00"
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00"
   },
   "Provincie Zuid-Holland": {
    "gezien": {
@@ -94446,7 +94452,7 @@
     "dcceea40ffffcdba": "7eac3479cfbe04c0",
     "0990803b15e3ac0b": "53298dc15afcb614"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -94495,7 +94501,7 @@
    "laatste_fout": null,
    "fouten_op_rij": 0,
    "feed": "https://www.amsterdam.nl/nieuws/nieuwsoverzicht/?rss=true",
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00"
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00"
   },
   "Gemeente Rotterdam": {
    "gezien": {},
@@ -94532,7 +94538,7 @@
     "c9047302e3a25d45": "707ad5e8425d904f",
     "bbbf7739f2f164e2": "c925772cc6938677"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -94572,7 +94578,7 @@
    },
    "laatste_fout": null,
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00"
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00"
   },
   "Raad voor de leefomgeving en infrastructuur (Rli)": {
    "gezien": {
@@ -94592,7 +94598,7 @@
     "021bc2b8e87944bf": "074cdc8fad2a2c65",
     "9b02f533195f4375": "9c0e674ef55e024d"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -94616,7 +94622,7 @@
     "395caf2c413a1e9b": "22634ec58ad851b3",
     "e38923e5bd0a6bea": "b52160ba72876cce"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -94709,7 +94715,7 @@
     "19a6528a5ec534bb": "9ca6e183a04938cb",
     "dd4a2dc2fe3cdf88": "d0f99cff1c031683"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -94737,7 +94743,7 @@
     "ddbbf39d304a4e6c": "c1f69f3c60aeb214",
     "2f1d16ab0813a9a0": "637a89312304b5df"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -94765,7 +94771,7 @@
     "03bef494dd5bd4de": "6fe1fb93aefc80ae",
     "c613ca474af4ba69": "afea82e2f051e635"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -94785,7 +94791,7 @@
     "ae0511d7605a6cbe": "2018cfbc5c21b91d"
    },
    "feed": "https://www.eib.nl/feed/",
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -94818,7 +94824,7 @@
    },
    "laatste_fout": null,
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00"
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00"
   },
   "TNO": {
    "gezien": {
@@ -94852,7 +94858,7 @@
     "5eacc2c803ceb14f": "6def3ed5edce126b",
     "c57ee3a3c7d56a2c": "22f7b0869d41ad3d"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -94865,7 +94871,7 @@
     "be8a75a0999ab3b3": "df7c72687653aab1",
     "3b5082e4f085eeb4": "2d9abec46f606331"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -94955,7 +94961,7 @@
     "1a86bd782121119d": "26868a0d425d9497",
     "64aae25318751a94": "80d6783e451a0349"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -95057,7 +95063,7 @@
     "16a22bce158882cd": "e9bddc2032b28321",
     "09648f08c82bc7e3": "3ece1e7f6d857e26"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -95094,7 +95100,7 @@
    },
    "laatste_fout": null,
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00"
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00"
   },
   "Vrije Universiteit Amsterdam": {
    "gezien": {
@@ -95164,7 +95170,7 @@
     "1fce3291e0824136": "a33376b6a38ce9b5",
     "2ee8c71de8639001": "fe675c420d872142"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -95700,7 +95706,7 @@
     "8ba6879499ef40f4": "64257f3049df75b1",
     "7bbb2ad66bd3f3d6": "e2f541154a6a3da5"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -95776,7 +95782,7 @@
     "928ed144d17df51e": "f6eca3ebb97a087a"
    },
    "feed": "https://www.vogelbescherming.nl/?act=nieuws.rss",
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -95836,7 +95842,7 @@
     "064348b8c969fe97": "91c59199359c9fbf"
    },
    "feed": "https://www.natuurmonumenten.nl/api/news?_format=rss",
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -95870,7 +95876,7 @@
     "fde579ed87c4fe7c": "d28e242489a666f0",
     "8001e688447c67de": "c86ffe7931462edd"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -95896,7 +95902,7 @@
     "c73946e04f7270e2": "110002b013ac1b03",
     "8e2be9da9432155d": "ae0613c4b2a5033e"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "feed": "https://www.vlinderstichting.nl/feed/",
    "laatste_fout": null,
    "fouten_op_rij": 0
@@ -95925,7 +95931,7 @@
     "07bc3b620f1406dc": "f97de6af74a3ad26",
     "ad690e18e9b28969": "de8fcb0ee5aff5bc"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -95950,7 +95956,7 @@
     "965e032b7a4f3af4": "31f9202d75867916",
     "64fd5175dc33502c": "e10c75d541cc06c7"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -95971,7 +95977,7 @@
    },
    "laatste_fout": null,
    "fouten_op_rij": 0,
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00"
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00"
   },
   "RAVON": {
    "gezien": {
@@ -95999,7 +96005,7 @@
     "f9250982e41caa00": "987db70a2a9a87d2",
     "22fa3b5c49d5e12a": "190523135edf341a"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -96011,7 +96017,7 @@
     "c8d019c2a784c8a0": "0ada8771ee426db9",
     "f063293e613da6ab": "f4d321393dec29ed"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -96045,7 +96051,7 @@
     "eebb70d78d724e89": "eb18c76c4d2c313a",
     "86c9842ce4be5c96": "389e3ee51345b072"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -96075,7 +96081,7 @@
     "38c3d9a40a298c9d": "a0f8dafe31d8e48e"
    },
    "feed": "https://www.kanbouwen.nl/feed/",
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -96102,7 +96108,7 @@
     "2fb8f7753d1101f7": "a20cb7287f30064a",
     "3d9bf353f605019b": "61d262c62c8ac564"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -96115,8 +96121,8 @@
     "a986236e43a5fba6": "e4a69f6a3107ca4f",
     "77c5f7a3c2da5919": "d2c3ea375772a260"
    },
-   "laatste_fout": null,
-   "fouten_op_rij": 0,
+   "laatste_fout": "ValueError: Ook na opbouwen in de browser geen berichten herkend (0 links)",
+   "fouten_op_rij": 1,
    "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00"
   },
   "IUCN": {
@@ -96126,7 +96132,7 @@
     "9108db1fbbf8291a": "ae14e360aea32cf0",
     "ba22c19386b08bf9": "439600a87c703553"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "feed": "https://iucn.org/rss.xml",
    "laatste_fout": null,
    "fouten_op_rij": 0
@@ -96184,7 +96190,7 @@
     "05bbc3291763439d": "d19efa828716089a",
     "ddf770a2b03e2833": "efffac271f6846ba"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -96222,7 +96228,7 @@
     "054f9309ec4a379a": "2ae2e7f48364a3ea",
     "49c1670e23a658bb": "9586ae2037d10649"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -96559,9 +96565,16 @@
     "6037e1584fc99f09": "1d57f0bf367c8363",
     "5d05aa14400f0875": "4970f8cce670793f",
     "42febe50fa3a907a": "df790ca79abab621",
-    "cd4661ae1c8c2e23": "d9ad8adf8a15c72a"
+    "cd4661ae1c8c2e23": "d9ad8adf8a15c72a",
+    "3eb9e015767dcae4": "f6a85a8925e46cc7",
+    "0079c476fae69cde": "59407adff85add15",
+    "7b719bc1f0f03f9b": "e68ac9aa39409227",
+    "4f21f9ad003f86fa": "f0d44a3c74343285",
+    "1bc052d2a72434b7": "61dc9c3bc5736a32",
+    "c5fd237d884b2822": "f64252f46e64323a",
+    "fae12d03e6605882": "f4faeb84358b3f1b"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -96655,9 +96668,10 @@
     "4736235efaf20ab2": "c8ce42f9c595ee46",
     "f6ea10d69c066ba6": "e3ca61ff9a69a3fc",
     "7ff86f78807a80c7": "f60da8f2aeb5fce0",
-    "b3b254400772c9a0": "b1d777e949d86114"
+    "b3b254400772c9a0": "b1d777e949d86114",
+    "6a2569896452f3e8": "fe925fdc4a9eb67f"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -97507,9 +97521,39 @@
     "0db4573f33376fb5": "6e4ca5325a4a8bb0",
     "e9232e50f21c1ddb": "7d1a87501480d186",
     "bcf798083eb683d3": "e6d4de6c2df9cf74",
-    "cf8c966fbcb9c1a2": "81c7ed081675ddf4"
+    "cf8c966fbcb9c1a2": "81c7ed081675ddf4",
+    "9d3532add131cb73": "8e41153105a84426",
+    "771fe1096b77c08d": "d6bd67681c9f3aa0",
+    "fcc4d44999517ef1": "579056e00ee1a0f8",
+    "116f243d6dba9ed2": "9bd7cd8cdc681fea",
+    "40f862c14d531b53": "1f04c2626be9bacd",
+    "3f0ad08b98ca8d8b": "340a35f93f663206",
+    "eec079aa33a3d7d8": "af60b0a43b887c45",
+    "93260c20f995dcd7": "eebb00a8c81f806b",
+    "5066bb4a29d6a65a": "35b2b6704ed111b9",
+    "d8a0879d97833fc8": "6ecdf743293416c2",
+    "53f37977c87ea081": "f9fddcc183e47216",
+    "7e668ce82a9f4177": "2ac8ff176ecb2b17",
+    "83db15016996a83b": "4322f9756d1e705c",
+    "c977da5f6ab2ceab": "2ed5cbe5833e2dbf",
+    "153070cce43c4ffc": "1678e2060dd4a7a3",
+    "2f67e104c6f580a0": "bac84e137823e508",
+    "6f307ecbcfbc14d6": "46a197a80498536c",
+    "3a22c476138f15f0": "48c8d925d4bbd976",
+    "8deab5c4e8c0231d": "1f85c78a1e44dbda",
+    "bad944919e464250": "db3f468326f365fa",
+    "f366101363bb1b88": "9ad70138b21a5bc2",
+    "129cb6c96ef6ca03": "3c64d525be8028d5",
+    "8b6337c8809dbc56": "9901cef9e2f9c0cb",
+    "c75d095e51f993ba": "5daa6f095ec3f2b2",
+    "e189644db65bad45": "d01f6c5545614f94",
+    "74ee8075f3472e4d": "b812384ec49d32ac",
+    "9061e6dce9a984e5": "871fd684a8a375fb",
+    "b510ee21e10d5f8f": "a730223e88e4b86a",
+    "3c132b31eca2a15b": "992ae71431c88af2",
+    "0659b76aa222e489": "f6cf3deb527d7265"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -97656,7 +97700,7 @@
     "1ab6126e84bc7b18": "05d4a40ebd58a984",
     "72abd42fa4a2642c": "1d1db4c28cbc0d4c",
     "0e1a2c2d80b623f6": "5e6917e034a6b95f",
-    "40ffbf1bcae9ea20": "ebfa3017874febb2",
+    "40ffbf1bcae9ea20": "7fa83bbcc23348b2",
     "bebdf878d0623cbc": "7b8acd4d1ca5c453",
     "0688a8b49c561c0a": "8e56b92e04636a97",
     "855a1b09d0b772a1": "6018b79660e3ec5e",
@@ -98480,12 +98524,12 @@
     "bbee6717a1b00c1d": "6fe4d167c79454e8",
     "280f2a4871f59fab": "a27a0bb534302d11",
     "e357f93cc5b508cb": "de5eba5227d4e042",
-    "580cada0acb45039": "6742c1d160c685ed",
+    "580cada0acb45039": "50f4ddd168029327",
     "7f4cc6ace6f29f30": "26cca8d52039319a",
     "66d4c2979eb36b1e": "a74bdf1612e1b01d",
-    "2c775c5af86e6afb": "a21646f9ac11aa25",
+    "2c775c5af86e6afb": "9c261b79e99e42d0",
     "a7d700d17c00c380": "f04c990fe48527f5",
-    "83016fa374e4144e": "babcb7164e580019",
+    "83016fa374e4144e": "bd9f9412281632c8",
     "472dbc5b99614e86": "d4b8ea3fb846961f",
     "59d9496f9cd4fc82": "1f32deacf4857cf1",
     "2737687e8cf93644": "cf2deed410e94a34",
@@ -98496,7 +98540,7 @@
     "128726176818880d": "0a1a0af55085d9c5",
     "4193254d2c9de31a": "612e701494058d4c",
     "36c07dda66eb7143": "b95b598c71764fac",
-    "37f692e0e45a73aa": "4db4b4dd0e455d8f",
+    "37f692e0e45a73aa": "00d2a96165507149",
     "5299e6eab5a05bc3": "c6cedc2a418da6dd",
     "cc90a8dc2c775a00": "34f687f6d34596c2",
     "41c658f1242b8380": "c7c4729013664c2f",
@@ -98513,9 +98557,35 @@
     "4202545e37ef4132": "cfb6906d5c67999b",
     "aef3d4fd62a25d92": "17f91683a1f2b698",
     "f013c8860af0d7db": "2dc4e008b4281109",
-    "bf9bcf27c847a330": "bdb43b000296e488"
+    "bf9bcf27c847a330": "bdb43b000296e488",
+    "3dbb7b0bdb937a96": "20b8e708579a8863",
+    "41c722222e7ffa58": "9bc3aa460cc1d2ff",
+    "d1eabea3e60a3616": "afc654120c1a1fa4",
+    "140bb710c723e37f": "bd4b7a86b8121b82",
+    "8e398f311a4ede01": "d39d988c04d594d7",
+    "508911931a7ccc9c": "2024690df8d52a0b",
+    "a2a363d560c117be": "37c88e6437da7bb7",
+    "6fce0e93fdf193db": "b17ef08010585207",
+    "c13df844fd495e4b": "c5a2f5a5d5394642",
+    "06eb56cbec6483c7": "41da84fb5031ccfb",
+    "85eb13d86ccb6e92": "964841e66b124978",
+    "39a59e3df44f1367": "23c51c122c289318",
+    "bc28f41c6c86c6ce": "8cd20e8cf4e64ba9",
+    "a4295fd40e22c781": "698a6d115e6e904b",
+    "02114c79c142ab37": "cc3d3835c5109be2",
+    "c888a20319712e97": "66893b2aa2d259b8",
+    "bb5326fc06bf8fa0": "cd4aeccb8659f64b",
+    "26f636a7188a6982": "7d9013a4e5863187",
+    "3ccec6e6c404fe0c": "45e5d44e89ccb504",
+    "904b482e562e0855": "d9a36093e0cf59d1",
+    "7c5ef8b625ac49fd": "ceafc0f8caf461c3",
+    "09789e34c829e68c": "ed0d0d661a3f7591",
+    "5130dafd4ee61ef6": "ee37f158c1662622",
+    "c300be84f51b0ffa": "c728e34b892cda68",
+    "f7ebe9f030430b83": "7811a4ea604ff2eb",
+    "7c1f133ed95a0810": "3545fa323eff4eb2"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "feed": "https://www.trouw.nl/rss.xml",
    "laatste_fout": null,
    "fouten_op_rij": 0
@@ -98802,7 +98872,7 @@
     "09aa5d5d6750aba8": "742d8e6def8eeb98",
     "d370b5021c1fb9ef": "8ac8cfc1d7e0e624",
     "a926a5c7c7d45592": "08403160798beb24",
-    "fd388ee0a072d0e7": "28f89825f0e3996c",
+    "fd388ee0a072d0e7": "a1526756b4ddb5d0",
     "c9e7692035fe6734": "d0a18bf8634a93aa",
     "01c3e9a3d2028ea8": "3d78776e2087de1a",
     "6632074f8a6a09fe": "b3f19ce4d546bf2c",
@@ -98854,9 +98924,13 @@
     "2589bcf7464aed24": "3dcecade1f4cb3e9",
     "7eba0c6e56258654": "49bdd42b53cfea46",
     "d1c7e40ef591bb0d": "0e60b3704b1b9e55",
-    "023bff5849f1e7f8": "5e0fe2b3e485ace6"
+    "023bff5849f1e7f8": "5e0fe2b3e485ace6",
+    "e7d0a99eed5f3b04": "ec093311c7f157fd",
+    "0f21f036aa78d1aa": "9c524d3529d9c77e",
+    "b9dfe0893c08586a": "173502c7ed14f1e0",
+    "b88caa115a77192b": "8efbb6eefc16ee33"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -99022,7 +99096,7 @@
     "e55d16d4d3c727e8": "64433f06733f9a6b",
     "d2d1a34b0c7a72aa": "348719d46e8231f4"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -99089,7 +99163,7 @@
     "19d11a2feb7d2282": "d9478edfbe856ee4",
     "e15067521da2b09d": "f2452e744cd840f2"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -99155,7 +99229,7 @@
     "e0df88ccb1c5f893": "2135fc1628243935",
     "0d65b2b12b8608bf": "148253d1ad937865"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -99351,7 +99425,7 @@
     "c4dc8a7ac6f26421": "810c50ce1f326107",
     "74f6760d1b04ccfe": "96d95e5817300cdf"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -99392,7 +99466,7 @@
     "b89460dac84dffc4": "15d698f5ec3f8ca3",
     "38c52ae858d8e7ea": "a2b6c6441e343644"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -99421,7 +99495,7 @@
     "85dd01e545f79129": "8ff78ce8f46555aa",
     "8e2e588b216e093e": "15d698f5ec3f8ca3"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -99456,7 +99530,7 @@
     "3f6356bd64487038": "a2b6c6441e343644",
     "a1628ca74c609da3": "ce649fc7b8001d33"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -99497,7 +99571,7 @@
     "c0c778747b1b68f8": "7cac3abb562be164",
     "04e2ede8017b834e": "b5407762ac808313"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -99531,7 +99605,7 @@
     "677d955ef73d1882": "a4922afec448dbec",
     "15a1ff449d11a753": "23fd8baf522d9c86"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -99566,7 +99640,7 @@
     "6d34c8922f18f441": "2879da4880ccbfa9",
     "fe5a8bf4b9bdd0da": "797a1bb3d3fe8fb2"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   },
@@ -100182,9 +100256,14 @@
     "82416a61615bea8f": "0ec6162a0965be7d",
     "98c09a7ab54a6517": "a4e0f64fd982b07f",
     "1d887b981f08c741": "c863cf8868938fb3",
-    "7b89ec81728b08cd": "7166db1e4ba52a75"
+    "7b89ec81728b08cd": "7166db1e4ba52a75",
+    "9d3987a55576d707": "7abe3148853b87e1",
+    "5a25eba73d384e93": "3e67b8645daf20f1",
+    "50177b997e337118": "6d7cca203e90c5b6",
+    "f17aa9e09031ff84": "773b056decab5bbf",
+    "e0ebdbdaf4d013ab": "52b36ee55baaeac2"
    },
-   "laatst_gelukt": "2026-11-08T05:02:32.236357+00:00",
+   "laatst_gelukt": "2026-11-09T05:18:45.185858+00:00",
    "laatste_fout": null,
    "fouten_op_rij": 0
   }
