@@ -1,34 +1,6 @@
 {
- "bijgewerkt": "2026-11-10T05:04:25+00:00",
+ "bijgewerkt": "2026-11-11T05:12:40+00:00",
  "items": [
-  {
-   "id": "5113d30e69372c06",
-   "bron": "Tweede Kamer",
-   "soort": "E-mailprocedure",
-   "wat": "Verzoek ambassade van Moldavië, namens vicepremier van Europese Integratie van Moldavië, voor gesprek d.d. 19 november 2026",
-   "datum": "2026-11-10",
-   "tijd": "16:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Europese Zaken",
-   "commissie_afk": "EU",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08287",
-   "themas": [],
-   "kerncommissie": false
-  },
-  {
-   "id": "2ba814e80a057efb",
-   "bron": "Tweede Kamer",
-   "soort": "Commissiedebat",
-   "wat": "Raad Algemene Zaken 19 november 2026 en Rechtsstatelijke ontwikkelingen in de Europese Unie - omgezet in schriftelijk overleg 11 november 2026",
-   "datum": "2026-11-10",
-   "tijd": "17:00",
-   "status": "Verplaatst",
-   "commissie": "vaste commissie voor Europese Zaken",
-   "commissie_afk": "EU",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04505",
-   "themas": [],
-   "kerncommissie": false
-  },
   {
    "id": "ed80beab1d01b58b",
    "bron": "Tweede Kamer",
@@ -114,20 +86,6 @@
    "kerncommissie": false
   },
   {
-   "id": "ede4ecf1bbfa397a",
-   "bron": "Tweede Kamer",
-   "soort": "Commissiedebat",
-   "wat": "Verduurzaming luchtvaart",
-   "datum": "2026-11-11",
-   "tijd": "14:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
-   "commissie_afk": "I&W",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A04829",
-   "themas": [],
-   "kerncommissie": true
-  },
-  {
    "id": "e0cadc8bc65fb961",
    "bron": "Tweede Kamer",
    "soort": "Strategische procedurevergadering",
@@ -138,6 +96,20 @@
    "commissie": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
    "commissie_afk": "LVVN",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04603",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "05a61f81de1ee41e",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Verduurzaming luchtvaart - uitgesteld tot na het kerstreces",
+   "datum": "2026-11-11",
+   "tijd": "14:00",
+   "status": "Verplaatst",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A04829",
    "themas": [],
    "kerncommissie": true
   },
@@ -536,6 +508,34 @@
     "Natuurherstel en gebiedsbescherming"
    ],
    "kerncommissie": true
+  },
+  {
+   "id": "0d268d3e3d549a01",
+   "bron": "Tweede Kamer",
+   "soort": "Inbreng schriftelijk overleg",
+   "wat": "Buitengewone Europese Raad d.d. 26-27 november 2026",
+   "datum": "2026-11-19",
+   "tijd": "12:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Europese Zaken",
+   "commissie_afk": "EU",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08300",
+   "themas": [],
+   "kerncommissie": false
+  },
+  {
+   "id": "6099e0c9a2150918",
+   "bron": "Tweede Kamer",
+   "soort": "Gesprek",
+   "wat": "Gesprek met Huis voor Klokkenluiders",
+   "datum": "2026-11-19",
+   "tijd": "13:30",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Binnenlandse Zaken",
+   "commissie_afk": "BiZa",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07615",
+   "themas": [],
+   "kerncommissie": false
   },
   {
    "id": "879d22b42d76f30e",
@@ -998,6 +998,20 @@
    "kerncommissie": true
   },
   {
+   "id": "3f5c7423d7e259e4",
+   "bron": "Tweede Kamer",
+   "soort": "Rondetafelgesprek",
+   "wat": "Wet voorzieningen verzorgingsplaatsen",
+   "datum": "2026-12-02",
+   "tijd": "14:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07673",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
    "id": "50abcc71fdff2a90",
    "bron": "Internetconsultatie",
    "soort": "Consultatie",
@@ -1154,13 +1168,13 @@
    "bouw": false
   },
   {
-   "id": "e0a39a4176cbbf6a",
+   "id": "2494beba61eba4ac",
    "bron": "Internetconsultatie",
    "soort": "Consultatie",
-   "wat": "SVOH2027",
+   "wat": "SVOH 2027",
    "datum": "2026-12-07",
    "start": "2026-11-10",
-   "url": "https://www.internetconsultatie.nl/svoh2027",
+   "url": "https://www.internetconsultatie.nl/wijzigingsvoh2027",
    "commissie": "BZK",
    "themas": [],
    "bouw": false
@@ -1356,6 +1370,20 @@
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02828",
    "themas": [],
    "kerncommissie": true
+  },
+  {
+   "id": "f1b7b3507ea94a27",
+   "bron": "Tweede Kamer",
+   "soort": "Gesprek",
+   "wat": "Eurocommissaris Hoekstra",
+   "datum": "2026-12-10",
+   "tijd": "16:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Europese Zaken",
+   "commissie_afk": "EU",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07873",
+   "themas": [],
+   "kerncommissie": false
   },
   {
    "id": "cec1d5cdd40e4f19",
@@ -1741,7 +1769,7 @@
    "id": "04f7dc2204f8fe77",
    "bron": "Tweede Kamer",
    "soort": "Commissiedebat",
-   "wat": "Rijksvastgoedbedrijf en renovatie Binnenhof",
+   "wat": "Rijksvastgoed en renovatie Binnenhof",
    "datum": "2027-02-10",
    "tijd": "14:30",
    "status": "Gepland",
@@ -1820,6 +1848,20 @@
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07684",
    "themas": [],
    "kerncommissie": true
+  },
+  {
+   "id": "7c4c991cd60572d8",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Raad Algemene Zaken 16 maart 2027",
+   "datum": "2027-03-11",
+   "tijd": "14:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Europese Zaken",
+   "commissie_afk": "EU",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07328",
+   "themas": [],
+   "kerncommissie": false
   }
  ]
 }
