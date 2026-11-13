@@ -1,120 +1,6 @@
 {
- "bijgewerkt": "2026-11-12T05:13:09+00:00",
+ "bijgewerkt": "2026-11-13T05:12:13+00:00",
  "items": [
-  {
-   "id": "6c07cad7981f5f04",
-   "bron": "Internetconsultatie",
-   "soort": "Consultatie",
-   "wat": "Wetsvoorstel voorwaardelijke toelating opleiding leraar basisonderwijs",
-   "datum": "2026-11-12",
-   "start": "2026-10-08",
-   "url": "https://www.internetconsultatie.nl/toelatingpabo",
-   "commissie": "OCW",
-   "themas": [],
-   "bouw": false
-  },
-  {
-   "id": "e0156c650f381673",
-   "bron": "Tweede Kamer",
-   "soort": "Technische briefing",
-   "wat": "Onderzoeksrapport 'Beoordeling van de effecten van financiële en fiscale rijksmiddelen op biodiversiteit'",
-   "datum": "2026-11-12",
-   "tijd": "10:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
-   "commissie_afk": "LVVN",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05817",
-   "themas": [
-    "Natuurherstel en gebiedsbescherming"
-   ],
-   "kerncommissie": true
-  },
-  {
-   "id": "88ab64842ebe0608",
-   "bron": "Tweede Kamer",
-   "soort": "Commissiedebat",
-   "wat": "Vergunningverlening, toezicht en handhaving (VTH-stelsel)",
-   "datum": "2026-11-12",
-   "tijd": "10:00",
-   "status": "Verplaatst",
-   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
-   "commissie_afk": "I&W",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A00664",
-   "themas": [],
-   "kerncommissie": true
-  },
-  {
-   "id": "e5800ad0d1c3a714",
-   "bron": "Tweede Kamer",
-   "soort": "Technische briefing",
-   "wat": "Onderzoeksrapport 'Gangbare melkveehouders over de omschakeling naar biologische melkveehouderij'",
-   "datum": "2026-11-12",
-   "tijd": "11:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
-   "commissie_afk": "LVVN",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07489",
-   "themas": [],
-   "kerncommissie": true
-  },
-  {
-   "id": "8abc24ec78b66f1b",
-   "bron": "Tweede Kamer",
-   "soort": "E-mailprocedure",
-   "wat": "Voorstel van het lid Van Leijen (D66) om het commissiedebat van donderdag 19 november a.s., over de Transportraad van 30 november, om te zetten in een schriftelijk overleg",
-   "datum": "2026-11-12",
-   "tijd": "12:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
-   "commissie_afk": "I&W",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08346",
-   "themas": [],
-   "kerncommissie": true
-  },
-  {
-   "id": "095b309b36d423be",
-   "bron": "Tweede Kamer",
-   "soort": "Technische briefing",
-   "wat": "Technische briefing over het OESO-rapport ‘Productivity Review of the Netherlands: Supporting business dynamism to revive productivity growth’",
-   "datum": "2026-11-12",
-   "tijd": "13:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Economische Zaken",
-   "commissie_afk": "EZ",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07818",
-   "themas": [],
-   "kerncommissie": false
-  },
-  {
-   "id": "189558d0b1696a70",
-   "bron": "Tweede Kamer",
-   "soort": "Gesprek",
-   "wat": "Ambtelijk vertrouwelijk gesprek over de 'Aanvullende reactie in de inbreukprocedure inzake de bescherming van de grutto onder de Vogelrichtlijn'",
-   "datum": "2026-11-12",
-   "tijd": "14:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
-   "commissie_afk": "LVVN",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07743",
-   "themas": [
-    "Natuurherstel en gebiedsbescherming"
-   ],
-   "kerncommissie": true
-  },
-  {
-   "id": "6b86b77f2740ecac",
-   "bron": "Tweede Kamer",
-   "soort": "Gesprek",
-   "wat": "Deelnemers van het Nationaal Burgerberaad Klimaat",
-   "datum": "2026-11-12",
-   "tijd": "17:15",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Klimaat en Groene Groei",
-   "commissie_afk": "K&GG",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08234",
-   "themas": [],
-   "kerncommissie": true
-  },
   {
    "id": "4b8f96d320472e3c",
    "bron": "Internetconsultatie",
@@ -312,6 +198,20 @@
    "kerncommissie": false
   },
   {
+   "id": "26c15446353cc501",
+   "bron": "Tweede Kamer",
+   "soort": "Inbreng schriftelijk overleg",
+   "wat": "Transportraad op 30 november 2026",
+   "datum": "2026-11-18",
+   "tijd": "12:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08415",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
    "id": "597cd799199313f2",
    "bron": "Tweede Kamer",
    "soort": "Inbreng feitelijke vragen",
@@ -384,13 +284,27 @@
    "kerncommissie": false
   },
   {
-   "id": "3d973268293a77ed",
+   "id": "29991bd2bcdd665c",
    "bron": "Tweede Kamer",
    "soort": "Commissiedebat",
-   "wat": "Transportraad op 30 november 2026",
+   "wat": "Vergunningverlening, toezicht en handhaving (VTH-stelsel)",
    "datum": "2026-11-19",
    "tijd": "10:00",
    "status": "Gepland",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08389",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "3d973268293a77ed",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Transportraad op 30 november 2026 - omgezet in een schriftelijk overleg op 18 november",
+   "datum": "2026-11-19",
+   "tijd": "10:00",
+   "status": "Geannuleerd",
    "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
    "commissie_afk": "I&W",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05471",
@@ -1248,6 +1162,18 @@
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07953",
    "themas": [],
    "kerncommissie": false
+  },
+  {
+   "id": "d85e450eac780045",
+   "bron": "Internetconsultatie",
+   "soort": "Consultatie",
+   "wat": "Wetsvoorstel verhoging basisbeurs en basistoelage uitwonende studenten en leerlingen",
+   "datum": "2026-12-10",
+   "start": "2026-11-12",
+   "url": "https://www.internetconsultatie.nl/verhoging_basisbeurs_basistoelage_uitwonenden",
+   "commissie": "OCW",
+   "themas": [],
+   "bouw": false
   },
   {
    "id": "f7544a1cae60f848",
