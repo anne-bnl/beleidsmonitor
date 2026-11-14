@@ -1,32 +1,6 @@
 {
- "bijgewerkt": "2026-11-13T05:12:13+00:00",
+ "bijgewerkt": "2026-11-14T11:29:55+00:00",
  "items": [
-  {
-   "id": "4b8f96d320472e3c",
-   "bron": "Internetconsultatie",
-   "soort": "Consultatie",
-   "wat": "Besluit invoering nieuwe kwalificatie-eisen en instellingsexamen burgerschap",
-   "datum": "2026-11-13",
-   "start": "2026-10-02",
-   "url": "https://www.internetconsultatie.nl/burgerschapsonderwijsmbo",
-   "commissie": "OCW",
-   "themas": [],
-   "bouw": false
-  },
-  {
-   "id": "2cf0c23f67f9dd3f",
-   "bron": "Tweede Kamer",
-   "soort": "Inbreng schriftelijk overleg",
-   "wat": "AMvB Dierwaardige veehouderij",
-   "datum": "2026-11-13",
-   "tijd": "12:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
-   "commissie_afk": "LVVN",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06961",
-   "themas": [],
-   "kerncommissie": true
-  },
   {
    "id": "93db57b638cb0052",
    "bron": "Internetconsultatie",
@@ -118,6 +92,20 @@
    "commissie": "VWS",
    "themas": [],
    "bouw": false
+  },
+  {
+   "id": "2cf0c23f67f9dd3f",
+   "bron": "Tweede Kamer",
+   "soort": "Inbreng schriftelijk overleg",
+   "wat": "AMvB Dierwaardige veehouderij",
+   "datum": "2026-11-17",
+   "tijd": "12:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
+   "commissie_afk": "LVVN",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08432",
+   "themas": [],
+   "kerncommissie": true
   },
   {
    "id": "cf34df8aae986786",
@@ -1228,6 +1216,18 @@
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07873",
    "themas": [],
    "kerncommissie": false
+  },
+  {
+   "id": "aeb9feb4afe08b9e",
+   "bron": "Internetconsultatie",
+   "soort": "Consultatie",
+   "wat": "Wijziging van het Tuchtrechtbesluit BIG in verband met het stellen van regels omtrent het verkeer langs elektronische weg met de tuchtcolleges voor de gezondheidszorg",
+   "datum": "2026-12-11",
+   "start": "2026-11-13",
+   "url": "https://www.internetconsultatie.nl/tuchtrechtbesluit",
+   "commissie": "VWS",
+   "themas": [],
+   "bouw": false
   },
   {
    "id": "cec1d5cdd40e4f19",
