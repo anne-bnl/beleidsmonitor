@@ -1,18 +1,6 @@
 {
- "bijgewerkt": "2026-11-15T11:58:29+00:00",
+ "bijgewerkt": "2026-11-16T12:48:01+00:00",
  "items": [
-  {
-   "id": "93db57b638cb0052",
-   "bron": "Internetconsultatie",
-   "soort": "Consultatie",
-   "wat": "wijziging van de Verzamelwet gegevensbescherming voor verwerking van onder het medisch beroepsgeheim vallende persoonsgegevens door accountants",
-   "datum": "2026-11-15",
-   "start": "2026-10-19",
-   "url": "https://www.internetconsultatie.nl/medischberoepsgeheimaccoutantscontrole",
-   "commissie": "VWS",
-   "themas": [],
-   "bouw": false
-  },
   {
    "id": "bc7f313d28fe84de",
    "bron": "Internetconsultatie",
@@ -43,7 +31,7 @@
    "soort": "Wetgevingsoverleg",
    "wat": "Fonds voor stikstof, landbouw en natuur",
    "datum": "2026-11-16",
-   "tijd": "10:00",
+   "tijd": "10:30",
    "status": "Gepland",
    "commissie": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
    "commissie_afk": "LVVN",
@@ -60,7 +48,7 @@
    "wat": "Landbouw- en Visserijraad (november)",
    "datum": "2026-11-16",
    "tijd": "12:00",
-   "status": "Gepland",
+   "status": "Uitgevoerd",
    "commissie": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
    "commissie_afk": "LVVN",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08126",
@@ -1216,6 +1204,30 @@
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07873",
    "themas": [],
    "kerncommissie": false
+  },
+  {
+   "id": "5a97fa7bfc6e683e",
+   "bron": "Internetconsultatie",
+   "soort": "Consultatie",
+   "wat": "Wet terbeschikkingstelling van vreemdelingen",
+   "datum": "2026-12-11",
+   "start": "2026-11-16",
+   "url": "https://www.internetconsultatie.nl/wetsvoorstelterbeschikkingstellingvreemdelingen",
+   "commissie": "SZW",
+   "themas": [],
+   "bouw": false
+  },
+  {
+   "id": "50760b2882215c88",
+   "bron": "Internetconsultatie",
+   "soort": "Consultatie",
+   "wat": "Wijzigingsbesluit terbeschikkingstelling van vreemdelingen",
+   "datum": "2026-12-11",
+   "start": "2026-11-16",
+   "url": "https://www.internetconsultatie.nl/ontwerpbesluitterbeschikkingstellingvreemdelingen",
+   "commissie": "SZW",
+   "themas": [],
+   "bouw": false
   },
   {
    "id": "aeb9feb4afe08b9e",
