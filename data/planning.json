@@ -1,156 +1,6 @@
 {
- "bijgewerkt": "2026-11-18T13:04:39+00:00",
+ "bijgewerkt": "2026-11-19T13:11:55+00:00",
  "items": [
-  {
-   "id": "2d0f6a225590de17",
-   "bron": "Internetconsultatie",
-   "soort": "Consultatie",
-   "wat": "Wijziging Urm ivm opslag en vervoer van mest",
-   "datum": "2026-11-18",
-   "start": "2026-10-21",
-   "url": "https://www.internetconsultatie.nl/wijzigingsbesluitopslagenvervoermest",
-   "commissie": "LVVN",
-   "themas": [],
-   "bouw": false
-  },
-  {
-   "id": "38d820ccc1ad08ad",
-   "bron": "Internetconsultatie",
-   "soort": "Consultatie",
-   "wat": "Besluit tot wijziging van het Besluit register onderwijsdeelnemers in verband met praktijkgerichte vakken theoretische leerweg",
-   "datum": "2026-11-18",
-   "start": "2026-10-21",
-   "url": "https://www.internetconsultatie.nl/bekostigingpraktijkgericht",
-   "commissie": "OCW",
-   "themas": [],
-   "bouw": false
-  },
-  {
-   "id": "37a7f7cf8c692764",
-   "bron": "Internetconsultatie",
-   "soort": "Consultatie",
-   "wat": "Wet strafbaarstelling terugkeerfrustreerders",
-   "datum": "2026-11-18",
-   "start": "2026-10-07",
-   "url": "https://www.internetconsultatie.nl/terugkeerfrustreerders",
-   "commissie": "JenV",
-   "themas": [],
-   "bouw": false
-  },
-  {
-   "id": "95b59d0f61be1f22",
-   "bron": "Tweede Kamer",
-   "soort": "Commissiedebat",
-   "wat": "Toerisme ",
-   "datum": "2026-11-18",
-   "tijd": "10:00",
-   "status": "Uitgevoerd",
-   "commissie": "vaste commissie voor Economische Zaken",
-   "commissie_afk": "EZ",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05089",
-   "themas": [],
-   "kerncommissie": false
-  },
-  {
-   "id": "7fb75ee881743e2f",
-   "bron": "Tweede Kamer",
-   "soort": "Technische briefing",
-   "wat": "EU-hervormingen",
-   "datum": "2026-11-18",
-   "tijd": "10:00",
-   "status": "Uitgevoerd",
-   "commissie": "vaste commissie voor Europese Zaken",
-   "commissie_afk": "EU",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07793",
-   "themas": [],
-   "kerncommissie": false
-  },
-  {
-   "id": "26c15446353cc501",
-   "bron": "Tweede Kamer",
-   "soort": "Inbreng schriftelijk overleg",
-   "wat": "Transportraad op 30 november 2026",
-   "datum": "2026-11-18",
-   "tijd": "12:00",
-   "status": "Uitgevoerd",
-   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
-   "commissie_afk": "I&W",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08415",
-   "themas": [],
-   "kerncommissie": true
-  },
-  {
-   "id": "597cd799199313f2",
-   "bron": "Tweede Kamer",
-   "soort": "Inbreng feitelijke vragen",
-   "wat": "25e voortgangsrapportage ERTMS",
-   "datum": "2026-11-18",
-   "tijd": "12:00",
-   "status": "Uitgevoerd",
-   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
-   "commissie_afk": "I&W",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08230",
-   "themas": [],
-   "kerncommissie": true
-  },
-  {
-   "id": "778f2829cf52d7a5",
-   "bron": "Tweede Kamer",
-   "soort": "Commissiedebat",
-   "wat": "Landbouw- en Visserijraad (november) - OMGEZET in een schriftelijk overleg met inbrengtermijn maandag 16 november 2026 om 12.00 uur",
-   "datum": "2026-11-18",
-   "tijd": "13:00",
-   "status": "Geannuleerd",
-   "commissie": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
-   "commissie_afk": "LVVN",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04776",
-   "themas": [],
-   "kerncommissie": true
-  },
-  {
-   "id": "f6716c14b9e1f1ec",
-   "bron": "Tweede Kamer",
-   "soort": "Technische briefing",
-   "wat": "Wijziging van de Omgevingswet (spoedwet vervangen omgevingswaarden stikstofdepositie door omgevingswaarden stikstofemissie)",
-   "datum": "2026-11-18",
-   "tijd": "13:00",
-   "status": "Uitgevoerd",
-   "commissie": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
-   "commissie_afk": "LVVN",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08323",
-   "themas": [
-    "Stikstof"
-   ],
-   "kerncommissie": true
-  },
-  {
-   "id": "baa1b236f784dd05",
-   "bron": "Tweede Kamer",
-   "soort": "Commissiedebat",
-   "wat": "Spoor - verplaatst i.v.m. planning voortgangsrapportage PHS",
-   "datum": "2026-11-18",
-   "tijd": "13:00",
-   "status": "Verplaatst",
-   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
-   "commissie_afk": "I&W",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02831",
-   "themas": [],
-   "kerncommissie": true
-  },
-  {
-   "id": "7169ad0bc04ed079",
-   "bron": "Tweede Kamer",
-   "soort": "Commissiedebat",
-   "wat": "Informatie- en werkafspraken tussen Tweede Kamer en kabinet",
-   "datum": "2026-11-18",
-   "tijd": "16:30",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Binnenlandse Zaken",
-   "commissie_afk": "BiZa",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2025A05411",
-   "themas": [],
-   "kerncommissie": false
-  },
   {
    "id": "29991bd2bcdd665c",
    "bron": "Tweede Kamer",
@@ -202,7 +52,7 @@
    "wat": "Buitengewone Europese Raad d.d. 26-27 november 2026",
    "datum": "2026-11-19",
    "tijd": "12:00",
-   "status": "Gepland",
+   "status": "Uitgevoerd",
    "commissie": "vaste commissie voor Europese Zaken",
    "commissie_afk": "EU",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08300",
@@ -290,20 +140,6 @@
    "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
    "commissie_afk": "I&W",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08539",
-   "themas": [],
-   "kerncommissie": true
-  },
-  {
-   "id": "2ea8a09022f01e75",
-   "bron": "Tweede Kamer",
-   "soort": "Inbreng feitelijke vragen",
-   "wat": "Nota Ruimte: Nederland wordt niet groter, wel ruimer",
-   "datum": "2026-11-20",
-   "tijd": "14:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Volkshuisvesting en Ruimtelijke Ordening",
-   "commissie_afk": "VRO",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08505",
    "themas": [],
    "kerncommissie": true
   },
@@ -428,6 +264,22 @@
    "kerncommissie": true
   },
   {
+   "id": "c63ecfa8cb6abde6",
+   "bron": "Tweede Kamer",
+   "soort": "Inbreng verslag (wetsvoorstel)",
+   "wat": "Wijziging van de Omgevingswet (spoedwet vervangen omgevingswaarden stikstofdepositie door omgevingswaarden stikstofemissie) (Kamerstuk 37052)",
+   "datum": "2026-11-25",
+   "tijd": "10:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
+   "commissie_afk": "LVVN",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08540",
+   "themas": [
+    "Stikstof"
+   ],
+   "kerncommissie": true
+  },
+  {
    "id": "14a3ab25d6b72172",
    "bron": "Tweede Kamer",
    "soort": "Commissiedebat",
@@ -440,6 +292,20 @@
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A04887",
    "themas": [],
    "kerncommissie": false
+  },
+  {
+   "id": "0fdaa53e0ceea7f6",
+   "bron": "Tweede Kamer",
+   "soort": "Inbreng schriftelijk overleg",
+   "wat": "Ontwerpbesluit houdende wijziging van verschillende algemene maatregelen van bestuur voor het opnemen van voorschriften voor lichte elektrische voertuigen",
+   "datum": "2026-11-25",
+   "tijd": "12:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08542",
+   "themas": [],
+   "kerncommissie": true
   },
   {
    "id": "e4a14543c476f051",
@@ -650,6 +516,20 @@
    "kerncommissie": true
   },
   {
+   "id": "5a309cfde427852d",
+   "bron": "Tweede Kamer",
+   "soort": "Inbreng feitelijke vragen",
+   "wat": "Wijziging van de begrotingsstaten van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (XIV) en het Diergezondheidsfonds (F) voor het jaar 2026 (wijziging samenhangende met de Najaarsnota).",
+   "datum": "2026-11-26",
+   "tijd": "14:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
+   "commissie_afk": "LVVN",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08549",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
    "id": "f8727a0da95b0ea8",
    "bron": "Tweede Kamer",
    "soort": "Inbreng feitelijke vragen",
@@ -662,6 +542,20 @@
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08290",
    "themas": [],
    "kerncommissie": true
+  },
+  {
+   "id": "598d5fa585fcac40",
+   "bron": "Tweede Kamer",
+   "soort": "Inbreng feitelijke vragen",
+   "wat": "Wijziging van de begrotingsstaten van het Ministerie van Economische Zaken (XIII) voor het jaar 2026 (wijziging samenhangende met de Najaarsnota)",
+   "datum": "2026-11-26",
+   "tijd": "14:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Economische Zaken",
+   "commissie_afk": "EZ",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08533",
+   "themas": [],
+   "kerncommissie": false
   },
   {
    "id": "03692322a91db1ee",
@@ -732,6 +626,20 @@
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08523",
    "themas": [],
    "kerncommissie": false
+  },
+  {
+   "id": "2ea8a09022f01e75",
+   "bron": "Tweede Kamer",
+   "soort": "Inbreng feitelijke vragen",
+   "wat": "Nota Ruimte: Nederland wordt niet groter, wel ruimer",
+   "datum": "2026-11-27",
+   "tijd": "14:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Volkshuisvesting en Ruimtelijke Ordening",
+   "commissie_afk": "VRO",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08505",
+   "themas": [],
+   "kerncommissie": true
   },
   {
    "id": "f498889832c35427",
@@ -1416,6 +1324,18 @@
    "start": "2026-10-01",
    "url": "https://www.internetconsultatie.nl/uitwisselingjustitielegegevens",
    "commissie": "JenV",
+   "themas": [],
+   "bouw": false
+  },
+  {
+   "id": "4c7f0a962a747112",
+   "bron": "Internetconsultatie",
+   "soort": "Consultatie",
+   "wat": "Besluit gerichte bekostiging verbetering basisvaardigheden",
+   "datum": "2026-12-16",
+   "start": "2026-11-18",
+   "url": "https://www.internetconsultatie.nl/verbeteringbasisvaardigheden",
+   "commissie": "OCW",
    "themas": [],
    "bouw": false
   },
