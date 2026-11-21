@@ -1,20 +1,6 @@
 {
- "bijgewerkt": "2026-11-20T12:56:10+00:00",
+ "bijgewerkt": "2026-11-21T12:41:39+00:00",
  "items": [
-  {
-   "id": "328390184a42d45a",
-   "bron": "Tweede Kamer",
-   "soort": "Inbreng feitelijke vragen",
-   "wat": "Gemeenschappelijke verklaring inzake de samenwerking op het gebied van Duits-Nederlands spoorvervoer",
-   "datum": "2026-11-20",
-   "tijd": "12:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
-   "commissie_afk": "I&W",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08539",
-   "themas": [],
-   "kerncommissie": true
-  },
   {
    "id": "cd64802736f3f8d4",
    "bron": "Internetconsultatie",
@@ -596,6 +582,20 @@
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05263",
    "themas": [],
    "kerncommissie": true
+  },
+  {
+   "id": "233a9daa0c365149",
+   "bron": "Tweede Kamer",
+   "soort": "Rondetafelgesprek",
+   "wat": "Transparantie ",
+   "datum": "2026-12-03",
+   "tijd": "14:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Europese Zaken",
+   "commissie_afk": "EU",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07132",
+   "themas": [],
+   "kerncommissie": false
   },
   {
    "id": "7467ab06ff9aafe4",
