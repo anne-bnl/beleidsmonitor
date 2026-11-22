@@ -1,0 +1,63 @@
+{
+ "run": {
+  "run_op": "2026-11-22T12:37:18+00:00",
+  "bronnen_totaal": 90,
+  "bronnen_gelukt": 81,
+  "bronnen_mislukt": [
+   "Europees Parlement nieuws"
+  ],
+  "bronnen_zoekcontrole": [
+   "Open Overheid (Woo-publicaties)",
+   "Unie van Waterschappen",
+   "EUR-Lex",
+   "Provincie Fryslân",
+   "Gemeente Rotterdam",
+   "Natuur & Milieu",
+   "ICLEI Europe",
+   "Mobilisation for the Environment (MOB)"
+  ],
+  "documenten_gelezen": 0,
+  "documenten_mislukt": [],
+  "achterstand_documenten": 0,
+  "vervallen_uit_oude_rij": 0,
+  "doorgelaten": 2
+ },
+ "items": [
+  {
+   "id": "ae99847c9f2c4e0a",
+   "bron": "NOS Binnenland",
+   "cat": "Media",
+   "soort": "",
+   "titel": "Nieuwe invasieve exoot in Nederland: waterschildpad plant zich voort in natuur",
+   "datum": "2026-11-22",
+   "status": "nieuw",
+   "themas": [
+    "Soortenbescherming"
+   ],
+   "themas_tekst": [],
+   "bouw": false,
+   "doc_fout": false,
+   "volledige_tekst": false,
+   "url": "https://nos.nl/l/2640556",
+   "rubriek": "bericht"
+  },
+  {
+   "id": "c24957e33bf5e48d",
+   "bron": "NOS Binnenland",
+   "cat": "Media",
+   "soort": "",
+   "titel": "Waarschuwingen voor gladheid en dichte mist in delen van Nederland",
+   "datum": "2026-11-22",
+   "status": "nieuw",
+   "themas": [
+    "Klimaatadaptatie"
+   ],
+   "themas_tekst": [],
+   "bouw": false,
+   "doc_fout": false,
+   "volledige_tekst": false,
+   "url": "https://nos.nl/l/2640513",
+   "rubriek": "bericht"
+  }
+ ]
+}
