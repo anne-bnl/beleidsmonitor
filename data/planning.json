@@ -1,5 +1,5 @@
 {
- "bijgewerkt": "2026-11-22T12:37:18+00:00",
+ "bijgewerkt": "2026-11-23T14:41:56+00:00",
  "items": [
   {
    "id": "cd64802736f3f8d4",
@@ -26,7 +26,7 @@
    "bouw": false
   },
   {
-   "id": "741563a4b41484ea",
+   "id": "ef07b69618557ea7",
    "bron": "Tweede Kamer",
    "soort": "Wetgevingsoverleg",
    "wat": "Water",
@@ -66,16 +66,16 @@
    "bouw": false
   },
   {
-   "id": "bd43b6d3ece1ae80",
+   "id": "741563a4b41484ea",
    "bron": "Tweede Kamer",
    "soort": "Wetgevingsoverleg",
-   "wat": "Water - reservering voor mogelijke voortzetting wetgevingsoverleg 23 november ",
+   "wat": "Water (vervolg wetgevingsoverleg 23 november; voortzetting eerste termijn regering + tweede termijn)",
    "datum": "2026-11-24",
    "tijd": "16:30",
    "status": "Gepland",
    "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
    "commissie_afk": "I&W",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07150",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08674",
    "themas": [],
    "kerncommissie": true
   },
@@ -406,6 +406,48 @@
    "commissie": "IenW",
    "themas": [],
    "bouw": false
+  },
+  {
+   "id": "df38bcc095772efa",
+   "bron": "Tweede Kamer",
+   "soort": "Inbreng feitelijke vragen",
+   "wat": "Wijziging van de begrotingsstaat van het Mobiliteitsfonds voor het jaar 2026 (wijziging samenhangende met Najaarsnota)",
+   "datum": "2026-12-01",
+   "tijd": "14:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08291",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "81d3e0b3a57c0d88",
+   "bron": "Tweede Kamer",
+   "soort": "Inbreng feitelijke vragen",
+   "wat": "Wijziging van de begrotingsstaat van het Deltafonds voor het jaar 2026 (wijziging samenhangende met Najaarsnota)",
+   "datum": "2026-12-01",
+   "tijd": "14:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08292",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
+   "id": "f8727a0da95b0ea8",
+   "bron": "Tweede Kamer",
+   "soort": "Inbreng feitelijke vragen",
+   "wat": "Wijziging van de begrotingsstaten van het Ministerie van Infrastructuur en Waterstaat (XII) voor het jaar 2026 (wijziging samenhangende met Najaarsnota)",
+   "datum": "2026-12-01",
+   "tijd": "14:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08290",
+   "themas": [],
+   "kerncommissie": true
   },
   {
    "id": "c424d6099ec52930",
@@ -742,20 +784,6 @@
    "kerncommissie": false
   },
   {
-   "id": "df38bcc095772efa",
-   "bron": "Tweede Kamer",
-   "soort": "Inbreng feitelijke vragen",
-   "wat": "Wijziging van de begrotingsstaat van het Mobiliteitsfonds voor het jaar 2026 (wijziging samenhangende met Najaarsnota)",
-   "datum": "2026-12-08",
-   "tijd": "14:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
-   "commissie_afk": "I&W",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08291",
-   "themas": [],
-   "kerncommissie": true
-  },
-  {
    "id": "6c26ec5399ba4359",
    "bron": "Tweede Kamer",
    "soort": "Inbreng verslag (wetsvoorstel)",
@@ -770,20 +798,6 @@
    "kerncommissie": true
   },
   {
-   "id": "81d3e0b3a57c0d88",
-   "bron": "Tweede Kamer",
-   "soort": "Inbreng feitelijke vragen",
-   "wat": "Wijziging van de begrotingsstaat van het Deltafonds voor het jaar 2026 (wijziging samenhangende met Najaarsnota)",
-   "datum": "2026-12-08",
-   "tijd": "14:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
-   "commissie_afk": "I&W",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08292",
-   "themas": [],
-   "kerncommissie": true
-  },
-  {
    "id": "a3cf7a6e5055c041",
    "bron": "Tweede Kamer",
    "soort": "Inbreng feitelijke vragen",
@@ -794,20 +808,6 @@
    "commissie": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
    "commissie_afk": "LVVN",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08608",
-   "themas": [],
-   "kerncommissie": true
-  },
-  {
-   "id": "f8727a0da95b0ea8",
-   "bron": "Tweede Kamer",
-   "soort": "Inbreng feitelijke vragen",
-   "wat": "Wijziging van de begrotingsstaten van het Ministerie van Infrastructuur en Waterstaat (XII) voor het jaar 2026 (wijziging samenhangende met Najaarsnota)",
-   "datum": "2026-12-08",
-   "tijd": "14:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
-   "commissie_afk": "I&W",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08290",
    "themas": [],
    "kerncommissie": true
   },
