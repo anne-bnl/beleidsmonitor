@@ -1,58 +1,6 @@
 {
- "bijgewerkt": "2026-11-23T14:41:56+00:00",
+ "bijgewerkt": "2026-11-24T14:53:48+00:00",
  "items": [
-  {
-   "id": "cd64802736f3f8d4",
-   "bron": "Internetconsultatie",
-   "soort": "Consultatie",
-   "wat": "Wijziging tarieven transportsectoren 1 januari 2027",
-   "datum": "2026-11-23",
-   "start": "2026-10-26",
-   "url": "https://www.internetconsultatie.nl/wijziging_tarieven_transportsectoren_januari2027",
-   "commissie": "IenW",
-   "themas": [],
-   "bouw": false
-  },
-  {
-   "id": "17e96fd40a240dd5",
-   "bron": "Internetconsultatie",
-   "soort": "Consultatie",
-   "wat": "Regeling Integraal Huisvestingsplan",
-   "datum": "2026-11-23",
-   "start": "2026-10-26",
-   "url": "https://www.internetconsultatie.nl/ihp",
-   "commissie": "OCW",
-   "themas": [],
-   "bouw": false
-  },
-  {
-   "id": "ef07b69618557ea7",
-   "bron": "Tweede Kamer",
-   "soort": "Wetgevingsoverleg",
-   "wat": "Water",
-   "datum": "2026-11-23",
-   "tijd": "10:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
-   "commissie_afk": "I&W",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A02981",
-   "themas": [],
-   "kerncommissie": true
-  },
-  {
-   "id": "ff6c007dfee62b03",
-   "bron": "Tweede Kamer",
-   "soort": "Wetgevingsoverleg",
-   "wat": "Begrotingsonderdeel Herstel Groningen (verplaatst naar 30 november 2026)",
-   "datum": "2026-11-23",
-   "tijd": "16:00",
-   "status": "Verplaatst",
-   "commissie": "vaste commissie voor Binnenlandse Zaken",
-   "commissie_afk": "BiZa",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06721",
-   "themas": [],
-   "kerncommissie": false
-  },
   {
    "id": "466ccb9ee5ce18a7",
    "bron": "Internetconsultatie",
@@ -436,6 +384,20 @@
    "kerncommissie": true
   },
   {
+   "id": "a3cf7a6e5055c041",
+   "bron": "Tweede Kamer",
+   "soort": "Inbreng feitelijke vragen",
+   "wat": "Wijziging van de begrotingsstaten van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (XIV) en het Diergezondheidsfonds (F) voor het jaar 2026 (wijziging samenhangende met de Najaarsnota).",
+   "datum": "2026-12-01",
+   "tijd": "14:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
+   "commissie_afk": "LVVN",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08608",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
    "id": "f8727a0da95b0ea8",
    "bron": "Tweede Kamer",
    "soort": "Inbreng feitelijke vragen",
@@ -794,20 +756,6 @@
    "commissie": "vaste commissie voor Volkshuisvesting en Ruimtelijke Ordening",
    "commissie_afk": "VRO",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08502",
-   "themas": [],
-   "kerncommissie": true
-  },
-  {
-   "id": "a3cf7a6e5055c041",
-   "bron": "Tweede Kamer",
-   "soort": "Inbreng feitelijke vragen",
-   "wat": "Wijziging van de begrotingsstaten van het Ministerie van Landbouw, Visserij, Voedselzekerheid en Natuur (XIV) en het Diergezondheidsfonds (F) voor het jaar 2026 (wijziging samenhangende met de Najaarsnota).",
-   "datum": "2026-12-08",
-   "tijd": "14:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Landbouw, Visserij, Voedselzekerheid en Natuur",
-   "commissie_afk": "LVVN",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08608",
    "themas": [],
    "kerncommissie": true
   },
@@ -1248,6 +1196,42 @@
    "bouw": false
   },
   {
+   "id": "fb93314a4c7df3b9",
+   "bron": "Internetconsultatie",
+   "soort": "Consultatie",
+   "wat": "verwijderen SETU Standard for Vacancies 1.1",
+   "datum": "2026-12-21",
+   "start": "2026-11-23",
+   "url": "https://www.internetconsultatie.nl/verwijderen_setu_vacancies",
+   "commissie": "BZK",
+   "themas": [],
+   "bouw": false
+  },
+  {
+   "id": "47d557d61bee4681",
+   "bron": "Internetconsultatie",
+   "soort": "Consultatie",
+   "wat": "SETU Standard Inquiry Pay Equity 2.0",
+   "datum": "2026-12-21",
+   "start": "2026-11-23",
+   "url": "https://www.internetconsultatie.nl/setu_standard_inquiry_pay_equity_2_0",
+   "commissie": "BZK",
+   "themas": [],
+   "bouw": false
+  },
+  {
+   "id": "7d32c12c0004e813",
+   "bron": "Internetconsultatie",
+   "soort": "Consultatie",
+   "wat": "Versiewijzigingen SETU",
+   "datum": "2026-12-21",
+   "start": "2026-11-23",
+   "url": "https://www.internetconsultatie.nl/versiewijzigingen_setu",
+   "commissie": "BZK",
+   "themas": [],
+   "bouw": false
+  },
+  {
    "id": "ac8650269359c8a1",
    "bron": "Internetconsultatie",
    "soort": "Consultatie",
@@ -1628,6 +1612,20 @@
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07328",
    "themas": [],
    "kerncommissie": false
+  },
+  {
+   "id": "5fe317118525bb7c",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Strategische keuzes bereikbaarheid",
+   "datum": "2027-03-24",
+   "tijd": "13:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07949",
+   "themas": [],
+   "kerncommissie": true
   }
  ]
 }
