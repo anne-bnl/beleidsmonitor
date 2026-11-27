@@ -1,130 +1,6 @@
 {
- "bijgewerkt": "2026-11-26T13:55:53+00:00",
+ "bijgewerkt": "2026-11-27T13:53:53+00:00",
  "items": [
-  {
-   "id": "1d013fee323052e2",
-   "bron": "Internetconsultatie",
-   "soort": "Consultatie",
-   "wat": "Subsidieregeling MO's",
-   "datum": "2026-11-26",
-   "start": "2026-10-30",
-   "url": "https://www.internetconsultatie.nl/subsidieregelingmo",
-   "commissie": "BZK",
-   "themas": [],
-   "bouw": false
-  },
-  {
-   "id": "027a00dc1bc9a860",
-   "bron": "Tweede Kamer",
-   "soort": "Inbreng schriftelijk overleg",
-   "wat": "Appreciatie Commissievoorstel tot wijziging Methaanverordening",
-   "datum": "2026-11-26",
-   "tijd": "12:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Klimaat en Groene Groei",
-   "commissie_afk": "K&GG",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08520",
-   "themas": [],
-   "kerncommissie": true
-  },
-  {
-   "id": "e8e822f4a455dc05",
-   "bron": "Tweede Kamer",
-   "soort": "Inbreng schriftelijk overleg",
-   "wat": "(formele) Raad voor Concurrentievermogen (interne markt en industrie, onderzoek en ruimtevaart) (3 en 4 december)",
-   "datum": "2026-11-26",
-   "tijd": "12:00",
-   "status": "Uitgevoerd",
-   "commissie": "vaste commissie voor Economische Zaken",
-   "commissie_afk": "EZ",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08252",
-   "themas": [],
-   "kerncommissie": false
-  },
-  {
-   "id": "ea67f79340a5a1da",
-   "bron": "Tweede Kamer",
-   "soort": "Commissiedebat",
-   "wat": "EU-uitbreiding ",
-   "datum": "2026-11-26",
-   "tijd": "13:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Europese Zaken",
-   "commissie_afk": "EU",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06007",
-   "themas": [],
-   "kerncommissie": false
-  },
-  {
-   "id": "1b8fe6273dfe38f7",
-   "bron": "Tweede Kamer",
-   "soort": "Commissiedebat",
-   "wat": "Klokkenluiders ",
-   "datum": "2026-11-26",
-   "tijd": "13:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Binnenlandse Zaken",
-   "commissie_afk": "BiZa",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05798",
-   "themas": [],
-   "kerncommissie": false
-  },
-  {
-   "id": "09876f91bdd79bd3",
-   "bron": "Tweede Kamer",
-   "soort": "Commissiedebat",
-   "wat": "Ruimtelijke Ordening ",
-   "datum": "2026-11-26",
-   "tijd": "13:30",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Volkshuisvesting en Ruimtelijke Ordening",
-   "commissie_afk": "VRO",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06447",
-   "themas": [],
-   "kerncommissie": true
-  },
-  {
-   "id": "e363c3c8490dc5a9",
-   "bron": "Tweede Kamer",
-   "soort": "Commissiedebat",
-   "wat": "Verdienvermogen van Nederland ( GEANNULEERD, OMGEZET IN SCHRIFTELIJK OVERLEG)",
-   "datum": "2026-11-26",
-   "tijd": "14:00",
-   "status": "Geannuleerd",
-   "commissie": "vaste commissie voor Economische Zaken",
-   "commissie_afk": "EZ",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A03311",
-   "themas": [],
-   "kerncommissie": false
-  },
-  {
-   "id": "de01ff45ed676656",
-   "bron": "Tweede Kamer",
-   "soort": "E-mailprocedure",
-   "wat": "Voorstel van de leden Zalinyan (PRO) en Kostić (PvdD) om het commissiedebat Milieuraad van dinsdag 1 december 2026 om te zetten in een schriftelijk overleg",
-   "datum": "2026-11-26",
-   "tijd": "16:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
-   "commissie_afk": "I&W",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08787",
-   "themas": [],
-   "kerncommissie": true
-  },
-  {
-   "id": "ae99a248c331ab52",
-   "bron": "Tweede Kamer",
-   "soort": "E-mailprocedure",
-   "wat": "Voorstel van het lid Heutink (Groep Markuszower) om een technische briefing over ERTMS te organiseren i.p.v. het geannuleerde werkbezoek aan het Railcenter",
-   "datum": "2026-11-26",
-   "tijd": "16:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
-   "commissie_afk": "I&W",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08786",
-   "themas": [],
-   "kerncommissie": true
-  },
   {
    "id": "2ea8a09022f01e75",
    "bron": "Tweede Kamer",
@@ -300,6 +176,20 @@
    "kerncommissie": true
   },
   {
+   "id": "598d5fa585fcac40",
+   "bron": "Tweede Kamer",
+   "soort": "Inbreng feitelijke vragen",
+   "wat": "Wijziging van de begrotingsstaten van het Ministerie van Economische Zaken (XIII) voor het jaar 2026 (wijziging samenhangende met de Najaarsnota)",
+   "datum": "2026-12-01",
+   "tijd": "14:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Economische Zaken",
+   "commissie_afk": "EZ",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08533",
+   "themas": [],
+   "kerncommissie": false
+  },
+  {
    "id": "64571a9d824a7a01",
    "bron": "Tweede Kamer",
    "soort": "Inbreng feitelijke vragen",
@@ -326,20 +216,6 @@
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08845",
    "themas": [],
    "kerncommissie": false
-  },
-  {
-   "id": "689fbe35b3e04758",
-   "bron": "Tweede Kamer",
-   "soort": "Inbreng feitelijke vragen",
-   "wat": "Wijziging van begrotingsstaten van het Ministerie van Klimaat en Groene Groei (XXIII) voor het jaar 2026 (wijziging samenhangende met Najaarsnota)",
-   "datum": "2026-12-01",
-   "tijd": "14:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Klimaat en Groene Groei",
-   "commissie_afk": "K&GG",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08525",
-   "themas": [],
-   "kerncommissie": true
   },
   {
    "id": "2c6be9da94f5c670",
@@ -384,13 +260,27 @@
    "kerncommissie": false
   },
   {
+   "id": "2c99e950830b32a5",
+   "bron": "Tweede Kamer",
+   "soort": "Inbreng schriftelijk overleg",
+   "wat": "Milieuraad op 11 december 2026 (alleen milieuonderwerpen)",
+   "datum": "2026-12-01",
+   "tijd": "16:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08860",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
    "id": "c424d6099ec52930",
    "bron": "Tweede Kamer",
    "soort": "Commissiedebat",
-   "wat": "Milieuraad op 11 december 2026 - alleen milieuonderwerpen",
+   "wat": "Milieuraad op 11 december 2026 (alleen milieuonderwerpen) - omgezet in een schriftelijk overleg",
    "datum": "2026-12-01",
    "tijd": "16:30",
-   "status": "Gepland",
+   "status": "Geannuleerd",
    "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
    "commissie_afk": "I&W",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05439",
@@ -412,13 +302,13 @@
    "kerncommissie": false
   },
   {
-   "id": "33287fdc236e0a9f",
+   "id": "c7c6eaf250a744f3",
    "bron": "Tweede Kamer",
    "soort": "Commissiedebat",
-   "wat": "Ruimtevaart",
+   "wat": "Ruimtevaart (VERPLAATST NAAR 2 februari 2027)",
    "datum": "2026-12-02",
    "tijd": "13:00",
-   "status": "Gepland",
+   "status": "Verplaatst",
    "commissie": "vaste commissie voor Economische Zaken",
    "commissie_afk": "EZ",
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05297",
@@ -746,6 +636,20 @@
    "kerncommissie": true
   },
   {
+   "id": "a5f19653e2866753",
+   "bron": "Tweede Kamer",
+   "soort": "Technische briefing",
+   "wat": "ERTMS ",
+   "datum": "2026-12-08",
+   "tijd": "16:30",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Infrastructuur en Waterstaat",
+   "commissie_afk": "I&W",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08778",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
    "id": "40848c0aed7839f0",
    "bron": "Tweede Kamer",
    "soort": "Commissiedebat",
@@ -880,6 +784,20 @@
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05092",
    "themas": [],
    "kerncommissie": false
+  },
+  {
+   "id": "8e2a811c19a9e696",
+   "bron": "Tweede Kamer",
+   "soort": "Technische briefing",
+   "wat": "Expertgroep Gezondheid IJmond over haar derde advies",
+   "datum": "2026-12-10",
+   "tijd": "11:15",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Klimaat en Groene Groei",
+   "commissie_afk": "K&GG",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08839",
+   "themas": [],
+   "kerncommissie": true
   },
   {
    "id": "3c7eca0889242e20",
@@ -1256,6 +1174,18 @@
    "bouw": false
   },
   {
+   "id": "8950c8b5d7625455",
+   "bron": "Internetconsultatie",
+   "soort": "Consultatie",
+   "wat": "Verzamelwet IenW 2026",
+   "datum": "2027-01-08",
+   "start": "2026-11-27",
+   "url": "https://www.internetconsultatie.nl/verzamelwet_ienw_2026",
+   "commissie": "IenW",
+   "themas": [],
+   "bouw": false
+  },
+  {
    "id": "ac8650269359c8a1",
    "bron": "Internetconsultatie",
    "soort": "Consultatie",
@@ -1482,6 +1412,20 @@
    "commissie": "JenV",
    "themas": [],
    "bouw": false
+  },
+  {
+   "id": "33287fdc236e0a9f",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Ruimtevaart ",
+   "datum": "2027-02-02",
+   "tijd": "17:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Economische Zaken",
+   "commissie_afk": "EZ",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08894",
+   "themas": [],
+   "kerncommissie": false
   },
   {
    "id": "86fc155fb7e06b2f",
