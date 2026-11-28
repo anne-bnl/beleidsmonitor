@@ -1,20 +1,6 @@
 {
- "bijgewerkt": "2026-11-27T13:53:53+00:00",
+ "bijgewerkt": "2026-11-28T13:01:16+00:00",
  "items": [
-  {
-   "id": "2ea8a09022f01e75",
-   "bron": "Tweede Kamer",
-   "soort": "Inbreng feitelijke vragen",
-   "wat": "Nota Ruimte: Nederland wordt niet groter, wel ruimer",
-   "datum": "2026-11-27",
-   "tijd": "14:00",
-   "status": "Gepland",
-   "commissie": "vaste commissie voor Volkshuisvesting en Ruimtelijke Ordening",
-   "commissie_afk": "VRO",
-   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08505",
-   "themas": [],
-   "kerncommissie": true
-  },
   {
    "id": "f498889832c35427",
    "bron": "Internetconsultatie",
@@ -95,7 +81,7 @@
    "id": "df38bcc095772efa",
    "bron": "Tweede Kamer",
    "soort": "Inbreng feitelijke vragen",
-   "wat": "Wijziging van de begrotingsstaat van het Mobiliteitsfonds voor het jaar 2026 (wijziging samenhangende met Najaarsnota)",
+   "wat": "Wijziging van de begrotingsstaat van het Mobiliteitsfonds (A) voor het jaar 2026 (wijziging samenhangende met Najaarsnota)",
    "datum": "2026-12-01",
    "tijd": "14:00",
    "status": "Gepland",
@@ -109,7 +95,7 @@
    "id": "5fe5acea773822ee",
    "bron": "Tweede Kamer",
    "soort": "Inbreng feitelijke vragen",
-   "wat": "Wijziging van de begrotingsstaat van het provinciefonds voor het jaar 2026 (wijziging samenhangende met de Najaarsnota)",
+   "wat": "Wijziging van de begrotingsstaat van het provinciefonds voor het jaar 2026 (wijziging samenhangende met de Najaarsnota) (37060-C)",
    "datum": "2026-12-01",
    "tijd": "14:00",
    "status": "Gepland",
@@ -123,7 +109,7 @@
    "id": "81d3e0b3a57c0d88",
    "bron": "Tweede Kamer",
    "soort": "Inbreng feitelijke vragen",
-   "wat": "Wijziging van de begrotingsstaat van het Deltafonds voor het jaar 2026 (wijziging samenhangende met Najaarsnota)",
+   "wat": "Wijziging van de begrotingsstaat van het Deltafonds (J) voor het jaar 2026 (wijziging samenhangende met Najaarsnota)",
    "datum": "2026-12-01",
    "tijd": "14:00",
    "status": "Gepland",
@@ -193,7 +179,7 @@
    "id": "64571a9d824a7a01",
    "bron": "Tweede Kamer",
    "soort": "Inbreng feitelijke vragen",
-   "wat": "Wijziging van de begrotingsstaat van de overige Hoge Colleges van Staat, Kabinetten van de Gouverneurs en de Kiesraad (IIB) voor het jaar 2026 (wijziging samenhangende met de Najaarsnota)",
+   "wat": "Wijziging van de begrotingsstaat van de overige Hoge Colleges van Staat, Kabinetten van de Gouverneurs en de Kiesraad (IIB) voor het jaar 2026 (wijziging samenhangende met de Najaarsnota) (37060-IIB)",
    "datum": "2026-12-01",
    "tijd": "14:00",
    "status": "Gepland",
@@ -207,7 +193,7 @@
    "id": "af83ffc438197245",
    "bron": "Tweede Kamer",
    "soort": "Inbreng feitelijke vragen",
-   "wat": "Wijziging van de begrotingsstaat van het gemeentefonds voor het jaar 2026 (wijziging samenhangende met de Najaarsnota)",
+   "wat": "Wijziging van de begrotingsstaat van het gemeentefonds voor het jaar 2026 (wijziging samenhangende met de Najaarsnota) (37060-B)",
    "datum": "2026-12-01",
    "tijd": "14:00",
    "status": "Gepland",
@@ -218,10 +204,24 @@
    "kerncommissie": false
   },
   {
+   "id": "689fbe35b3e04758",
+   "bron": "Tweede Kamer",
+   "soort": "Inbreng feitelijke vragen",
+   "wat": "Wijziging van begrotingsstaten van het Ministerie van Klimaat en Groene Groei (XXIII) voor het jaar 2026 (wijziging samenhangende met Najaarsnota)",
+   "datum": "2026-12-01",
+   "tijd": "14:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Klimaat en Groene Groei",
+   "commissie_afk": "K&GG",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08525",
+   "themas": [],
+   "kerncommissie": true
+  },
+  {
    "id": "2c6be9da94f5c670",
    "bron": "Tweede Kamer",
    "soort": "Inbreng feitelijke vragen",
-   "wat": "Wijziging van de begrotingsstaat van het Ministerie van Algemene Zaken (IIIA), de begrotingsstaat van het Kabinet van de Koning (IIIB) en de begrotingsstaat van de Commissie van Toezicht op de Inlichtingen- en Veiligheidsdiensten (IIIC) voor het jaar 2026 (wijziging samenhangende met de Najaarsnota)",
+   "wat": "Wijziging van de begrotingsstaat van het Ministerie van Algemene Zaken (IIIA), de begrotingsstaat van het Kabinet van de Koning (IIIB) en de begrotingsstaat van de Commissie van Toezicht op de Inlichtingen- en Veiligheidsdiensten (IIIC) voor het jaar 2026 (wijziging samenhangende met de Najaarsnota) (37060-III)",
    "datum": "2026-12-01",
    "tijd": "14:00",
    "status": "Gepland",
@@ -235,7 +235,7 @@
    "id": "026d7ccf84962fc5",
    "bron": "Tweede Kamer",
    "soort": "Inbreng feitelijke vragen",
-   "wat": "Wijziging van de begrotingsstaat van de Staten-Generaal (IIA) voor het jaar 2026 (wijziging samenhangende met de Najaarsnota)",
+   "wat": "Wijziging van de begrotingsstaat van de Staten-Generaal (IIA) voor het jaar 2026 (wijziging samenhangende met de Najaarsnota) (37060-IIA)",
    "datum": "2026-12-01",
    "tijd": "14:00",
    "status": "Gepland",
@@ -249,7 +249,7 @@
    "id": "0b6c9063775db3ec",
    "bron": "Tweede Kamer",
    "soort": "Inbreng feitelijke vragen",
-   "wat": "Wijziging van de begrotingsstaten van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (VII) voor het jaar 2026 (wijziging samenhangende met de Najaarsnota)",
+   "wat": "Wijziging van de begrotingsstaten van het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (VII) voor het jaar 2026 (wijziging samenhangende met de Najaarsnota) (37060-VII)",
    "datum": "2026-12-01",
    "tijd": "14:00",
    "status": "Gepland",
@@ -1114,18 +1114,6 @@
    "bouw": false
   },
   {
-   "id": "fb93314a4c7df3b9",
-   "bron": "Internetconsultatie",
-   "soort": "Consultatie",
-   "wat": "verwijderen SETU Standard for Vacancies 1.1",
-   "datum": "2026-12-21",
-   "start": "2026-11-23",
-   "url": "https://www.internetconsultatie.nl/verwijderen_setu_vacancies",
-   "commissie": "BZK",
-   "themas": [],
-   "bouw": false
-  },
-  {
    "id": "47d557d61bee4681",
    "bron": "Internetconsultatie",
    "soort": "Consultatie",
@@ -1145,6 +1133,18 @@
    "datum": "2026-12-21",
    "start": "2026-11-23",
    "url": "https://www.internetconsultatie.nl/versiewijzigingen_setu",
+   "commissie": "BZK",
+   "themas": [],
+   "bouw": false
+  },
+  {
+   "id": "fb93314a4c7df3b9",
+   "bron": "Internetconsultatie",
+   "soort": "Consultatie",
+   "wat": "verwijderen SETU Standard for Vacancies 1.1",
+   "datum": "2026-12-21",
+   "start": "2026-11-23",
+   "url": "https://www.internetconsultatie.nl/verwijderen_setu_vacancies",
    "commissie": "BZK",
    "themas": [],
    "bouw": false
@@ -1222,6 +1222,20 @@
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05097",
    "themas": [],
    "kerncommissie": true
+  },
+  {
+   "id": "ee0313d362899274",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Discriminatie, racisme en mensenrechten",
+   "datum": "2027-01-13",
+   "tijd": "13:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Binnenlandse Zaken",
+   "commissie_afk": "BiZa",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08659",
+   "themas": [],
+   "kerncommissie": false
   },
   {
    "id": "317171bc9c4bc31c",
@@ -1304,6 +1318,30 @@
    "kerncommissie": true
   },
   {
+   "id": "e15d3fed54c0fd52",
+   "bron": "Internetconsultatie",
+   "soort": "Consultatie",
+   "wat": "Wet eigen bijdrage Jeugdwet",
+   "datum": "2027-01-22",
+   "start": "2026-11-27",
+   "url": "https://www.internetconsultatie.nl/eigenbijdragejeugdwet",
+   "commissie": "VWS",
+   "themas": [],
+   "bouw": false
+  },
+  {
+   "id": "25f5991a9caf30e0",
+   "bron": "Internetconsultatie",
+   "soort": "Consultatie",
+   "wat": "Besluit eigen bijdrage Jeugdwet",
+   "datum": "2027-01-22",
+   "start": "2026-11-27",
+   "url": "https://www.internetconsultatie.nl/besluiteigenbijdrage",
+   "commissie": "VWS",
+   "themas": [],
+   "bouw": false
+  },
+  {
    "id": "a205231e32e762c1",
    "bron": "Tweede Kamer",
    "soort": "Inbreng schriftelijk overleg",
@@ -1372,6 +1410,20 @@
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07631",
    "themas": [],
    "kerncommissie": true
+  },
+  {
+   "id": "956a28c2fc0d0470",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Financiën decentrale overheden",
+   "datum": "2027-01-27",
+   "tijd": "14:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Binnenlandse Zaken",
+   "commissie_afk": "BiZa",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A05123",
+   "themas": [],
+   "kerncommissie": false
   },
   {
    "id": "db9c4344ddcbe96d",
@@ -1498,6 +1550,20 @@
    "kerncommissie": true
   },
   {
+   "id": "1cc101639b6a4f1c",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Versterking decentraal bestuur",
+   "datum": "2027-02-11",
+   "tijd": "14:30",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Binnenlandse Zaken",
+   "commissie_afk": "BiZa",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A06963",
+   "themas": [],
+   "kerncommissie": false
+  },
+  {
    "id": "e3986c92a89c258f",
    "bron": "Tweede Kamer",
    "soort": "Strategische procedurevergadering",
@@ -1568,6 +1634,20 @@
    "kerncommissie": true
   },
   {
+   "id": "c67ecf7ed69b63c2",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Grondwet en democratische rechtsstaat",
+   "datum": "2027-03-04",
+   "tijd": "14:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Binnenlandse Zaken",
+   "commissie_afk": "BiZa",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08170",
+   "themas": [],
+   "kerncommissie": false
+  },
+  {
    "id": "84690c4b49a7afdf",
    "bron": "Tweede Kamer",
    "soort": "Commissiedebat",
@@ -1608,6 +1688,20 @@
    "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A07949",
    "themas": [],
    "kerncommissie": true
+  },
+  {
+   "id": "bce357fb5678b9b9",
+   "bron": "Tweede Kamer",
+   "soort": "Commissiedebat",
+   "wat": "Integriteit openbaar bestuur",
+   "datum": "2027-03-24",
+   "tijd": "13:00",
+   "status": "Gepland",
+   "commissie": "vaste commissie voor Binnenlandse Zaken",
+   "commissie_afk": "BiZa",
+   "url": "https://www.tweedekamer.nl/debat_en_vergadering/commissievergaderingen/details?id=2026A08173",
+   "themas": [],
+   "kerncommissie": false
   }
  ]
 }
